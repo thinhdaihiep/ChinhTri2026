@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { CheckCircle2, Copy, Check } from 'lucide-react';
-import { QuestionItem, AnswerFilterMode } from '../types';
+import { QuestionItem, AnswerFilterMode, MatchMode } from '../types';
 import { HighlightedText } from './HighlightedText';
 
 interface QuestionCardProps {
@@ -8,9 +8,15 @@ interface QuestionCardProps {
   item: QuestionItem;
   query: string;
   answerFilterMode?: AnswerFilterMode;
+  matchMode?: MatchMode;
 }
 
-export function QuestionCard({ item, query, answerFilterMode = 'correct_only' }: QuestionCardProps) {
+export function QuestionCard({
+  item,
+  query,
+  answerFilterMode = 'correct_only',
+  matchMode = 'all_words',
+}: QuestionCardProps) {
   const [copied, setCopied] = useState(false);
 
   const correctAnswerKey = item.answer?.toUpperCase();
@@ -67,7 +73,7 @@ export function QuestionCard({ item, query, answerFilterMode = 'correct_only' }:
 
       {/* Question statement */}
       <h3 className="text-base font-semibold text-slate-900 mb-3 leading-relaxed">
-        <HighlightedText text={item.question} query={query} />
+        <HighlightedText text={item.question} query={query} matchMode={matchMode} />
       </h3>
 
       {/* Answers rendering: Only correct answer vs All answers */}
@@ -78,7 +84,7 @@ export function QuestionCard({ item, query, answerFilterMode = 'correct_only' }:
               {correctAnswerKey}
             </span>
             <div className="flex-1 leading-relaxed text-sm pt-0.5">
-              <HighlightedText text={correctAnswerText} query={query} />
+              <HighlightedText text={correctAnswerText} query={query} matchMode={matchMode} />
             </div>
             <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
           </div>
@@ -106,7 +112,7 @@ export function QuestionCard({ item, query, answerFilterMode = 'correct_only' }:
                   {key}
                 </span>
                 <div className="flex-1 leading-normal pt-0.5">
-                  <HighlightedText text={value} query={query} />
+                  <HighlightedText text={value} query={query} matchMode={matchMode} />
                 </div>
                 {isCorrect && (
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-1" />

@@ -310,6 +310,7 @@ export default function App() {
                 item={item}
                 query={query}
                 answerFilterMode={answerFilterMode}
+                matchMode={matchMode}
               />
             ))}
 

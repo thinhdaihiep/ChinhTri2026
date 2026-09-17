@@ -1,14 +1,24 @@
 import { useMemo } from 'react';
 import { getHighlightParts } from '../utils/vietnamese';
+import { MatchMode } from '../types';
 
 interface HighlightedTextProps {
   text: string;
   query: string;
+  matchMode?: MatchMode;
   className?: string;
 }
 
-export function HighlightedText({ text, query, className = '' }: HighlightedTextProps) {
-  const parts = useMemo(() => getHighlightParts(text, query), [text, query]);
+export function HighlightedText({
+  text,
+  query,
+  matchMode = 'all_words',
+  className = '',
+}: HighlightedTextProps) {
+  const parts = useMemo(
+    () => getHighlightParts(text, query, matchMode),
+    [text, query, matchMode]
+  );
 
   return (
     <span className={className}>

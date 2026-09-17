@@ -229,44 +229,81 @@ function searchByText(
   return scored.map((s) => s.item);
 }
 
+function tokenize(text: string): { raw: string; norm: string; start: number; end: number }[] {
+  const tokens: { raw: string; norm: string; start: number; end: number }[] = [];
+  const regex = /[\p{L}\p{N}]+/gu;
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(text)) !== null) {
+    const raw = match[0];
+    const norm = removeVietnameseTones(raw).toLowerCase();
+    tokens.push({ raw, norm, start: match.index, end: match.index + raw.length });
+  }
+  return tokens;
+}
+
 /**
- * Splits text into highlighted chunks based on search query (case & accent insensitive)
+ * Splits text into highlighted chunks based on search query (case & accent insensitive).
+ * Respects matchMode: in 'all_words' mode, only complete phrase or all matching words are highlighted.
  */
 export function getHighlightParts(
   text: string,
-  query: string
+  query: string,
+  matchMode: MatchMode = 'all_words'
 ): { text: string; isMatch: boolean }[] {
   if (!query || !query.trim() || !text) {
     return [{ text, isMatch: false }];
   }
 
-  const normQuery = normalizeSearchString(query);
-  const words = normQuery.split(' ').filter((w) => w.length > 0);
-  if (words.length === 0) return [{ text, isMatch: false }];
+  const queryTokens = tokenize(query).map((t) => t.norm);
+  if (queryTokens.length === 0) return [{ text, isMatch: false }];
 
-  // Find character indices in original text that correspond to matches
-  const normText = removeVietnameseTones(text).toLowerCase();
+  const textTokens = tokenize(text);
+  if (textTokens.length === 0) return [{ text, isMatch: false }];
+
   const matchMask = new Array(text.length).fill(false);
+  const k = queryTokens.length;
 
-  // First try phrase match if multiple words
-  if (words.length > 1 && normText.includes(normQuery)) {
-    let startIdx = 0;
-    while ((startIdx = normText.indexOf(normQuery, startIdx)) !== -1) {
-      for (let i = 0; i < normQuery.length && startIdx + i < text.length; i++) {
-        matchMask[startIdx + i] = true;
+  let hasPhraseMatch = false;
+  for (let i = 0; i <= textTokens.length - k; i++) {
+    let match = true;
+    for (let j = 0; j < k; j++) {
+      if (textTokens[i + j].norm !== queryTokens[j]) {
+        match = false;
+        break;
       }
-      startIdx += normQuery.length;
+    }
+    if (match) {
+      hasPhraseMatch = true;
+      const startIdx = textTokens[i].start;
+      const endIdx = textTokens[i + k - 1].end;
+      for (let idx = startIdx; idx < endIdx && idx < text.length; idx++) {
+        matchMask[idx] = true;
+      }
+    }
+  }
+
+  if (matchMode === 'all_words') {
+    // In all_words mode:
+    // If not a consecutive phrase, only highlight if ALL query tokens are present in this text
+    if (!hasPhraseMatch && k > 1) {
+      const allPresent = queryTokens.every((qw) => textTokens.some((t) => t.norm === qw));
+      if (allPresent) {
+        for (const t of textTokens) {
+          if (queryTokens.includes(t.norm)) {
+            for (let idx = t.start; idx < t.end; idx++) {
+              matchMask[idx] = true;
+            }
+          }
+        }
+      }
     }
   } else {
-    // Individual words match
-    for (const word of words) {
-      if (word.length < 2 && words.length > 1) continue; // skip 1-char words if multi-word
-      let startIdx = 0;
-      while ((startIdx = normText.indexOf(word, startIdx)) !== -1) {
-        for (let i = 0; i < word.length && startIdx + i < text.length; i++) {
-          matchMask[startIdx + i] = true;
+    // any_word mode: any matched token can be highlighted
+    for (const t of textTokens) {
+      if (queryTokens.includes(t.norm)) {
+        for (let idx = t.start; idx < t.end; idx++) {
+          matchMask[idx] = true;
         }
-        startIdx += word.length;
       }
     }
   }
