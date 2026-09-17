@@ -1,0 +1,6 @@
+{
+  "name": "Kiểm tra chính trị năm 2026",
+  "description": "Ứng dụng tra cứu và dò kết quả kiểm tra chính trị năm 2026 thông minh không dấu theo câu hỏi và đáp án.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
