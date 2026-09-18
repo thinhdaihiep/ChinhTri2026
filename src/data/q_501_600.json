@@ -1,58 +1,58 @@
 [
-  {
+{
     "id": 501,
-    "question": "Nội dung Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới gồm mấy tiêu chí cốt lõi?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, cơ quan chủ trì theo dõi, đôn đốc, đánh giá kết quả thực hiện và định kỳ báo cáo Bộ Chính trị, Ban Bí thư là ai?",
     "options": {
-      "A": "5 tiêu chí cốt lõi",
-      "B": "4 tiêu chí",
-      "C": "6 tiêu chí",
-      "D": "7 tiêu chí"
+      "A": "Đảng ủy Quốc hội",
+      "B": "Ban Tuyên giáo và Dân vận Trung ương",
+      "C": "Đảng ủy Chính phủ",
+      "D": "Ban Chính sách, chiến lược Trung ương"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 502,
-    "question": "Tiêu chí thứ nhất của Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến chủ trương, quy định của Đảng và pháp luật Nhà nước?",
     "options": {
-      "A": "Bản lĩnh chính trị vững vàng, kiên định mục tiêu, lý tưởng độc lập dân tộc và chủ nghĩa xã hội",
-      "B": "Có trình độ học vấn cử nhân trở lên",
-      "C": "Đạt giải cao trong các hội thao quốc tế",
-      "D": "Có sức khỏe tốt nhất đơn vị"
+      "A": "Thực hiện đầy đủ các quy định",
+      "B": "Nghiên cứu, học tập, thực hiện các quy định",
+      "C": "Nói, viết, làm trái hoặc không thực hiện",
+      "D": "Phổ biến quy định cho người khác"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 503,
-    "question": "Tiêu chí thứ hai của Cuộc vận động là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến nguyên tắc tổ chức và hoạt động của Đảng?",
     "options": {
-      "A": "Phẩm chất đạo đức trong sáng; lối sống trung thực, khiêm tốn, giản dị, chân thành",
-      "B": "Có thu nhập kinh tế cao",
-      "C": "Có quan hệ rộng rãi ngoài xã hội",
-      "D": "Tự chủ tài chính cho bản thân"
+      "A": "Không chấp hành hoặc chấp hành không đúng, không đầy đủ",
+      "B": "Tham gia đóng góp ý kiến",
+      "C": "Thực hiện nghiêm túc nguyên tắc",
+      "D": "Báo cáo vi phạm nguyên tắc"
     },
     "answer": "A"
   },
   {
     "id": 504,
-    "question": "Tiêu chí thứ ba của Cuộc vận động là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh?",
     "options": {
-      "A": "Tích cực học tập, nghiên cứu nâng cao trình độ mọi mặt và chuyên môn nghiệp vụ",
-      "B": "Tập trung thi đấu thể thao chuyên nghiệp",
-      "C": "Tham gia nhiều hoạt động văn nghệ quần chúng",
-      "D": "Thực hiện tốt chế độ đi phép hàng năm"
+      "A": "Học tập và làm theo",
+      "B": "Nghiên cứu, vận dụng sáng tạo",
+      "C": "Tuyên truyền, phổ biến rộng rãi",
+      "D": "Phản bác, phủ định, xuyên tạc"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 505,
-    "question": "Tiêu chí thứ tư của Cuộc vận động là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến thông tin, tài liệu bí mật của Đảng và Nhà nước?",
     "options": {
-      "A": "Đoàn kết nội bộ, đoàn kết quân dân gắn bó máu thịt",
-      "B": "Đoàn kết với các tổ chức tư nhân",
-      "C": "Ưu tiên giúp đỡ người thân quen",
-      "D": "Giữ mối liên hệ với các đồng hương"
+      "A": "Bảo vệ thông tin bí mật",
+      "B": "Lưu trữ an toàn tài liệu, không để lộ bí mật của Đảng, Nhà nước",
+      "C": "Cung cấp, làm lộ, làm mất hoặc viết bài, đăng thông tin",
+      "D": "Báo cáo khi phát hiện rò rỉ thông tin"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 506,
@@ -67,166 +67,166 @@
   },
   {
     "id": 507,
-    "question": "Khẩu hiệu hành động \"Cán bộ, chiến sĩ toàn quân thi đua đổi mới sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung\" được phát động nhằm mục đích gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến đơn tố cáo?",
     "options": {
-      "A": "Khơi dậy tinh thần cống hiến, ý chí tự lực tự cường và nâng cao hiệu quả công tác trong toàn quân",
-      "B": "Tạo phong trào bề nổi trong các ngày lễ",
-      "C": "Tăng thêm các buổi hội thảo chuyên đề",
-      "D": "Thay thế các chỉ tiêu huấn luyện quân sự"
+      "A": "Gửi đơn đến nơi có thẩm quyền, thường xuyên theo dõi kết quả",
+      "B": "Tố cáo có nội dung mang tính bịa đặt; viết đơn tố cáo giấu tên, mạo tên",
+      "C": "Tố cáo có căn cứ, trung thực",
+      "D": "Theo dõi kết quả giải quyết tố cáo"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 508,
-    "question": "Theo quy định về văn hóa công vụ và văn hóa quân sự, tác phong của người quân nhân khi làm việc phải bảo đảm yêu cầu gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến hoạt động bè phái?",
     "options": {
-      "A": "Nghiêm túc, chuẩn mực, khẩn trương, khoa học, đúng quy trình và đúng thẩm quyền",
-      "B": "Thong thả, tùy nghi theo hoàn cảnh cá nhân",
-      "C": "Dễ dãi, bỏ qua các thủ tục cần thiết",
-      "D": "Tự ý thay đổi giờ giấc sinh hoạt chung"
+      "A": "Tham gia sinh hoạt Đảng đầy đủ, tích cực trong các hoạt động của cơ quan, đơn vị, địa phương",
+      "B": "Tổ chức, xúi giục, tham gia các hoạt động bè phái, cục bộ gây mất đoàn kết nội bộ",
+      "C": "Thường xuyên tham gia sinh hoạt, góp ý xây dựng tổ chức",
+      "D": "Báo cáo vi phạm nguyên tắc"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 509,
-    "question": "Quy định về việc bảo đảm an toàn khi tham gia giao thông đối với quân nhân yêu cầu điều gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến các tổ chức trái quy định?",
     "options": {
-      "A": "Chấp hành nghiêm Luật Giao thông đường bộ, tuyệt đối \"Đã uống rượu, bia - Không lái xe\", đội mũ bảo hiểm đạt chuẩn",
-      "B": "Có thể vượt đèn đỏ nếu đang đi công tác vội",
-      "C": "Được phép chở quá số người quy định khi về phép",
-      "D": "Không cần mang theo giấy tờ xe khi đi trong doanh trại"
+      "A": "Tham gia tổ chức do Đảng, Nhà nước thành lập",
+      "B": "Tổ chức, tham gia, tài trợ, giúp tổ chức, hội trái quy định của Đảng, pháp luật Nhà nước",
+      "C": "Ủng hộ hoạt động thiện nguyện",
+      "D": "Tham gia các hội nghề nghiệp hợp pháp"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 510,
-    "question": "Trách nhiệm của cán bộ chỉ huy các cấp trong việc quản lý bộ đội và ngăn ngừa vi phạm kỷ luật là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến báo cáo, kê khai?",
     "options": {
-      "A": "Sâu sát, gương mẫu, nắm chắc tư tưởng, hoàn cảnh của bộ đội; kịp thời phát hiện và giải quyết vướng mắc ngay từ cơ sở",
-      "B": "Chỉ cần kiểm tra quân số lúc điểm danh tối",
-      "C": "Khoán trắng cho cấp phó và nhân viên phụ trách",
-      "D": "Xử phạt thật nặng khi xảy ra vụ việc mà không cần giáo dục trước"
+      "A": "Kê khai đầy đủ theo quy định",
+      "B": "Báo cáo trung thực với tổ chức",
+      "C": "Báo cáo, lập hồ sơ, kê khai lý lịch, kê khai tài sản, thu nhập không trung thực",
+      "D": "Giải trình nguồn gốc tài sản khi được yêu cầu"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 511,
-    "question": "Luật Nghĩa vụ quân sự năm 2015 quy định độ tuổi gọi nhập ngũ trong thời bình là từ bao nhiêu tuổi đến bao nhiêu tuổi?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, điểm mới nào sau đây được bổ sung về việc sử dụng văn bằng, chứng chỉ?",
     "options": {
-      "A": "Từ đủ 18 tuổi đến hết 25 tuổi (trường hợp học đại học, cao đẳng được tạm hoãn thì đến hết 27 tuổi)",
-      "B": "Từ đủ 18 tuổi đến hết 30 tuổi",
-      "C": "Từ đủ 19 tuổi đến hết 26 tuổi",
-      "D": "Từ đủ 20 tuổi đến hết 28 tuổi"
+      "A": "Sử dụng văn bằng, chứng chỉ, chứng nhận không hợp pháp",
+      "B": "Học tập nâng cao trình độ đáp ứng yêu cầu nhiệm vụ được giao",
+      "C": "Công nhận văn bằng nước ngoài",
+      "D": "Xác minh văn bằng theo quy định"
     },
     "answer": "A"
   },
   {
     "id": 512,
-    "question": "Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là bao nhiêu tháng?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến đạo đức công vụ?",
     "options": {
-      "A": "24 tháng",
-      "B": "18 tháng",
-      "C": "30 tháng",
-      "D": "36 tháng"
+      "A": "Thực hiện đúng đạo đức công vụ",
+      "B": "Vi phạm đạo đức công vụ, đạo đức nghề nghiệp; vi phạm quy tắc ứng xử của người có chức vụ, quyền hạn",
+      "C": "Rèn luyện đạo đức cách mạng, gương mẫu trong lời nói và việc làm",
+      "D": "Gương mẫu trong công tác, xây dựng cơ quan, đơn vị vững mạnh"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 513,
-    "question": "Theo Luật Nghĩa vụ quân sự 2015, trường hợp nào sau đây được tạm hoãn gọi nhập ngũ trong thời bình?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến chạy chức, chạy quyền?",
     "options": {
-      "A": "Chưa đủ sức khỏe phục vụ tại ngũ theo kết luận của Hội đồng khám sức khỏe; là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động",
-      "B": "Đã có việc làm thu nhập cao trong doanh nghiệp nước ngoài",
-      "C": "Có đơn xin hoãn để đi du lịch nước ngoài",
-      "D": "Chuẩn bị kết hôn"
+      "A": "Phấn đấu theo năng lực, uy tín",
+      "B": "Có hành vi chạy chức, chạy quyền, bao che, tiếp tay, can thiệp, tác động để bản thân hoặc người khác được tiếp nhận, tuyển dụng, bổ nhiệm",
+      "C": "Chấp hành quyết định điều động, sẵn sàng nhận và hoàn thành các nhiệm vụ được giao",
+      "D": "Chấp hành quyết định điều động; báo cáo trung thực lý lịch"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 514,
-    "question": "Trường hợp nào được miễn gọi nhập ngũ trong thời bình theo Luật Nghĩa vụ quân sự 2015?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến tham ô, hối lộ?",
     "options": {
-      "A": "Con của liệt sĩ; con của thương binh hạng một; một con của bệnh binh suy giảm khả năng lao động từ 81% trở lên",
-      "B": "Người có trình độ học vấn thạc sĩ, tiến sĩ",
-      "C": "Người đã từng làm việc trong cơ quan nhà nước",
-      "D": "Người là con một trong gia đình có điều kiện khá giả"
+      "A": "Từ chối nhận quà biếu vượt quy định",
+      "B": "Tham ô, đưa, nhận, môi giới hối lộ hoặc lợi dụng vị trí công tác để môi giới, hối lộ dưới mọi hình thức",
+      "C": "Báo cáo hành vi tham nhũng cho cơ quan chức năng",
+      "D": "Thực hiện quy định về phòng, chống tham nhũng, lãng phí, tiêu cực"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 515,
-    "question": "Hành vi trốn tránh thực hiện nghĩa vụ quân sự bị xử lý như thế nào theo quy định pháp luật?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến việc tặng, nhận quà?",
     "options": {
-      "A": "Bị xử phạt vi phạm hành chính, nếu tái phạm có thể bị truy cứu trách nhiệm hình sự theo Điều 332 Bộ luật Hình sự",
-      "B": "Chỉ bị nhắc nhở tại tổ dân phố",
-      "C": "Chỉ cần nộp tiền phạt rồi được miễn vĩnh viễn",
-      "D": "Bị cấm xuất cảnh trong thời hạn 1 tháng"
+      "A": "Nhận quà theo quy định, không làm ảnh hưởng đến tổ chức",
+      "B": "Từ chối quà biếu không đúng quy định",
+      "C": "Tặng, nhận quà dưới mọi hình thức để tác động đến tổ chức, người có trách nhiệm dẫn đến việc quyết định sai, có lợi ích riêng",
+      "D": "Báo cáo việc nhận quà vượt quy định"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 516,
-    "question": "Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng năm 2015 quy định vị trí của Quân nhân chuyên nghiệp là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến thực hành tiết kiệm?",
     "options": {
-      "A": "Là lực lượng nòng cốt của đội ngũ chuyên môn kỹ thuật, nghiệp vụ, bảo đảm cho công tác lãnh đạo, chỉ huy, quản lý và sẵn sàng chiến đấu",
-      "B": "Là lực lượng lao động phổ thông trong quân đội",
-      "C": "Là lực lượng dự bị không nằm trong biên chế thường trực",
-      "D": "Là lực lượng tình nguyện viên bán thời gian"
+      "A": "Thực hành tiết kiệm trong công tác; không để xảy ra thất thoát, lãng phí trong việc quản lý, khai thác, sử dụng các nguồn lực",
+      "B": "Không thực hành tiết kiệm; để xảy ra thất thoát, lãng phí trong việc quản lý, khai thác, sử dụng các nguồn lực",
+      "C": "Chống lãng phí, tham nhũng",
+      "D": "Sử dụng hiệu quả tài sản công"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 517,
-    "question": "Hạn tuổi phục vụ tại ngũ cao nhất của Quân nhân chuyên nghiệp cấp Trung tá là bao nhiêu tuổi?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến việc đi du lịch, học tập, chữa bệnh?",
     "options": {
-      "A": "Nam 54 tuổi, Nữ 54 tuổi (hoặc theo quy định mới điều chỉnh tương ứng)",
-      "B": "Nam 50 tuổi, Nữ 48 tuổi",
-      "C": "Nam 60 tuổi, Nữ 55 tuổi",
-      "D": "Nam 52 tuổi, Nữ 50 tuổi"
+      "A": "Đi công tác theo kế hoạch được phê duyệt; du lịch, học tập, chữa bệnh bằng tiền cá nhân hoặc các tổ chức tài trợ",
+      "B": "Can thiệp, tác động để bản thân, người thân thích, người khác đi du lịch, học tập, chữa bệnh bằng nguồn tài trợ của các tổ chức, cá nhân có liên quan đến ngành, lĩnh vực, địa phương được giao theo dõi, quản lý",
+      "C": "Đi du lịch, học tập nâng cao trình độ; khám chữa bệnh ở các bệnh viện",
+      "D": "Đi du lịch, học tập bằng tiền cá nhân; khám chữa bệnh theo chế độ bảo hiểm quy định"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 518,
-    "question": "Theo Luật Sĩ quan Quân đội nhân dân Việt Nam, sĩ quan quân đội có mấy nhóm ngạch chức vụ cơ bản?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến hoạt động kiểm tra, giám sát, thanh tra?",
     "options": {
-      "A": "Sĩ quan chỉ huy, quản lý và Sĩ quan chuyên môn kỹ thuật, nghiệp vụ",
-      "B": "Sĩ quan hành chính và Sĩ quan ngoại giao",
-      "C": "Sĩ quan thường trực và Sĩ quan dự bị không lương",
-      "D": "Sĩ quan tác chiến và Sĩ quan doanh nghiệp"
+      "A": "Chấp hành kết luận, quyết định của cơ quan có thẩm quyền",
+      "B": "Cản trở, can thiệp, tác động, áp đặt vào hoạt động kiểm tra, giám sát, thanh tra, kiểm toán, điều tra, truy tố, xét xử, thi hành án nhằm làm sai lệch, bao che, tiếp tay cho các hành vi vi phạm",
+      "C": "Phối hợp với cơ quan chức năng xử lý các vụ việc vi phạm theo quy định; chấp hành kết luận, quyết định của cơ quan có thẩm quyền",
+      "D": "Cung cấp thông tin khi được yêu cầu"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 519,
-    "question": "Cấp bậc quân hàm cao nhất đối với chức vụ Tư lệnh Quân khu theo Luật Sĩ quan sửa đổi là gì?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến đánh bạc, sử dụng chất ma túy?",
     "options": {
-      "A": "Trung tướng",
-      "B": "Đại tướng",
-      "C": "Thượng tướng",
-      "D": "Thiếu tướng"
+      "A": "Tham gia các hoạt động văn hóa lành mạnh; tuyên truyền, vận động Nhân dân thực hiện lối sống văn minh",
+      "B": "Tổ chức, tham gia đánh bạc dưới mọi hình thức; sử dụng các chất ma túy; sử dụng rượu, bia không đúng quy định",
+      "C": "Tuyên truyền phòng chống tệ nạn xã hội",
+      "D": "Gương mẫu trong lối sống; tham gia các hoạt động văn hóa, văn nghệ, thể dục, thể thao lành mạnh ở địa phương"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 520,
-    "question": "Hạn tuổi phục vụ tại ngũ cao nhất của sĩ quan cấp Đại tá theo quy định sửa đổi của Luật Sĩ quan là bao nhiêu tuổi?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, đảng viên không được làm gì liên quan đến mê tín, tôn giáo?",
     "options": {
-      "A": "58 tuổi (đối với nam)",
-      "B": "55 tuổi",
-      "C": "60 tuổi",
-      "D": "54 tuổi"
+      "A": "Tôn trọng quyền tự do tín ngưỡng, hoạt động tôn giáo đúng pháp luật",
+      "B": "Mê tín, hoạt động mê tín; ủng hộ hoặc tham gia các tôn giáo bất hợp pháp hoặc lợi dụng các hoạt động tôn giáo, tín ngưỡng để trục lợi",
+      "C": "Thực hiện chính sách dân tộc, tôn giáo của Đảng; tham gia đấu tranh phản bác các quan điểm sai trái, thù địch bảo vệ nền tảng tư tưởng của Đảng",
+      "D": "Đấu tranh chống lợi dụng tôn giáo"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 521,
-    "question": "Nội dung nào sau đây là nghĩa vụ cơ bản của người sĩ quan Quân đội nhân dân Việt Nam?",
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, Quy định này thay thế Quy định nào sau đây?",
     "options": {
-      "A": "Tuyệt đối trung thành với Tổ quốc, Nhân dân, Đảng và Nhà nước; sẵn sàng chiến đấu, hy sinh bảo vệ Tổ quốc",
-      "B": "Ưu tiên phát triển kinh tế cá nhân trước nhiệm vụ đơn vị",
-      "C": "Tự ý chuyển đơn vị công tác khi có điều kiện tốt hơn",
-      "D": "Từ chối nhận nhiệm vụ ở vùng sâu vùng xa"
+      "A": "Quy định số 37-QĐ/TW ngày 25/10/2021",
+      "B": "Quy định số 47-QĐ/TW ngày 01/11/2011",
+      "C": "Quy định số 144-QĐ/TW ngày 09/5/2024",
+      "D": "Quy định số 24-QĐ/TW ngày 30/7/2021"
     },
     "answer": "A"
   },
@@ -243,58 +243,58 @@
   },
   {
     "id": 523,
-    "question": "Luật Dân quân tự vệ năm 2019 xác định Dân quân tự vệ là lực lượng gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, điểm mới trong thí điểm tổ chức cơ sở đảng được xác định là gì?",
     "options": {
-      "A": "Là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác; là thành phần của lực lượng vũ trang nhân dân",
-      "B": "Là lực lượng chuyên trách canh gác cơ quan ban ngành",
-      "C": "Là lực lượng dự bị động viên của quân đội thường trực",
-      "D": "Là tổ chức dân sự không có trang bị vũ khí"
+      "A": "Đảng bộ trực thuộc cơ sở",
+      "B": "Gồm đảng bộ trực thuộc cơ sở và chi bộ",
+      "C": "Gồm chi bộ cơ sở, đảng bộ bộ phận",
+      "D": "Đảng bộ ngành, lĩnh vực"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 524,
-    "question": "Độ tuổi tham gia Dân quân tự vệ trong thời bình đối với công dân nam là từ bao nhiêu tuổi đến bao nhiêu tuổi?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, tên gọi chung được thống nhất sử dụng cho các loại hình chi bộ (không còn phân biệt chi bộ cơ sở hay chi bộ trực thuộc) là gì?",
     "options": {
-      "A": "Từ đủ 18 tuổi đến hết 45 tuổi",
-      "B": "Từ đủ 18 tuổi đến hết 35 tuổi",
-      "C": "Từ đủ 20 tuổi đến hết 50 tuổi",
-      "D": "Từ đủ 18 tuổi đến hết 40 tuổi"
+      "A": "Chi bộ",
+      "B": "Chi bộ cơ sở",
+      "C": "Chi bộ trực thuộc",
+      "D": "Tổ đảng"
     },
     "answer": "A"
   },
   {
     "id": 525,
-    "question": "Thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ là bao nhiêu năm?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, thẩm quyền quyết định thành lập tổ chức đảng ở xã, phường, đặc khu là đảng bộ cơ sở trực thuộc cấp ủy cấp nào?",
     "options": {
-      "A": "4 năm (đối với Dân quân thường trực là 2 năm)",
-      "B": "2 năm",
-      "C": "3 năm",
-      "D": "5 năm"
+      "A": "Cấp cơ sở",
+      "B": "Cấp tỉnh",
+      "C": "Cấp trung ương",
+      "D": "Cấp xã"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 526,
-    "question": "Luật Lực lượng dự bị động viên năm 2019 quy định Lực lượng dự bị động viên gồm những thành phần nào?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, nội dung nào sau đây là điểm mới được thí điểm thành lập ở cấp tỉnh, thành phố?",
     "options": {
-      "A": "Quân nhân dự bị và phương tiện kỹ thuật dự bị được đăng ký, quản lý và sắp xếp vào đơn vị dự bị động viên",
-      "B": "Chỉ gồm hạ sĩ quan xuất ngũ",
-      "C": "Tất cả công dân trong độ tuổi lao động",
-      "D": "Các phương tiện giao thông vận tải tư nhân"
+      "A": "Đảng bộ các sở, ban, ngành, doanh nghiệp nhà nước",
+      "B": "Đảng bộ hội đồng nhân dân, Mặt trận Tổ quốc và các đoàn thể",
+      "C": "Đảng bộ các doanh nghiệp nhà nước, doanh nghiệp có vốn đầu tư nước ngoài",
+      "D": "Đảng bộ các trường đại học, cao đẳng, cơ sở giáo dục đào tạo"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 527,
-    "question": "Mục đích của việc đăng ký, quản lý và huấn luyện lực lượng dự bị động viên là gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, việc thành lập các cơ quan tham mưu, giúp việc chuyên trách (hoặc kiêm nhiệm) của đảng ủy cơ sở và đảng ủy trực thuộc cơ sở do cấp nào xem xét, quyết định?",
     "options": {
-      "A": "Sẵn sàng bổ sung cho lực lượng thường trực của Quân đội khi có lệnh động viên hoặc khi đất nước có chiến tranh",
-      "B": "Thực hiện các công trình xây dựng dân dụng tại địa phương",
-      "C": "Thay thế hoàn toàn lực lượng công an trong giữ gìn trật tự",
-      "D": "Giảm chi phí duy trì bộ đội chuyên nghiệp"
+      "A": "Ban Tổ chức Trung ương",
+      "B": "Cấp ủy cấp tỉnh",
+      "C": "Đảng ủy cấp trên trực tiếp",
+      "D": "Ban Bí thư"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 528,
@@ -309,432 +309,432 @@
   },
   {
     "id": 529,
-    "question": "Chính sách quốc phòng \"Bốn không\" của Việt Nam bao gồm những nội dung nào?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, trình độ học vấn tối thiểu của người vào Đảng theo quy định chung là gì?",
     "options": {
-      "A": "Không tham gia liên minh quân sự; Không liên kết với nước này để chống nước kia; Không cho nước ngoài đặt căn cứ quân sự hoặc sử dụng lãnh thổ để chống nước khác; Không sử dụng vũ lực hoặc đe dọa sử dụng vũ lực trong quan hệ quốc tế",
-      "B": "Không tăng ngân sách, không mua vũ khí mới, không diễn tập quốc tế, không tham gia gìn giữ hòa bình",
-      "C": "Không phát triển công nghiệp quốc phòng, không nhập khẩu vũ khí, không xuất khẩu quốc phòng, không hợp tác quốc tế",
-      "D": "Không duy trì quân đội thường trực, không gọi nhập ngũ, không xây dựng công sự, không tổ chức dân quân"
+      "A": "Tốt nghiệp tiểu học trở lên",
+      "B": "Hoàn thành chương trình giáo dục bậc trung học cơ sở trở lên",
+      "C": "Tốt nghiệp trung học phổ thông",
+      "D": "Có bằng cao đẳng, đại học"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 530,
-    "question": "Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam được tổ chức vào ngày nào hàng năm?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, trong thời hạn bao lâu kể từ ngày cấp ủy có thẩm quyền ban hành quyết định kết nạp, chi bộ phải tổ chức lễ kết nạp cho đảng viên?",
     "options": {
-      "A": "Ngày 09 tháng 11 hàng năm",
-      "B": "Ngày 10 tháng 10 hàng năm",
-      "C": "Ngày 02 tháng 9 hàng năm",
-      "D": "Ngày 19 tháng 5 hàng năm"
+      "A": "15 ngày làm việc",
+      "B": "30 ngày làm việc",
+      "C": "45 ngày làm việc",
+      "D": "60 ngày làm việc"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 531,
-    "question": "Mục đích của việc tổ chức Ngày Pháp luật Việt Nam là gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, nếu chi bộ họp chậm và cấp ủy chuẩn y chậm, đảng viên dự bị đủ điều kiện vẫn được công nhận chính thức đúng vào thời điểm nào?",
     "options": {
-      "A": "Tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi tầng lớp nhân dân và cán bộ, chiến sĩ",
-      "B": "Tổ chức các cuộc thi biểu diễn văn nghệ pháp luật",
-      "C": "Cấp phát tài liệu văn bản luật miễn phí",
-      "D": "Tạm dừng các hoạt động xét xử trong một ngày"
+      "A": "Ngày cấp ủy ban hành quyết định",
+      "B": "Ngày hết 12 tháng dự bị",
+      "C": "Ngày chi bộ họp xét",
+      "D": "Ngày làm thủ tục chuyển sinh hoạt"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 532,
-    "question": "Nguyên tắc \"Thượng tôn pháp luật\" đòi hỏi mọi cơ quan, tổ chức, cá nhân và quân nhân phải làm gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, thẩm quyền quyết định kết nạp đảng viên đối với đảng ủy cơ sở thuộc về ai?",
     "options": {
-      "A": "Sống và làm việc theo Hiến pháp và pháp luật; không ai được đứng trên hoặc đứng ngoài pháp luật",
-      "B": "Chỉ tuân thủ những văn bản pháp luật mà mình cảm thấy phù hợp",
-      "C": "Ưu tiên áp dụng phong tục tập quán địa phương hơn luật định",
-      "D": "Chấp hành mệnh lệnh cá nhân trước, chấp hành luật sau"
+      "A": "Tập thể đảng ủy cơ sở",
+      "B": "Ban thường vụ đảng ủy cơ sở",
+      "C": "Chi bộ cơ sở",
+      "D": "Cấp ủy cấp trên trực tiếp"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 533,
-    "question": "Hình thức tuyên truyền, phổ biến, giáo dục pháp luật nào thường được áp dụng hiệu quả tại các đơn vị Quân đội?",
+    "question": "Theo Quy định số 208-QĐ/TW về thi hành Điều lệ Đảng, tuổi Đảng của đảng viên được tính từ thời điểm nào?",
     "options": {
-      "A": "Tổ chức Ngày Pháp luật hàng tháng; sinh hoạt Tủ sách pháp luật; sân khấu hóa và thi tìm hiểu pháp luật",
-      "B": "Chỉ phát tài liệu cho bộ đội tự đọc khi rảnh",
-      "C": "Chiếu phim truyện giải trí không lồng ghép nội dung luật",
-      "D": "Tổ chức họp báo tuyên truyền ra bên ngoài"
+      "A": "Ngày hết thời gian dự bị",
+      "B": "Ngày cấp có thẩm quyền ban hành quyết định kết nạp",
+      "C": "Ngày chi bộ tổ chức lễ kết nạp",
+      "D": "Ngày được công nhận đảng viên chính thức"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 534,
-    "question": "Theo quy định, \"Tủ sách pháp luật\" tại các cơ quan, đơn vị quân đội có vai trò gì?",
+    "question": "Theo Quy định số 208-QĐ/TW về thi hành Điều lệ Đảng, thời hạn hoàn thành thủ tục chuyển sinh hoạt đảng chính thức khi đảng viên thay đổi nơi công tác hoặc cư trú là bao lâu?",
     "options": {
-      "A": "Cung cấp tài liệu, sách báo pháp luật để cán bộ, chiến sĩ tra cứu, học tập, nâng cao nhận thức và hiểu biết pháp luật",
-      "B": "Chỉ dùng để trưng bày phục vụ các đoàn kiểm tra",
-      "C": "Lưu trữ hồ sơ xử lý kỷ luật cá nhân của quân nhân",
-      "D": "Để sách giáo khoa phổ thông cho chiến sĩ học bù"
+      "A": "30 ngày làm việc",
+      "B": "45 ngày làm việc",
+      "C": "60 ngày làm việc",
+      "D": "90 ngày làm việc"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 535,
-    "question": "Hành vi sử dụng trái phép chất ma túy trong Quân đội bị xử lý nghiêm khắc như thế nào?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, thời gian tối thiểu kể từ khi ra khỏi Đảng để được xem xét kết nạp lại là bao lâu?",
     "options": {
-      "A": "Tước danh hiệu quân nhân (hoặc buộc thôi việc) và xử lý nghiêm theo quy định của pháp luật",
-      "B": "Chỉ bị khiển trách và cho làm bản kiểm điểm",
-      "C": "Cho nghỉ phép về gia đình tự cai nghiện",
-      "D": "Bị hạ bậc lương tạm thời"
+      "A": "Ít nhất 12 tháng",
+      "B": "Ít nhất 24 tháng",
+      "C": "Ít nhất 36 tháng",
+      "D": "Ít nhất 48 tháng"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 536,
-    "question": "Hành vi đánh bạc, tổ chức đánh bạc hoặc tham gia cá độ dưới mọi hình thức trong đơn vị Quân đội bị xử lý như thế nào?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, nghị quyết của các cơ quan lãnh đạo của Đảng chỉ có giá trị thi hành khi có bao nhiêu số thành viên trong cơ quan đó tán thành?",
     "options": {
-      "A": "Bị xử lý kỷ luật rất nghiêm minh từ giáng chức, cách chức đến tước danh hiệu quân nhân hoặc chuyển cơ quan điều tra hình sự",
-      "B": "Chỉ bị phạt tiền tương ứng với số tiền đánh bạc",
-      "C": "Tịch thu tang vật rồi tha cho về vị trí công tác",
-      "D": "Cấm rời khỏi doanh trại vào các ngày nghỉ cuối tuần"
+      "A": "Ít nhất hai phần ba",
+      "B": "Hơn một nửa",
+      "C": "Ít nhất ba phần tư",
+      "D": "Toàn thể thành viên"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 537,
-    "question": "Việc quân nhân vay nợ vượt quá khả năng chi trả hoặc tham gia vào các đường dây \"tín dụng đen\" dẫn đến hậu quả gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, số lượng ủy viên ban thường vụ cấp ủy mỗi cấp theo quy định chung không được vượt quá tỷ lệ nào?",
     "options": {
-      "A": "Gây mất an toàn đơn vị, dễ bị đối tượng xấu khống chế, tống tiền, làm tổn hại danh dự Quân đội và vi phạm kỷ luật nghiêm trọng",
-      "B": "Không ảnh hưởng gì nếu tự trả được nợ sau này",
-      "C": "Chỉ là giao dịch dân sự thuần túy không liên quan đến kỷ luật quân đội",
-      "D": "Được đơn vị đứng ra trả nợ thay hoàn toàn"
+      "A": "Một phần ba tổng số cấp ủy viên",
+      "B": "Một phần hai tổng số cấp ủy viên",
+      "C": "Hai phần ba tổng số cấp ủy viên",
+      "D": "Một phần tư tổng số cấp ủy viên"
     },
     "answer": "A"
   },
   {
     "id": 538,
-    "question": "Khi quân nhân phát hiện đồng đội có dấu hiệu sa vào cờ bạc, vay nợ hoặc có biểu hiện tâm lý bất thường, cần phải làm gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, đảng viên được miễn công tác và sinh hoạt đảng vẫn được hưởng quyền lợi nào sau đây?",
     "options": {
-      "A": "Kịp thời báo cáo chỉ huy đơn vị và tận tình khuyên bảo, giúp đỡ đồng đội ngăn chặn sai phạm phát triển",
-      "B": "Giữ bí mật tuyệt đối giúp đồng chí mình",
-      "C": "Cho đồng đội mượn tiền để trả nợ trước",
-      "D": "Rủ thêm các chiến sĩ khác cùng tham gia chia sẻ"
+      "A": "Được bầu cấp ủy các cấp",
+      "B": "Được xét tặng Huy hiệu Đảng khi đủ tiêu chuẩn",
+      "C": "Được tham gia biểu quyết tại đại hội và các quyền khác",
+      "D": "Được miễn đóng đảng phí vĩnh viễn"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 539,
-    "question": "Quy định về thời gian tự học tập, đọc báo, nghe tin buổi tối tại các đơn vị cơ sở nhằm mục đích gì?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí trong thời gian bao lâu trong năm mà không có lý do chính đáng thì bị xem xét xóa tên?",
     "options": {
-      "A": "Cập nhật tình hình thời sự chính trị trong nước và quốc tế, định hướng tư tưởng đúng đắn cho bộ đội",
-      "B": "Tạo thời gian yên tĩnh chờ đến giờ ngủ",
-      "C": "Giúp chiến sĩ học thêm ngoại ngữ tự do",
-      "D": "Để cán bộ chuẩn bị giáo án cho ngày hôm sau"
+      "A": "Hai tháng",
+      "B": "Ba tháng",
+      "C": "Sáu tháng",
+      "D": "Một năm"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 540,
-    "question": "Mỗi quân nhân khi tham gia mạng xã hội (Facebook, Zalo, TikTok...) không được làm điều gì dưới đây?",
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, khi tổ chức đảng bị kỷ luật giải tán, cấp ủy cấp trên trực tiếp phải làm thủ tục chuyển sinh hoạt đảng cho đảng viên trong thời hạn bao lâu?",
     "options": {
-      "A": "Đăng tải hình ảnh mặc quân phục chụp tại nơi đóng quân bí mật, bình luận tiêu cực, tham gia hội nhóm trái phép",
-      "B": "Đọc tin tức thời sự chính thống từ các báo Đảng",
-      "C": "Nhắn tin hỏi thăm sức khỏe người thân ngoài giờ công tác",
-      "D": "Chia sẻ những bài viết tuyên truyền gương người tốt việc tốt"
+      "A": "15 ngày làm việc",
+      "B": "30 ngày làm việc",
+      "C": "45 ngày làm việc",
+      "D": "60 ngày làm việc"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 541,
-    "question": "Nghị quyết số 28-NQ/TW ngày 25/10/2013 của Ban Chấp hành Trung ương Đảng khóa XI là nghị quyết về nội dung gì?",
+    "question": "Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng được ban hành để thay thế cho quy định nào trước đây?",
     "options": {
-      "A": "Chiến lược bảo vệ Tổ quốc trong tình hình mới",
-      "B": "Chiến lược cải cách tư pháp",
-      "C": "Phát triển bền vững kinh tế biển",
-      "D": "Tăng cường công tác phòng chống tham nhũng"
+      "A": "Quy định số 24-QĐ/TW",
+      "B": "Quy định số 37-QĐ/TW",
+      "C": "Quy định số 20-QĐ/TW",
+      "D": "Quy định số 47-QĐ/TW"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 542,
-    "question": "Chiến lược bảo vệ Tổ quốc trong tình hình mới xác định mục tiêu tối thượng là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, tư duy quản trị xã hội cần chuyển dịch mạnh mẽ theo hướng nào?",
     "options": {
-      "A": "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, Nhân dân và chế độ xã hội chủ nghĩa",
-      "B": "Mở rộng không gian ảnh hưởng địa chính trị",
-      "C": "Đạt tốc độ tăng trưởng kinh tế hai con số bằng mọi giá",
-      "D": "Gia nhập các liên minh an ninh khu vực"
+      "A": "Từ \"quản lý xã hội\" sang \"quản trị và kiến tạo xã hội\".",
+      "B": "Từ \"kiến tạo xã hội\" sang \"quản lý xã hội chặt chẽ\".",
+      "C": "Từ \"phân cấp, phân quyền\" sang \"tập trung, tập quyền\".",
+      "D": "Từ \"dựa trên dữ liệu\" sang \"dựa trên kinh nghiệm chủ quan\"."
     },
     "answer": "A"
   },
   {
     "id": 543,
-    "question": "Phương châm cơ bản trong đấu tranh bảo vệ chủ quyền biển, đảo của Tổ quốc là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, yếu tố nào được xác định là mục tiêu, yêu cầu xuyên suốt của quá trình phát triển, thể hiện bản chất tốt đẹp của chế độ xã hội chủ nghĩa?",
     "options": {
-      "A": "Kiên quyết, kiên trì đấu tranh bằng các biện pháp hòa bình trên cơ sở luật pháp quốc tế, giữ vững môi trường hòa bình, ổn định để phát triển",
-      "B": "Sẵn sàng phát động chiến tranh tổng lực ngay khi có va chạm",
-      "C": "Chỉ dựa vào sự phán quyết của tòa án quốc tế mà không cần phòng thủ thực địa",
-      "D": "Nhượng bộ lợi ích để giữ hòa khí"
+      "A": "Tăng trưởng kinh tế.",
+      "B": "An ninh con người.",
+      "C": "Ổn định chính trị.",
+      "D": "Hội nhập quốc tế."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 544,
-    "question": "Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS 1982) quy định chiều rộng lãnh hải của quốc gia ven biển là bao nhiêu hải lý?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, mục tiêu cụ thể đến năm 2030 về phòng, chống tội phạm và tệ nạn xã hội là gì?",
     "options": {
-      "A": "12 hải lý (tính từ đường cơ sở)",
-      "B": "24 hải lý",
-      "C": "200 hải lý",
-      "D": "6 hải lý"
+      "A": "Phấn đấu hằng năm giảm 5% số vụ phạm tội và 100% địa bàn cấp tỉnh không có ma túy.",
+      "B": "Phấn đấu hằng năm giảm 10% số vụ phạm tội về trật tự xã hội; đến năm 2030 đạt ít nhất 50% số địa bàn cấp xã và 20% địa bàn cấp tỉnh không có ma túy.",
+      "C": "Loại bỏ hoàn toàn tội phạm công nghệ cao và tệ nạn ma túy trên toàn quốc vào năm 2030.",
+      "D": "Giữ vững tỷ lệ phạm tội hiện tại và tập trung xử lý nghiêm các vi phạm phát sinh."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 545,
-    "question": "Vùng đặc quyền kinh tế của quốc gia ven biển theo UNCLOS 1982 có chiều rộng tối đa là bao nhiêu hải lý?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, Việt Nam phấn đấu thuộc nhóm bao nhiêu nước dẫn đầu thế giới về Chỉ số an ninh mạng toàn cầu (GCI) vào năm 2030?",
     "options": {
-      "A": "200 hải lý tính từ đường cơ sở",
-      "B": "150 hải lý",
-      "C": "350 hải lý",
-      "D": "100 hải lý"
+      "A": "Tốp 10 nước.",
+      "B": "Tốp 15 nước.",
+      "C": "Tốp 20 nước.",
+      "D": "Tốp 30 nước."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 546,
-    "question": "Việt Nam khẳng định chủ quyền không thể chối cãi đối với hai quần đảo nào trên Biển Đông?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước (SIPAS) phấn đấu đạt giá trị trung bình cả nước là bao nhiêu vào năm 2030?",
     "options": {
-      "A": "Quần đảo Hoàng Sa và Quần đảo Trường Sa",
-      "B": "Quần đảo Nam Du và Thổ Chu",
-      "C": "Quần đảo Cát Bà và Côn Đảo",
-      "D": "Quần đảo Phú Quốc và Hòn Khoai"
+      "A": "Trên 75%.",
+      "B": "Trên 80%.",
+      "C": "Trên 88%.",
+      "D": "Trên 95%."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 547,
-    "question": "Luật Cảnh sát biển Việt Nam năm 2018 xác định vị trí của Cảnh sát biển Việt Nam là lực lượng gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, tầm nhìn đến năm 2045, điều gì sẽ được hình thành vững chắc trong xã hội?",
     "options": {
-      "A": "Là lực lượng vũ trang nhân dân, lực lượng chuyên trách của Nhà nước, làm nòng cốt thực thi pháp luật và bảo vệ an ninh quốc gia trên biển",
-      "B": "Là lực lượng tuần tra giao thông đường thủy nội địa",
-      "C": "Là doanh nghiệp kinh doanh vận tải biển quân sự",
-      "D": "Là tổ chức bảo hộ ngư dân tự nguyện"
+      "A": "\"Trật tự tự thân\" của xã hội.",
+      "B": "Hệ thống an sinh xã hội hoàn toàn do nhà nước bao cấp.",
+      "C": "Mô hình kinh tế tập trung quan liêu.",
+      "D": "Cơ chế kiểm soát xã hội bằng biện pháp hành chính thuần túy."
     },
     "answer": "A"
   },
   {
     "id": 548,
-    "question": "Biên phòng Việt Nam có chức năng nòng cốt, chuyên trách trong công tác quản lý, bảo vệ khu vực nào?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, trong nền quản trị xã hội hiện đại, yếu tố nào được xác định là nguồn tài nguyên chiến lược, tư liệu sản xuất mới?",
     "options": {
-      "A": "Bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trên đất liền, trên biển và tại các cửa khẩu",
-      "B": "Bảo vệ các khu đô thị nội địa",
-      "C": "Giữ gìn trật tự an toàn giao thông đường sắt",
-      "D": "Kiểm soát thị trường nội địa"
+      "A": "Đất đai.",
+      "B": "Vốn đầu tư.",
+      "C": "Dữ liệu.",
+      "D": "Lao động phổ thông."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 549,
-    "question": "Xây dựng \"thế trận lòng dân\" vững chắc trong sự nghiệp quốc phòng toàn dân có ý nghĩa gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, hệ thống y tế cần chuyển dịch căn bản theo hướng nào?",
     "options": {
-      "A": "Là nền tảng gốc rễ tạo nên sức mạnh vô địch của toàn dân tộc bảo vệ vững chắc Tổ quốc trong mọi tình huống",
-      "B": "Là biện pháp vận động quyên góp tài chính cho quân đội",
-      "C": "Là hình thức tổ chức dân quân tự vệ rộng khắp",
-      "D": "Là công tác quản lý hộ khẩu tại các vùng biên cương"
+      "A": "Từ \"phòng bệnh\" sang tập trung \"chữa bệnh\".",
+      "B": "Từ \"chữa bệnh\" sang chủ động phòng bệnh, chăm sóc sức khỏe toàn diện và quản lý sức khỏe.",
+      "C": "Từ \"công lập\" sang hoàn toàn \"tư nhân hóa\".",
+      "D": "Từ \"chăm sóc sức khỏe ban đầu\" sang \"chuyên sâu\"."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 550,
-    "question": "Để xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân vững chắc, yếu tố then chốt hàng đầu là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, tư duy về dân số cần chuyển căn bản từ quản lý quy mô, cơ cấu sang phát triển gì?",
     "options": {
-      "A": "Xây dựng tiềm lực chính trị - tinh thần, củng cố niềm tin vững chắc của Nhân dân đối với Đảng, Nhà nước và Quân đội",
-      "B": "Mua sắm thật nhiều vũ khí hiện đại từ nước ngoài",
-      "C": "Xây dựng thật nhiều công trình bê tông cốt thép",
-      "D": "Tăng cường số lượng cán bộ hành chính tại cơ sở"
+      "A": "Mật độ dân số đô thị.",
+      "B": "Vốn dân số quốc gia.",
+      "C": "Tỷ lệ sinh thay thế.",
+      "D": "Di cư lao động ra nước ngoài."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 551,
-    "question": "Nghị quyết số 27-NQ/TW ngày 09/11/2022 của Hội nghị Trung ương 6 khóa XIII là nghị quyết về nội dung gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, 3 nhóm nhiệm vụ, giải pháp đột phá được xác định là gì?",
     "options": {
-      "A": "Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới",
-      "B": "Đổi mới căn bản hệ thống an sinh xã hội",
-      "C": "Tăng cường quản lý đất đai và tài nguyên môi trường",
-      "D": "Cải cách tiền lương đối với cán bộ, công chức"
+      "A": "(1) Phát triển kinh tế số; (2) Đẩy mạnh hội nhập quốc tế; (3) Cải cách hành chính.",
+      "B": "(1) Xây dựng văn hoá thượng tôn pháp luật, văn hoá Đảng, văn hoá công vụ và kỷ cương xã hội; (2) Xây dựng con người Việt Nam thời kỳ mới; (3) Xây dựng nền quản trị xã hội hiện đại, kiến tạo phát triển từ cơ sở.",
+      "C": "(1) Tăng cường quốc phòng, an ninh; (2) Phát triển nông nghiệp sinh thái; (3) Xây dựng nông thôn mới.",
+      "D": "(1) Hoàn thiện thể chế kinh tế thị trường; (2) Phát triển hạ tầng giao thông; (3) Đào tạo nhân lực chất lượng cao."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 552,
-    "question": "Đặc trưng cơ bản của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, nguyên tắc phát triển nào sau đây được nhấn mạnh để không đánh đổi các giá trị cốt lõi?",
     "options": {
-      "A": "Nhà nước của Nhân dân, do Nhân dân, vì Nhân dân; do Đảng Cộng sản Việt Nam lãnh đạo; thượng tôn Hiến pháp và pháp luật",
-      "B": "Nhà nước phân chia quyền lực tam quyền phân lập tuyệt đối",
-      "C": "Nhà nước chỉ bảo vệ lợi ích của tầng lớp thượng lưu",
-      "D": "Nhà nước phi chính trị không chịu sự lãnh đạo của đảng nào"
+      "A": "Ưu tiên tăng trưởng kinh tế đơn thuần bằng mọi giá.",
+      "B": "Không đánh đổi trật tự, kỷ cương, tiến bộ, công bằng xã hội, môi trường và các giá trị văn hoá lấy tăng trưởng kinh tế đơn thuần.",
+      "C": "Chấp nhận ô nhiễm môi trường trong giai đoạn đầu phát triển công nghiệp để có điều kiện thu hút đầu tư.",
+      "D": "Tập trung toàn bộ nguồn lực cho các đô thị lớn, bỏ qua nông thôn."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 553,
-    "question": "Quyền làm chủ của Nhân dân trong Nhà nước pháp quyền XHCN Việt Nam được thực hiện thông qua những hình thức nào?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, chỉ số phát triển con người (HDI) và tuổi thọ trung bình tính từ lúc sinh phấn đấu đạt mức nào vào năm 2030?",
     "options": {
-      "A": "Dân chủ đại diện và Dân chủ trực tiếp",
-      "B": "Chỉ thông qua các cuộc bầu cử Quốc hội",
-      "C": "Chỉ thông qua mạng xã hội",
-      "D": "Thông qua việc kiến nghị của các doanh nghiệp lớn"
+      "A": "HDI đạt khoảng 0,7; tuổi thọ đạt khoảng 73 tuổi.",
+      "B": "HDI đạt khoảng 0,8; tuổi thọ đạt khoảng 75,5 tuổi (trong đó thời gian sống khỏe mạnh đạt tối thiểu 68 năm).",
+      "C": "HDI đạt khoảng 0,9; tuổi thọ đạt khoảng 80 tuổi.",
+      "D": "HDI đạt khoảng 0,75; tuổi thọ đạt khoảng 74 tuổi."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 554,
-    "question": "Phương châm thực hiện dân chủ ở cơ sở được Đảng ta xác định là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, hệ thống an sinh xã hội cần được phát triển theo hướng nào?",
     "options": {
-      "A": "\"Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng\"",
-      "B": "\"Dân nghe, dân làm, dân báo cáo, dân chịu trách nhiệm\"",
-      "C": "\"Cán bộ quyết định, dân thi hành nghiêm chỉnh\"",
-      "D": "\"Cấp ủy thông báo, nhân dân biểu quyết đồng ý\""
+      "A": "Bao cấp toàn diện, cào bằng cho mọi đối tượng.",
+      "B": "Đa dạng, đa tầng, toàn diện, hiện đại, bao trùm, bền vững.",
+      "C": "Giao hoàn toàn cho khu vực tư nhân và các tổ chức từ thiện đảm nhiệm.",
+      "D": "Chỉ tập trung hỗ trợ cho các đối tượng chính sách, bỏ qua nhóm yếu thế khác."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 555,
-    "question": "Luật Thực hiện dân chủ ở cơ sở năm 2022 có ý nghĩa quan trọng như thế nào đối với các cơ quan, đơn vị Quân đội?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, cơ quan nào được giao chủ trì, phối hợp với Ban Chính sách, chiến lược Trung ương để theo dõi, hướng dẫn, đôn đốc, kiểm tra, giám sát việc thực hiện Nghị quyết?",
     "options": {
-      "A": "Bảo đảm quyền dân chủ thực sự của cán bộ, chiến sĩ, phát huy trí tuệ tập thể, củng cố đoàn kết nội bộ và xây dựng đơn vị vững mạnh",
-      "B": "Làm giảm uy quyền của người chỉ huy đơn vị",
-      "C": "Cho phép quân nhân tự ý thảo luận mệnh lệnh chiến đấu",
-      "D": "Tổ chức bỏ phiếu kín để bầu các chức danh chỉ huy hàng tuần"
+      "A": "Ban Tuyên giáo và Dân vận Trung ương.",
+      "B": "Đảng ủy Công an Trung ương.",
+      "C": "Ủy ban Kiểm tra Trung ương.",
+      "D": "Ban Tổ chức Trung ương."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 556,
-    "question": "Hội đồng quân nhân ở cơ sở trong Quân đội nhân dân Việt Nam hoạt động dưới sự lãnh đạo, chỉ đạo của ai?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, văn hóa được xác định giữ vai trò gì trong mô hình phát triển mới?",
     "options": {
-      "A": "Đặt dưới sự lãnh đạo trực tiếp của cấp ủy, chi bộ và sự quản lý của người chỉ huy cùng cấp",
-      "B": "Hoạt động độc lập hoàn toàn với cấp ủy đơn vị",
-      "C": "Chỉ chịu sự chỉ đạo của cơ quan thanh tra quân đội",
-      "D": "Do đoàn thanh niên trực tiếp điều hành mọi mặt"
+      "A": "Là lĩnh vực tiêu tốn ngân sách cần được cắt giảm.",
+      "B": "Là nền tảng tinh thần, nguồn lực và động lực nội sinh, năng lực sáng tạo, sức mạnh mềm cho phát triển.",
+      "C": "Chỉ là công cụ để quảng bá hình ảnh đất nước ra nước ngoài.",
+      "D": "Là yếu tố phụ trợ, chỉ phát triển mạnh sau khi kinh tế đã hoàn toàn ổn định."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 557,
-    "question": "Ba mặt dân chủ lớn mà Hội đồng quân nhân thực hiện ở cơ sở bao gồm những mặt nào?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, chỉ số chênh lệch thu nhập (GINI) phấn đấu duy trì ở mức nào vào năm 2030?",
     "options": {
-      "A": "Dân chủ về Quân sự - Chuyên môn; Dân chủ về Chính trị; Dân chủ về Kinh tế và Đời sống",
-      "B": "Dân chủ về thi đua; Dân chủ về kỷ luật; Dân chủ về phong trào",
-      "C": "Dân chủ về khen thưởng; Dân chủ về huấn luyện; Dân chủ về đi phép",
-      "D": "Dân chủ về công tác cán bộ; Dân chủ về trang phục; Dân chủ về tiền lương"
+      "A": "Dưới mức 0,35.",
+      "B": "Dưới mức 0,38.",
+      "C": "Dưới mức 0,40.",
+      "D": "Dưới mức 0,45."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 558,
-    "question": "Thực hiện tốt dân chủ trên mặt Quân sự - Chuyên môn nhằm mục đích gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, công tác bảo đảm an ninh con người cần chuyển mạnh từ tư duy nào sang tư duy nào?",
     "options": {
-      "A": "Phát huy sáng kiến, kinh nghiệm của cán bộ, chiến sĩ để nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu và thực hiện nhiệm vụ",
-      "B": "Tự ý biểu quyết hủy bỏ kế hoạch huấn luyện của cấp trên",
-      "C": "Để chiến sĩ tự chọn bài huấn luyện mình thích",
-      "D": "Bình bầu người chỉ huy thay thế khi thấy không thích"
+      "A": "Từ \"chủ động phòng ngừa\" sang \"ứng phó, xử lý\".",
+      "B": "Từ \"ứng phó, xử lý\" sang \"chủ động phòng ngừa, quản trị rủi ro, lấy chủ động phòng ngừa từ sớm, từ xa, từ cơ sở là cơ bản\".",
+      "C": "Từ \"quản lý nhà nước\" sang \"tự quản của cộng đồng\".",
+      "D": "Từ \"phòng ngừa\" sang \"xử lý nghiêm minh sau khi vi phạm\"."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 559,
-    "question": "Thực hiện dân chủ về Kinh tế và Đời sống trong đơn vị cơ sở được thể hiện rõ nhất ở việc gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, mục tiêu về tỷ lệ đô thị hóa cả nước đến năm 2030 là gì?",
     "options": {
-      "A": "Công khai tài chính, tiêu chuẩn ăn uống hàng ngày, chế độ quân trang, phúc lợi và tăng gia sản xuất cho toàn thể bộ đội cùng biết",
-      "B": "Chia tiền mặt trực tiếp cho từng người tự nấu ăn",
-      "C": "Cho phép bộ đội tự ý mang tiền riêng vào bếp ăn",
-      "D": "Bán các tài sản công để bổ sung quỹ sinh hoạt riêng"
+      "A": "Đạt trên 40%.",
+      "B": "Đạt trên 45%.",
+      "C": "Đạt trên 50%.",
+      "D": "Đạt trên 60%."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 560,
-    "question": "Ngày sinh hoạt chính trị văn hóa tinh thần hàng tháng tại đơn vị cơ sở có mục đích cốt lõi là gì?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, cơ quan nào được giao chủ trì, phối hợp thường xuyên tuyên truyền về việc triển khai, kết quả thực hiện Nghị quyết?",
     "options": {
-      "A": "Đối thoại dân chủ trực tiếp giữa chỉ huy và bộ đội, lắng nghe tâm tư nguyện vọng và giải quyết kịp thời các vướng mắc của chiến sĩ",
-      "B": "Tổ chức xem phim giải trí và ca múa nhạc",
-      "C": "Kiểm tra nhận thức chính trị bằng văn bản",
-      "D": "Tổ chức sinh nhật tập thể cho quân nhân trong tháng"
+      "A": "Ban Tuyên giáo và Dân vận Trung ương.",
+      "B": "Văn phòng Trung ương Đảng.",
+      "C": "Ban Kinh tế Trung ương.",
+      "D": "Hội đồng Lý luận Trung ương."
     },
     "answer": "A"
   },
   {
     "id": 561,
-    "question": "Nghị quyết Trung ương 4 khóa XII của Đảng đã chỉ ra bao nhiêu biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, \"tự diễn biến\", \"tự chuyển hóa\"?",
+    "question": "Theo Nghị quyết số 18-NQ/TW ngày 28/7/2026 về xây dựng xã hội kỷ cương, an toàn, văn minh, hài hoà, phát triển, việc xây dựng con người Việt Nam thời kỳ mới cần kết hợp chặt chẽ giữa những yếu tố nào?",
     "options": {
-      "A": "27 biểu hiện (9 biểu hiện về tư tưởng chính trị, 9 biểu hiện về đạo đức lối sống, 9 biểu hiện về \"tự diễn biến\", \"tự chuyển hóa\")",
-      "B": "20 biểu hiện",
-      "C": "25 biểu hiện",
-      "D": "30 biểu hiện"
+      "A": "Chỉ tập trung vào giáo dục tri thức và kỹ năng nghề nghiệp.",
+      "B": "Kết hợp chặt chẽ giữa pháp quyền, đạo đức và niềm tin xã hội, giữa \"xây\" và \"chống\", giữa giáo dục, thuyết phục với kỷ luật, kỷ cương và thượng tôn pháp luật.",
+      "C": "Ưu tiên phát triển thể chất và kỹ năng sinh tồn là chính.",
+      "D": "Tập trung vào đào tạo kỹ năng số và ngoại ngữ, bỏ qua các giá trị truyền thống."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 562,
-    "question": "Biểu hiện nào sau đây thuộc nhóm suy thoái về tư tưởng chính trị được Nghị quyết Trung ương 4 khóa XII chỉ ra?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, mục tiêu đến năm 2045 là gì?",
     "options": {
-      "A": "Phai nhạt lý tưởng cách mạng; dao động, giảm sút niềm tin vào mục tiêu độc lập dân tộc và chủ nghĩa xã hội",
-      "B": "Ăn mặc không đúng tác phong quy định",
-      "C": "Đi làm muộn về sớm trong giờ hành chính",
-      "D": "Không nhiệt tình tham gia hoạt động văn nghệ"
+      "A": "Trở thành nước đang phát triển có công nghiệp hiện đại.",
+      "B": "Hoàn thành chuyển đổi sang mô hình phát triển đất nước tự cường, sáng tạo, nhân văn, bền vững, hội nhập và trở thành quốc gia phát triển, thu nhập cao.",
+      "C": "Đạt mức thu nhập trung bình cao và cơ bản hoàn thành công nghiệp hóa.",
+      "D": "Trở thành trung tâm sản xuất thông minh hàng đầu châu Á."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 563,
-    "question": "Một trong những biểu hiện suy thoái về đạo đức, lối sống là gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, động lực chính của sự phát triển được xác định là gì?",
     "options": {
-      "A": "Chủ nghĩa cá nhân, sống ích kỷ, thực dụng, cơ hội, vụ lợi; ham danh vọng, vun vén lợi ích cho bản thân và gia đình",
-      "B": "Tự giác nhận việc khó về phần mình",
-      "C": "Giúp đỡ đồng chí đồng đội khi hoạn nạn",
-      "D": "Thực hành tiết kiệm, chống lãng phí trong sinh hoạt"
+      "A": "Vốn đầu tư nước ngoài và lao động giá rẻ.",
+      "B": "Tài nguyên thiên nhiên và vị trí địa lý thuận lợi.",
+      "C": "Khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và trí tuệ nhân tạo quốc gia.",
+      "D": "Mở rộng thị trường xuất khẩu các mặt hàng truyền thống."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 564,
-    "question": "Biểu hiện \"tự diễn biến\", \"tự chuyển hóa\" nguy hiểm nhất trong nội bộ là gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, mô hình phát triển mới được vận hành đồng bộ theo cơ chế nào?",
     "options": {
-      "A": "Phủ nhận chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và đường lối đổi mới của Đảng; đòi \"phi chính trị hóa\" lực lượng vũ trang",
-      "B": "Phê bình cấp trên trong các cuộc họp sinh hoạt đảng",
-      "C": "Đề xuất đổi mới phương pháp giảng dạy chính trị",
-      "D": "Thích nghe các bài hát cách mạng tiền chiến"
+      "A": "Nhà nước lãnh đạo, Đảng quản lý, Nhân dân làm chủ.",
+      "B": "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ.",
+      "C": "Thị trường quyết định, Nhà nước điều tiết, Xã hội giám sát.",
+      "D": "Doanh nghiệp dẫn dắt, Nhà nước hỗ trợ, Người dân thụ hưởng."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 565,
-    "question": "Âm mưu \"phi chính trị hóa\" Quân đội của các thế lực thù địch nhằm mục đích gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, mô hình kinh tế đến năm 2035 chuyển mạnh từ tăng trưởng chủ yếu dựa vào vốn, lao động, tài nguyên sang tăng trưởng dựa trên yếu tố nào?",
     "options": {
-      "A": "Tách Quân đội ra khỏi sự lãnh đạo tuyệt đối của Đảng, làm cho Quân đội mất phương hướng chính trị và mục tiêu chiến đấu",
-      "B": "Muốn Quân đội ta hiện đại hóa nhanh hơn",
-      "C": "Tăng cường giao lưu quân sự quốc tế cho Quân đội",
-      "D": "Giúp Quân đội tập trung hoàn toàn vào huấn luyện tác chiến"
+      "A": "Xuất khẩu tài nguyên và gia công lắp ráp.",
+      "B": "Khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và năng suất lao động cao.",
+      "C": "Thu hút tối đa vốn đầu tư trực tiếp nước ngoài (FDI).",
+      "D": "Mở rộng diện tích đất nông nghiệp và khai thác khoáng sản thô."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 566,
-    "question": "Chiến lược \"Diễn biến hòa bình\" của các thế lực thù địch chống phá cách mạng Việt Nam sử dụng biện pháp chủ yếu nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, quản trị phát triển xã hội chuyển từ phương thức quản lý hành chính truyền thống và xử lý hậu quả sang hướng nào?",
     "options": {
-      "A": "Dùng các thủ đoạn phi vũ trang kết hợp răn đe quân sự, thâm nhập, chuyển hóa nội bộ từ bên trong về tư tưởng, văn hóa, kinh tế, chính trị",
-      "B": "Tấn công hạt nhân quy mô lớn",
-      "C": "Bao vây phong tỏa đường biển toàn diện",
-      "D": "Phát động chiến tranh xâm lược chớp nhoáng"
+      "A": "Tăng cường kiểm soát chặt chẽ mọi hoạt động của người dân bằng biện pháp hành chính.",
+      "B": "Kết hợp hài hòa, hiệu quả với quản trị phát triển và kiến tạo xã hội chủ động, dựa trên dữ liệu, dự báo và phòng ngừa từ sớm, từ xa.",
+      "C": "Giao hoàn toàn cho khu vực tư nhân quản lý các dịch vụ xã hội cơ bản.",
+      "D": "Tập trung xử lý nghiêm các vi phạm sau khi sự việc đã xảy ra để răn đe."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 567,
-    "question": "Để đánh bại âm mưu \"Diễn biến hòa bình\" của các thế lực thù địch, biện pháp quan trọng hàng đầu của Quân đội là gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, văn hóa được xác định giữ vai trò gì trong mô hình phát triển mới?",
     "options": {
-      "A": "Xây dựng Quân đội vững mạnh về chính trị, nâng cao bản lĩnh chính trị, giữ vững trận địa tư tưởng của Đảng trong toàn quân",
-      "B": "Tăng cường mua sắm trang thiết bị điện tử mới",
-      "C": "Không cho bộ đội tiếp cận với thông tin bên ngoài",
-      "D": "Chờ đợi đối phương tự từ bỏ âm mưu"
+      "A": "Là lĩnh vực tiêu tốn ngân sách cần được cắt giảm để tập trung cho kinh tế; khi kinh tế phát triển mới tập trung cho văn hóa",
+      "B": "Là nền tảng tinh thần, nguồn lực và động lực nội sinh, năng lực sáng tạo, sức mạnh mềm cho phát triển.",
+      "C": "Chỉ là công cụ để quảng bá hình ảnh đất nước ra nước ngoài.",
+      "D": "Là yếu tố phụ trợ, chỉ phát triển mạnh sau khi kinh tế đã hoàn toàn ổn định."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 568,
@@ -749,354 +749,354 @@
   },
   {
     "id": 569,
-    "question": "Khi phát hiện các trang tin, tài khoản mạng xã hội đăng tải nội dung vu khống lãnh đạo Đảng, Nhà nước hoặc nói xấu Quân đội, quân nhân phải làm gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, công nghiệp quốc phòng, an ninh được phát triển theo hướng nào?",
     "options": {
-      "A": "Không like, không chia sẻ, thực hiện tính năng báo cáo xấu (report) và báo cáo cơ quan chức năng để có biện pháp xử lý",
-      "B": "Tải về máy điện thoại để gửi cho bạn bè cùng xem",
-      "C": "Vào bình luận chửi bới vô văn hóa",
-      "D": "Chia sẻ lên trang cá nhân để cảnh báo rộng rãi"
+      "A": "Phụ thuộc hoàn toàn vào nhập khẩu vũ khí, trang thiết bị hiện đại từ nước ngoài.",
+      "B": "Chủ động, tự lực, tự cường, tự chủ chiến lược, lưỡng dụng, hiện đại với sự tham gia phù hợp của khu vực tư nhân trong nước.",
+      "C": "Chỉ tập trung sản xuất các mặt hàng dân sự thông thường để xuất khẩu.",
+      "D": "Giải thể các doanh nghiệp quốc phòng để chuyển sang mô hình kinh tế thị trường thuần túy."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 570,
-    "question": "Lực lượng 47 trong Quân đội nhân dân Việt Nam có nhiệm vụ trọng tâm là gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, lĩnh vực nào được xác định là trọng tâm trong hoạt động đối ngoại?",
     "options": {
-      "A": "Tham gia đấu tranh bảo vệ nền tảng tư tưởng của Đảng, phản bác các quan điểm sai trái, thù địch trên không gian mạng",
-      "B": "Chuyên trách công tác cứu hộ, cứu nạn thiên tai",
-      "C": "Huấn luyện chiến sĩ mới nhập ngũ hàng năm",
-      "D": "Quản lý tài chính và trang thiết bị vật tư"
+      "A": "Ngoại giao văn hóa.",
+      "B": "Ngoại giao kinh tế.",
+      "C": "Ngoại giao quốc phòng.",
+      "D": "Ngoại giao môi trường."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 571,
-    "question": "Lời thề thứ ba trong 10 Lời thề danh dự của quân nhân yêu cầu thái độ đối với tài sản của Nhà nước và vũ khí trang bị như thế nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, khâu đột phá về thể chế và quản trị quốc gia yêu cầu chuyển từ tư duy nào sang tư duy nào?",
     "options": {
-      "A": "Tuyệt đối trung thành, hết lòng bảo vệ tài sản của quân đội và nhân dân, giữ gìn vũ khí trang bị tốt, bền, an toàn, tiết kiệm",
-      "B": "Được phép sử dụng vũ khí vào mục đích cá nhân khi cần",
-      "C": "Thanh lý vũ khí cũ để mua trang bị mới tự do",
-      "D": "Coi tài sản của đơn vị là tài sản chung muốn dùng sao cũng được"
+      "A": "Từ \"kiến tạo, dẫn dắt\" sang \"quản lý, kiểm soát\".",
+      "B": "Từ \"quản lý, kiểm soát\" sang \"kiến tạo, dẫn dắt phát triển\".",
+      "C": "Từ \"phân cấp, phân quyền\" sang \"tập trung, tập quyền\".",
+      "D": "Từ \"dựa trên dữ liệu\" sang \"dựa trên kinh nghiệm chủ quan\"."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 572,
-    "question": "Lời thề thứ sáu trong 10 Lời thề danh dự của quân nhân quy định về tinh thần chiến đấu như thế nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, yếu tố nào được xác định là tư liệu sản xuất mới và tài nguyên chiến lược?",
     "options": {
-      "A": "Khi tiếp xúc với quân địch thì kiên quyết chiến đấu đến giọt máu cuối cùng, không đầu hàng, không để bị bắt sống, không làm mất danh dự quân đội",
-      "B": "Tìm mọi cách thương lượng với kẻ thù để bảo toàn tính mạng",
-      "C": "Rút lui ngay khi thấy đối phương hỏa lực mạnh hơn",
-      "D": "Chỉ đánh khi có lệnh của cấp trên trực tiếp"
+      "A": "Đất đai.",
+      "B": "Vốn.",
+      "C": "Dữ liệu.",
+      "D": "Lao động phổ thông."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 573,
-    "question": "Lời thề thứ tám trong 10 Lời thề danh dự của quân nhân thể hiện tinh thần quốc tế như thế nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, ngành công nghiệp nào sau đây được ưu tiên phát triển thành ngành công nghiệp nền tảng, cốt lõi?",
     "options": {
-      "A": "Xây dựng tinh thần quốc tế vô sản cao cả, đoàn kết, giúp đỡ nhân dân và quân đội các nước anh em vì hòa bình, tiến bộ xã hội",
-      "B": "Chỉ tập trung bảo vệ lợi ích cục bộ của quốc gia mình",
-      "C": "Tham gia các liên minh quân sự khi có lợi ích kinh tế",
-      "D": "Từ chối các hoạt động gìn giữ hòa bình quốc tế"
+      "A": "Công nghiệp dệt may, da giày.",
+      "B": "Công nghiệp vật liệu.",
+      "C": "Công nghiệp khai khoáng thô.",
+      "D": "Công nghiệp lắp ráp đơn giản."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 574,
-    "question": "Điểm thứ nhất trong 12 Điều kỷ luật khi quan hệ với nhân dân yêu cầu quân nhân phải làm gì khi vào nhà dân?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, hệ thống y tế được chuyển dịch từ mô hình nào sang mô hình nào?",
     "options": {
-      "A": "Không tự ý vào nhà dân khi chưa được phép; không làm phiền lòng dân; tôn trọng phong tục tập quán của địa phương",
-      "B": "Có thể nghỉ ngơi tự do ở bất cứ đâu trong làng",
-      "C": "Yêu cầu gia đình nấu cơm chiêu đãi bộ đội",
-      "D": "Tự do sử dụng đồ dùng của gia đình khi thấy cần thiết"
+      "A": "Từ \"phòng bệnh\" sang \"chữa bệnh\".",
+      "B": "Từ \"chữa bệnh\" sang \"phòng bệnh và chăm sóc sức khỏe toàn diện\".",
+      "C": "Từ \"công lập\" sang hoàn toàn \"tư nhân hóa\".",
+      "D": "Từ \"chăm sóc sức khỏe ban đầu\" sang \"chuyên sâu\"."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 575,
-    "question": "Điểm thứ hai trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu gì về tài sản?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, tư duy về dân số được chuyển căn bản từ quản lý quy mô, cơ cấu sang phát triển cái gì?",
     "options": {
-      "A": "Mua bán công bằng sòng phẳng, mượn đồ phải trả, làm hỏng phải đền, tuyệt đối không lấy của dân dù chỉ một cây kim sợi chỉ",
-      "B": "Có thể mượn đồ của dân dùng lâu dài mà không cần hỏi",
-      "C": "Ép dân bán hàng với giá rẻ cho đơn vị",
-      "D": "Tự ý chặt cây cối của dân để ngụy trang mà không xin phép"
+      "A": "Vốn dân số quốc gia.",
+      "B": "Mật độ dân số đô thị.",
+      "C": "Tỷ lệ sinh thay thế.",
+      "D": "Di cư lao động ra nước ngoài."
     },
     "answer": "A"
   },
   {
     "id": 576,
-    "question": "Điểm thứ tư trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu quân nhân có thái độ giao tiếp thế nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, cơ chế huy động, phân bổ và sử dụng nguồn lực quốc gia chuyển từ tư duy phân bổ sang tư duy nào?",
     "options": {
-      "A": "Nói năng lễ phép, nhã nhặn, khiêm tốn; kính già, yêu trẻ, tôn trọng phụ nữ, đoàn kết thanh niên",
-      "B": "Nói to, gắt gỏng để thể hiện oai phong của quân đội",
-      "C": "Xưng hô trịch thượng như người bề trên",
-      "D": "Làm ngơ không chào hỏi khi gặp người lớn tuổi"
+      "A": "Tư duy kiểm soát chặt chẽ, không để lỗ hổng.",
+      "B": "Tư duy kiến tạo, phát huy hiệu quả nguồn lực.",
+      "C": "Tư duy bao cấp, hỗ trợ trực tiếp.",
+      "D": "Tư duy bình quân, cào bằng."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 577,
-    "question": "Điểm thứ mười một trong 12 Điều kỷ luật khi quan hệ với nhân dân nhấn mạnh việc bảo vệ bí mật quân sự như thế nào?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, trong việc tái cấu trúc hệ sinh thái đổi mới sáng tạo quốc gia, ai được xác định là trung tâm?",
     "options": {
-      "A": "Tuyệt đối giữ bí mật quân sự, bí mật nhà nước, không nói lộ tên đơn vị, vị trí đóng quân, trang bị vũ khí cho người không có trách nhiệm",
-      "B": "Được phép kể chuyện đơn vị cho bạn bè nghe để tự hào",
-      "C": "Chia sẻ số lượng xe tăng máy bay của đơn vị trên mạng",
-      "D": "Cho người thân vào xem khu vực chỉ huy tác chiến"
+      "A": "Các viện nghiên cứu.",
+      "B": "Doanh nghiệp.",
+      "C": "Cơ quan nhà nước.",
+      "D": "Các trường đại học."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 578,
-    "question": "Phong trào thi đua \"Dân vận khéo\", xây dựng \"Đơn vị dân vận tốt\" trong Quân đội hướng tới mục đích gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, tư duy xây dựng pháp luật cần chấm dứt tư duy nào?",
     "options": {
-      "A": "Tăng cường mối quan hệ đoàn kết gắn bó máu thịt giữa quân đội với nhân dân, củng cố vững chắc \"thế trận lòng dân\"",
-      "B": "Để quay phim chụp ảnh tuyên truyền cho đơn vị",
-      "C": "Để được địa phương hỗ trợ kinh phí hoạt động",
-      "D": "Thực hiện thay thế chức năng của các cơ quan dân sự"
+      "A": "\"Không quản được thì cấm\".",
+      "B": "\"Mở đường, khơi thông mọi nguồn lực\".",
+      "C": "\"Đúng trên mảnh đất thực tiễn của Việt Nam\".",
+      "D": "\"Tiếp thu có chọn lọc giá trị tinh hoa của nhân loại\"."
     },
     "answer": "A"
   },
   {
     "id": 579,
-    "question": "Chương trình \"Cảnh sát biển đồng hành với ngư dân\" hoặc \"Hải quân làm điểm tựa cho ngư dân vươn khơi bám biển\" nhằm mục đích gì?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, không gian phát triển quốc gia được tổ chức lại theo hướng nào?",
     "options": {
-      "A": "Hỗ trợ ngư dân cứu nạn, bảo vệ ngư dân trên các ngư trường truyền thống, góp phần khẳng định và bảo vệ chủ quyền biển đảo",
-      "B": "Thu phí bảo hiểm của các tàu đánh cá",
-      "C": "Quản lý việc bán hải sản của ngư dân",
-      "D": "Bắt buộc ngư dân phải báo cáo vị trí hàng giờ"
+      "A": "Phát triển thuần túy theo địa giới hành chính.",
+      "B": "Đa tầng, đa cực, liên kết đồng bộ đất liền - vùng biển - vùng trời - lòng đất - không gian số.",
+      "C": "Tập trung toàn bộ nguồn lực vào các đô thị lớn, bỏ qua nông thôn.",
+      "D": "Phát triển riêng lẻ, không có sự liên kết giữa các vùng."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 580,
-    "question": "Mô hình \"Con nuôi đồn Biên phòng\" và chương trình \"Nâng bước em tới trường\" thể hiện phẩm chất cao đẹp nào của Bộ đội Cụ Hồ?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, cơ quan nào được giao chủ trì phối hợp theo dõi, hướng dẫn, đôn đốc, kiểm tra, giám sát kết quả thực hiện Nghị quyết?",
     "options": {
-      "A": "Lòng nhân ái, sự sẻ chia, trách nhiệm và tình cảm gắn bó sâu nặng của người lính biên cương với đồng bào các dân tộc thiểu số",
-      "B": "Nhiệm vụ huấn luyện bắt buộc của Bộ Chỉ huy Biên phòng",
-      "C": "Phong trào từ thiện mang tính thời vụ",
-      "D": "Hình thức tìm kiếm nhân lực bổ sung cho quân đội"
+      "A": "Ban Tuyên giáo và Dân vận Trung ương.",
+      "B": "Ban Tổ chức Trung ương.",
+      "C": "Ban Chính sách, chiến lược Trung ương.",
+      "D": "Ủy ban Kiểm tra Trung ương."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 581,
-    "question": "Năm 2026 là năm tiến hành sự kiện chính trị trọng đại nào của Đảng và đất nước ta?",
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, tầm nhìn đến năm 2130, Việt Nam trở thành quốc gia như thế nào?",
     "options": {
-      "A": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng và Bầu cử đại biểu Quốc hội khóa XVI, đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031",
-      "B": "Kỷ niệm 100 năm ngày thành lập Đảng",
-      "C": "Đại hội Thi đua yêu nước toàn quốc lần thứ XII",
-      "D": "Hội nghị thượng đỉnh APEC lần thứ tư tại Việt Nam"
+      "A": "Quốc gia đang phát triển có thu nhập trung bình.",
+      "B": "Quốc gia xã hội chủ nghĩa phát triển trình độ cao, văn minh, hiện đại, bản sắc, có năng lực sáng tạo và sức sống trường tồn.",
+      "C": "Quốc gia chủ yếu dựa vào xuất khẩu tài nguyên thô và lao động.",
+      "D": "Quốc gia có quy mô dân số lớn nhất khu vực Đông Nam Á."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 582,
-    "question": "Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp được tiến hành theo những nguyên tắc nào?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tổng GRDP của các tỉnh, thành phố ven biển đóng góp vào GDP cả nước phấn đấu đạt mức nào vào năm 2030?",
     "options": {
-      "A": "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
-      "B": "Dân chủ, công khai, gián tiếp và hiệp thương",
-      "C": "Tập trung dân chủ, chỉ định và biểu quyết công khai",
-      "D": "Đại diện, ưu tiên, tự do và bỏ phiếu hở"
+      "A": "Trên 50%",
+      "B": "Trên 60%",
+      "C": "Trên 70%",
+      "D": "Trên 80%"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 583,
-    "question": "Theo Hiến pháp năm 2013, công dân Việt Nam đủ bao nhiêu tuổi thì có quyền bầu cử Quốc hội và Hội đồng nhân dân?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, chi phí logistics phấn đấu giảm còn dưới mức nào vào năm 2030?",
     "options": {
-      "A": "Đủ 18 tuổi trở lên",
-      "B": "Đủ 20 tuổi trở lên",
-      "C": "Đủ 21 tuổi trở lên",
-      "D": "Đủ 16 tuổi trở lên"
+      "A": "10% GDP",
+      "B": "12% GDP",
+      "C": "15% GDP",
+      "D": "18% GDP"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 584,
-    "question": "Công dân Việt Nam đủ bao nhiêu tuổi thì có quyền ứng cử vào Quốc hội và Hội đồng nhân dân các cấp?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tư duy phát triển cần chuyển mạnh theo hướng nào?",
     "options": {
-      "A": "Đủ 21 tuổi trở lên",
-      "B": "Đủ 18 tuổi trở lên",
-      "C": "Đủ 25 tuổi trở lên",
-      "D": "Đủ 30 tuổi trở lên"
+      "A": "Từ khai thác biển sang quản trị biển hiện đại, tổng hợp, thống nhất.",
+      "B": "Từ quản lý nhà nước sang tư nhân hóa hoàn toàn các hoạt động biển.",
+      "C": "Từ phát triển ven biển sang chỉ tập trung phát triển hải đảo.",
+      "D": "Từ tự chủ sang phụ thuộc vào đầu tư nước ngoài."
     },
     "answer": "A"
   },
   {
     "id": 585,
-    "question": "Trách nhiệm của mỗi cán bộ, chiến sĩ Quân đội khi tham gia bầu cử đại biểu Quốc hội và HĐND các cấp là gì?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, mục tiêu phát triển các dự án điện gió ngoài khơi có công suất bao nhiêu vào năm 2030?",
     "options": {
-      "A": "Nghiên cứu kỹ danh sách ứng cử viên, sáng suốt lựa chọn người đủ đức, đủ tài, tự mình bỏ phiếu theo đúng quy định pháp luật",
-      "B": "Nhờ đồng đội bỏ phiếu hộ cho nhanh",
-      "C": "Bỏ phiếu theo sự hướng dẫn miệng của người khác mà không cần đọc tiểu sử",
-      "D": "Bỏ phiếu trắng để phản đối"
+      "A": "2-4 GW",
+      "B": "4-6 GW",
+      "C": "6-10 GW",
+      "D": "10-15 GW"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 586,
-    "question": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí, chức năng gì?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tỷ trọng nuôi biển trong tổng giá trị sản xuất thủy sản phấn đấu đạt mức nào vào năm 2030?",
     "options": {
-      "A": "Là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất, thực hiện quyền lập hiến, lập pháp, giám sát tối cao và quyết định các vấn đề quan trọng của đất nước",
-      "B": "Là cơ quan hành chính nhà nước cao nhất",
-      "C": "Là cơ quan xét xử cao nhất trong hệ thống tư pháp",
-      "D": "Là cơ quan thanh tra kiểm tra tối cao của Chính phủ"
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 587,
-    "question": "Hội đồng nhân dân là cơ quan có vị trí như thế nào ở địa phương?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, đến năm 2030 phấn đấu hoàn thành bao nhiêu phần trăm tuyến đường bộ ven biển theo quy hoạch?",
     "options": {
-      "A": "Là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương",
-      "B": "Là cơ quan chấp hành của Ủy ban nhân dân",
-      "C": "Là cơ quan tư pháp độc lập tại địa phương",
-      "D": "Là tổ chức xã hội nghề nghiệp tự quản"
+      "A": "80%",
+      "B": "90%",
+      "C": "95%",
+      "D": "100%"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 588,
-    "question": "Ủy ban nhân dân ở các cấp do cơ quan nào bầu ra?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, động lực chính cho phát triển quốc gia biển mạnh được xác định là gì?",
     "options": {
-      "A": "Do Hội đồng nhân dân cùng cấp bầu ra, là cơ quan chấp hành của HĐND, cơ quan hành chính nhà nước ở địa phương",
-      "B": "Do Nhân dân trực tiếp bỏ phiếu bầu",
-      "C": "Do cơ quan công an địa phương bổ nhiệm",
-      "D": "Do Tòa án nhân dân cấp tỉnh chỉ định"
+      "A": "Tài nguyên thiên nhiên và lao động giá rẻ.",
+      "B": "Khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và nguồn nhân lực chất lượng cao.",
+      "C": "Vốn đầu tư trực tiếp nước ngoài (FDI).",
+      "D": "Xuất khẩu tài nguyên khoáng sản thô."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 589,
-    "question": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam có quyền hạn gì trong lĩnh vực quốc phòng, an ninh?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, diện tích các khu bảo tồn biển, ven biển đạt tối thiểu bao nhiêu phần trăm diện tích tự nhiên vùng biển quốc gia vào năm 2030?",
     "options": {
-      "A": "Thống lĩnh Lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng Quốc phòng và An ninh",
-      "B": "Trực tiếp chỉ huy các chiến dịch tác chiến quân sự",
-      "C": "Bổ nhiệm tất cả các chức danh chỉ huy cấp sư đoàn trở xuống",
-      "D": "Quyết định chi tiêu ngân sách quốc phòng hàng năm"
+      "A": "4%",
+      "B": "5%",
+      "C": "6%",
+      "D": "8%"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 590,
-    "question": "Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí gì?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, ngành kinh tế nào được xác định là trụ cột quan trọng của kinh tế biển, tạo tiền đề để Việt Nam vươn lên trở thành cường quốc hàng hải?",
     "options": {
-      "A": "Là cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội",
-      "B": "Là cơ quan quyền lực nhà nước cao nhất",
-      "C": "Là cơ quan giám sát tối cao việc tuân theo pháp luật",
-      "D": "Là cơ quan điều tra tội phạm quốc gia"
+      "A": "Kinh tế hàng hải.",
+      "B": "Khai thác dầu khí.",
+      "C": "Du lịch biển, đảo.",
+      "D": "Nuôi trồng thủy sản."
     },
     "answer": "A"
   },
   {
     "id": 591,
-    "question": "Tòa án nhân dân là cơ quan thực hiện quyền gì trong bộ máy nhà nước ta?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tốc độ tăng trưởng tổng thu du lịch biển, đảo bình quân phấn đấu đạt mức nào vào năm 2030?",
     "options": {
-      "A": "Thực hiện quyền tư pháp, bảo vệ công lý, bảo vệ quyền con người, quyền công dân, chế độ XHCN",
-      "B": "Thực hiện quyền lập pháp",
-      "C": "Thực hiện quyền hành pháp",
-      "D": "Thực hiện quyền kiểm toán nhà nước"
+      "A": "10%/năm",
+      "B": "12%/năm",
+      "C": "14%/năm",
+      "D": "16%/năm"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 592,
-    "question": "Viện kiểm sát nhân dân có chức năng cơ bản nào sau đây?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, mục tiêu đến năm 2030 đối với chất thải nhựa ven biển là gì?",
     "options": {
-      "A": "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
-      "B": "Xét xử các vụ án hình sự và dân sự",
-      "C": "Thi hành các bản án đã có hiệu lực pháp luật",
-      "D": "Giữ gìn trật tự an toàn giao thông đô thị"
+      "A": "Giảm 50% lượng thải ra.",
+      "B": "Thu gom, xử lý 100%.",
+      "C": "Tái chế 80%.",
+      "D": "Cấm hoàn toàn sản xuất nhựa dùng một lần."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 593,
-    "question": "Mặt trận Tổ quốc Việt Nam là gì trong hệ thống chính trị nước ta?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, lực lượng nào được xác định là nòng cốt, kiểu mẫu, làm chỗ dựa cho phát triển đội tàu cá hiện đại và bảo vệ, hỗ trợ ngư dân bám biển dài ngày?",
     "options": {
-      "A": "Là cơ sở chính trị của chính quyền nhân dân, đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợp khối đại đoàn kết toàn dân tộc",
-      "B": "Là cơ quan trực thuộc quyền quản lý của Chính phủ",
-      "C": "Là tổ chức kinh tế phi chính phủ",
-      "D": "Là cơ quan ban hành các văn bản quy phạm pháp luật"
+      "A": "Hải quân nhân dân Việt Nam.",
+      "B": "Cảnh sát biển Việt Nam.",
+      "C": "Dân quân biển, hải đội dân quân thường trực.",
+      "D": "Bộ đội Biên phòng."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 594,
-    "question": "Đoàn Thanh niên Cộng sản Hồ Chí Minh trong Quân đội có vị trí, vai trò như thế nào?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tỷ lệ số hóa, tích hợp và chia sẻ dữ liệu tài nguyên, môi trường, hạ tầng và hoạt động biển trong hệ thống quản lý nhà nước đạt mức nào vào năm 2030?",
     "options": {
-      "A": "Là trường học xã hội chủ nghĩa của thanh niên quân đội, lực lượng xung kích, đi đầu trong thực hiện mọi nhiệm vụ huấn luyện, SSCĐ, học tập và rèn luyện",
-      "B": "Là tổ chức vui chơi giải trí đơn thuần cho chiến sĩ trẻ",
-      "C": "Là tổ chức quản lý hành chính đối với hạ sĩ quan, binh sĩ",
-      "D": "Là đơn vị phụ trách hậu cần đời sống cho bộ đội"
+      "A": "80%",
+      "B": "90%",
+      "C": "95%",
+      "D": "100%"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 595,
-    "question": "Phong trào thi đua \"Thanh niên Quân đội rèn đức, luyện tài, xung kích, sáng tạo, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới có ý nghĩa gì?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, chủ thể trực tiếp tham gia xây dựng và bảo vệ Tổ quốc từ hướng biển được xác định là ai?",
     "options": {
-      "A": "Cổ vũ tuổi trẻ quân đội cống hiến tài năng, trí tuệ, làm chủ vũ khí trang bị kỹ thuật hiện đại, hoàn thành xuất sắc nhiệm vụ",
-      "B": "Tổ chức các chuyến dã ngoại cho đoàn viên thanh niên",
-      "C": "Phát động thi đua tăng gia sản xuất thu tiền mặt",
-      "D": "Tìm kiếm các tài năng âm nhạc trong quân đội"
+      "A": "Các doanh nghiệp nhà nước.",
+      "B": "Ngư dân, cư dân biển.",
+      "C": "Lực lượng vũ trang.",
+      "D": "Các nhà khoa học."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 596,
-    "question": "Công đoàn Quốc phòng là tổ chức đại diện cho đối tượng nào trong Quân đội?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, tỷ lệ lao động qua đào tạo có bằng cấp, chứng chỉ, có kỹ năng trong các ngành, nghề, lĩnh vực biển phấn đấu đạt trên mức nào vào năm 2030?",
     "options": {
-      "A": "Công nhân, viên chức quốc phòng và người lao động làm việc trong các doanh nghiệp, cơ quan, đơn vị quân đội",
-      "B": "Tất cả hạ sĩ quan, binh sĩ nhập ngũ hàng năm",
-      "C": "Sĩ quan chỉ huy các cấp trong toàn quân",
-      "D": "Lực lượng dự bị động viên tại địa phương"
+      "A": "35%",
+      "B": "40%",
+      "C": "45%",
+      "D": "50%"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 597,
-    "question": "Hội Phụ nữ trong Quân đội nhân dân Việt Nam có phong trào thi đua tiêu biểu nào?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, nội dung cốt lõi, mang tính đột phá trong hoàn thiện thể chế phát triển quốc gia biển mạnh là gì?",
     "options": {
-      "A": "\"Phụ nữ Quân đội trí tuệ - bản lĩnh, hoàn thành tốt nhiệm vụ, xây dựng gia đình hạnh phúc, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới",
-      "B": "Phụ nữ làm kinh tế giỏi",
-      "C": "Phụ nữ đảm đang việc nhà giỏi việc nước",
-      "D": "Nuôi con khỏe, dạy con ngoan trong doanh trại"
+      "A": "Tăng cường đầu tư công.",
+      "B": "Đổi mới quản trị không gian biển quốc gia.",
+      "C": "Thu hút tối đa vốn FDI.",
+      "D": "Mở rộng diện tích khai thác hải sản."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 598,
-    "question": "Vai trò của công tác thi đua, khen thưởng trong Quân đội nhân dân Việt Nam là gì?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, mục tiêu đến năm 2030 sẽ hình thành bao nhiêu trung tâm kinh tế biển mạnh?",
     "options": {
-      "A": "Tạo động lực tinh thần to lớn, biểu dương, nhân rộng các điển hình tiên tiến, thúc đẩy các tập thể, cá nhân vươn lên hoàn thành xuất sắc nhiệm vụ",
-      "B": "Để xét nâng lương nhanh cho cán bộ chỉ huy",
-      "C": "Tổ chức các buổi liên hoan gặp mặt cuối năm",
-      "D": "Để chia tiền thưởng cho các cơ quan, đơn vị"
+      "A": "3-4 trung tâm",
+      "B": "5-6 trung tâm",
+      "C": "7-8 trung tâm",
+      "D": "9-10 trung tâm"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 599,
-    "question": "Danh hiệu cao quý \"Đơn vị Quyết thắng\" được trao tặng cho những tập thể nào trong phong trào Thi đua Quyết thắng?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, ngành, lĩnh vực biển mới nào sau đây được ưu tiên phát triển mạnh?",
     "options": {
-      "A": "Tập thể cơ sở hoặc đơn vị trực thuộc đạt thành tích xuất sắc toàn diện, tiêu biểu dẫn đầu trong phong trào thi đua năm đó",
-      "B": "Tất cả các đơn vị không có ai bị kỷ luật",
-      "C": "Đơn vị có doanh thu làm kinh tế cao nhất",
-      "D": "Đơn vị có số lượng học viên đông nhất"
+      "A": "Khai thác cát lòng sông.",
+      "B": "Nuôi biển công nghệ cao, y-dược biển, công nghệ sinh học biển, khử mặn nước biển, điện sóng, hydro và amoniac xanh.",
+      "C": "Đánh bắt hải sản ven bờ truyền thống.",
+      "D": "Khai thác dầu khí bằng phương pháp thủ công."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 600,
-    "question": "Danh hiệu \"Chiến sĩ thi đua toàn quân\" được xét tặng cho đối tượng nào?",
+    "question": "Theo Nghị quyết số 20-NQ/TW ngày 28/7/2026 về xây dựng và phát triển Việt Nam trở thành quốc gia biển mạnh, cơ quan nào được giao chủ trì, phối hợp với Văn phòng Trung ương Đảng, Ủy ban Kiểm tra Trung ương và các cơ quan liên quan thường xuyên theo dõi, kiểm tra, đôn đốc, sơ kết, tổng kết và định kỳ báo cáo kết quả thực hiện Nghị quyết?",
     "options": {
-      "A": "Cá nhân có thành tích tiêu biểu xuất sắc, có sáng kiến, giải pháp công tác hiệu quả và đạt danh hiệu Chiến sĩ thi đua cơ sở 3 lần liên tục",
-      "B": "Chiến sĩ mới hoàn thành tốt khóa huấn luyện",
-      "C": "Quân nhân có thời gian công tác từ 10 năm trở lên",
-      "D": "Tất cả cán bộ đạt chuẩn sức khỏe loại 1"
+      "A": "Ban Tuyên giáo và Dân vận Trung ương.",
+      "B": "Ban Chính sách, chiến lược Trung ương.",
+      "C": "Ban Tổ chức Trung ương.",
+      "D": "Ban Kinh tế Trung ương."
     },
-    "answer": "A"
+    "answer": "B"
   }
 ]

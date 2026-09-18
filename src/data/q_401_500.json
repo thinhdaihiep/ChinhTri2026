@@ -1,234 +1,234 @@
 [
-  {
+{
     "id": 401,
-    "question": "Nhiệm vụ, quyền hạn nào sau đây của Thanh tra Bộ Quốc phòng được quy định tại Điều 4 Nghị định số 284/2025/NĐ-CP?",
+    "question": "Trong hoạt động thanh tra, Thanh tra Bộ Quốc phòng có nhiệm vụ, quyền hạn nào đối với các doanh nghiệp trong Quân đội?",
     "options": {
-      "A": "Xây dựng dự thảo văn bản quy phạm pháp luật về thanh tra quốc phòng để Bộ trưởng trình cấp có thẩm quyền.",
-      "B": "Quyết định khởi tố các vụ án hình sự liên quan đến cán bộ cấp cao trong Quân đội nhân dân Việt Nam.",
-      "C": "Trực tiếp ban hành các văn bản quy phạm pháp luật để áp dụng trong toàn lực lượng vũ trang nhân dân.",
-      "D": "Thay mặt Bộ trưởng Bộ Quốc phòng ký ban hành các Quyết định phê chuẩn quy hoạch đất đai quốc phòng."
+      "A": "Thanh tra đối với các doanh nghiệp do Bộ trưởng quyết định thành lập hoặc được giao trực tiếp quản lý.",
+      "B": "Không có thẩm quyền thanh tra doanh nghiệp quân đội mà giao toàn bộ cho Thanh tra Bộ Tài chính thực hiện.",
+      "C": "Chỉ thanh tra khi có yêu cầu bằng văn bản của Cơ quan Điều tra hình sự Bộ Quốc phòng gửi đề nghị.",
+      "D": "Chỉ thanh tra các doanh nghiệp quân đội hoạt động thuần túy trong lĩnh vực sản xuất kinh tế thương mại."
     },
     "answer": "A"
   },
   {
     "id": 402,
-    "question": "Theo Nghị định số 284/2025/NĐ-CP, việc thanh tra lại vụ việc đã được kết luận tại đơn vị trực thuộc BQP được thực hiện khi nào?",
+    "question": "Thanh tra Bộ Quốc phòng có thẩm quyền gì đối với các kết luận thanh tra do Chánh Thanh tra Quân khu ban hành khi cần thiết?",
     "options": {
-      "A": "Thực hiện khi phát hiện có dấu hiệu vi phạm pháp luật trong quá trình kết luận hoặc giải quyết trước đó.",
-      "B": "Thực hiện định kỳ hàng năm đối với tất cả các kết luận thanh tra do cấp dưới ban hành để rà soát lại.",
-      "C": "Chỉ thực hiện khi có đơn khiếu nại vượt cấp của đối tượng thanh tra gửi trực tiếp lên Thanh tra Chính phủ.",
-      "D": "Chỉ thực hiện khi có yêu cầu bằng văn bản của Viện kiểm sát quân sự Trung ương hoặc Tòa án quân sự."
+      "A": "Kiểm tra tính chính xác, hợp pháp của các kết luận thanh tra và quyết định xử lý sau thanh tra đó.",
+      "B": "Trực tiếp hủy bỏ ngay lập tức mà không cần thông qua trình tự kiểm tra hay xác minh lại nội dung.",
+      "C": "Yêu cầu Chánh Thanh tra Chính phủ ra quyết định thay thế kết luận thanh tra của Chánh Thanh tra Quân khu.",
+      "D": "Báo cáo Tòa án Quân sự Trung ương để tiến hành thủ tục hủy bỏ kết luận thanh tra theo thẩm quyền tư pháp."
     },
     "answer": "A"
   },
   {
     "id": 403,
-    "question": "Theo Nghị định số 284/2025/NĐ-CP, Thanh tra quốc phòng Quân khu chịu sự quản lý, chỉ đạo trực tiếp của ai?",
+    "question": "Chánh Thanh tra Bộ Quốc phòng có quyền hạn nào sau đây đối với các văn bản, quy định trái pháp luật phát hiện qua thanh tra?",
     "options": {
-      "A": "Chịu sự quản lý, chỉ đạo trực tiếp của Tư lệnh Quân khu và chỉ đạo nghiệp vụ của Thanh tra Bộ Quốc phòng.",
-      "B": "Chịu sự quản lý trực tiếp của Tổng Thanh tra Chính phủ và hướng dẫn nghiệp vụ của Tư lệnh Quân khu.",
-      "C": "Chịu sự quản lý hoàn toàn độc lập của Đảng ủy Quân khu, không chịu sự chỉ đạo của cơ quan thanh tra cấp trên.",
-      "D": "Chịu sự quản lý, chỉ đạo trực tiếp của Chủ tịch Ủy ban nhân dân các tỉnh nằm trên địa bàn quân khu."
+      "A": "Kiến nghị Bộ trưởng Bộ Quốc phòng đình chỉ thi hành quyết định trái pháp luật trong lĩnh vực quản lý.",
+      "B": "Trực tiếp ban hành quyết định hủy bỏ tất cả các văn bản quy phạm pháp luật của các Bộ, ngành có liên quan.",
+      "C": "Báo cáo Chủ tịch nước để ban hành Lệnh bãi bỏ văn bản trái pháp luật của các cơ quan quản lý nhà nước.",
+      "D": "Quyết định xử phạt vi phạm hành chính hình thức phạt tù đối với người ban hành văn bản trái pháp luật."
     },
     "answer": "A"
   },
   {
     "id": 404,
-    "question": "Thanh tra Bộ Tư lệnh Thủ đô Hà Nội có nhiệm vụ gì theo quy định tại Nghị định số 284/2025/NĐ-CP?",
+    "question": "Thanh tra Quân khu là cơ quan có vị trí và chức năng như thế nào theo Điều 9 Nghị định số 284/2025/NĐ-CP?",
     "options": {
-      "A": "Thanh tra việc chấp hành pháp luật quốc phòng của cơ quan, đơn vị, địa phương thuộc quyền BTL Thủ đô Hà Nội.",
-      "B": "Thanh tra toàn bộ hoạt động tài chính, ngân sách của Ủy ban nhân dân thành phố Hà Nội và các quận, huyện.",
-      "C": "Thanh tra việc thực hiện công tác bảo đảm trật tự an toàn giao thông của Công an thành phố Hà Nội.",
-      "D": "Thanh tra công tác quản lý đất đai và quy hoạch đô thị của các doanh nghiệp bất động sản trên địa bàn."
+      "A": "Là cơ quan trực thuộc Quân khu, giúp Tư lệnh Quân khu quản lý, chỉ đạo về công tác thanh tra, tiếp công dân.",
+      "B": "Là cơ quan trực thuộc Thanh tra Chính phủ đặt cơ sở làm việc tại Bộ Tư lệnh Quân khu để thực hiện thanh tra.",
+      "C": "Là đơn vị chuyên trách phòng chống tội phạm hình sự thuộc Binh chủng Hóa học và Tác chiến điện tử.",
+      "D": "Là cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh nơi Quân khu đóng quân để thanh tra quốc phòng địa phương."
     },
     "answer": "A"
   },
   {
     "id": 405,
-    "question": "Hệ thống các cơ quan thực hiện chức năng thanh tra chuyên ngành trong Quân đội theo Nghị định mới bao gồm những cơ quan nào?",
+    "question": "Trước khi trình Tư lệnh Quân khu cho ý kiến về chủ trương kế hoạch thanh tra, Thanh tra Quân khu phải thực hiện bước nào?",
     "options": {
-      "A": "Cục Cảnh sát biển, Cục Quản lý thị trường, Cục Tiêu chuẩn Đo lường Chất lượng và Cục Hàng không dân dụng.",
-      "B": "Các Tổng cục, Quân đoàn, Binh chủng và các Học viện, Trường sĩ quan trong toàn quân có tổ chức thanh tra.",
-      "C": "Không còn tổ chức thanh tra chuyên ngành riêng lẻ mà thống nhất đầu mối tập trung về Thanh tra quốc phòng.",
-      "D": "Thanh tra Cục Tác chiến, Thanh tra Cục Quân huấn, Thanh tra Cục Cán bộ và Thanh tra Cục Tổ chức quân đội."
+      "A": "Xây dựng dự thảo kế hoạch thanh tra, báo cáo Thanh tra Bộ Quốc phòng xem xét, cho ý kiến trước.",
+      "B": "Gửi dự thảo kế hoạch thanh tra lấy ý kiến thống nhất của Ủy ban nhân dân các tỉnh trên địa bàn quân khu.",
+      "C": "Báo cáo xin ý kiến thẩm định bằng văn bản của Thanh tra Chính phủ và Bộ Tư pháp theo trình tự pháp luật.",
+      "D": "Công khai dự thảo kế hoạch thanh tra trên các phương tiện thông tin đại chúng trong thời hạn 30 ngày."
     },
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 406,
-    "question": "Yêu cầu cốt lõi nào được đặt ra đối với cán bộ, công chức làm công tác thanh tra quốc phòng trong thời kỳ mới?",
+    "question": "Chánh Thanh tra Quân khu có quyền hạn nào sau đây khi phát hiện việc thi hành kỷ luật gây trở ngại cho việc thanh tra?",
     "options": {
-      "A": "Phải có bản lĩnh chính trị vững vàng, nắm vững chuyên môn, trung thực, khách quan, gương mẫu chấp hành kỷ luật.",
-      "B": "Phải có trình độ ngoại ngữ bậc cao để thường xuyên tham gia các hoạt động gìn giữ hòa bình quốc tế.",
-      "C": "Phải có ít nhất 10 năm công tác tại các đơn vị chiến đấu trước khi được điều động về làm công tác thanh tra.",
-      "D": "Phải có bằng tiến sĩ luật học và trải qua chức vụ chỉ huy cấp trung đoàn hoặc tương đương trở lên."
+      "A": "Kiến nghị cấp có thẩm quyền quyết định đình chỉ thi hành kỷ luật, điều chuyển công tác người đang bị thanh tra.",
+      "B": "Trực tiếp ra quyết định tước danh hiệu quân nhân đối với người chỉ hữu ra quyết định thi hành kỷ luật đó.",
+      "C": "Tạm giữ hình sự người chỉ huy cơ quan, đơn vị có hành vi gây trở ngại cho hoạt động của Đoàn thanh tra.",
+      "D": "Yêu cầu Viện kiểm sát quân sự Quân khu khởi tố vụ án hình sự về hành vi cản trở hoạt động thanh tra."
     },
     "answer": "A"
   },
   {
     "id": 407,
-    "question": "Tại sao việc chấm dứt mô hình Thanh tra huyện và Thanh tra sở lại là điểm đột phá lớn nhất của Luật Thanh tra 2025?",
+    "question": "Theo Điều 13 Nghị định số 284/2025/NĐ-CP, Thanh tra viên quốc phòng là ai?",
     "options": {
-      "A": "Nhằm tinh gọn tổ chức bộ máy, khắc phục tình trạng chồng chéo, phân tán nguồn lực và giảm gánh nặng thanh tra.",
-      "B": "Nhằm chuyển giao toàn bộ quyền thanh tra kinh tế, xã hội ở cấp địa phương cho cơ quan Công an thụ lý.",
-      "C": "Nhằm cắt giảm tối đa chi phí thường xuyên của ngân sách nhà nước chi trả cho đội ngũ thanh tra viên.",
-      "D": "Nhằm xóa bỏ hoàn toàn hoạt động kiểm tra, giám sát của nhà nước đối với các cơ sở kinh doanh tư nhân."
+      "A": "Là sĩ quan Quân đội nhân dân Việt Nam được bổ nhiệm vào các ngạch Thanh tra để thực hiện nhiệm vụ thanh tra.",
+      "B": "Là quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng làm việc tại các cơ quan thanh tra quân đội.",
+      "C": "Là công chức, viên chức thuộc Thanh tra Chính phủ được biệt phái sang công tác tại Bộ Quốc phòng.",
+      "D": "Là cán bộ làm công tác kiểm tra Đảng thuộc Ủy ban Kiểm tra Quân ủy Trung ương được giao nhiệm vụ thanh tra."
     },
     "answer": "A"
   },
   {
     "id": 408,
-    "question": "Theo Nghị định số 217/2025/NĐ-CP, việc kiểm tra chuyên ngành do chủ thể nào sau đây trực tiếp thực hiện?",
+    "question": "Hệ thống các ngạch Thanh tra viên quốc phòng bao gồm những ngạch nào?",
     "options": {
-      "A": "Do cơ quan quản lý nhà nước theo ngành, lĩnh vực thực hiện thông qua người có thẩm quyền kiểm tra chuyên ngành.",
-      "B": "Do cơ quan Tòa án nhân dân và Viện kiểm sát nhân dân phối hợp thành lập đoàn liên ngành thực hiện.",
-      "C": "Do Mặt trận Tổ quốc và các đoàn thể chính trị - xã hội tại địa phương tổ chức triển khai độc lập.",
-      "D": "Do các đơn vị kiểm toán độc lập được cơ quan nhà nước thuê để tiến hành kiểm tra theo hợp đồng dịch vụ."
+      "A": "Gồm các ngạch. Thanh tra viên; Thanh tra viên chính; Thanh tra viên cao cấp theo quy định pháp luật.",
+      "B": "Gồm các ngạch. Thanh tra viên sơ cấp; Thanh tra viên trung cấp; Thanh tra viên cao cấp theo quy định.",
+      "C": "Gồm các ngạch. Trợ lý thanh tra; Thanh tra viên; Thanh tra viên trưởng; Chánh Thanh tra viên các cấp.",
+      "D": "Gồm các ngạch. Thanh tra viên hạng III; Thanh tra viên hạng II; Thanh tra viên hạng I theo chuẩn viên chức."
     },
     "answer": "A"
   },
   {
     "id": 409,
-    "question": "Khi tiến hành thanh tra đột xuất theo quy định mới, cơ quan thanh tra phải căn cứ vào dấu hiệu hoặc yêu cầu nào?",
+    "question": "Ai có thẩm quyền bổ nhiệm, miễn nhiệm các ngạch Thanh tra viên quốc phòng?",
     "options": {
-      "A": "Khi phát hiện có dấu hiệu vi phạm pháp luật hoặc theo yêu cầu của Thủ trưởng cơ quan quản lý nhà nước.",
-      "B": "Khi có phản ánh chưa được kiểm chứng của người dân trên các trang mạng xã hội không chính thống.",
-      "C": "Khi doanh nghiệp hoặc đơn vị có mức tăng trưởng doanh thu hoặc chi ngân sách đột biến trong năm.",
-      "D": "Khi có đề xuất bằng miệng của Trưởng ban chỉ đạo phòng chống tham nhũng, tiêu cực tại địa phương."
+      "A": "Bộ trưởng Bộ Quốc phòng bổ nhiệm, miễn nhiệm theo đề nghị của Hội đồng xét duyệt chức danh sĩ quan cấp Bộ.",
+      "B": "Tổng Thanh tra Chính phủ bổ nhiệm, miễn nhiệm theo đề nghị của Chánh Thanh tra Bộ Quốc phòng.",
+      "C": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam bổ nhiệm, miễn nhiệm theo trình của Chính phủ.",
+      "D": "Tư lệnh các Quân khu trực tiếp bổ nhiệm, miễn nhiệm Thanh tra viên thuộc thẩm quyền quản lý của quân khu."
     },
     "answer": "A"
   },
   {
     "id": 410,
-    "question": "Luật Thanh tra năm 2025 có hiệu lực thi hành kể từ thời điểm nào?",
+    "question": "Một trong những tiêu chuẩn bắt buộc về trình độ đào tạo đối với ngạch Thanh tra viên quốc phòng là gì?",
     "options": {
-      "A": "Từ ngày 01 tháng 01 năm 2026.",
-      "B": "Từ ngày 01 tháng 7 năm 2025.",
-      "C": "Từ ngày 01 tháng 10 năm 2025.",
-      "D": "Từ ngày 19 tháng 5 năm 2026."
+      "A": "Là sĩ quan QĐND Việt Nam, tốt nghiệp trình độ đại học trở lên phù hợp với chuyên môn thuộc ngành, lĩnh vực.",
+      "B": "Tốt nghiệp trình độ thạc sĩ trở lên thuộc chuyên ngành Luật học hoặc An ninh quốc phòng hiện nay.",
+      "C": "Tốt nghiệp Đào tạo chỉ huy tham mưu cấp chiến dịch - chiến lược tại Học viện Quốc phòng Việt Nam.",
+      "D": "Đã hoàn thành chương trình trung cấp lý luận chính trị và có chứng chỉ tin học, ngoại ngữ quốc tế."
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 411,
-    "question": "Quan điểm nào sau đây thể hiện quyết tâm đổi mới căn bản trong công tác thanh tra quốc phòng hiện nay?",
+    "question": "Yêu cầu về thời gian công tác để được bổ nhiệm ngạch Thanh tra viên quốc phòng đối với sĩ quan chuyển từ cơ quan khác sang là bao nhiêu?",
     "options": {
-      "A": "Chuyển từ thanh tra diện rộng, dàn trải sang thanh tra trọng tâm, trọng điểm, tập trung lĩnh vực dễ sai phạm.",
-      "B": "Mở rộng tối đa số lượng các cuộc thanh tra hàng năm để bao quát toàn bộ các cơ quan, đơn vị trong quân đội.",
-      "C": "Hạn chế thanh tra các dự án kinh tế, tài chính để dành toàn bộ nguồn lực cho thanh tra huấn luyện tác chiến.",
-      "D": "Tăng cường ủy quyền cho cấp ủy cơ sở tự thanh tra, kết luận và báo cáo kết quả lên cơ quan cấp trên."
+      "A": "Có ít nhất 05 năm công tác trở lên đối với sĩ quan Quân đội công tác ở cơ quan, đơn vị khác chuyển sang.",
+      "B": "Có ít nhất 02 năm công tác trở lên đối với sĩ quan Quân đội công tác ở cơ quan, đơn vị khác chuyển sang.",
+      "C": "Có ít nhất 01 năm công tác trở lên đối với sĩ quan Quân đội công tác ở cơ quan, đơn vị khác chuyển sang.",
+      "D": "Có ít nhất 10 năm công tác trở lên đối với sĩ quan Quân đội công tác ở cơ quan, đơn vị khác chuyển sang."
     },
     "answer": "A"
   },
   {
     "id": 412,
-    "question": "Khi phát hiện hành vi tham nhũng, lãng phí trong quá trình thanh tra, Trưởng đoàn thanh tra quốc phòng phải xử lý như thế nào?",
+    "question": "Tiêu chuẩn về trình độ đào tạo quân sự đối với ngạch Thanh tra viên chính quốc phòng được quy định như thế nào?",
     "options": {
-      "A": "Kịp thời áp dụng biện pháp ngăn chặn hoặc kiến nghị người có thẩm quyền xử lý nghiêm theo quy định pháp luật.",
-      "B": "Tự mình quyết định miễn giảm xử phạt nếu đối tượng thanh tra cam kết khắc phục hậu quả về mặt tài chính.",
-      "C": "Lập biên bản giữ lại nội bộ để báo cáo Hội đồng thi đua khen thưởng của cơ quan, đơn vị xem xét hạ thi đua.",
-      "D": "Thông báo công khai ngay lập tức lên các phương tiện truyền thông báo chí trước khi báo cáo người ra quyết định."
+      "A": "Tốt nghiệp đào tạo cán bộ cấp trung, lữ đoàn tại các học viện chuyên ngành quân sự hoặc tốt nghiệp sau đại học.",
+      "B": "Tốt nghiệp đào tạo tham mưu tác chiến chiến dịch - chiến lược tại Học viện Quốc phòng Việt Nam.",
+      "C": "Tốt nghiệp các trường sĩ quan binh chủng và có bằng cử nhân luật hình sự của các trường đại học.",
+      "D": "Tốt nghiệp chương trình cao cấp lý luận chính trị và quản lý nhà nước ngạch chuyên viên cao cấp."
     },
     "answer": "A"
   },
   {
     "id": 413,
-    "question": "Theo quy định mới, số lượng các cuộc thanh tra đối với một doanh nghiệp trong một năm không được vượt quá bao nhiêu lần?",
+    "question": "Để được bổ nhiệm ngạch Thanh tra viên chính quốc phòng, sĩ quan đã giữ ngạch Thanh tra viên phải có thời hạn tối thiểu là bao nhiêu năm?",
     "options": {
-      "A": "Không quá 01 lần trong một năm, trừ trường hợp có dấu hiệu vi phạm pháp luật rõ ràng phải thanh tra đột xuất.",
-      "B": "Không quá 02 lần trong một năm bao gồm cả thanh tra hành chính và hoạt động kiểm tra chuyên ngành.",
-      "C": "Không quá 03 lần trong một năm đối với doanh nghiệp có vốn đầu tư trực tiếp của nước ngoài (FDI).",
-      "D": "Không giới hạn số lần, tùy thuộc vào yêu cầu quản lý thực tế của từng Bộ, ngành và địa phương cụ thể."
+      "A": "Đã được bổ nhiệm ngạch thanh tra viên ít nhất 04 năm hoặc đã qua chỉ huy cấp trung đoàn (hoặc tương đương).",
+      "B": "Đã được bổ nhiệm ngạch thanh tra viên ít nhất 02 năm hoặc đã qua chỉ huy cấp tiểu đoàn (hoặc tương đương).",
+      "C": "Đã được bổ nhiệm ngạch thanh tra viên ít nhất 05 năm hoặc đã qua chỉ huy cấp đại đội (hoặc tương đương).",
+      "D": "Đã được bổ nhiệm ngạch thanh tra viên ít nhất 03 năm hoặc đã qua cán bộ trợ lý các ban chuyên môn."
     },
     "answer": "A"
   },
   {
     "id": 414,
-    "question": "Trách nhiệm của cơ quan, đơn vị được thanh tra là gì theo quy định của pháp luật về thanh tra?",
+    "question": "Tiêu chuẩn về trình độ đào tạo quân sự đặc thù dành riêng cho ngạch Thanh tra viên cao cấp quốc phòng là gì?",
     "options": {
-      "A": "Chấp hành nghiêm quyết định thanh tra, cung cấp kịp thời, chính xác thông tin, tài liệu theo yêu cầu.",
-      "B": "Chỉ cung cấp những tài liệu mà cơ quan mình thấy phù hợp và không ảnh hưởng đến hoạt động nội bộ.",
-      "C": "Được quyền từ chối làm việc với Đoàn thanh tra nếu không có sự đồng ý bằng văn bản của chính quyền địa phương.",
-      "D": "Được quyền giữ lại các chứng từ tài chính kế toán nếu nhận thấy có nguy cơ làm lộ thông tin bí mật."
+      "A": "Tốt nghiệp đào tạo tham mưu tác chiến chiến dịch - chiến lược tại Học viện Quốc phòng.",
+      "B": "Tốt nghiệp đào tạo cán bộ cấp trung, lữ đoàn tại các học viện chuyên ngành quân sự, quốc phòng.",
+      "C": "Tốt nghiệp đại học quân sự nước ngoài được Bộ Giáo dục và Đào tạo công nhận văn bằng tương đương.",
+      "D": "Có trình độ tiến sĩ chuyên ngành Khoa học quân sự hoặc Quản lý nhà nước về an ninh quốc phòng."
     },
     "answer": "A"
   },
   {
     "id": 415,
-    "question": "Hành vi nào sau đây bị nghiêm cấm đối với người tiến hành thanh tra theo Luật Thanh tra năm 2025?",
+    "question": "Yêu cầu về lý luận chính trị đối với sĩ quan để xem xét bổ nhiệm ngạch Thanh tra viên cao cấp quốc phòng là gì?",
     "options": {
-      "A": "Lợi dụng chức vụ, quyền hạn thanh tra để vụ lợi, sách nhiễu, gây khó khăn, phiền hà cho đối tượng thanh tra.",
-      "B": "Yêu cầu đối tượng thanh tra giải trình bằng văn bản về những nội dung liên quan trực tiếp đến cuộc thanh tra.",
-      "C": "Lập biên bản tạm giữ tài liệu có dấu hiệu tẩu tán, tiêu hủy để phục vụ cho công tác xác minh, kết luận.",
-      "D": "Chuyển hồ sơ vụ việc có dấu hiệu tội phạm sang cơ quan điều tra hình sự có thẩm quyền để giải quyết."
+      "A": "Phải có trình độ cao cấp lý luận chính trị theo quy định của Đảng và Pháp luật nhà nước.",
+      "B": "Chỉ cần có trình độ trung cấp lý luận chính trị do các học viện quân sự cấp chứng chỉ hoàn thành.",
+      "C": "Chỉ cần hoàn thành chương trình sơ cấp lý luận chính trị tại các trung tâm bồi dưỡng chính trị.",
+      "D": "Không bắt buộc quy định về tiêu chuẩn lý luận chính trị nếu đã có bằng tiến sĩ chuyên ngành."
     },
     "answer": "A"
   },
   {
     "id": 416,
-    "question": "Hành vi nào sau đây bị nghiêm cấm đối với cơ quan, tổ chức, cá nhân là đối tượng thanh tra?",
+    "question": "Cấp ủy, chỉ huy cơ quan, đơn vị có trách nhiệm gì trong việc lãnh đạo, chỉ đạo triển khai Luật Thanh tra năm 2025?",
     "options": {
-      "A": "Cung cấp thông tin, tài liệu sai sự thật, chống đối, cản trở, mua chuộc, đe dọa người tiến hành thanh tra.",
-      "B": "Đề nghị người ra quyết định thanh tra thay đổi Trưởng đoàn thanh tra nếu có căn cứ chứng minh không khách quan.",
-      "C": "Giải trình, làm rõ các nội dung mà Đoàn thanh tra đưa ra trong dự thảo kết luận thanh tra trước khi ký chính thức.",
-      "D": "Khiếu nại kết luận thanh tra lên cấp trên trực tiếp của người ra quyết định thanh tra theo trình tự luật định."
+      "A": "Đưa nội dung chấp hành Luật Thanh tra vào kế hoạch công tác hằng năm, gắn với xây dựng Đảng, đơn vị VMTD.",
+      "B": "Ủy quyền toàn bộ việc chỉ đạo thực hiện Luật Thanh tra cho cán bộ phụ trách pháp chế của cơ quan tự quyết.",
+      "C": "Chỉ triển khai thực hiện Luật Thanh tra khi có quyết định thanh tra đột xuất của cơ quan thanh tra cấp trên.",
+      "D": "Chỉ thực hiện công tác phổ biến Luật Thanh tra đối với lực lượng sĩ quan cấp tá và chỉ huy chủ chốt."
     },
     "answer": "A"
   },
   {
     "id": 417,
-    "question": "Việc tổ chức bộ máy cơ quan thanh tra tinh gọn, hiệu lực, hiệu quả theo tinh thần mới nhằm mục tiêu tổng quát nào?",
+    "question": "Trong công tác phối hợp thanh tra, trách nhiệm của cấp ủy, chỉ huy cơ quan, đơn vị được quy định như thế nào?",
     "options": {
-      "A": "Xây dựng hệ thống thanh tra liêm chính, chuyên nghiệp, hiện đại, góp phần củng cố niềm tin của Nhân dân.",
-      "B": "Xóa bỏ hoàn toàn chức năng giám sát của các cơ quan dân cử và tổ chức chính trị - xã hội trong cả nước.",
-      "C": "Chuyển đổi toàn bộ hoạt động quản lý nhà nước từ phương thức tiền kiểm sang phương thức hậu kiểm hoàn toàn.",
-      "D": "Tạo điều kiện để các cơ quan thanh tra can thiệp sâu vào hoạt động sản xuất kinh doanh thường xuyên của xã hội."
+      "A": "Phối hợp, cung cấp đầy đủ, kịp thời, trung thực thông tin, tài liệu và chịu trách nhiệm về tính chính xác.",
+      "B": "Có quyền từ chối cung cấp các tài liệu nội bộ nếu thấy ảnh hưởng đến thành tích thi đua của đơn vị.",
+      "C": "Chỉ cung cấp tài liệu cho Đoàn thanh tra khi có sự đồng ý bằng văn bản của cơ quan điều tra hình sự.",
+      "D": "Được phép chủ động chỉnh sửa thông tin số liệu trước khi bàn giao tài liệu cho Đoàn thanh tra xác minh."
     },
     "answer": "A"
   },
   {
     "id": 418,
-    "question": "Theo Nghị định số 284/2025/NĐ-CP, việc thanh tra công tác quản lý đất quốc phòng tập trung vào những vấn đề chủ yếu nào?",
+    "question": "Trách nhiệm của cán bộ, chiến sĩ khi tham gia hoạt động thanh tra với tư cách là đối tượng thanh tra hoặc liên quan là gì?",
     "options": {
-      "A": "Việc chấp hành quy hoạch, kế hoạch sử dụng đất, cấp giấy chứng nhận và xử lý các tranh chấp, lấn chiếm đất.",
-      "B": "Việc chuyển đổi mục đích sử dụng đất quốc phòng sang đất ở cho toàn bộ cán bộ, nhân viên có nhu cầu.",
-      "C": "Việc cho thuê, mượn đất quốc phòng để liên doanh, liên kết phục vụ phát triển kinh tế thương mại tự do.",
-      "D": "Việc định giá các khu đất quân sự chuẩn bị bán đấu giá công khai trên thị trường bất động sản dân sự."
+      "A": "Trung thực trong việc cung cấp thông tin, tài liệu; chịu trách nhiệm trước pháp luật về nội dung cung cấp.",
+      "B": "Trực tiếp tham gia thảo luận và bỏ phiếu biểu quyết đối với nội dung dự thảo kết luận của Đoàn thanh tra.",
+      "C": "Quyền giữ im lặng và không cung cấp tài liệu nếu thông tin đó bất lợi cho bản thân hoặc đồng nghiệp.",
+      "D": "Ủy quyền hoàn toàn cho Luật sư riêng làm việc và trả lời các yêu cầu của Đoàn thanh tra thay cho mình."
     },
     "answer": "A"
   },
   {
     "id": 419,
-    "question": "Chức năng tiếp công dân, giải quyết khiếu nại, tố cáo của Thanh tra quốc phòng các cấp có ý nghĩa như thế nào?",
+    "question": "Một trong những trách nhiệm quan trọng của cán bộ, chiến sĩ nhằm nâng cao hiệu quả quản lý, phòng ngừa vi phạm là gì?",
     "options": {
-      "A": "Góp phần bảo đảm quyền làm chủ của Nhân dân, giữ vững an ninh chính trị, trật tự an toàn và kỷ luật quân đội.",
-      "B": "Nhằm giải quyết toàn bộ các tranh chấp dân sự phát sinh ngoài xã hội có liên quan đến thân nhân quân nhân.",
-      "C": "Nhằm thay thế các cơ quan tư pháp trong việc hòa giải các mâu thuẫn xã hội trên địa bàn đóng quân của đơn vị.",
-      "D": "Nhằm tổng hợp các kiến nghị của cử tri để báo cáo tại các kỳ họp định kỳ của Hội đồng nhân dân các cấp."
+      "A": "Chủ động tự kiểm tra, tự chấn chỉnh việc thực hiện nhiệm vụ; kịp thời báo cáo khi phát hiện vi phạm.",
+      "B": "Đợi khi có thông báo thanh tra mới tiến hành kiểm tra rà soát lại sổ sách giấy tờ của bộ phận mình.",
+      "C": "Báo cáo vượt cấp lên Tổng Thanh tra Chính phủ tất cả các công việc hàng ngày của cơ quan, đơn vị.",
+      "D": "Chỉ thực hiện nhiệm vụ kiểm tra khi được phân công làm thành viên chính thức của Đoàn thanh tra."
     },
     "answer": "A"
   },
   {
     "id": 420,
-    "question": "Vai trò của công tác thanh tra quốc phòng đối với việc thực hiện phương châm “xây dựng Quân đội tinh, gọn, mạnh” là gì?",
+    "question": "Ý nghĩa đặc biệt quan trọng của việc ban hành và triển khai Luật Thanh tra năm 2025 (sửa đổi) là gì?",
     "options": {
-      "A": "Phát hiện, chấn chỉnh kịp thời các sai phạm, nâng cao kỷ cương, hiệu quả sử dụng nguồn lực và sức mạnh chiến đấu.",
-      "B": "Trực tiếp tham gia sắp xếp lại biên chế quân số của các cơ quan, đơn vị lực lượng vũ trang trong toàn quân.",
-      "C": "Thay mặt Quân ủy Trung ương ra quyết định giải thể các cơ quan, đơn vị hoạt động kém hiệu quả kinh tế.",
-      "D": "Giám sát việc phân bổ trang bị vũ khí, khí tài quân sự từ các nhà máy quốc phòng về cho các đơn vị chiến đấu."
+      "A": "Hoàn thiện thể chế, nâng cao hiệu lực công tác thanh tra; phòng ngừa, phát hiện, xử lý kịp thời vi phạm.",
+      "B": "Thay thế hoàn toàn vai trò kiểm tra, giám sát của các tổ chức Đảng đối với cán bộ, công chức, viên chức.",
+      "C": "Xóa bỏ hoàn toàn chức năng quản lý nhà nước về mặt kinh tế của các Bộ, ngành và Ủy ban nhân dân các cấp.",
+      "D": "Giảm bớt vai trò của ngành Tòa án trong việc xét xử các hành vi vi phạm pháp luật hành chính hiện nay."
     },
     "answer": "A"
   },
   {
     "id": 421,
-    "question": "Luật Quản lý và sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2024 quy định đối tượng nào được phép nghiên cứu, chế tạo, sản xuất vũ khí có tính năng, tác dụng tương tự vũ khí quân dụng?",
+    "question": "Việc chấp hành nghiêm các quy định của Luật Thanh tra năm 2025 được xác định là tiêu chí như thế nào trong cơ quan, đơn vị?",
     "options": {
-      "A": "Mọi tổ chức, doanh nghiệp được cấp phép",
-      "B": "Chỉ các tổ chức, doanh nghiệp thuộc Bộ Công an và Bộ Quốc phòng theo kế hoạch được giao",
-      "C": "Tổ chức nước ngoài có thỏa thuận hợp tác",
-      "D": "Cá nhân có chuyên môn kỹ thuật cao"
+      "A": "Là tiêu chí quan trọng trong đánh giá hoàn thành nhiệm vụ, bình xét thi đua, khen thưởng và xem xét trách nhiệm.",
+      "B": "Là tiêu chí tham khảo không bắt buộc khi đánh giá phân loại chất lượng cán bộ, chiến sĩ hàng năm.",
+      "C": "Chỉ áp dụng làm tiêu chí xét khen thưởng riêng cho các cán bộ, công chức làm công tác thanh tra chuyên trách.",
+      "D": "Là tiêu chí duy nhất để xét khen thưởng danh hiệu Chiến sĩ thi đua toàn quân đối với chỉ huy các cấp."
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 422,
@@ -243,212 +243,212 @@
   },
   {
     "id": 423,
-    "question": "Theo quy định của Luật năm 2024, hành vi nào sau đây là hành vi bị nghiêm cấm?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, mục đích quan trọng của công tác chính trị, tư tưởng là gì?",
     "options": {
-      "A": "Sử dụng vũ khí quân dụng để bảo vệ an ninh quốc gia theo lệnh của cấp có thẩm quyền",
-      "B": "Nghiên cứu vũ khí tại tổ chức, doanh nghiệp quốc phòng",
-      "C": "Quảng cáo, giới thiệu vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ trái quy định",
-      "D": "Bảo quản vật liệu nổ công nghiệp theo quy chuẩn"
+      "A": "Nâng cao chất lượng cán bộ đáp ứng yêu cầu nhiệm vụ",
+      "B": "Giữ vững định hướng chính trị, tư tưởng",
+      "C": "Mở rộng hoạt động đối ngoại",
+      "D": "Tăng cường công tác hành chính trong Đảng"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 424,
-    "question": "Theo Luật năm 2024, súng săn là loại súng nào?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, công tác chính trị, tư tưởng được xác định là gì?",
     "options": {
-      "A": "Súng được chế tạo, sản xuất thủ công hoặc công nghiệp, được sử dụng để săn bắn",
-      "B": "Súng quân dụng do quân đội trang bị",
-      "C": "Súng chỉ bắn đạn hơi cay",
-      "D": "Súng đồ chơi trẻ em"
+      "A": "Nhiệm vụ thường xuyên, gắn liền với hoạt động của tổ chức đảng",
+      "B": "Nhiệm vụ quan trọng hàng đầu trong công tác xây dựng Đảng",
+      "C": "Nhiệm vụ của cơ quan tuyên giáo các cấp",
+      "D": "Nhiệm vụ của các cấp ủy và từng đảng viên"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 425,
-    "question": "Lực lượng nào sau đây không được trang bị vũ khí quân dụng theo quy định của Luật năm 2024?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, trong mối quan hệ giữa “xây” và “chống”, nội dung nào được xác định là nhiệm vụ cơ bản, chiến lược, lâu dài?",
     "options": {
-      "A": "Quân đội nhân dân",
-      "B": "Công an nhân dân",
-      "C": "Doanh nghiệp tư nhân bảo vệ mục tiêu thông thường",
-      "D": "Cảnh sát biển"
+      "A": "“Xây”",
+      "B": "“Chống”",
+      "C": "Cả hai như nhau",
+      "D": "Tùy từng thời điểm"
     },
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 426,
-    "question": "Luật năm 2024 quy định giấy phép sử dụng vũ khí quân dụng cấp cho cơ quan, tổ chức có thời hạn bao lâu?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, công tác chính trị, tư tưởng phải lấy nội dung nào làm định hướng hành động?",
     "options": {
-      "A": "1 năm",
-      "B": "3 năm",
-      "C": "5 năm",
-      "D": "Không thời hạn"
+      "A": "“2 kiên định”",
+      "B": "“4 kiên định”",
+      "C": "“5 vững”",
+      "D": "“3 đột phá”"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 427,
-    "question": "Theo Luật năm 2024, loại vũ khí nào khi sử dụng với mục đích xâm phạm tính mạng, sức khỏe con người trái pháp luật thì được xác định là vũ khí quân dụng?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, nội dung nào sau đây thuộc “4 kiên định”?",
     "options": {
-      "A": "Súng kíp, súng săn, vũ khí thô sơ, dao có tính sát thương cao",
-      "B": "Súng đồ chơi",
-      "C": "Thiết bị điện tử",
-      "D": "Gậy chỉ huy giao thông"
+      "A": "Kiên định hội nhập quốc tế",
+      "B": "Kiên định đường lối đổi mới của Đảng",
+      "C": "Kiên định phát triển kinh tế - xã hội",
+      "D": "Kiên định công nghiệp hóa, hiện đại hóa"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 428,
-    "question": "Theo Luật năm 2024, trường hợp nào người thi hành nhiệm vụ độc lập được nổ súng quân dụng vào đối tượng mà không cần cảnh báo?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, “chính trị, tư tưởng trong Đảng” được hiểu là trạng thái thống nhất về nội dung gì?",
     "options": {
-      "A": "Đối tượng đang sử dụng vũ khí, vật liệu nổ trực tiếp thực hiện hành vi khủng bố, giết người, bắt cóc con tin",
-      "B": "Mọi trường hợp đối tượng không chấp hành hiệu lệnh",
-      "C": "Đối tượng đang bỏ chạy",
-      "D": "Đối tượng vi phạm hành chính"
+      "A": "Nhận thức và tổ chức",
+      "B": "Nhận thức, niềm tin, ý chí và hành động",
+      "C": "Ý chí và kỷ luật",
+      "D": "Tư tưởng và sinh hoạt"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 429,
-    "question": "Khi nổ súng thi hành nhiệm vụ, người sử dụng vũ khí phải tuân thủ nguyên tắc nào?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, “công tác chính trị, tư tưởng” là tổng thể hoạt động của ai?",
     "options": {
-      "A": "Chỉ nổ súng khi không còn biện pháp nào khác để ngăn chặn và đã cảnh báo theo quy định (trừ trường hợp không cần cảnh báo)",
-      "B": "Nổ súng bất cứ lúc nào cảm thấy nguy hiểm",
-      "C": "Ưu tiên tiêu diệt đối tượng nhanh nhất",
-      "D": "Không cần cảnh báo trong mọi tình huống"
+      "A": "Cơ quan tuyên giáo các cấp",
+      "B": "Cấp ủy, tổ chức đảng",
+      "C": "Nhà nước và Mặt trận Tổ quốc",
+      "D": "Các tổ chức đoàn thể"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 430,
-    "question": "Cá nhân có được sở hữu vũ khí quân dụng không theo Luật năm 2024?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, bảo vệ nền tảng tư tưởng của Đảng bao gồm nội dung nào?",
     "options": {
-      "A": "Được sở hữu nếu có đơn xin phép",
-      "B": "Được sở hữu nếu mua hợp pháp từ nước ngoài",
-      "C": "Nghiêm cấm cá nhân sở hữu vũ khí quân dụng (trừ vũ khí là hiện vật để trưng bày, triển lãm theo quy định)",
-      "D": "Được sở hữu nếu là cán bộ lãnh đạo"
+      "A": "Tuyên truyền chủ trương mới để phòng, chống “diễn biến hòa bình”",
+      "B": "Giữ vững, phát triển giá trị khoa học, cách mạng của Chủ nghĩa Mác Lê Nin, tư tưởng Hồ Chí Minh, đường lối của Đảng và đấu tranh phản bác quan điểm sai trái, thù địch",
+      "C": "Xử lý có hiệu quả các thông tin xấu độc",
+      "D": "Tăng cường quản lý mạng xã hội và hoạt động của cán bộ, đảng viên trên không gian mạng."
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 431,
-    "question": "Theo Luật năm 2024, công cụ hỗ trợ gồm những phương tiện nào dưới đây?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, “dư luận xã hội” được hiểu là gi?",
     "options": {
-      "A": "Dùi cui cao su, dùi cui kim loại, dùi cui điện, súng bắn hơi cay, lựu đạn khói, khóa số tám",
-      "B": "Tên lửa, ngư lôi",
-      "C": "Súng máy, pháo binh",
-      "D": "Xe tăng, thiết giáp"
+      "A": "Ý kiến của cán bộ, đảng viên và quần chúng về một vấn đề gì đó",
+      "B": "Ý kiến, thái độ và tâm trạng của các nhóm xã hội trước những vấn đề liên quan",
+      "C": "Thông tin trên báo chí và các trang mạng về sự việc có liên quan",
+      "D": "Ý kiến của cơ quan quản lý về vấn đề liên quan"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 432,
-    "question": "Đối tượng nào có thẩm quyền quyết định việc trang bị vũ khí quân dụng cho các lực lượng thuộc Quân đội nhân dân?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, một yêu cầu quan trọng trong công tác chính trị là gì?",
     "options": {
-      "A": "Bộ trưởng Bộ Quốc phòng",
-      "B": "Bộ trưởng Bộ Công an",
-      "C": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
-      "D": "Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện"
+      "A": "Đi trước, mở đường, dẫn dắt, chỉ đạo thực tiễn",
+      "B": "Tập trung xử lý hậu quả, định hướng tư tưởng trong Nhân dân",
+      "C": "Tập trung vào tuyên truyền chủ trương, đường lối của Đảng",
+      "D": "Chỉ đạo theo từng vụ việc cụ thể"
     },
     "answer": "A"
   },
   {
     "id": 433,
-    "question": "Theo Luật năm 2024, việc vận chuyển vũ khí quân dụng phải bảo đảm yêu cầu gì?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, công tác chính trị, tư tưởng phải gắn chặt với những công tác nào?",
     "options": {
-      "A": "Có giấy phép vận chuyển hoặc mệnh lệnh vận chuyển của cấp có thẩm quyền, bảo đảm an toàn tuyệt đối",
-      "B": "Vận chuyển chung với hàng hóa dân dụng để tiết kiệm chi phí",
-      "C": "Người vận chuyển tự chịu trách nhiệm về tuyến đường",
-      "D": "Không cần giấy tờ nếu vận chuyển ban ngày"
+      "A": "Tổ chức, cán bộ, kiểm tra, giám sát và dân vận",
+      "B": "Hậu cần, kỹ thuật và tài chính",
+      "C": "Đối ngoại, kinh tế, khoa học, công nghệ",
+      "D": "Văn hóa, giáo dục, đào tạo, khoa học, công nghệ"
     },
     "answer": "A"
   },
   {
     "id": 434,
-    "question": "Tổ chức, cá nhân phát hiện hoặc nhặt được vũ khí, vật liệu nổ, công cụ hỗ trợ phải làm gì theo quy định?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, ai chịu trách nhiệm cao nhất trong đánh giá về chính trị, tư tưởng của tổ chức đảng và cán bộ, đảng viên thuộc quyền quản lý?",
     "options": {
-      "A": "Giữ lại làm kỷ niệm",
-      "B": "Bán cho người khác lấy tiền",
-      "C": "Kịp thời giao nộp cho cơ quan quân sự, công an hoặc chính quyền địa phương nơi gần nhất",
-      "D": "Tự tiêu hủy để tránh nguy hiểm"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 435,
-    "question": "Hành vi mang vũ khí, công cụ hỗ trợ vào nơi công cộng mà không có giấy phép bị xử lý như thế nào?",
-    "options": {
-      "A": "Chỉ bị nhắc nhở",
-      "B": "Bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự tùy theo tính chất, mức độ vi phạm",
-      "C": "Không bị xử lý nếu không sử dụng",
-      "D": "Chỉ bị tịch thu phương tiện"
+      "A": "Người đứng đầu, cán bộ, đảng viên",
+      "B": "Cấp ủy, tập thể lãnh đạo, người đứng đầu",
+      "C": "Cơ quan tuyên giáo và người đứng đầu",
+      "D": "Ủy ban kiểm tra và người đứng đầu"
     },
     "answer": "B"
   },
   {
-    "id": 436,
-    "question": "Theo Luật năm 2024, kho bảo quản vũ khí, vật liệu nổ, công cụ hỗ trợ phải đáp ứng điều kiện gì?",
+    "id": 435,
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, cấp ủy các cấp phải tổ chức nghiên cứu, học tập, quán triệt nghị quyết nhằm bảo đảm gì?",
     "options": {
-      "A": "Phải bảo đảm tiêu chuẩn an toàn về phòng chống cháy nổ, bảo vệ môi trường, an ninh trật tự theo quy định",
-      "B": "Chỉ cần khóa cửa cẩn thận",
-      "C": "Có thể đặt ở bất cứ đâu thuận tiện",
-      "D": "Không quy định tiêu chuẩn kỹ thuật cụ thể"
+      "A": "100% cán bộ, đảng viên thuộc phạm vi quản lý được học tập, quán triệt",
+      "B": "90% cán bộ, đảng viên trở lên tham gia học tập, quán triệt",
+      "C": "Hầu hết cán bộ chủ trì và đảng viên phải tham gia học tập, quán triệt",
+      "D": "Chỉ đảng viên mới tham gia"
     },
     "answer": "A"
+  },
+  {
+    "id": 436,
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, phương châm nghiên cứu, học tập nghị quyết là gì?",
+    "options": {
+      "A": "Học kỹ, nhớ lâu, làm tốt",
+      "B": "Hiểu sâu, hành động đúng, làm đến cùng",
+      "C": "Học tập thường xuyên, liên tục, đáp ứng yêu cầu",
+      "D": "Nắm chắc, vận dụng linh hoạt, sát thực tiễn"
+    },
+    "answer": "B"
   },
   {
     "id": 437,
-    "question": "Theo Luật năm 2024, dao có tính sát thương cao gồm những loại nào?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, việc bảo vệ nền tảng tư tưởng của Đảng và đấu tranh phản bác quan điểm sai trái, thù địch được xác định là gì?",
     "options": {
-      "A": "Dao sắc, nhọn có chiều dài lưỡi từ 20 cm trở lên hoặc được hoán cải, lắp ráp để có tính sát thương cao",
-      "B": "Mọi loại dao làm bếp",
-      "C": "Dao gọt hoa quả thông thường",
-      "D": "Dao cạo râu"
+      "A": "Nhiệm vụ quan trọng hàng đầu",
+      "B": "Nhiệm vụ trọng yếu, thường xuyên",
+      "C": "Nhiệm vụ đột xuất, quan trọng",
+      "D": "Nhiệm vụ chuyên môn thường xuyên"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 438,
-    "question": "Việc sử dụng dao có tính sát thương cao vào mục đích lao động, sản xuất, sinh hoạt có bị coi là vi phạm không?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, khi tham gia mạng xã hội, cán bộ, đảng viên phải như thế nào?",
     "options": {
-      "A": "Bị nghiêm cấm hoàn toàn",
-      "B": "Được phép sử dụng nhưng phải bảo đảm an toàn, không sử dụng với mục đích xâm phạm tính mạng, sức khỏe người khác trái pháp luật",
-      "C": "Phải đăng ký giấy phép sử dụng với công an",
-      "D": "Chỉ được sử dụng trong các nhà máy quốc phòng"
+      "A": "Tự do chia sẻ thông tin",
+      "B": "Tuân thủ kỷ luật phát ngôn và quy định về thông tin",
+      "C": "Chỉ sử dụng tài khoản cá nhân",
+      "D": "Không được tham gia mạng xã hội"
     },
     "answer": "B"
   },
   {
     "id": 439,
-    "question": "Theo Luật năm 2024, cơ quan nào có trách nhiệm quản lý nhà nước về vũ khí, vật liệu nổ, công cụ hỗ trợ trong Quân đội nhân dân?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, cán bộ, đảng viên không được là gì?",
     "options": {
-      "A": "Bộ Quốc phòng",
-      "B": "Bộ Công an",
-      "C": "Bộ Nội vụ",
-      "D": "Bộ Tư pháp"
+      "A": "Trao đổi thông tin",
+      "B": "Chia sẻ, bình luận thông tin chưa kiểm chứng, sai sự thật",
+      "C": "Sử dụng mạng xã hội",
+      "D": "Phản ánh ý kiến Nhân dân"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 440,
-    "question": "Hành vi giao vũ khí cho người không đủ điều kiện theo quy định của pháp luật có bị nghiêm cấm không?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, kết quả thực hiện công tác chính trị, tư tưởng được xác định là gì?",
     "options": {
-      "A": "Không bị cấm nếu là người thân",
-      "B": "Chỉ bị cấm nếu xảy ra tai nạn",
-      "C": "Là hành vi bị nghiêm cấm theo quy định của Luật",
-      "D": "Được phép nếu có sự đồng ý miệng của cấp trên"
+      "A": "Một tiêu chí quan trọng trong đánh giá, xếp loại tổ chức đảng và cán bộ, đảng viên hằng năm",
+      "B": "Một nội dung tham khảo trong đánh giá, xếp loại tổ chức đảng và cán bộ, đảng viên hằng năm",
+      "C": "Một tiêu chí riêng của cán bộ tuyên giáo các cấp trong đánh giá cán bộ, đảng viên hằng năm",
+      "D": "Một nội dung chỉ đánh giá khi có vi phạm"
     },
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 441,
-    "question": "Nghị quyết số 05-NQ/TW của Bộ Chính trị ban hành ngày tháng năm nào?",
+    "question": "Theo Quy định số 19-QĐ/TW ngày 08/4/2026 của Ban Chấp hành Trung ương về công tác chính trị, tư tưởng trong Đảng, cơ quan chủ trì hướng dẫn thực hiện Quy định, xây dựng bộ tiêu chí và quy trình đánh giá là gì?",
     "options": {
-      "A": "17/01/2022",
-      "B": "17/02/2022",
-      "C": "17/01/2021",
-      "D": "17/02/2021"
+      "A": "Ban Tổ chức Trung ương",
+      "B": "Ủy ban Kiểm tra Trung ương",
+      "C": "Ban Tuyên giáo và Dân vận Trung ương",
+      "D": "Văn phòng Trung ương Đảng"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 442,
@@ -463,256 +463,256 @@
   },
   {
     "id": 443,
-    "question": "Mục tiêu phấn đấu đến năm 2030 theo Nghị quyết số 05-NQ/TW của Bộ Chính trị là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, công tác kiểm tra, giám sát là cơ chế để làm gì?",
     "options": {
-      "A": "Giảm bớt biên chế lực lượng vũ trang",
-      "B": "Xây dựng Quân đội nhân dân Việt Nam cách mạng, chính quy, tinh nhuệ, hiện đại",
-      "C": "Chuyển đổi hoàn toàn sang quân đội chuyên nghiệp có trả lương cao",
-      "D": "Giải tán lực lượng dự bị động viên"
+      "A": "Đánh giá cán bộ",
+      "B": "Kiểm soát quyền lực",
+      "C": "Quản lý đảng viên",
+      "D": "Điều hành tổ chức Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, cơ quan nào chủ trì theo dõi, đôn đốc, hướng dẫn, kiểm tra, giám sát việc thực hiện Nghị quyết?"
     },
     "answer": "B"
   },
   {
     "id": 444,
-    "question": "Nghị quyết số 05-NQ/TW xác định quan điểm tổ chức lực lượng Quân đội nhân dân phải bảo đảm nguyên tắc gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, công tác kiểm tra, giám sát là nhiệm vụ:",
     "options": {
-      "A": "Giữ vững và tăng cường sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng đối với Quân đội",
-      "B": "Phân cấp hoàn toàn cho cơ sở tự quyết định",
-      "C": "Tách rời lực lượng quân sự khỏi sự giám sát của Đảng",
-      "D": "Tổ chức theo mô hình liên quân quốc tế"
+      "A": "Theo từng giai đoạn",
+      "B": "Khi có vụ việc",
+      "C": "Thường xuyên, liên tục",
+      "D": "Chỉ khi có vi phạm"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 445,
-    "question": "Một trong những yêu cầu then chốt khi điều chỉnh tổ chức biên chế theo Nghị quyết số 05-NQ/TW là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, đổi mới công tác kiểm tra, giám sát phải gắn chặt với công tác nào?",
     "options": {
-      "A": "Điều chỉnh tổ chức lực lượng phải đồng bộ, có lộ trình, bước đi vững chắc, phù hợp thực tiễn",
-      "B": "Thực hiện ồ ạt, nhanh chóng trong một thời gian ngắn",
-      "C": "Chỉ tập trung cắt giảm lực lượng hậu cần kỹ thuật",
-      "D": "Không cần bảo đảm thế trận phòng thủ"
+      "A": "Công tác chính trị, tư tưởng, tổ chức, cán bộ",
+      "B": "Công tác tài chính, hậu cần, kỹ thuật",
+      "C": "Công tác đối ngoại, kinh tế, khoa học công nghệ",
+      "D": "Công tác hành chính, pháp luật"
     },
     "answer": "A"
   },
   {
     "id": 446,
-    "question": "Theo tinh thần Nghị quyết số 05-NQ/TW, ưu tiên quân số và trang bị cho những lực lượng nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, công tác kiểm tra, giám sát phải được tiến hành theo yêu cầu nào?",
     "options": {
-      "A": "Ưu tiên các cơ quan hành chính cấp chiến lược",
-      "B": "Ưu tiên lực lượng làm nhiệm vụ sẵn sàng chiến đấu, tuyến biên giới, biển đảo, địa bàn trọng điểm",
-      "C": "Ưu tiên các doanh nghiệp quân đội làm kinh tế",
-      "D": "Phân bổ đều nhau cho mọi đơn vị không phân biệt"
+      "A": "Chủ động, kịp thời, toàn diện",
+      "B": "Tập trung, nhanh, gọn",
+      "C": "Linh hoạt, mềm dẻo, kín đáo",
+      "D": "Chuyên sâu, độc lập, định kỳ"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 447,
-    "question": "Nghị quyết số 05-NQ/TW yêu cầu giải quyết chế độ chính sách đối với cán bộ, nhân viên dôi dư do điều chỉnh tổ chức biên chế như thế nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, tổ chức đảng và đảng viên phải thường xuyên làm gì?",
     "options": {
-      "A": "Kịp thời, chu đáo, đúng chế độ chính sách của Đảng, Nhà nước và Quân đội, tạo sự đồng thuận cao",
-      "B": "Để cán bộ, nhân viên tự tìm việc làm mới mà không cần hỗ trợ",
-      "C": "Buộc chuyển ngành toàn bộ không xét nguyện vọng",
-      "D": "Cắt giảm trợ cấp để tiết kiệm ngân sách"
+      "A": "Tự soi, tự sửa",
+      "B": "Tự đánh giá, tự xếp loại",
+      "C": "Tự kiểm điểm định kỳ",
+      "D": "Tự báo cáo kết quả"
     },
     "answer": "A"
   },
   {
     "id": 448,
-    "question": "Quá trình thực hiện sắp xếp, tinh gọn tổ chức Quân đội phải luôn gắn liền với nhiệm vụ nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, phương châm trong kiểm tra, giám sát và kỷ luật đảng là gì?",
     "options": {
-      "A": "Nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu, không để bị động bất ngờ",
-      "B": "Tạm dừng công tác huấn luyện để tập trung kiện toàn tổ chức",
-      "C": "Giảm bớt các cuộc diễn tập hàng năm",
-      "D": "Hạn chế mua sắm vũ khí, trang bị mới"
+      "A": "Không có ngoại lệ, không có tư lợi",
+      "B": "Không có vùng cấm, không có ngoại lệ",
+      "C": "Bình đẳng và công khai",
+      "D": "Nghiêm minh và thận trọng"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 449,
-    "question": "Tổ chức quân sự địa phương theo hướng tinh, gọn, mạnh được cơ cấu lại nhằm nâng cao hiệu quả hoạt động ở cấp nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, việc xử lý vi phạm phải bảo đảm như thế nào?",
     "options": {
-      "A": "Cấp tỉnh, cấp huyện, Ban Chỉ huy quân sự cấp xã và các đơn vị dân quân tự vệ",
-      "B": "Chỉ tập trung cơ quan quân sự cấp tỉnh",
-      "C": "Bãi bỏ tổ chức quân sự tại cấp huyện",
-      "D": "Chỉ duy trì lực lượng dự bị tại cấp xã"
+      "A": "Chính xác và công khai",
+      "B": "Nghiêm minh, kịp thời",
+      "C": "Linh hoạt, phù hợp",
+      "D": "Thận trọng, từng bước"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 450,
-    "question": "Để xây dựng Quân đội tinh, gọn, mạnh, công tác phát triển công nghiệp quốc phòng cần hướng tới mục tiêu gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, mục tiêu của công tác kiểm tra, giám sát là góp phần như thế nào?",
     "options": {
-      "A": "Tự chủ, tự lực, tự cường, lưỡng dụng, hiện đại, làm chủ công nghệ nền, công nghệ lõi",
-      "B": "Nhập khẩu toàn bộ vũ khí trang bị từ nước ngoài",
-      "C": "Ngừng sản xuất vũ khí để bảo vệ môi trường",
-      "D": "Chỉ tập trung sản xuất hàng tiêu dùng dân dụng"
+      "A": "Tăng số lượng kiểm tra",
+      "B": "Nâng cao hiệu lực quản lý",
+      "C": "Xây dựng Đảng trong sạch, vững mạnh",
+      "D": "Mở rộng hoạt động của Ủy ban Kiểm tra"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 451,
-    "question": "Nghị quyết số 33-NQ/TW ngày 28/9/2018 của Bộ Chính trị là chiến lược gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, để tạo chuyển biến về nhận thức, cần chú trọng công tác kiểm tra, giám sát ngay từ cấp nào?",
     "options": {
-      "A": "Chiến lược bảo vệ Tổ quốc trên không gian mạng",
-      "B": "Chiến lược biển Việt Nam",
-      "C": "Chiến lược phát triển kinh tế số",
-      "D": "Chiến lược đối ngoại quốc phòng"
+      "A": "Cấp Trung ương",
+      "B": "Cấp tỉnh",
+      "C": "Cấp cơ sở",
+      "D": "Cấp xã"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 452,
-    "question": "Chiến lược bảo vệ Tổ quốc trên không gian mạng xác định không gian mạng là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, việc công khai kết quả kiểm tra, giám sát và thi hành kỷ luật nhằm làm gì?",
     "options": {
-      "A": "Môi trường tác chiến mới, trở thành không gian chiến lược thứ 5 (sau đất liền, biển, trên không, vũ trụ)",
-      "B": "Chỉ là công cụ trao đổi thông tin giải trí",
-      "C": "Môi trường dành riêng cho các chuyên gia công nghệ",
-      "D": "Không liên quan đến an ninh quốc phòng"
+      "A": "Tăng tính minh bạch",
+      "B": "Tăng số vụ xử lý",
+      "C": "Mở rộng quyền kiểm tra",
+      "D": "Thay thế công tác tuyên truyền"
     },
     "answer": "A"
   },
   {
     "id": 453,
-    "question": "Mục tiêu trọng tâm của Chiến lược bảo vệ Tổ quốc trên không gian mạng là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, việc hoàn thiện hệ thống quy định về kiểm tra, giám sát phải bảo đảm như thế nào?",
     "options": {
-      "A": "Bảo vệ vững chắc chủ quyền, lợi ích quốc gia, dân tộc trên không gian mạng; giữ vững an ninh mạng quốc gia",
-      "B": "Ngăn chặn người dân tiếp cận mạng internet",
-      "C": "Độc quyền kiểm soát toàn bộ thông tin toàn cầu",
-      "D": "Phát triển các công ty công nghệ tư nhân"
+      "A": "Đồng bộ, thống nhất, liên thông",
+      "B": "Tập trung, chặt chẽ, nghiêm khắc",
+      "C": "Đơn giản, linh hoạt, dễ thực hiện",
+      "D": "Phân cấp, phân quyền, tự chủ"
     },
     "answer": "A"
   },
   {
     "id": 454,
-    "question": "Lực lượng nào giữ vai trò nòng cốt trong tác chiến bảo vệ chủ quyền quốc gia trên không gian mạng?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, cấp ủy, tổ chức đảng và Ủy ban Kiểm tra các cấp phải chủ động xây dựng?",
     "options": {
-      "A": "Lực lượng Tác chiến không gian mạng (Bộ Tư lệnh Tác chiến không gian mạng - Bộ Tư lệnh 86)",
-      "B": "Các công ty viễn thông dân sự",
-      "C": "Các tổ chức tình nguyện viên công nghệ",
-      "D": "Hiệp hội doanh nghiệp phần mềm"
+      "A": "Kế hoạch công tác cán bộ",
+      "B": "Chương trình kiểm tra, giám sát",
+      "C": "Quy chế làm việc của Ủy ban Kiểm tra",
+      "D": "Kế hoạch tuyên truyền"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 455,
-    "question": "Chiến lược bảo vệ Tổ quốc trên không gian mạng xác định quan điểm xử lý thông tin xấu độc, chống phá trên mạng như thế nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, nhiệm vụ trọng tâm của Ủy ban Kiểm tra các cấp là gì?",
     "options": {
-      "A": "Chủ động phát hiện, ngăn chặn, đấu tranh triệt phá kịp thời, kết hợp chặt chẽ giữa \"xây\" và \"chống\"",
-      "B": "Làm ngơ không can thiệp",
-      "C": "Cắt toàn bộ đường truyền internet quốc tế",
-      "D": "Chỉ theo dõi mà không xử lý"
+      "A": "Kiểm tra khi có dấu hiệu vi phạm",
+      "B": "Kiểm tra thường xuyên mọi tổ chức",
+      "C": "Kiểm tra toàn bộ cán bộ hằng năm",
+      "D": "Kiểm tra theo đơn thư phản ánh"
     },
     "answer": "A"
   },
   {
     "id": 456,
-    "question": "Thế trận nào cần được xây dựng vững chắc để bảo vệ Tổ quốc trên không gian mạng?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, một điểm đổi mới quan trọng trong phương pháp kiểm tra, giám sát là chuyển trọng tâm?",
     "options": {
-      "A": "Thế trận an ninh nhân dân và thế trận quốc phòng toàn dân trên không gian mạng",
-      "B": "Thế trận phong tỏa công nghệ thông tin",
-      "C": "Thế trận tách biệt mạng nội bộ khỏi thế giới",
-      "D": "Thế trận giao quyền an ninh mạng cho nước ngoài"
+      "A": "Từ xử lý sang kiểm tra",
+      "B": "Từ phòng ngừa sang xử lý",
+      "C": "Sang phòng ngừa, cảnh báo vi phạm",
+      "D": "Từ thường xuyên sang chuyên đề"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 457,
-    "question": "Một trong những giải pháp quan trọng để bảo đảm an toàn, an ninh mạng cho các cơ quan Đảng, Nhà nước, lực lượng vũ trang là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, giám sát thường xuyên cần được tăng cường thông qua gì?",
     "options": {
-      "A": "Làm chủ công nghệ, sử dụng phần mềm an toàn, bảo vệ cơ sở dữ liệu quốc gia và hạ tầng thông tin trọng yếu",
-      "B": "Sử dụng phần mềm bẻ khóa (crack) miễn phí",
-      "C": "Không cài đặt mật khẩu để dễ truy cập",
-      "D": "Chia sẻ dữ liệu mật lên các nền tảng công cộng"
+      "A": "Họp giao ban",
+      "B": "Báo cáo định kỳ",
+      "C": "Dữ liệu và thông tin",
+      "D": "Đơn thư phản ánh"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 458,
-    "question": "Theo Luật An ninh mạng năm 2018, cơ quan, tổ chức, cá nhân khi tham gia không gian mạng phải có trách nhiệm gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, chuyển đổi số trong ngành Kiểm tra Đảng nhằm làm gì?",
     "options": {
-      "A": "Tuân thủ quy định của pháp luật về an ninh mạng, không thực hiện hành vi xâm phạm an ninh quốc gia, trật tự xã hội",
-      "B": "Được tự do đăng tải thông tin kích động bạo lực",
-      "C": "Không phải chịu trách nhiệm về phát ngôn trên mạng xã hội",
-      "D": "Có thể chia sẻ thông tin bí mật quân sự nếu không vụ lợi"
+      "A": "Rút ngắn thời gian, nâng cao chất lượng kiểm tra",
+      "B": "Giảm số lượng cán bộ kiểm tra",
+      "C": "Thay thế hoàn toàn cán bộ kiểm tra",
+      "D": "Chỉ phục vụ quản lý hồ sơ"
     },
     "answer": "A"
   },
   {
     "id": 459,
-    "question": "Biện pháp nào được áp dụng để bảo vệ hệ thống thông tin quan trọng về an ninh quốc gia?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, mô hình tổ chức cơ quan Ủy ban Kiểm tra được định hướng từ đâu?",
     "options": {
-      "A": "Kiểm tra an ninh mạng định kỳ, giám sát liên tục, thiết lập phương án ứng phó sự cố tấn công mạng",
-      "B": "Chỉ kiểm tra khi xảy ra sự cố mất dữ liệu",
-      "C": "Ủy thác toàn bộ cho chuyên gia nước ngoài quản lý",
-      "D": "Tắt máy chủ khi không có người trực"
+      "A": "Trung ương đến tỉnh",
+      "B": "Trung ương đến tỉnh và các đầu mối trực thuộc",
+      "C": "Trung ương đến xã, phường, đặc khu và tương đương",
+      "D": "Trung ương đến cơ sở trực thuộc"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 460,
-    "question": "Nhiệm vụ của mỗi cán bộ, chiến sĩ Quân đội nhân dân trong bảo vệ nền tảng tư tưởng của Đảng trên không gian mạng là gì?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, cần tăng cường phối hợp giữa cơ quan kiểm tra của Đảng với ai?",
     "options": {
-      "A": "Gương mẫu chấp hành quy định, tích cực lan tỏa thông tin tích cực, kiên quyết đấu tranh phản bác các quan điểm sai trái, thù địch",
-      "B": "Không quan tâm đến thông tin chính trị trên mạng",
-      "C": "Tự do like, chia sẻ các bài viết có nội dung xuyên tạc, chống đối",
-      "D": "Tham gia các hội nhóm kín có tư tưởng lệch lạc"
+      "A": "Cơ quan tham mưu, giúp việc cấp ủy và cơ quan liên quan",
+      "B": "Các cơ quan tư pháp trong hệ thống chính trị",
+      "C": "Tập trung phối hợp với cơ quan hành chính",
+      "D": "Phối hợp với Mặt trận Tổ quốc"
     },
     "answer": "A"
   },
   {
     "id": 461,
-    "question": "Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng xác định mục tiêu đến năm 2045 nước ta trở thành nước như thế nào?",
+    "question": "Theo Nghị quyết số 05-NQ/TW ngày 07/4/2026 về đổi mới, nâng cao hiệu lực công tác kiểm tra, giám sát và kỷ luật đảng, cơ quan chủ trì hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị quyết là ai?",
     "options": {
-      "A": "Nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
-      "B": "Nước phát triển, có thu nhập cao",
-      "C": "Nước nông nghiệp tiên tiến",
-      "D": "Nước công nghiệp hóa, hiện đại hóa cơ bản"
+      "A": "Ban Tổ chức Trung ương",
+      "B": "Ban Tuyên giáo và Dân vận Trung ương",
+      "C": "Ủy ban Kiểm tra Trung ương",
+      "D": "Văn phòng Trung ương Đảng"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 462,
-    "question": "Văn kiện Đại hội XIII của Đảng nhấn mạnh nhân tố có ý nghĩa quyết định thắng lợi của sự nghiệp xây dựng và bảo vệ Tổ quốc là gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, mục tiêu tổng quát của công tác phòng, chống tham nhũng, lãng phí, tiêu cực là gì?",
     "options": {
-      "A": "Tài nguyên thiên nhiên giàu có",
-      "B": "Tăng cường xây dựng, chỉnh đốn Đảng và hệ thống chính trị trong sạch, vững mạnh",
-      "C": "Viện trợ quốc tế dồi dào",
-      "D": "Ứng dụng công nghệ nhập khẩu"
+      "A": "Tăng cường xử lý sai phạm, không để các vụ việc nhỏ bùng phát thành vụ việc lớn",
+      "B": "Kiên quyết, kiên trì phòng ngừa, kiểm soát, ngăn chặn, đẩy lùi",
+      "C": "Mở rộng hoạt động thanh tra, kiểm tra các cấp",
+      "D": "Nâng cao hiệu quả quản lý nhà nước"
     },
     "answer": "B"
   },
   {
     "id": 463,
-    "question": "Quan điểm chỉ đạo xuyên suốt được Đại hội XIII của Đảng khẳng định là kiên định mục tiêu nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, công tác phòng, chống tham nhũng, lãng phí, tiêu cực phải đặt dưới sự lãnh đạo?",
     "options": {
-      "A": "Độc lập dân tộc và chủ nghĩa xã hội",
-      "B": "Chỉ tập trung phát triển kinh tế thị trường tự do",
-      "C": "Hòa bình bằng mọi giá, chấp nhận nhượng bộ chủ quyền",
-      "D": "Phát triển kinh tế không cần định hướng xã hội chủ nghĩa"
+      "A": "Sự lãnh đạo của Nhà nước",
+      "B": "Sự lãnh đạo trực tiếp, toàn diện của Đảng",
+      "C": "Sự quản lý của Chính phủ",
+      "D": "Sự giám sát của cơ quan kiểm tra"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 464,
-    "question": "Đại hội XIII của Đảng xác định ba đột phá chiến lược gồm những nội dung nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, cùng với sự lãnh đạo của Đảng, yếu tố nào được nhấn mạnh trong phòng, chống tham nhũng, lãng phí, tiêu cực?",
     "options": {
-      "A": "Hoàn thiện đồng bộ thể chế; phát triển nguồn nhân lực, nhất là nhân lực chất lượng cao; xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại",
-      "B": "Đổi mới giáo dục, y tế và bảo trợ xã hội",
-      "C": "Tập trung mở rộng đô thị, tăng thu ngân sách và mở rộng xuất khẩu",
-      "D": "Phát triển doanh nghiệp tư nhân, vay vốn quốc tế và cải cách tiền lương"
+      "A": "Giám sát của Nhân dân",
+      "B": "Kiểm toán nhà nước",
+      "C": "Thanh tra chuyên ngành",
+      "D": "Giám sát của doanh nghiệp"
     },
     "answer": "A"
   },
   {
     "id": 465,
-    "question": "Về phương hướng xây dựng lực lượng vũ trang, Đại hội XIII xác định mục tiêu đến năm 2030 là gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, công tác phòng, chống tham nhũng, lãng phí, tiêu cực phải được tiến hành như thế nào?",
     "options": {
-      "A": "Xây dựng Quân đội nhân dân, Công an nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại",
-      "B": "Cắt giảm một nửa quân số thường trực",
-      "C": "Giữ nguyên cơ cấu tổ chức và trang bị hiện có",
-      "D": "Chỉ tập trung phát triển lực lượng vũ trang tại các đô thị lớn"
+      "A": "Theo chuyên đề",
+      "B": "Khi có vụ việc",
+      "C": "Thường xuyên, liên tục, từ cơ sở",
+      "D": "Theo từng giai đoạn"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 466,
@@ -727,376 +727,376 @@
   },
   {
     "id": 467,
-    "question": "Nghị quyết Trung ương 8 khóa XIII khẳng định mối quan hệ giữa hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc như thế nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, lợi ích nào phải được đặt lên trên hết trong phòng, chống tham nhũng, lãng phí, tiêu cực?",
     "options": {
-      "A": "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa có mối quan hệ biện chứng, gắn bó mật thiết, hữu cơ với nhau",
-      "B": "Xây dựng kinh tế quan trọng hơn bảo vệ Tổ quốc",
-      "C": "Bảo vệ Tổ quốc là nhiệm vụ duy nhất của quân đội",
-      "D": "Hai nhiệm vụ độc lập, tách rời nhau"
+      "A": "Lợi ích của cơ quan, đơn vị",
+      "B": "Lợi ích của doanh nghiệp, người dân",
+      "C": "Lợi ích quốc gia - dân tộc và Nhân dân",
+      "D": "Lợi ích của địa phương, đơn vị"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 468,
-    "question": "Theo quan điểm của Đảng, \"nền tảng tư tưởng của Đảng, kim chỉ nam cho hành động của cách mạng Việt Nam\" là gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, quan điểm xử lý mối quan hệ giữa đấu tranh phòng, chống tham nhũng và phát triển là gì?",
     "options": {
-      "A": "Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh",
-      "B": "Học thuyết phát triển phương Tây",
-      "C": "Các trào lưu tư tưởng mới trên thế giới",
-      "D": "Kinh nghiệm quản lý từ các nước tư bản"
+      "A": "Tập trung đấu tranh, không ưu tiên phát triển",
+      "B": "Vừa đấu tranh, vừa kiến tạo phát triển",
+      "C": "Ưu tiên phát triển trước xử lý",
+      "D": "Chỉ xử lý sau khi phát triển"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 469,
-    "question": "Chỉ thị số 05-CT/TW của Bộ Chính trị khóa XII và Kết luận số 01-KL/TW của Bộ Chính trị khóa XIII chỉ đạo về nội dung gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, nội dung nào được xác định là cốt lõi trong phòng, chống tham nhũng, lãng phí, tiêu cực?",
     "options": {
-      "A": "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
-      "B": "Thực hiện chuyển đổi số quốc gia",
-      "C": "Đổi mới căn bản, toàn diện giáo dục và đào tạo",
-      "D": "Phát triển kinh tế tư nhân"
+      "A": "Phòng ngừa",
+      "B": "Kiểm tra",
+      "C": "Kiểm soát quyền lực",
+      "D": "Xử lý vi phạm"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 470,
-    "question": "Quy định số 37-QĐ/TW của Ban Chấp hành Trung ương Đảng khóa XIII quy định về điều gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, nội dung nào được xác định là trọng tâm để nâng cao hiệu quả phòng, chống tham nhũng, lãng phí, tiêu cực?",
     "options": {
-      "A": "Về những điều đảng viên không được làm",
-      "B": "Về công tác kiểm tra, giám sát của Đảng",
-      "C": "Về bổ nhiệm cán bộ lãnh đạo",
-      "D": "Về thu nộp đảng phí"
+      "A": "Thanh tra, kiểm tra, kiểm soát",
+      "B": "Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+      "C": "Tuyên truyền, vận động, giảm thiểu vi phạm",
+      "D": "Điều tra, truy tố, xét xử, xử lý nghiêm minh, khách quan"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 471,
-    "question": "Nghị quyết số 21-NQ/TW của Ban Chấp hành Trung ương khóa XIII tập trung vào vấn đề gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, phương châm xử lý vi phạm là gì?",
     "options": {
-      "A": "Tăng cường củng cố, xây dựng tổ chức cơ sở đảng và nâng cao chất lượng đội ngũ đảng viên trong giai đoạn mới",
-      "B": "Đổi mới chính sách đất đai",
-      "C": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước",
-      "D": "Đổi mới công tác y tế dự phòng"
+      "A": "Nhanh, mạnh, nghiêm, đáp ứng yêu cầu nhiệm vụ",
+      "B": "Nghiêm minh, kịp thời, nhân văn, thuyết phục",
+      "C": "Linh hoạt, mềm dẻo, phù hợp, khoa học",
+      "D": "Công khai, minh bạch, thận trọng"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 472,
-    "question": "Để xây dựng chi bộ \"bốn tốt\", nội dung \"bốn tốt\" bao gồm những yếu tố nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, khi xử lý tham nhũng, lãng phí, tiêu cực, cần ưu tiên gì?",
     "options": {
-      "A": "Lãnh đạo hoàn thành tốt nhiệm vụ chính trị; Chất lượng sinh hoạt tốt; Đoàn kết, kỷ luật tốt; Cán bộ, đảng viên tốt",
-      "B": "Kinh phí tốt, cơ sở vật chất tốt, báo cáo tốt, liên hoan tốt",
-      "C": "Số lượng đảng viên đông tốt, kiểm tra tốt, họp nhanh tốt, phân công tốt",
-      "D": "Tự phê bình tốt, kỷ luật nghiêm tốt, tuyên truyền tốt, vận động tốt"
+      "A": "Xử lý hình sự",
+      "B": "Thu hồi tối đa tài sản",
+      "C": "Công khai vụ việc",
+      "D": "Xử lý người đứng đầu"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 473,
-    "question": "Theo tư tưởng Hồ Chí Minh, đạo đức cách mạng của người quân nhân cách mạng gồm những phẩm chất cốt lõi nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, một trong những yêu cầu đối với người đứng đầu là gì?",
     "options": {
-      "A": "Cần, kiệm, liêm, chính, chí công vô tư; trung với Đảng, hiếu với dân, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng",
-      "B": "Chỉ cần giỏi chuyên môn kỹ thuật, không cần tu dưỡng đạo đức",
-      "C": "Thực dụng, đặt lợi ích cá nhân lên trên tập thể",
-      "D": "Làm việc theo cảm tính cá nhân"
+      "A": "Trực tiếp lãnh đạo, chỉ đạo công tác phòng, chống tham nhũng, lãng phí, tiêu cực",
+      "B": "Giao toàn bộ cho cơ quan kiểm tra",
+      "C": "Kịp thời xử lý khi có vụ việc",
+      "D": "Chịu trách nhiệm khi có thiệt hại"
     },
     "answer": "A"
   },
   {
     "id": 474,
-    "question": "Nghị quyết số 847-NQ/QUTW ngày 28/12/2021 của Quân ủy Trung ương quy định về nội dung gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, văn hóa liêm chính được xác định là gì?",
     "options": {
-      "A": "Phát huy phẩm chất \"Bộ đội Cụ Hồ\", kiên quyết chống chủ nghĩa cá nhân trong tình hình mới",
-      "B": "Tăng cường huấn luyện thể lực cho bộ đội",
-      "C": "Nâng cao đời sống vật chất cho quân nhân",
-      "D": "Quy định trang phục mới cho toàn quân"
+      "A": "Giá trị bổ trợ, nâng cao tính Đảng, tính khoa học",
+      "B": "Giá trị cốt lõi, chuẩn mực ứng xử và đạo đức",
+      "C": "Nội dung tuyên truyền, giáo dục thuyết phục",
+      "D": "Tiêu chí thi đua, đánh giá đúng năng lực"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 475,
-    "question": "Nghị quyết số 847-NQ/QUTW đã khái quát bao nhiêu đặc trưng cơ bản của phẩm chất \"Bộ đội Cụ Hồ\"?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, quốc gia và xã hội liêm chính được xây dựng trên 3 trụ cột là gì?",
     "options": {
-      "A": "5 đặc trưng cơ bản",
-      "B": "7 đặc trưng cơ bản",
-      "C": "10 đặc trưng cơ bản",
-      "D": "12 đặc trưng cơ bản"
+      "A": "Thể chế liêm chính - nền công vụ liêm chính - đội ngũ cán bộ, đảng viên, công chức, viên chức liêm chính",
+      "B": "Pháp luật liêm chính - xã hội liêm chính - doanh nghiệp liêm chính",
+      "C": "Đảng liêm chính - Nhà nước liêm chính - Nhân dân liêm chính",
+      "D": "Cán bộ liêm chính - doanh nghiệp liêm chính - xã hội liêm chính"
     },
     "answer": "A"
   },
   {
     "id": 476,
-    "question": "Theo Nghị quyết số 847-NQ/QUTW, có bao nhiêu biểu hiện của chủ nghĩa cá nhân cần kiên quyết đấu tranh ngăn ngừa, chấn chỉnh?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, một yêu cầu quan trọng trong hoàn thiện thể chế là gì?",
     "options": {
-      "A": "10 biểu hiện của chủ nghĩa cá nhân",
-      "B": "8 biểu hiện",
-      "C": "12 biểu hiện",
-      "D": "15 biểu hiện"
+      "A": "Mở rộng cơ chế xin – cho",
+      "B": "Xóa bỏ cơ chế xin – cho",
+      "C": "Tăng quyền cho cơ quan quản lý",
+      "D": "Giảm trách nhiệm giải trình"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 477,
-    "question": "Một trong những đặc trưng hàng đầu của phẩm chất \"Bộ đội Cụ Hồ\" thời kỳ mới là gì?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, việc xử lý cán bộ yếu kém, thiếu trách nhiệm, uy tín thấp cần làm gì?",
     "options": {
-      "A": "Tuyệt đối trung thành với Đảng, với Tổ quốc và Nhân dân",
-      "B": "Có kỹ năng kinh doanh, làm giàu cho gia đình",
-      "C": "Sử dụng thành thạo ngoại ngữ phương Tây",
-      "D": "Tìm kiếm lợi ích riêng cho bản thân"
+      "A": "Động viên, tiếp tục theo dõi",
+      "B": "Kịp thời thay thế, cho từ chức",
+      "C": "Phê bình, kiểm điểm nghiêm túc",
+      "D": "Chuyển sang vị trí công tác khác"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 478,
-    "question": "Biểu hiện nào dưới đây là biểu hiện của chủ nghĩa cá nhân cần lên án và loại trừ trong Quân đội?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, thực hành tiết kiệm, chống lãng phí cần chú trọng các loại lãng phí nào?",
     "options": {
-      "A": "Thấy đúng không bảo vệ, thấy sai không đấu tranh; độc đoán, chuyên quyền, bè phái, mất đoàn kết",
-      "B": "Nêu cao tinh thần trách nhiệm, sẵn sàng nhận và hoàn thành mọi nhiệm vụ được giao",
-      "C": "Thương yêu đồng chí, đồng đội như ruột thịt",
-      "D": "Chấp hành nghiêm kỷ luật và mệnh lệnh của cấp trên"
+      "A": "Tiền bạc, tài sản, cơ sở vật chất",
+      "B": "Nguồn lực, thời gian và cơ hội phát triển",
+      "C": "Nhân lực và vật lực",
+      "D": "Đất đai, ngân sách và tài nguyên"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 479,
-    "question": "Chức trách của người quân nhân cách mạng khi tham gia các hoạt động ở đơn vị đòi hỏi phải chấp hành nguyên tắc lãnh đạo nào của Đảng?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, trong phòng, chống tham nhũng, lãng phí, tiêu cực, cần chủ động làm gì?",
     "options": {
-      "A": "Tập trung dân chủ, tập thể lãnh đạo, phân công cá nhân phụ trách",
-      "B": "Cá nhân quyết định mọi việc",
-      "C": "Dân chủ quá trớn, không cần kỷ luật",
-      "D": "Trực tiếp hành động không cần thông qua cấp ủy"
+      "A": "Nhận diện, dự báo, cảnh báo từ sớm, từ xa",
+      "B": "Chủ động xử lý khi có hậu quả",
+      "C": "Tích cực kiểm tra sau khi phát hiện có dấu hiệu vi phạm",
+      "D": "Tập trung vào lĩnh vực truyền thống"
     },
     "answer": "A"
   },
   {
     "id": 480,
-    "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam là ngày nào?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, cơ quan nào chủ trì theo dõi, đôn đốc, hướng dẫn, kiểm tra, giám sát việc thực hiện Nghị quyết?",
     "options": {
-      "A": "22/12/1944",
-      "B": "19/08/1945",
-      "C": "02/09/1945",
-      "D": "30/04/1975"
+      "A": "Ban Tổ chức Trung ương",
+      "B": "Ban Nội chính Trung ương",
+      "C": "Ủy ban Kiểm tra Trung ương",
+      "D": "Văn phòng Trung ương Đảng"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 481,
-    "question": "Năm 2024, Quân đội nhân dân Việt Nam tổ chức kỷ niệm bao nhiêu năm Ngày thành lập?",
+    "question": "Theo Nghị quyết số 04-NQ/TW ngày 01/4/2026 về tiếp tục tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí, tiêu cực trong giai đoạn mới, văn bản này thay thế những văn bản nào?",
     "options": {
-      "A": "80 năm Ngày thành lập Quân đội nhân dân Việt Nam (22/12/1944 - 22/12/2024)",
-      "B": "75 năm",
-      "C": "85 năm",
-      "D": "90 năm"
+      "A": "Nghị quyết Trung ương 3 khóa X",
+      "B": "Nghị quyết 04-NQ/TW năm 2006 và các kết luận liên quan",
+      "C": "Kết luận số 10-KL/TW năm 2016 và các kết luận liên quan",
+      "D": "Chỉ thị số 50-CT/TW năm 2015"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 482,
-    "question": "Ngày hội Quốc phòng toàn dân được lấy là ngày nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 của Ban Chấp hành Trung ương về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, mục tiêu tăng trưởng GDP bình quân giai đoạn 2026–2030 là bao nhiêu %?",
     "options": {
-      "A": "Ngày 22 tháng 12 hàng năm (bắt đầu từ năm 1989)",
-      "B": "Ngày 19 tháng 8 hàng năm",
-      "C": "Ngày 27 tháng 7 hàng năm",
-      "D": "Ngày 03 tháng 2 hàng năm"
+      "A": "Trên 8%/năm",
+      "B": "Trên 9%/năm",
+      "C": "Từ 10%/năm trở lên",
+      "D": "Khoảng 7%/năm"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 483,
-    "question": "Chiến thắng lịch sử Điện Biên Phủ diễn ra vào năm nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, mục tiêu tăng trưởng “2 con số” phải gắn với yêu cầu nào?",
     "options": {
-      "A": "Năm 1954 (07/5/1954)",
-      "B": "Năm 1945",
-      "C": "Năm 1972",
-      "D": "Năm 1975"
+      "A": "Giảm đầu tư công",
+      "B": "Ổn định kinh tế vĩ mô",
+      "C": "Tăng khai thác tài nguyên",
+      "D": "Mở rộng tín dụng"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 484,
-    "question": "Năm 2024, toàn Đảng, toàn dân và toàn quân ta kỷ niệm bao nhiêu năm Chiến thắng Điện Biên Phủ?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, mục tiêu đến năm 2030 của Việt Nam là gì?",
     "options": {
-      "A": "70 năm Chiến thắng Điện Biên Phủ (07/5/1954 - 07/5/2024)",
-      "B": "65 năm",
-      "C": "75 năm",
-      "D": "80 năm"
+      "A": "Trở thành nước phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
+      "B": "Trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
+      "C": "Trở thành nước có thu nhập cao",
+      "D": "Trở thành trung tâm tài chính khu vực"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 485,
-    "question": "Đại thắng mùa Xuân năm 1975 đỉnh cao là Chiến dịch Hồ Chí Minh lịch sử giải phóng hoàn toàn miền Nam vào ngày nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, một trong những yêu cầu xuyên suốt là gì?",
     "options": {
-      "A": "30/04/1975",
-      "B": "01/05/1975",
-      "C": "26/03/1975",
-      "D": "19/05/1975"
+      "A": "Đổi mới quản trị thể chế",
+      "B": "Thu hẹp khu vực tư nhân",
+      "C": "Giảm hội nhập quốc tế",
+      "D": "Tăng bao cấp kinh tế"
     },
     "answer": "A"
   },
   {
     "id": 486,
-    "question": "Truyền thống vẻ vang \"Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập, tự do của Tổ quốc, vì chủ nghĩa xã hội. Nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng\" là lời khen ngợi của ai dành cho Quân đội ta?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, phương thức quản lý nhà nước cần chuyển mạnh từ đâu?",
     "options": {
-      "A": "Chủ tịch Hồ Chí Minh (nhân dịp kỷ niệm 20 năm thành lập QĐND Việt Nam năm 1964)",
-      "B": "Đại tướng Võ Nguyên Giáp",
-      "C": "Tổng Bí thư Lê Duẩn",
-      "D": "Chủ tịch Tôn Đức Thắng"
+      "A": "Tiền kiểm sang hậu kiểm",
+      "B": "Hậu kiểm sang tiền kiểm",
+      "C": "Phân cấp sang tập trung",
+      "D": "Giám sát sang kiểm soát"
     },
     "answer": "A"
   },
   {
     "id": 487,
-    "question": "Ba chức năng cơ bản của Quân đội nhân dân Việt Nam là gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, trong phát triển kinh tế - xã hội cần làm gì?",
     "options": {
-      "A": "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất",
-      "B": "Đội quân phòng thủ, đội quân văn hóa, đội quân thể thao",
-      "C": "Đội quân canh gác, đội quân cứu nạn, đội quân ngoại giao",
-      "D": "Đội quân dự bị, đội quân hành chính, đội quân xây dựng"
+      "A": "Đẩy mạnh phân cấp, phân quyền",
+      "B": "Tập trung quyền lực",
+      "C": "Giảm trách nhiệm giải trình",
+      "D": "Hạn chế giám sát"
     },
     "answer": "A"
   },
   {
     "id": 488,
-    "question": "Mười lời thề danh dự của quân nhân Quân đội nhân dân Việt Nam được đọc trong dịp nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, một nhiệm vụ trọng tâm là chuyển sang mô hình tăng trưởng dựa chủ yếu vào yếu tố nào?",
     "options": {
-      "A": "Lễ tuyên thệ chiến sĩ mới và các buổi sinh hoạt chính trị trang trọng",
-      "B": "Các buổi chào cờ hàng tuần tại các cơ quan",
-      "C": "Trước khi đi ngủ hàng ngày",
-      "D": "Chỉ đọc trong thời chiến"
+      "A": "Tài nguyên thiên nhiên, tư liệu sản xuất sẵn có",
+      "B": "Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+      "C": "Lao động giá rẻ, khoa học công nghệ hiện đại",
+      "D": "Vốn đầu tư công và lao động rẻ"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 489,
-    "question": "Lời thề thứ nhất trong 10 Lời thề danh dự của quân nhân QĐND Việt Nam thể hiện nội dung gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, công nghiệp quốc gia cần được xây dựng theo hướng nào?",
     "options": {
-      "A": "Hy sinh tất cả vì Tổ quốc Việt Nam; dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, phấn đấu thực hiện một nước Việt Nam hòa bình, độc lập và xã hội chủ nghĩa",
-      "B": "Tuyệt đối phục tùng mệnh lệnh cấp trên",
-      "C": "Hết lòng thương yêu đồng chí, đồng đội",
-      "D": "Giữ gìn vũ khí trang bị tốt, bền"
+      "A": "Nhỏ, phân tán",
+      "B": "Hiện đại, tự chủ",
+      "C": "Phụ thuộc nhập khẩu",
+      "D": "Tập trung vào gia công"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 490,
-    "question": "Lời thề thứ chín trong 10 Lời thề danh dự của quân nhân khi tiếp xúc với nhân dân thể hiện phương châm gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, đối với kinh tế nhà nước, trọng tâm đổi mới là gì?",
     "options": {
-      "A": "Kính trọng dân, giúp đỡ dân, bảo vệ dân, không lấy của dân một cây kim sợi chỉ; thực hiện \"đi dân nhớ, ở dân thương\"",
-      "B": "Tránh tiếp xúc với người dân địa phương",
-      "C": "Yêu cầu nhân dân phục vụ bộ đội vô điều kiện",
-      "D": "Chỉ giúp dân khi có thù lao tương xứng"
+      "A": "Mở rộng bao cấp, đáp ứng nhu cầu xã hội",
+      "B": "Quản trị doanh nghiệp theo chuẩn mực quốc tế",
+      "C": "Tăng biên chế, nâng cao khả năng vận hành của doanh nghiệp",
+      "D": "Giảm đầu tư công, hạn chế thất thoát"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 491,
-    "question": "Mười hai điều kỷ luật khi quan hệ với nhân dân có ý nghĩa gì đối với mỗi quân nhân?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, phát triển kinh tế tư nhân phải bảo đảm như thế nào?",
     "options": {
-      "A": "Xây dựng và củng cố mối quan hệ máu thịt giữa Quân đội với Nhân dân, làm sáng đẹp hình ảnh \"Bộ đội Cụ Hồ\" trong lòng dân",
-      "B": "Chỉ để áp dụng khi làm công tác dân vận đặc biệt",
-      "C": "Là quy định riêng của lực lượng biên phòng",
-      "D": "Không bắt buộc đối với quân nhân chuyên nghiệp"
+      "A": "Được bảo hộ riêng để phát triển",
+      "B": "Bình đẳng trong tiếp cận nguồn lực",
+      "C": "Chỉ hoạt động trong nước",
+      "D": "Hạn chế cạnh tranh"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 492,
-    "question": "Phương châm cơ bản trong công tác dân vận của Quân đội là gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, chính sách thu hút FDI cần chuyển từ...?",
     "options": {
-      "A": "\"Óc nghĩ, mắt trông, tai nghe, chân đi, miệng nói, tay làm\"; chân thành, tôn trọng và lắng nghe nhân dân",
-      "B": "Chỉ cần tuyên truyền trên loa phát thanh",
-      "C": "Ra lệnh cho nhân dân thực hiện theo kế hoạch",
-      "D": "Khoán trắng cho chính quyền địa phương"
+      "A": "Ưu đãi trước sang ưu đãi sau",
+      "B": "Ưu đãi thuế sang ưu đãi theo kết quả",
+      "C": "Ưu đãi nhiều sang ưu đãi ít",
+      "D": "Thu hút rộng sang thu hút hẹp"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 493,
-    "question": "Theo Điều lệnh quản lý bộ đội, việc duy trì các chế độ sinh hoạt, học tập, công tác trong ngày có bao nhiêu chế độ?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, một yêu cầu quan trọng đối với khu vực FDI là gì?",
     "options": {
-      "A": "11 chế độ trong ngày",
-      "B": "10 chế độ trong ngày",
-      "C": "12 chế độ trong ngày",
-      "D": "8 chế độ trong ngày"
+      "A": "Tăng nhập khẩu",
+      "B": "Thúc đẩy chuyển giao công nghệ",
+      "C": "Giảm liên kết trong nước",
+      "D": "Tăng sử dụng lao động giản đơn"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 494,
-    "question": "Chế độ nào dưới đây thuộc các chế độ trong ngày của quân nhân theo Điều lệnh quản lý bộ đội?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, phát triển thị trường trong nước được xác định là gì?",
     "options": {
-      "A": "Treo quốc kỳ; Thức dậy; Thể dục sáng; Kiểm tra sáng; Học tập; Ăn uống; Bảo quản vũ khí; Thể thao; Đọc báo, nghe tin; Điểm danh, điểm quân số; Ngủ nghỉ",
-      "B": "Tự do giải trí ngoài doanh trại vào ban ngày",
-      "C": "Họp nhóm riêng không báo cáo chỉ huy",
-      "D": "Rời khỏi đơn vị không cần giấy phép"
+      "A": "Điểm tựa quan trọng cho tăng trưởng",
+      "B": "Nhiệm vụ thứ yếu",
+      "C": "Nguồn thu ngắn hạn, đáp ứng yêu cầu cấp bách",
+      "D": "Giải pháp tình thế trong điều kiện mới"
     },
     "answer": "A"
   },
   {
     "id": 495,
-    "question": "Quy định về chào, báo cáo trong Quân đội thể hiện điều gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, phát triển thị trường vốn trong nước nhằm làm gì?",
     "options": {
-      "A": "Nét đẹp văn hóa quân sự, sự tôn trọng kỷ luật, trật tự và tình đồng chí, đồng đội gắn kết",
-      "B": "Sự ép buộc mang tính hình thức",
-      "C": "Chỉ áp dụng khi gặp tướng lĩnh cấp cao",
-      "D": "Chỉ thực hiện trong giờ làm việc chính thức"
+      "A": "Giảm xuất khẩu",
+      "B": "Làm kênh huy động vốn dài hạn",
+      "C": "Giảm đầu tư tư nhân",
+      "D": "Hạn chế thị trường chứng khoán"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 496,
-    "question": "Quân nhân vi phạm kỷ luật quân đội tùy theo tính chất, mức độ vi phạm sẽ bị xử lý bằng những hình thức kỷ luật nào (đối với hạ sĩ quan, binh sĩ)?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, quản lý tài chính quốc gia phải bảo đảm gì?",
     "options": {
-      "A": "Khiển trách, Cảnh cáo, Giáng cấp bậc quân hàm, Tước cấp bậc quân hàm, Tước danh hiệu quân nhân",
-      "B": "Phạt tiền mặt trực tiếp",
-      "C": "Buộc lao động công ích ngoài giờ không nghỉ ngơi",
-      "D": "Cắt giảm khẩu phần ăn hàng ngày"
+      "A": "Chi tiêu mở rộng, đáp ứng yêu cầu trong tình hình mới",
+      "B": "Cân đối bền vững, an toàn tài chính quốc gia",
+      "C": "Tăng vay nợ, kịp thời đầu tư các dự án mới",
+      "D": "Giảm thu ngân sách, tăng chi cho các hoạt động"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 497,
-    "question": "Việc phòng, chống các tệ nạn xã hội như ma túy, cờ bạc, cá độ bóng đá, vay nợ nặng lãi (tín dụng đen) trong đơn vị quân đội có ý nghĩa như thế nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, đối với vay và trả nợ công, yêu cầu được nhấn mạnh là gì?",
     "options": {
-      "A": "Bảo đảm an toàn tuyệt đối, giữ nghiêm kỷ luật, bảo vệ nhân phẩm quân nhân và xây dựng đơn vị vững mạnh toàn diện",
-      "B": "Chỉ là việc cá nhân của từng quân nhân khi ra ngoài đơn vị",
-      "C": "Không ảnh hưởng lớn đến sức mạnh chiến đấu của đơn vị",
-      "D": "Chỉ xử lý khi có tố cáo từ bên ngoài"
+      "A": "Tăng vay để đầu tư cho các lĩnh vực có thế mạnh",
+      "B": "Quản lý rủi ro và bảo đảm an toàn nợ công",
+      "C": "Tập trung vay ngắn hạn",
+      "D": "Giảm công khai thông tin"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 498,
-    "question": "Khi sử dụng điện thoại thông minh và mạng internet, quân nhân phải tuyệt đối chấp hành quy định nào?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, vốn đầu tư công trung hạn 2026–2030 cần làm gì?",
     "options": {
-      "A": "Không chụp ảnh, quay phim, chia sẻ hình ảnh doanh trại, vũ khí trang bị, tài liệu quân sự và các nội dung bí mật quân sự lên mạng",
-      "B": "Được tự do quay clip trong giờ trực ban nếu vui vẻ",
-      "C": "Chia sẻ vị trí đóng quân cho bạn bè cùng biết",
-      "D": "Lưu trữ mật khẩu máy tính đơn vị trên trang mạng cá nhân"
+      "A": "Phân tán cho nhiều dự án",
+      "B": "Tập trung, tránh dàn trải",
+      "C": "Chỉ dành cho địa phương",
+      "D": "Ưu tiên dự án nhỏ"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 499,
-    "question": "Chỉ thị số 103/CT-BQP của Bộ trưởng Bộ Quốc phòng quy định về việc gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, số lượng dự án đầu tư công giai đoạn 2026–2030 so với giai đoạn 2021–2025 như thế nào?",
     "options": {
-      "A": "Về việc tăng cường quản lý, giáo dục chấp hành kỷ luật và bảo đảm an toàn trong Quân đội nhân dân Việt Nam",
-      "B": "Về việc cấp phát tiêu chuẩn quân trang mới",
-      "C": "Về việc tăng cường chế độ bồi dưỡng ăn thêm",
-      "D": "Về quy chế khen thưởng trong huấn luyện"
+      "A": "Giữ nguyên",
+      "B": "Tăng ít nhất 30%",
+      "C": "Giảm tối thiểu 30%",
+      "D": "Giảm 10%"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 500,
-    "question": "Mục tiêu cốt lõi của phong trào Thi đua Quyết thắng trong toàn quân hàng năm là gì?",
+    "question": "Theo Kết luận số 18-KL/TW ngày 02/4/2026 về Kế hoạch phát triển kinh tế - xã hội, tài chính quốc gia, vay, trả nợ công, đầu tư công trung hạn 5 năm 2026–2030 gắn với thực hiện mục tiêu phấn đấu tăng trưởng “2 con số”, đến năm 2030 phấn đấu đưa vào sử dụng trên:",
     "options": {
-      "A": "Tạo động lực tinh thần to lớn cổ vũ cán bộ, chiến sĩ nỗ lực vượt qua khó khăn, hoàn thành xuất sắc mọi nhiệm vụ được giao",
-      "B": "Chỉ nhằm mục đích xét khen thưởng cuối năm cho cá nhân",
-      "C": "Tổ chức các hoạt động văn nghệ, thể thao cho vui vẻ",
-      "D": "Chạy theo thành tích, hình thức bên ngoài"
+      "A": "3.000 km đường bộ cao tốc",
+      "B": "4.000 km đường bộ cao tốc",
+      "C": "5.000 km đường bộ cao tốc",
+      "D": "6.000 km đường bộ cao tốc"
     },
-    "answer": "A"
+    "answer": "C"
   }
 ]

@@ -1,36 +1,36 @@
 [
-  {
+{
     "id": 1001,
-    "question": "Nội dung trọng tâm của Kết luận số 01-KL/TW của Bộ Chính trị về tiếp tục thực hiện Chỉ thị số 05-CT/TW là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, giải pháp nào được coi là quan trọng hàng đầu trong việc bảo vệ nền tảng tư tưởng trước sự phát triển của AI?",
     "options": {
-      "A": "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh; chú trọng kết hợp chặt chẽ giữa học tập với làm theo và nêu gương",
-      "B": "Chỉ tập trung học tập lý luận một lần duy nhất vào đầu năm",
-      "C": "Tổ chức các chuyến tham quan di tích lịch sử nước ngoài",
-      "D": "Chỉ áp dụng đối với cán bộ chủ chốt cấp cao"
+      "A": "Cấm cán bộ, chiến sĩ sử dụng các thiết bị di động thông minh.",
+      "B": "Tập trung vào các biện pháp kỹ thuật để chặn các trang mạng phản động.",
+      "C": "Xây dựng một hệ thống AI riêng biệt thay thế hoàn toàn Internet, ứng dụng kịp thời khoa học công nghệ.",
+      "D": "Nâng cao nhận thức, thống nhất tư tưởng và trang bị kỹ năng số cho cán bộ, chiến sĩ."
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 1002,
-    "question": "Ba đột phá chiến lược được xác định trong Chiến lược phát triển kinh tế - xã hội của Đảng là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, yếu tố nào phản ánh đầy đủ nhất bản chất của giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới?",
     "options": {
-      "A": "Hoàn thiện đồng bộ thể chế; phát triển nguồn nhân lực, nhất là nguồn nhân lực chất lượng cao; xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại",
-      "B": "Tăng thuế, giảm biên chế, mở rộng thị trường tài chính",
-      "C": "Đầu tư bất động sản, khai thác tối đa tài nguyên khoáng sản, vay nợ nước ngoài",
-      "D": "Nhập khẩu công nghệ tự động, xóa bỏ doanh nghiệp nhà nước, mở cửa tự do"
+      "A": "Hệ thống truyền thống quân sự được tích lũy qua các cuộc chiến tranh.",
+      "B": "Hệ thống phẩm chất chính trị, đạo đức, lối sống, phong cách và chuẩn mực hành vi của người quân nhân cách mạng được hình thành dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh.",
+      "C": "Những giá trị tinh thần của Quân đội trong thời kỳ kháng chiến chống thực dân và đế quốc.",
+      "D": "Hệ thống chuẩn mực đạo đức được xây dựng trong thời kỳ đổi mới."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1003,
-    "question": "Mục tiêu cơ bản của công tác phòng, chống tham nhũng, tiêu cực theo phương châm \"4 không\" là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, giá trị văn hóa “Bộ đội Cụ Hồ” trước hết được hình thành và phát triển từ yếu tố nào?",
     "options": {
-      "A": "\"Không thể, không dám, không muốn, không cần tham nhũng\"",
-      "B": "\"Không thấy, không nghe, không biết, không nói\"",
-      "C": "\"Không kiểm tra, không xử lý, không phê bình, không kỷ luật\"",
-      "D": "\"Không vay, không mượn, không chi, không thu\""
+      "A": "Quá trình xây dựng, chiến đấu và trưởng thành của Quân đội gắn với yêu cầu bảo vệ Tổ quốc và nhiệm vụ quốc phòng trong từng thời kỳ.",
+      "B": "Quá trình xây dựng, chiến đấu và trưởng thành của Quân đội gắn với truyền thống dân tộc và sự phát triển của nghệ thuật quân sự Việt Nam.",
+      "C": "Quá trình xây dựng, chiến đấu, trưởng thành của Quân đội dưới sự lãnh đạo của Đảng và sự giáo dục, rèn luyện của Chủ tịch Hồ Chí Minh.",
+      "D": "Quá trình xây dựng, chiến đấu và trưởng thành của Quân đội gắn với yêu cầu xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, hiện đại."
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 1004,
@@ -45,146 +45,146 @@
   },
   {
     "id": 1005,
-    "question": "Quy định số 144-QĐ/TW của Bộ Chính trị (ngày 09/5/2024) quy định về nội dung gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, ý nghĩa nổi bật của giá trị văn hóa “Bộ đội Cụ Hồ” đối với mỗi quân nhân là gì?",
     "options": {
-      "A": "Chuẩn mực đạo đức cách mạng của cán bộ, đảng viên trong giai đoạn mới",
-      "B": "Quy trình tuyển quân nhập ngũ hàng năm",
-      "C": "Chế độ tiền lương phụ cấp của lực lượng vũ trang",
-      "D": "Quy chế quản lý trang thiết bị công nghệ thông tin"
+      "A": "Là cơ sở định hướng nhận thức, hành động và xây dựng ý thức trách nhiệm trong thực hiện nhiệm vụ.",
+      "B": "Là nguồn sức mạnh nội sinh, niềm tự hào và động lực phấn đấu.",
+      "C": "Là chuẩn mực định hướng rèn luyện phẩm chất, đạo đức và xây dựng bản lĩnh chính trị của mỗi quân nhân.",
+      "D": "Là cơ sở củng cố tinh thần đoàn kết, ý thức tổ chức kỷ luật."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1006,
-    "question": "Phong trào chuyển đổi số và ứng dụng công nghệ thông tin trong Quân đội nhằm mục tiêu cốt lõi nào?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, sự cần thiết phát huy giá trị văn hóa “Bộ đội Cụ Hồ” trước hết xuất phát từ cơ sở nào?",
     "options": {
-      "A": "Hiện đại hóa công tác chỉ huy, quản lý, điều hành, nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu và bảo đảm an toàn thông tin",
-      "B": "Chuyển toàn bộ hồ sơ sổ sách sang mạng xã hội công cộng",
-      "C": "Thay thế hoàn toàn bộ đội trên thao trường bằng thiết bị ảo",
-      "D": "Chỉ để phục vụ việc xem tin tức giải trí trong giờ nghỉ"
+      "A": "Yêu cầu xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, hiện đại trong tình hình mới.",
+      "B": "Quan điểm của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và đường lối của Đảng về văn hóa.",
+      "C": "Yêu cầu xây dựng môi trường văn hóa lành mạnh, nâng cao đời sống tinh thần và chất lượng con người trong Quân đội.",
+      "D": "Đòi hỏi tăng cường giáo dục chính trị, tư tưởng, đạo đức, lối sống và xây dựng phẩm chất người quân nhân."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1007,
-    "question": "Nội dung kiểm tra \"3 tiếng nổ\" an toàn tuyệt đối đối với chiến sĩ mới bao gồm những khoa mục nào?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, mục đích cơ bản của phát huy giá trị văn hóa “Bộ đội Cụ Hồ” là gì?",
     "options": {
-      "A": "Bắn súng tiểu liên AK bài 1; Đánh lượng nổ bài 1 và Ném lựu đạn xa trúng đích bài 1",
-      "B": "Bắn súng ngắn K54, ném pháo khói và vượt rào dây thép gai",
-      "C": "Bắn bia ẩn hiện, lái xe tăng và rà phá mìn",
-      "D": "Chạy 3.000m vũ trang, bơi vũ trang và võ chiến đấu"
+      "A": "Tạo chuyển biến tích cực về nhận thức, trách nhiệm, ý thức tổ chức kỷ luật và tinh thần thi đua trong mỗi quân nhân.",
+      "B": "Làm cho mỗi quân nhân giữ vững bản chất cách mạng, đạo đức trong sáng và hoàn thành tốt nhiệm vụ.",
+      "C": "Xây dựng môi trường văn hóa lành mạnh, nâng cao đời sống tinh thần và củng cố đoàn kết trong đơn vị.",
+      "D": "Phát huy vai trò của các hoạt động văn hóa, văn nghệ, thể dục thể thao trong xây dựng đời sống tinh thần của quân nhân."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1008,
-    "question": "Nguyên tắc bảo đảm an toàn tuyệt đối khi sử dụng súng, đạn trên thao trường huấn luyện là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, nội dung phát huy giá trị văn hóa “Bộ đội Cụ Hồ” trong chuyển đổi số nhấn mạnh yêu cầu nào?",
     "options": {
-      "A": "Khám súng nghiêm ngặt, chỉ chĩa nòng súng vào mục tiêu khi có lệnh, chấp hành triệt để mệnh lệnh của người chỉ huy bắn",
-      "B": "Được phép chĩa nòng súng vào đồng đội để đùa nghịch khi chưa nạp đạn",
-      "C": "Tự ý nạp đạn và bắn khi thấy mục tiêu xuất hiện",
-      "D": "Mang súng đạn về phòng ở để tự tập luyện cá nhân"
+      "A": "Chủ động ứng dụng công nghệ mới, ưu tiên nâng cao năng lực số và hiệu quả thực hiện nhiệm vụ của mỗi quân nhân.",
+      "B": "Đổi mới sáng tạo nhưng không xa rời nguyên tắc, bản lĩnh và chuẩn mực văn hóa quân sự.",
+      "C": "Tập trung phát triển kỹ năng số, khả năng khai thác dữ liệu và sử dụng hiệu quả các nền tảng công nghệ trong thực hiện nhiệm vụ.",
+      "D": "Đẩy mạnh ứng dụng trí tuệ nhân tạo, công nghệ số và các phương thức mới nhằm nâng cao chất lượng, hiệu quả công tác."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1009,
-    "question": "Chức năng của cơ quan Chính trị các cấp trong Quân đội nhân dân Việt Nam là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, việc phát huy giá trị văn hóa “Bộ đội Cụ Hồ” được gắn chặt với nhiệm vụ trọng tâm nào của cơ quan, đơn vị?",
     "options": {
-      "A": "Đảm nhiệm công tác đảng, công tác chính trị; xây dựng Quân đội vững mạnh về chính trị, tư tưởng, đạo đức, tổ chức và cán bộ",
-      "B": "Chỉ quản lý công tác văn hóa văn nghệ và thể dục thể thao",
-      "C": "Chỉ phụ trách công tác khen thưởng, kỷ luật",
-      "D": "Điều hành công tác hậu cần và tài chính của đơn vị"
+      "A": "Xây dựng cơ quan, đơn vị chính quy, thống nhất, có cảnh quan môi trường xanh, sạch, đẹp và đời sống văn hóa lành mạnh.",
+      "B": "Thực hiện nhiệm vụ chính trị trung tâm và xây dựng đơn vị vững mạnh toàn diện “mẫu mực, tiêu biểu”.",
+      "C": "Đẩy mạnh tăng gia sản xuất, thực hành tiết kiệm, nâng cao đời sống vật chất và tinh thần cho cán bộ, chiến sĩ.",
+      "D": "Xây dựng doanh trại chính quy, bảo đảm cơ sở vật chất, cảnh quan môi trường và điều kiện sinh hoạt cho bộ đội."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1010,
-    "question": "Vị trí, vai trò của Chính ủy, Chính trị viên trong đơn vị Quân đội được xác định như thế nào?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, mục tiêu cuối cùng về phát huy giá trị văn hóa “Bộ đội Cụ Hồ” hướng tới điều gì?",
     "options": {
-      "A": "Là người chủ trì về chính trị trong đơn vị, chịu trách nhiệm trước cấp ủy cấp mình và cấp trên về toàn bộ công tác đảng, công tác chính trị",
-      "B": "Là người phụ trách công tác kế toán tài chính",
-      "C": "Chỉ có nhiệm vụ giảng dạy các bài học chính trị",
-      "D": "Là trợ lý giúp việc hành chính cho người chỉ huy quân sự"
+      "A": "Củng cố nền nếp chính quy, xây dựng môi trường văn hóa lành mạnh và nâng cao chất lượng đời sống tinh thần trong Quân đội.",
+      "B": "Củng cố mối quan hệ gắn bó máu thịt Quân đội với Nhân dân, xây dựng “thế trận lòng dân” vững chắc và lan tỏa hình ảnh cao đẹp “Bộ đội Cụ Hồ”.",
+      "C": "Tăng cường quan hệ đối ngoại quốc phòng, mở rộng hợp tác, giao lưu và nâng cao vị thế, uy tín của Quân đội.",
+      "D": "Đẩy mạnh nghiên cứu, ứng dụng khoa học công nghệ, nâng cao năng lực và khả năng đáp ứng yêu cầu xây dựng Quân đội hiện đại."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1011,
-    "question": "Chế độ thông báo thời sự chính trị định kỳ vào sáng thứ Hai hoặc các buổi sinh hoạt chuyên đề có tác dụng gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, giá trị văn hóa “Bộ đội Cụ Hồ” được xem là “nguồn sức mạnh nội sinh” của Quân đội trước hết vì lý do nào?",
     "options": {
-      "A": "Kịp thời định hướng nhận thức tư tưởng cho bộ đội trước các vấn đề trong nước và quốc tế, giữ vững trận địa tư tưởng của Đảng",
-      "B": "Làm cho hết thời gian sinh hoạt tập trung",
-      "C": "Cung cấp tin tức giải trí cho chiến sĩ",
-      "D": "Để kiểm tra trí nhớ của từng người"
+      "A": "Đây là hệ thống các giá trị truyền thống được hình thành, kế thừa và phát huy qua quá trình xây dựng, chiến đấu và trưởng thành của Quân đội.",
+      "B": "Đây là nền tảng tạo nên sự thống nhất giữa nhận thức, niềm tin, ý chí và hành động của quân nhân trong thực hiện nhiệm vụ.",
+      "C": "Đây là hệ thống các chuẩn mực về tổ chức, kỷ luật, điều lệnh và điều lệ, góp phần duy trì sức mạnh của Quân đội.",
+      "D": "Đây là hệ thống các phong trào thi đua, hoạt động giáo dục, rèn luyện, góp phần tạo động lực hoàn thành nhiệm vụ trong Quân đội."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1012,
-    "question": "Ngày Chính trị và văn hóa tinh thần ở cơ sở được tổ chức định kỳ nhằm mục đích gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, phát huy giá trị văn hóa “Bộ đội Cụ Hồ” trong thời kỳ mới phải được đặt trong mối quan hệ chủ yếu nào?",
     "options": {
-      "A": "Tăng cường đối thoại dân chủ giữa lãnh đạo, chỉ huy với cán bộ, chiến sĩ, giải quyết kịp thời tâm tư, nguyện vọng chính đáng của bộ đội",
-      "B": "Tổ chức tiệc liên hoan ăn uống tập thể",
-      "C": "Kiểm tra nội vụ vệ sinh doanh trại",
-      "D": "Tổ chức thi đấu thể thao giữa các cơ quan"
+      "A": "Giữa xây dựng môi trường văn hóa với nâng cao đời sống vật chất, tinh thần và bảo đảm điều kiện sinh hoạt cho bộ đội.",
+      "B": "Giữa xây dựng con người với xây dựng Quân đội vững mạnh về chính trị.",
+      "C": "Giữa phát triển khoa học, công nghệ với nâng cao trình độ, năng lực.",
+      "D": "Giữa xây dựng Quân đội với củng cố tiềm lực quốc phòng, tăng cường hội nhập và nâng cao vị thế quốc phòng của đất nước."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1013,
-    "question": "Mục tiêu của cuộc vận động \"Xây dựng môi trường văn hóa tốt đẹp, lành mạnh, phong phú trong Quân đội\" là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, nếu chỉ chú trọng xây dựng trình độ chuyên môn quân sự mà xem nhẹ xây dựng giá trị văn hóa “Bộ đội Cụ Hồ” thì hệ quả lớn nhất là gì?",
     "options": {
-      "A": "Xây dựng đời sống văn hóa quân sự chính quy, lành mạnh, ngăn chặn các tệ nạn xã hội và văn hóa phẩm độc hại xâm nhập vào đơn vị",
-      "B": "Xây dựng rạp chiếu phim thương mại trong doanh trại",
-      "C": "Phát triển các câu lạc bộ giải trí có thu phí",
-      "D": "Tổ chức giao lưu với người nổi tiếng trên mạng"
+      "A": "Làm hạn chế khả năng vận dụng kiến thức, kỹ năng chuyên môn vào thực tiễn thực hiện nhiệm vụ của quân nhân.",
+      "B": "Làm suy giảm nền tảng chính trị, đạo đức và sức mạnh tinh thần của Quân đội.",
+      "C": "Làm giảm khả năng thích ứng của đội ngũ quân nhân trước sự phát triển của khoa học, công nghệ.",
+      "D": "Làm ảnh hưởng đến chất lượng xây dựng đội ngũ quân nhân có trình độ chuyên môn, nghiệp vụ đáp ứng yêu cầu nhiệm vụ."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1014,
-    "question": "Quy định về bảo vệ quyền khiếu nại, tố cáo của quân nhân bảo đảm nguyên tắc gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, sức mạnh của giá trị văn hóa “Bộ đội Cụ Hồ” được khẳng định đầy đủ nhất thông qua gì?",
     "options": {
-      "A": "Mọi quân nhân đều có quyền khiếu nại, tố cáo theo đúng quy định pháp luật; nghiêm cấm việc trù dập, trả thù người khiếu nại, tố cáo",
-      "B": "Chiến sĩ không được phép khiếu nại quyết định của cấp trên",
-      "C": "Chỉ được khiếu nại sau khi đã xuất ngũ",
-      "D": "Người khiếu nại phải nộp tiền bảo lãnh trước khi xem xét"
+      "A": "Kết quả xây dựng chính quy, chấp hành kỷ luật và duy trì nền nếp, chế độ trong cơ quan, đơn vị.",
+      "B": "Hiệu quả chuyển hóa thành động lực thực hiện thắng lợi mọi nhiệm vụ.",
+      "C": "Kết quả tổ chức thực hiện các chủ trương, nghị quyết, chỉ thị và hướng dẫn về xây dựng, phát huy giá trị văn hóa trong Quân đội.",
+      "D": "Kết quả xây dựng tổ chức, biên chế, lực lượng và nâng cao chất lượng đội ngũ quân nhân trong cơ quan, đơn vị."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1015,
-    "question": "Trách nhiệm của lực lượng vũ trang trong việc bảo vệ chủ quyền biên giới quốc gia theo Luật Biên giới quốc gia là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, yêu cầu đặt ra đối với phát huy giá trị văn hóa “Bộ đội Cụ Hồ” trong bối cảnh chuyển đổi số là gì?",
     "options": {
-      "A": "Làm nòng cốt, chuyên trách bảo vệ mốc giới, đường biên, vùng trời, vùng biển, phối hợp với nhân dân giữ vững toàn vẹn lãnh thổ Tổ quốc",
-      "B": "Tự ý dịch chuyển mốc giới khi thấy thuận lợi",
-      "C": "Giao toàn bộ việc canh gác cho nhân dân biên giới",
-      "D": "Chỉ tuần tra khi có hiện tượng vi phạm biên giới"
+      "A": "Đẩy mạnh ứng dụng công nghệ số gắn với đổi mới nội dung, phương pháp giáo dục chính trị.",
+      "B": "Phát triển năng lực số trên nền tảng giữ vững bản lĩnh chính trị và chuẩn mực văn hóa.",
+      "C": "Tập trung nâng cao kỹ năng số, khả năng khai thác, sử dụng các nền tảng công nghệ.",
+      "D": "Đổi mới phương thức giáo dục, rèn luyện quân nhân phù hợp với môi trường số, đồng thời nâng cao khả năng thích ứng trước những tác động của công nghệ."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1016,
-    "question": "Nghị quyết số 29-NQ/TW của Bộ Chính trị về Chiến lược bảo vệ Tổ quốc trên không gian mạng xác định điều gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, yêu cầu xuyên suốt trong phát huy giá trị văn hóa “Bộ đội Cụ Hồ” là gì?",
     "options": {
-      "A": "Không gian mạng là môi trường tác chiến mới, có tầm quan trọng chiến lược đặc biệt; chủ động bảo vệ chủ quyền quốc gia trên không gian mạng",
-      "B": "Không gian mạng chỉ dành cho các hoạt động thương mại dân sự",
-      "C": "Không cần đầu tư cho lực lượng tác chiến mạng chuyên trách",
-      "D": "Chỉ theo dõi thông tin trên mạng khi có sự cố lớn"
+      "A": "Không ngừng đổi mới nhưng phải giữ vững bản chất cách mạng.",
+      "B": "Kế thừa, giữ gìn truyền thống nhưng tập trung chủ yếu vào việc bảo tồn những giá trị đã được hình thành.",
+      "C": "Đẩy mạnh hiện đại hóa, đổi mới phương thức hoạt động và nâng cao năng lực thích ứng trước yêu cầu nhiệm vụ mới.",
+      "D": "Chủ động hội nhập, tiếp thu các giá trị tiến bộ của nhân loại và vận dụng phù hợp vào xây dựng Quân đội."
     },
     "answer": "A"
   },
   {
     "id": 1017,
-    "question": "Việc Việt Nam cử lực lượng tham gia gìn giữ hòa bình Liên Hợp Quốc khẳng định điều gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, phát huy giá trị văn hóa “Bộ đội Cụ Hồ” phải hướng tới xây dựng hình ảnh người quân nhân như thế nào?",
     "options": {
-      "A": "Đường lối đối ngoại độc lập, tự chủ, đa phương hóa, đa dạng hóa; khẳng định Việt Nam là thành viên tích cực, có trách nhiệm của cộng đồng quốc tế",
-      "B": "Việt Nam đã tham gia vào khối liên minh quân sự đa quốc gia",
-      "C": "Quân đội Việt Nam mở rộng căn cứ quân sự ở nước ngoài",
-      "D": "Chỉ là hoạt động du lịch kết hợp công tác"
+      "A": "Có trình độ chuyên môn, nghiệp vụ vững vàng, năng lực thực tiễn tốt và khả năng đáp ứng yêu cầu nhiệm vụ trong tình hình mới.",
+      "B": "Có bản lĩnh chính trị, đạo đức trong sáng, trí tuệ, kỷ luật và trách nhiệm cao trước Đảng, Tổ quốc và Nhân dân.",
+      "C": "Có sức khỏe tốt, tác phong chính quy, ý thức tổ chức kỷ luật và khả năng thích ứng với điều kiện huấn luyện, công tác.",
+      "D": "Có trình độ ngoại ngữ, công nghệ thông tin, kỹ năng giao tiếp và khả năng hội nhập, hợp tác trong môi trường quốc tế."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1018,
@@ -199,25 +199,25 @@
   },
   {
     "id": 1019,
-    "question": "Mục tiêu tổng quát xây dựng Quân đội nhân dân Việt Nam đến năm 2030 theo Nghị quyết Đại hội XIII của Đảng là gì?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, đối với tổ chức đoàn, nội dung phát huy giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới cần gắn với phong trào nào?",
     "options": {
-      "A": "Xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại, vững mạnh về chính trị, tư tưởng, đạo đức, tổ chức và cán bộ",
-      "B": "Tăng gấp đôi quân số tại ngũ",
-      "C": "Chuyển đổi hoàn toàn sang quân đội chuyên nghiệp đánh thuê",
-      "D": "Thu hẹp các đơn vị bộ binh giải tán các quân binh chủng"
+      "A": "Thanh niên lập nghiệp.",
+      "B": "3 Tiên phong quyết thắng.",
+      "C": "Lao động giỏi.",
+      "D": "Vì biển đảo quê hương."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1020,
-    "question": "Lời kêu gọi thi đua ái quốc ngày 11/6/1948 của Chủ tịch Hồ Chí Minh khẳng định chân lý nào?",
+    "question": "Qua nghiên cứu chuyên đề năm 2026, hằng năm mỗi cán bộ, đảng viên phải thực hiện nghiêm túc việc gì để phát huy giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới?",
     "options": {
-      "A": "\"Thi đua là yêu nước, yêu nước thì phải thi đua, những người thi đua là những người yêu nước nhất\"",
-      "B": "\"Thi đua là việc làm thêm ngoài giờ làm việc\"",
-      "C": "\"Thi đua chỉ dành cho những người có thành tích cao\"",
-      "D": "\"Thi đua để nhận thêm tiền thưởng và quà tặng\""
+      "A": "Xây dựng kế hoạch công tác, xác định rõ nội dung, chỉ tiêu và biện pháp thực hiện nhiệm vụ được giao.",
+      "B": "Xây dựng cam kết tu dưỡng, rèn luyện, phấn đấu phát huy giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới.",
+      "C": "Đăng ký danh hiệu thi đua, xác định chỉ tiêu phấn đấu và nội dung rèn luyện phù hợp với chức trách, nhiệm vụ.",
+      "D": "Đăng ký sáng kiến, cải tiến, xác định nội dung đổi mới nhằm nâng cao chất lượng, hiệu quả thực hiện nhiệm vụ."
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 1021,
@@ -230,4 +230,4 @@
     },
     "answer": "B"
   }
-]
+ ] 

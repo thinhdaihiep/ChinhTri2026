@@ -1,5 +1,5 @@
 [
-  {
+   {
     "id": 1,
     "question": "Khái quát truyền thống của Quân đội nhân dân Việt Nam là gì?",
     "options": {
@@ -364,7 +364,7 @@
   },
   {
     "id": 34,
-    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa”, trong đó “Ngăn ngừa mọi biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa”...” cần thực hiện theo tinh thần nào?",
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa”, trong đó “Ngăn ngừa mọi biểu hiện suy thoái về tưtưởng chính trị, đạo đức, lối sống, “tự điễn biển”, “tự chuyễn hóa”...” cần thực hiện theo tinh thần nào?",
     "options": {
       "A": "Xử lý ngay khi có vi phạm.",
       "B": "Chờ dấu hiệu rõ mới kiểm tra, xử lý.",
@@ -1085,7 +1085,7 @@
       "B": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức khá.",
       "C": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức trung bình cao.",
       "D": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức cao."
-    },
+  },
     "answer": "C"
   },
   {
@@ -1096,7 +1096,7 @@
       "B": "Tăng 35 bậc.",
       "C": "Tăng 37 bậc.",
       "D": "Tăng 39 bậc."
-    },
+  },
     "answer": "C"
   }
 ]
