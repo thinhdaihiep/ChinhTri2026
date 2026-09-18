@@ -1,103 +1,1102 @@
 [
-  {"id":1,"question":"Khái quát truyền thống của Quân đội nhân dân Việt Nam là gì?","options":{"A":"Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hy sinh, vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội. Nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng.","B":"Dựa vào dân, phát huy sức mạnh toàn dân.","C":"Lấy tuyên truyền, giáo dục, vận động, thuyết phục là chính.","D":"Tổ chức lực lượng rộng khắp, mạng lưới liên hoàn, khép kín."},"answer":"A"},
-  {"id":2,"question":"Chủ đề phong trào thi đua Quyết thắng năm 2026?","options":{"A":"Đoàn kết, sáng tạo, kỷ cương, nêu gương, quyết thắng.","B":"Đoàn kết, dân chủ, nêu gương, kỷ cương, quyết thắng.","C":"Đoàn kết, kỷ cương, đột phá, sáng tạo, quyết thắng.","D":"Dân chủ, đoàn kết, mẫu mực, kỷ cương, quyết thắng."},"answer":"C"},
-  {"id":3,"question":"Bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa từ sớm, từ xa, trên tất cả các yếu tố cấu thành Tổ quốc gồm?","options":{"A":"Đất liền, biển đảo, trên không, vũ trụ, biên giới và không gian mạng.","B":"Đất liền, biển đảo, vũ trụ và không gian mạng.","C":"Đất liền, biển đảo, trên không, vũ trụ và không gian mạng.","D":"Đất liền, biển đảo, trên không, vũ trụ."},"answer":"C"},
-  {"id":4,"question":"Trong quan hệ đối tác xếp theo cấp độ từ thấp đến cao là?","options":{"A":"Đối tác chiến lược toàn diện; đối tác toàn diện; đối tác chiến lược.","B":"Đối tác toàn diện; đối tác chiến lược; đối tác chiến lược toàn diện.","C":"Đối tác chiến lược; đối tác toàn diện; đối tác chiến lược toàn diện.","D":"Đối tác chiến lược toàn diện; đối tác chiến lược; đối tác toàn diện."},"answer":"B"},
-  {"id":5,"question":"Theo Nghị quyết số 847-NQ/QUTW ngày 28/12/2021 của Quân ủy Trung ương giải pháp quan trọng hàng đầu để giữ vững và phát huy phẩm chất “Bộ đội Cụ Hồ”; kiên quyết chống chủ nghĩa cá nhân trong tình hình mới?","options":{"A":"Coi trọng xây dựng các cấp ủy, tổ chức đảng trong sạch, vững mạnh tiêu biểu, đề cao vai trò, trách nhiệm trong lãnh đạo phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân.","B":"Xây dựng đội ngũ cán bộ các cấp có đủ phẩm chất, năng lực, uy tín thực sự là tấm gương mẫu mực trong phát huy phẩm chất “Bộ đội Cụ Hồ”.","C":"Nâng cao hiệu lực, hiệu quả công tác kiểm tra, giám sát; kiên quyết chấn chỉnh, xử lý nghiêm các vi phạm.","D":"Tăng cường công tác lãnh đạo tư tưởng, giáo dục chính trị, nâng cao nhận thức, trách nhiệm cho cán bộ, đảng viên và quần chúng tiếp tục phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân."},"answer":"D"},
-  {"id":6,"question":"Theo Quy định số 144-QĐ/TW, ngày 09/5/2024 của Bộ Chính trị, đâu là chuẩn mực đạo đức cách mạng của cán bộ, đảng viên?","options":{"A":"Liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến và chịu sự giám sát của Nhân dân.","B":"Tôn trọng Nhân dân, tận tụy phục vụ Nhân dân.","C":"Trung thành với Đảng Cộng sản Việt Nam, bảo vệ danh dự Tổ quốc và lợi ích quốc gia.","D":"Gương mẫu, khiêm tốn, tu dưỡng rèn luyện, học tập suốt đời."},"answer":"D"},
-  {"id":7,"question":"Đấu tranh trên không gian mạng trong Quân đội nhân dân Việt Nam là nhiệm vụ của ai?","options":{"A":"Là nhiệm vụ của cấp ủy, chỉ huy các cấp.","B":"Là nhiệm vụ của cán bộ chính trị các cấp.","C":"Là nhiệm vụ của cấp ủy, chỉ huy và của mọi tổ chức, mọi lực lượng trong toàn quân.","D":"Là nhiệm vụ của cơ quan chính trị các cấp."},"answer":"C"},
-  {"id":8,"question":"Quy định số 85-QĐ/TW ngày 07/10/2022 của Ban Bí thư về việc cán bộ, đảng viên thiết lập và sử dụng trang thông tin điện tử cá nhân trên Internet áp dụng đối tượng nào?","options":{"A":"Áp dụng đối với cán bộ, đảng viên, nhất là cán bộ lãnh đạo, quản lý, người đứng đầu cấp ủy, tổ chức đảng.","B":"Áp dụng đối với các cấp ủy, tổ chức đảng, cán bộ, đảng viên.","C":"Áp dụng đối với cán bộ, đảng viên khi tham gia mạng xã hội.","D":"Áp dụng với cấp ủy, tổ chức đảng."},"answer":"B"},
-  {"id":9,"question":"Đâu là trách nhiệm của cán bộ, đảng viên trong việc thiết lập và sử dụng trang thông tin điện tử cá nhân trên Internet, mạng xã hội theo Quy định số 85-QĐ/TW ngày 07/10/2022 của Ban Bí thư?","options":{"A":"Khai báo thông tin chính danh;","B":"Đăng ký ít nhất 01 tài khoản mạng xã hội;","C":"Sẵn sàng tham gia đấu tranh trên không gian mạng khi có chỉ đạo;","D":"Quản lý chặt chẽ trang thông tin điện tử cá nhân của mình;"},"answer":"A"},
-  {"id":10,"question":"Lực lượng vũ trang Quân khu 5 được thành lập vào ngày tháng năm nào?","options":{"A":"16 tháng 9 năm 1945","B":"16 tháng 10 năm 1945","C":"20 tháng 11 năm 1945","D":"22 tháng 12 năm 1944"},"answer":"B"},
-  {"id":11,"question":"Tổ chức vũ trang tiền thân của Lực lượng vũ trang Quân khu 5 ngày nay là:","options":{"A":"Đội Du kích Vũ Hùng","B":"Đội Du kích Ba Tơ","C":"Đội tự vệ Hỏa xa Diêu Trì","D":"Tất cả các"},"answer":"D"},
-  {"id":12,"question":"Truyền thống vẻ vang của LLVT Quân khu 5 là gì?","options":{"A":"Luôn nêu cao tinh thần độc lập tự chủ, tự lực tự cường, vượt qua mọi khó khăn gian khổ, hoàn thành xuất sắc nhiệm vụ được giao.","B":"Luôn nắm vững tư tưởng chiến lược tiến công, mưu trí, sáng tạo, phát huy cao độ sức mạnh tổng hợp của chiến tranh nhân dân; xây dựng nền quốc phòng toàn dân vững chắc, nâng cao chất lượng tổng hợp, sức mạnh chiến đấu, giành thắng lợi trong mọi tình huống.","C":"Tự lực tự cường, khắc phục khó khăn, chịu đựng gian khổ, mưu trí sáng tạo, chiến đấu kiên cường, chiến thắng vẻ vang.","D":"Đoàn kết nội bộ chặt chẽ, kỷ luật nghiêm minh, gắn bó máu thịt với nhân dân, không ngừng phát huy bản chất tốt đẹp và truyền thống vẻ vang của “Bộ đội Cụ Hồ”."},"answer":"C"},
-  {"id":13,"question":"Ngày, tháng, năm nào, Chủ tịch Nước đã ký quyết định phong tặng Danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Quân khu 5?","options":{"A":"Ngày 17/8/1985","B":"Ngày 29/4/2011","C":"Ngày 16/10/2015","D":"Ngày 13/02/2026"},"answer":"D"},
-  {"id":14,"question":"Đảng bộ Quân khu 5 được thành lập ngày tháng năm nào, với tên gọi ban đầu là gì?","options":{"A":"Ngày 22/11/1944, với tên gọi Đảng bộ Khu 5","B":"Ngày 22/11/1945, với tên gọi Đảng bộ Quân khu 5","C":"Ngày 22/11/1946, với tên gọi Đảng bộ Quân sự khu 5","D":"Ngày 22/11/1946, với tên gọi Đảng bộ Khu 5"},"answer":"C"},
-  {"id":15,"question":"Đến nay, Đảng bộ Quân khu 5 đã trải qua mấy kỳ đại hội?","options":{"A":"10","B":"11","C":"12","D":"13"},"answer":"B"},
-  {"id":16,"question":"“Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ” đặt mục tiêu tìm kiếm, quy tập khoảng bao nhiêu hài cốt liệt sĩ?","options":{"A":"5.000 hài cốt","B":"7.000 hài cốt","C":"10.000 hài cốt","D":"18.000 hài cốt"},"answer":"B"},
-  {"id":17,"question":"“Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ” đặt mục tiêu giám định ADN khoảng bao nhiêu mẫu hài cốt liệt sĩ?","options":{"A":"7.000 mẫu","B":"10.000 mẫu","C":"15.000 mẫu","D":"18.000 mẫu"},"answer":"D"},
-  {"id":18,"question":"Lễ phát động \"Chiến dịch 500 ngày đêm...\" được tổ chức vào thời gian và địa điểm nào?","options":{"A":"Sáng ngày 15/3/2026 tại Hà Nội","B":"Sáng ngày 02/4/2026 tại Thành cổ Quảng Trị, tỉnh Quảng Trị","C":"Sáng ngày 27/7/2026 tại Nghĩa trang Liệt sĩ Quốc gia Trường Sơn","D":"Sáng ngày 20/11/2026 tại tỉnh Tuyên Quang"},"answer":"B"},
-  {"id":19,"question":"Chiến dịch tập trung đẩy mạnh công tác rà phá bom mìn, vật liệu nổ phục vụ tìm kiếm, quy tập tại các địa bàn trọng điểm nào?","options":{"A":"Quảng Bình, Quảng Trị, Thừa Thiên Huế","B":"Tuyên Quang (Vị Xuyên), tỉnh Lào Cai, tỉnh Lạng Sơn","C":"Kon Tum, Gia Lai, Đắk Lắk","D":"Điện Biên, Sơn La, Lai Châu"},"answer":"B"},
-  {"id":20,"question":"Thời gian thực hiện tổng thể của \"Chiến dịch 500 ngày đêm...\" là từ ngày nào đến ngày nào?","options":{"A":"Từ ngày 01/01/2026 đến ngày 27/7/2027","B":"Từ ngày 15/3/2026 đến ngày 27/7/2027","C":"Từ ngày 02/4/2026 đến ngày 31/12/2027","D":"Từ ngày 22/3/2026 đến ngày 27/7/2027"},"answer":"B"},
-  {"id":21,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định” gồm những nội dung nào?","options":{"A":"Kiên định mục tiêu, lý tưởng chiến đấu của Quân đội; kiên định xây dựng lực lượng dân quân tự vệ, dự bị động viên vững mạnh.","B":"Kiên định đường lối quân sự, quốc phòng của Đảng; kiên định xây dựng Quân đội vững mạnh về chính trị.","C":"Kiên định quốc phòng toàn dân, chiến tranh nhân dân; kiên định hội nhập, đối ngoại quốc phòng.","D":"Kiên định hiện đại hóa Quân đội; kiên định công nghiệp quốc phòng tự chủ."},"answer":"B"},
-  {"id":22,"question":"Nội hàm “kiên định đường lối quân sự, quốc phòng của Đảng” trong chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội là gì?","options":{"A":"Tập trung hiện đại hóa Quân đội, xây dựng một số lực lượng hiện đại.","B":"Tăng cường hợp tác quốc phòng, mua sắm vũ khí, trang bị.","C":"Quán triệt và thực hiện đúng quan điểm, đường lối, chính sách của Đảng, Nhà nước về quân sự, quốc phòng.","D":"Phát triển lực lượng thường trực, xây dựng dân quân tự vệ, dự bị động viên “vững mạnh, rộng khắp”, sẵn sàng chiến đấu cao."},"answer":"C"},
-  {"id":23,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, khi thực hiện “kiên định đường lối quân sự, quốc phòng của Đảng” cần quán triệt nội dung nào?","options":{"A":"Quốc phòng toàn dân, chiến tranh nhân dân và chính sách “bốn không”.","B":"Phát triển kinh tế gắn với quốc phòng, bảo vệ biên cương của Tổ quốc.","C":"Mở rộng hợp tác quân sự, mua sắm vũ khí trang bị cho Quân đội.","D":"Tăng cường lực lượng dự bị, sẵn sàng bổ sung lực lượng khi có tình huống."},"answer":"A"},
-  {"id":24,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, phương châm nào là nền tảng quan trọng trong thực hiện “kiên định đường lối quân sự, quốc phòng của Đảng”?","options":{"A":"Dựa vào tiềm lực kinh tế, đầu tư mạnh hơn cho Quân đội","B":"Dựa vào sức mạnh quốc tế, trên tinh thần đoàn kết, hòa bình trên thế giới","C":"Dựa vào khoa học, công nghệ, xây dựng nền quốc phòng vững mạnh","D":"Dựa vào dân, lấy dân làm gốc và phát huy sức mạnh của Nhân dân"},"answer":"D"},
-  {"id":25,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, trong đó “Kiên định xây dựng Quân đội vững mạnh về chính trị” trước hết nhằm?","options":{"A":"Nâng cao chất lượng huấn luyện, khả năng sẵn sàng chiến đấu.","B":"Tăng cường sự lãnh đạo của Đảng đối với Quân đội.","C":"Đẩy mạnh hội nhập quốc tế, đối ngoại quốc phòng.","D":"Hiện đại hóa vũ khí, trang bị, nâng cao khả năng sẵn sàng chiến đấu."},"answer":"B"},
-  {"id":26,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, trong đó một nội dung quan trọng của kiên định xây dựng Quân đội vững mạnh về chính trị là gì?","options":{"A":"Bản lĩnh chính trị kiên định, vững vàng, giỏi chuyên môn quân sự.","B":"Bản lĩnh chính trị kiên định, vững vàng, giỏi chuyên môn quân sự, thành thạo công nghệ số trong thời kỳ mới.","C":"Kiên định Chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, quan điểm, đường lối quân sự của Đảng, mục tiêu độc lập dân tộc và chủ nghĩa xã hội.","D":"Kiên định mục tiêu độc lập, có khả năng đối ngoại."},"answer":"C"},
-  {"id":27,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về phương châm “5 vững”, cụm từ “không ngừng phát huy giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới” phản ánh nội dung nào?","options":{"A":"Chính trị vững.","B":"Kỷ luật vững.","C":"Công nghệ vững.","D":"Nghệ thuật quân sự vững."},"answer":"A"},
-  {"id":28,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 đẩy mạnh” gồm:","options":{"A":"Đẩy mạnh huấn luyện, xây dựng chính quy; đẩy mạnh phát huy giá trị văn hóa “Bộ đội Cụ Hồ”.","B":"Đẩy mạnh huấn luyện, xây dựng chính quy; đẩy mạnh chuyển đổi số và phát triển công nghiệp quốc phòng.","C":"Đẩy mạnh xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, hiện đại; đẩy mạnh hội nhập quốc tế và đối ngoại quốc phòng.","D":"Đẩy mạnh xây dựng quân đội vững mạnh về chính trị, quân sự; đẩy mạnh bảo đảm tốt hậu cần và kỹ thuật."},"answer":"C"},
-  {"id":29,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, từ “Hiện đại” được hiểu như thế nào?","options":{"A":"Hiện đại về vũ khí, trang bị, kỹ thuật.","B":"Hiện đại hơn chính mình trước đây, nhất là về nghệ thuật quân sự.","C":"Hiện đại theo điều kiện từng đơn vị, một số binh chủng tiến thẳng lên hiện đại.","D":"Đặt trong tương quan với trình độ quân sự của khu vực và thế giới."},"answer":"D"},
-  {"id":30,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, nhân tố tiên quyết là gì?","options":{"A":"Đẩy mạnh xây dựng con người hiện đại trong Quân đội.","B":"Tăng cường mua sắm vũ khí, trang bị của các nước tiên tiến.","C":"Tăng thời gian huấn luyện, nâng cao khả năng sẵn sàng chiến đấu.","D":"Mở rộng hợp tác quân sự, xây dựng các lực lượng tiên tiến, hiện đại."},"answer":"A"},
-  {"id":31,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, giải pháp căn cơ để xây dựng Quân đội hiện đại là gì?","options":{"A":"Tăng cường mua sắm vũ khí, trang bị của các nước tiên tiến.","B":"Tăng thời gian huấn luyện, nâng cao khả năng sẵn sàng chiến đấu.","C":"Đẩy mạnh xây dựng công nghiệp quốc phòng tự chủ, tự lực, tự cường, lưỡng dụng, hiện đại.","D":"Mở rộng hợp tác quân sự, xây dựng các lực lượng tiên tiến, hiện đại."},"answer":"C"},
-  {"id":32,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 đẩy mạnh”, trong đó “Đẩy mạnh hội nhập quốc tế và đối ngoại quốc phòng” nhằm?","options":{"A":"Mở rộng quan hệ quân sự, sẵn sàng tham gia lực lượng gìn giữ hòa bình của Liên hiệp quốc.","B":"Giữ vững môi trường hòa bình, ổn định và bảo vệ Tổ quốc từ sớm, từ xa.","C":"Tăng xuất khẩu quốc phòng, bảo đảm thu ngân sách cho Quân đội.","D":"Mở rộng hoạt động đa phương hóa, đa dạng hóa trong đối ngoại quốc phòng."},"answer":"B"},
-  {"id":33,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa” gồm:","options":{"A":"Ngăn ngừa chiến tranh; ngăn ngừa vi phạm pháp luật, kỷ luật, mất an toàn.","B":"Ngăn ngừa thiên tai, dịch bệnh; ngăn ngừa chiến tranh.","C":"Ngăn ngừa các nguy cơ chiến tranh, xung đột; ngăn ngừa suy thoái, “tự diễn biến”, “tự chuyển hóa”.","D":"Ngăn ngừa vi phạm pháp luật, kỷ luật, mất an toàn; ngăn ngừa tham nhũng, lãng phí, tiêu cực."},"answer":"C"},
-  {"id":34,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa”, trong đó “Ngăn ngừa mọi biểu hiện suy thoái về tưtưởng chính trị, đạo đức, lối sống, “tự điễn biển”, “tự chuyễn hóa”...” cần thực hiện theo tinh thần nào?","options":{"A":"Xử lý ngay khi có vi phạm.","B":"Chờ dấu hiệu rõ mới kiểm tra, xử lý.","C":"Tăng cường kiểm tra, nhất là khi có dấu hiệu vi phạm.","D":"Ngăn ngừa từ sớm, từ khi còn là mầm mống."},"answer":"D"},
-  {"id":35,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững” gồm những gì?","options":{"A":"Chính trị, tư tưởng, kỷ luật, công nghệ, đời sống bộ đội.","B":"Chính trị, kỷ luật, công nghệ, nghệ thuật quân sự, đời sống bộ đội.","C":"Chính trị, quân sự, hậu cần, kỹ thuật, đời sống.","D":"Chính trị, tổ chức, cán bộ, công nghệ, đời sống."},"answer":"B"},
-  {"id":36,"question":"Theo tinh thần chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững” được xác định là gì?","options":{"A":"Khẩu hiệu tuyên truyền rộng rãi trong toàn quân.","B":"Nội dung học tập thường xuyên, liên tục.","C":"Tiêu chí rèn luyện và thước đo kết quả.","D":"Nội dung sinh hoạt định kỳ."},"answer":"C"},
-  {"id":37,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Chính trị vững” thể hiện rõ nhất ở yêu cầu nào?","options":{"A":"Có trình độ lý luận cao, đáp ứng yêu cầu nhiệm vụ trong tình hình mới.","B":"Bản lĩnh chính trị kiên định, vững vàng; giỏi chuyên môn quân sự.","C":"Tuyệt đối trung thành với Tổ quốc, Đảng, Nhà nước và Nhân dân; vững vàng về mục tiêu, lý tưởng.","D":"Có tinh thần cảnh giác cách mạng cao, kỷ luật nghiêm minh."},"answer":"C"},
-  {"id":38,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, nội dung nào không thuộc “Kỷ luật vững”?","options":{"A":"Chấp hành điều lệnh, điều lệ.","B":"Quản lý chặt chẽ quân nhân, vũ khí.","C":"Không vi phạm pháp luật, kỷ luật.","D":"Làm chủ nền tảng số và trí tuệ nhân tạo."},"answer":"D"},
-  {"id":39,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Công nghệ vững” nhấn mạnh yêu cầu:","options":{"A":"Sử dụng tốt máy tính, trang thiết bị kỹ thuật thông minh.","B":"Thành thạo điện thoại thông minh, các thiết bị điện tử trong Quân đội.","C":"Làm chủ công nghệ quân sự, khai thác tốt trang bị hiện đại và hình thành “chiến sĩ số”.","D":"Xây dựng cơ sở dữ liệu, đưa quân đội nhanh chóng hội nhập quốc tế."},"answer":"C"},
-  {"id":40,"question":"Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Nghệ thuật quân sự vững” đòi hỏi?","options":{"A":"Nắm chắc kinh nghiệm chiến đấu, nhất là trong các cuộc kháng chiến chống Pháp, Mỹ.","B":"Giỏi sử dụng vũ khí, tinh thông binh pháp.","C":"Giỏi huấn luyện, vận dụng nghệ thuật quân sự trong điều kiện mới.","D":"Nắm vững đường lối quân sự, nghệ thuật đánh giặc và vận dụng sáng tạo trong điều kiện mới."},"answer":"D"},
-  {"id":41,"question":"Phương châm của Đại hội XIV của Đảng được xác định là gì?","options":{"A":"Đoàn kết – Kỷ cương – Phát triển – Hội nhập","B":"Đoàn kết – Dân chủ – Kỷ cương – Đột phá – Phát triển","C":"Dân chủ – Kỷ luật – Đổi mới – Phát triển","D":"Đoàn kết – Đổi mới – Hội nhập – Bền vững"},"answer":"B"},
-  {"id":42,"question":"Đại hội XIV của Đảng xác định mục tiêu phát triển đến năm 2030 của Việt Nam là gì?","options":{"A":"Nước phát triển, thu nhập cao","B":"Nước công nghiệp theo hướng hiện đại","C":"Nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao","D":"Trung tâm kinh tế số của khu vực"},"answer":"C"},
-  {"id":43,"question":"Tầm nhìn đến năm 2045 được Nghị quyết Đại hội XIV xác định là gì?","options":{"A":"Trở thành nước công nghiệp hiện đại","B":"Trở thành nước phát triển, thu nhập cao","C":"Trở thành trung tâm đổi mới sáng tạo châu Á","D":"Trở thành quốc gia kinh tế số hàng đầu"},"answer":"B"},
-  {"id":44,"question":"Đại hội XIV của Đảng xác định chỉ tiêu tăng trưởng GDP bình quân giai đoạn 2026–2030?","options":{"A":"7–8%/năm","B":"8–9%/năm","C":"Từ 9%/năm trở lên","D":"Từ 10%/năm trở lên"},"answer":"D"},
-  {"id":45,"question":"Đại hội XIV của Đảng xác định một trong các ngành công nghiệp, công nghệ chiến lược được ưu tiên phát triển là gì?","options":{"A":"Công nghiệp khai khoáng","B":"Công nghiệp dệt may","C":"Chip bán dẫn và trí tuệ nhân tạo","D":"Công nghiệp chế biến nông sản"},"answer":"C"},
-  {"id":46,"question":"Một trong ba đột phá chiến lược được Đại hội XIV của Đảng xác định là gì?","options":{"A":"Đột phá về ngoại giao","B":"Đột phá về phân phối thu nhập","C":"Đột phá mạnh mẽ về thể chế phát triển","D":"Đột phá về dân số"},"answer":"C"},
-  {"id":47,"question":"Đại hội XIV của Đảng, quan điểm xuyên suốt trong các định hướng phát triển 2026–2030 là gì?","options":{"A":"Tăng trưởng nhanh bằng mọi giá","B":"Lấy phát triển để ổn định, ổn định để thúc đẩy phát triển","C":"Ưu tiên kinh tế trước, xã hội sau","D":"Phát triển tập trung vào đô thị lớn"},"answer":"B"},
-  {"id":48,"question":"Một nhiệm vụ trọng tâm về xây dựng Đảng trong nhiệm kỳ Đại hội XIV của Đảng là gì?","options":{"A":"Mở rộng số lượng đảng viên","B":"Tăng quyền tự chủ cho cơ sở","C":"Kiểm soát quyền lực, phòng chống tham nhũng, tiêu cực","D":"Giảm vai trò lãnh đạo của Đảng trong kinh tế"},"answer":"C"},
-  {"id":49,"question":"Đại hội XIV của Đảng, đột phá chiến lược về thể chế phát triển nhằm mục tiêu trực tiếp nào?","options":{"A":"Tăng thu ngân sách","B":"Giảm chi tiêu công","C":"Khơi thông, giải phóng và phát huy hiệu quả các nguồn lực","D":"Đẩy nhanh đô thị hóa"},"answer":"C"},
-  {"id":50,"question":"Đại hội XIV của Đảng xác định việc nhấn mạnh phát triển nguồn nhân lực chất lượng cao gắn chặt nhất với mục tiêu nào?","options":{"A":"Thu hút đầu tư nước ngoài","B":"Nâng cao năng suất, chất lượng lao động","C":"Giải quyết việc làm, ổn định đời sống người dân","D":"Tăng dân số trong độ tuổi lao động"},"answer":"B"},
-  {"id":51,"question":"Đại hội XIV của Đảng xác định phát triển văn hóa và con người trong chiến lược phát triển đất nước là gì?","options":{"A":"Một lĩnh vực xã hội cần đầu tư","B":"Nhiệm vụ lâu dài, gián tiếp, góp phần phát triển kinh tế, xã hội, ổn định đời sống Nhân dân","C":"Nền tảng tinh thần, sức mạnh nội sinh, động lực to lớn cho sự phát triển nhanh, bền vững của đất nước","D":"Công cụ hỗ trợ ổn định xã hội"},"answer":"C"},
-  {"id":52,"question":"Đại hội XIV của Đảng, trong các loại hình kinh tế được nhấn mạnh, đâu là trọng tâm mới nổi bật?","options":{"A":"Kinh tế nông nghiệp","B":"Kinh tế công nghiệp truyền thống, bảo vệ môi trường, ứng phó với các thách thức an ninh bên ngoài","C":"Kinh tế số, kinh tế xanh, kinh tế tuần hoàn, xây dựng xã hội số, thân thiện với môi trường.","D":"Kinh tế hộ gia đình"},"answer":"C"},
-  {"id":53,"question":"Đại hội XIV của Đảng, chỉ số phát triển con người (HDI) đến năm 2030 phấn đấu đạt khoảng bao nhiêu?","options":{"A":"0,7","B":"0,75","C":"0,8","D":"0,85"},"answer":"C"},
-  {"id":54,"question":"Đại hội XIV của Đảng xác định tỷ trọng kinh tế số trong GDP đến năm 2030 phấn đấu đạt khoảng bao nhiêu phần trăm?","options":{"A":"20%","B":"25%","C":"30%","D":"40%"},"answer":"C"},
-  {"id":55,"question":"Đại hội XIV của Đảng đặt ra chỉ tiêu GDP bình quân đầu người đến năm 2030 dự kiến đạt khoảng bao nhiêu USD?","options":{"A":"6.500 USD","B":"7.500 USD","C":"8.500 USD","D":"10.000 USD"},"answer":"C"},
-  {"id":56,"question":"Đại hội XIV của Đảng bầu Ban Chấp hành Trung ương Đảng gồm bao nhiêu đồng chí?","options":{"A":"200 đồng chí","B":"180 đồng chí","C":"220 đồng chí","D":"160 đồng chí"},"answer":"A"},
-  {"id":57,"question":"Nghị quyết Đại hội XIV xác định vị thế của đất nước ta sau 40 năm tiến hành công cuộc Đổi mới là gì?","options":{"A":"Đã hoàn thành mục tiêu trở thành một nước công nghiệp hiện đại.","B":"Đang trong giai đoạn quá độ lên chủ nghĩa xã hội ở trình độ cao.","C":"Mở ra bước ngoặt lịch sử mới, kỷ nguyên vươn mình của dân tộc.","D":"Trở thành quốc gia có tầm ảnh hưởng lớn nhất trong khu vực ASEAN."},"answer":"C"},
-  {"id":58,"question":"“Kỷ nguyên vươn mình của dân tộc” theo tinh thần Đại hội XIV được hiểu cốt lõi là gì?","options":{"A":"Thời kỳ tập trung tối đa nguồn lực để phát triển các ngành quân sự.","B":"Giai đoạn bứt phá để đạt mục tiêu quốc gia phát triển, thu nhập cao.","C":"Thời kỳ mở rộng hợp tác quốc tế trên tất cả các lĩnh vực đời sống.","D":"Giai đoạn hoàn thiện hệ thống luật pháp theo tiêu chuẩn quốc tế mới."},"answer":"B"},
-  {"id":59,"question":"Điểm mới đột phá trong quan điểm về kinh tế tư nhân tại Đại hội XIV là gì?","options":{"A":"Kinh tế tư nhân là một bộ phận hỗ trợ cho các doanh nghiệp nhà nước.","B":"Kinh tế tư nhân đóng vai trò nòng cốt trong việc xuất khẩu hàng hóa.","C":"Kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế.","D":"Kinh tế tư nhân là thành phần kinh tế chiếm tỷ trọng lớn nhất hiện nay."},"answer":"C"},
-  {"id":60,"question":"Trong nhiệm kỳ XIV, Đảng xác định yếu tố nào là “động lực chính” của sự phát triển bứt phá?","options":{"A":"Việc khai thác và sử dụng hiệu quả nguồn tài nguyên thiên nhiên sẵn có.","B":"Việc huy động tối đa nguồn vốn đầu tư trực tiếp từ các nước phát triển.","C":"Khoa học, công nghệ, đổi mới sáng tạo và công cuộc chuyển đổi số.","D":"Nguồn lao động giá rẻ và các chính sách ưu đãi về thuế cho doanh nghiệp."},"answer":"C"},
-  {"id":61,"question":"Đại hội XIV của Đảng coi cuộc cách mạng về sắp xếp tổ chức bộ máy có ý nghĩa như thế nào?","options":{"A":"Tạo ra bước chuyển chiến lược để hệ thống chính trị hoạt động hiệu quả.","B":"Giúp giảm bớt chi phí vận hành thường xuyên của bộ máy chính quyền.","C":"Nhằm hiện đại hóa các quy trình quản lý văn bản trong cơ quan nhà nước.","D":"Là giải pháp tạm thời để ứng phó với tình hình khó khăn kinh tế hiện nay."},"answer":"A"},
-  {"id":62,"question":"Nghị quyết Đại hội XIV nhấn mạnh việc xây dựng “lực lượng sản xuất mới” dựa trên yếu tố nào?","options":{"A":"Những người công nhân có kỹ năng lao động phổ thông tốt nhất hiện nay.","B":"Hệ thống máy móc cơ khí truyền thống kết hợp với sức lao động thủ công.","C":"Nguồn nhân lực chất lượng cao gắn liền với công nghệ trí tuệ nhân tạo.","D":"Việc mở rộng quy mô các khu công nghiệp tập trung tại các tỉnh biên giới."},"answer":"C"},
-  {"id":63,"question":"Trong lĩnh vực đối ngoại, “Tự chủ chiến lược” theo Nghị quyết Đại hội XIV có nghĩa là gì?","options":{"A":"Giữ vững độc lập, chủ động lựa chọn hướng đi có lợi cho dân tộc.","B":"Không tham gia vào bất kỳ một tổ chức kinh tế hay chính trị nào quốc tế.","C":"Chỉ tập trung quan hệ với các nước láng giềng có chung đường biên giới.","D":"Tự sản xuất mọi hàng hóa thiết yếu mà không cần nhập khẩu từ nước ngoài."},"answer":"A"},
-  {"id":64,"question":"Điểm mới trong công tác đấu tranh phòng, chống tham nhũng, tiêu cực tại Đại hội XIV của Đảng là gì?","options":{"A":"Chỉ tập trung xử lý các sai phạm có liên quan đến lĩnh vực kinh tế.","B":"Tăng cường quyền hạn cho các cơ quan điều tra tại các cấp địa phương.","C":"Đẩy mạnh đấu tranh phòng, chống lãng phí ngang với chống tham nhũng.","D":"Thực hiện việc công khai hóa các báo cáo tài chính của mọi người dân."},"answer":"C"},
-  {"id":65,"question":"Nghị quyết Đại hội XIV định hướng việc phát triển văn hóa, con người Việt Nam như thế nào?","options":{"A":"Văn hóa là sức mạnh nội sinh, động lực mạnh mẽ để phát triển đất nước.","B":"Văn hóa là lĩnh vực giải trí nhằm nâng cao đời sống tinh thần cho nhân dân.","C":"Văn hóa là phương tiện để giới thiệu hình ảnh đất nước với khách quốc tế.","D":"Văn hóa là nền tảng để thu hút các nguồn vốn đầu tư từ nước ngoài về."},"answer":"A"},
-  {"id":66,"question":"Về nhiệm vụ bảo vệ Tổ quốc, Nghị quyết Đại hội XIV xác định phương châm cốt lõi là gì?","options":{"A":"Sẵn sàng chiến đấu để đánh thắng mọi kẻ thù khi chúng xâm phạm lãnh thổ.","B":"Xây dựng quân đội hiện đại để đủ sức cạnh tranh với các nước trong khu vực.","C":"Bảo vệ Tổ quốc từ sớm, từ xa, giữ vững môi trường hòa bình để phát triển.","D":"Tập trung vào việc phát triển vũ khí hạt nhân để tăng cường sức mạnh quân sự."},"answer":"C"},
-  {"id":67,"question":"“Chuyển đổi xanh” trong định hướng phát triển kinh tế của Đại hội XIV của Đảng bao hàm ý nghĩa gì?","options":{"A":"Việc phủ xanh đất trống đồi trọc tại các tỉnh miền núi và vùng sâu vùng xa.","B":"Việc sử dụng màu xanh làm màu chủ đạo cho các dự án xây dựng đô thị mới.","C":"Phát triển kinh tế gắn với bảo vệ môi trường và sử dụng năng lượng sạch.","D":"Ưu tiên phát triển các ngành nông nghiệp truyền thống của người dân địa phương."},"answer":"C"},
-  {"id":68,"question":"Đại hội XIV của Đảng, một trong những “nút thắt” lớn nhất cần tháo gỡ để phát triển đất nước hiện nay là gì?","options":{"A":"Sự thiếu hụt về nguồn vốn đầu tư từ các ngân hàng thương mại nhà nước.","B":"Hệ thống hạ tầng giao thông kết nối giữa các vùng miền còn chưa đồng bộ.","C":"Những điểm nghẽn về thể chế, chính sách chưa bắt kịp yêu cầu thực tiễn.","D":"Nguồn tài nguyên khoáng sản đang ngày càng bị cạn kiệt do khai thác quá mức."},"answer":"C"},
-  {"id":69,"question":"Tinh thần khởi nghiệp trong học sinh, sinh viên được Nghị quyết Đại hội XIV khuyến khích như thế nào?","options":{"A":"Tập trung vào việc mua bán hàng hóa online để kiếm thêm thu nhập cá nhân.","B":"Khuyến khích học sinh sớm nghỉ học để tham gia vào thị trường lao động.","C":"Thúc đẩy tư duy sáng tạo, khởi nghiệp dựa trên nền tảng công nghệ số.","D":"Chỉ thực hiện khởi nghiệp khi đã có đầy đủ nguồn vốn từ phía gia đình cấp."},"answer":"C"},
-  {"id":70,"question":"Để xây dựng “thế trận lòng dân” vững chắc, Nghị quyết Đại hội XIV nhấn mạnh nội dung nào?","options":{"A":"Thực hiện tốt dân chủ, bảo đảm quyền làm chủ thực chất của nhân dân.","B":"Tăng cường việc tuyên truyền các văn bản pháp luật đến tận từng hộ gia đình.","C":"Xây dựng thêm nhiều công trình công cộng phục vụ lợi ích của cộng đồng.","D":"Tổ chức các cuộc thi tìm hiểu về lịch sử Đảng cho mọi tầng lớp nhân dân."},"answer":"A"},
-  {"id":71,"question":"Hệ thống chính trị nhiệm kỳ XIV của Đảng hướng tới mô hình tổ chức như thế nào?","options":{"A":"Mở rộng thêm nhiều cơ quan chuyên trách để quản lý sâu sát từng lĩnh vực.","B":"Giữ nguyên mô hình cũ để đảm bảo tính ổn định và liên tục của chính sách.","C":"Tinh gọn, thông suốt, hoạt động hiệu lực, hiệu quả, vì nhân dân phục vụ.","D":"Tập trung quyền lực tuyệt đối vào người đứng đầu các cơ quan hành chính."},"answer":"C"},
-  {"id":72,"question":"Tại sao Đại hội XIV của Đảng coi chuyển đổi số là một “cuộc cách mạng” thực sự?","options":{"A":"Vì nó thay đổi hoàn toàn phương thức sản xuất và đời sống xã hội.","B":"Vì nó giúp tiết kiệm được một lượng lớn giấy tờ trong các văn phòng.","C":"Vì nó yêu cầu mọi người dân phải có một chiếc điện thoại thông minh.","D":"Vì nó là nhiệm vụ bắt buộc của các quốc gia đang phát triển hiện nay."},"answer":"A"},
-  {"id":73,"question":"Điểm mới về mô hình tăng trưởng kinh tế trong Nghị quyết Đại hội XIV là gì?","options":{"A":"Tăng trưởng dựa trên việc mở rộng tối đa diện tích canh tác nông nghiệp.","B":"Tăng trưởng dựa trên việc gia tăng số lượng công nhân lao động phổ thông.","C":"Tăng trưởng dựa trên năng suất, chất lượng và đổi mới sáng tạo số.","D":"Tăng trưởng dựa trên việc vay vốn ưu đãi từ các định chế tài chính quốc tế."},"answer":"C"},
-  {"id":74,"question":"Đại hội XIV của Đảng, xác định trong kỷ nguyên vươn mình, nhiệm vụ nào được coi là “then chốt” của xây dựng Đảng?","options":{"A":"Công tác cán bộ, xây dựng đội ngũ đủ phẩm chất, năng lực và uy tín.","B":"Việc phát triển thêm số lượng đảng viên mới trong các doanh nghiệp tư nhân.","C":"Việc tổ chức các lớp học tập nghị quyết định kỳ hàng năm cho đảng viên.","D":"Việc hiện đại hóa các phòng họp và trang thiết bị làm việc của cấp ủy."},"answer":"A"},
-  {"id":75,"question":"Đối với lĩnh vực giáo dục phổ thông, Đại hội XIV của Đảng nhấn mạnh hướng đi nào?","options":{"A":"Tập trung vào việc nhồi nhét kiến thức để đạt giải cao trong các kỳ thi quốc tế.","B":"Đổi mới căn bản, toàn diện, chú trọng phát triển kỹ năng và tư duy sáng tạo.","C":"Tăng số lượng giờ học lý thuyết để học sinh nắm vững các kiến thức cơ bản.","D":"Chỉ tập trung đào tạo những môn học liên quan trực tiếp đến khoa học tự nhiên."},"answer":"B"},
-  {"id":76,"question":"Đại hội XIV của Đảng, quốc phòng, an ninh trong kỷ nguyên mới được gắn kết chặt chẽ với yếu tố nào?","options":{"A":"Gắn kết chặt chẽ, hài hòa giữa phát triển kinh tế, xã hội với quốc phòng, an ninh.","B":"Gắn kết với việc mua sắm thêm nhiều trang thiết bị quân sự từ nước ngoài.","C":"Gắn kết với việc tăng cường diễn tập quân sự tại tất cả các cấp học phổ thông.","D":"Gắn kết với việc hạn chế các hoạt động giao lưu văn hóa với người nước ngoài."},"answer":"A"},
-  {"id":77,"question":"Nghị quyết Đại hội XIV xác định “nguồn lực nội sinh” của dân tộc bao gồm những gì?","options":{"A":"Các mỏ khoáng sản quý hiếm và nguồn tài nguyên rừng vàng biển bạc hiện nay.","B":"Lượng tiền tiết kiệm của người dân và các nguồn kiều hối gửi về hàng năm.","C":"Giá trị văn hóa, sức mạnh con người và khối đại đoàn kết toàn dân tộc.","D":"Hệ thống các cảng biển nước sâu và sân bay quốc tế hiện đại khắp cả nước."},"answer":"C"},
-  {"id":78,"question":"Tư duy phát triển bền vững Đại hội XIV của Đảng thể hiện qua việc xử lý mối quan hệ nào?","options":{"A":"Giữa tăng trưởng kinh tế với phát triển văn hóa và bảo vệ môi trường.","B":"Giữa việc sản xuất hàng hóa phục vụ trong nước và việc xuất khẩu ra ngoài.","C":"Giữa việc sử dụng lao động trẻ và việc chăm sóc những người già hiện nay.","D":"Giữa việc phát triển các khu đô thị mới và giữ gìn các làng nghề cổ truyền."},"answer":"A"},
-  {"id":79,"question":"Một điểm mới trong phương thức lãnh đạo của Đảng được nêu tại Nghị quyết Đại hội XIV là gì?","options":{"A":"Tăng cường việc ban hành các chỉ thị bằng văn bản giấy đến tận cấp cơ sở.","B":"Đổi mới mạnh mẽ phương thức lãnh đạo theo hướng cầm quyền khoa học.","C":"Trực tiếp can thiệp vào các hoạt động sản xuất kinh doanh của các tập đoàn.","D":"Chỉ tập trung vào việc giám sát các hoạt động của các cơ quan lập pháp."},"answer":"B"},
-  {"id":80,"question":"Đại hội XIV của Đảng, để thúc đẩy khởi nghiệp trong học sinh, nhà trường cần đóng vai trò gì theo định hướng mới?","options":{"A":"Là môi trường nuôi dưỡng ý tưởng, kết nối học sinh với các hệ sinh thái số.","B":"Là nơi cung cấp toàn bộ vốn đầu tư cho các dự án kinh doanh của học sinh.","C":"Là cơ quan quản lý và thu lợi nhuận từ các hoạt động buôn bán của học sinh.","D":"Là nơi lựa chọn những học sinh giỏi nhất để thay mặt cả lớp đi kinh doanh."},"answer":"A"},
-  {"id":81,"question":"Vấn đề “chống lãng phí” được Nghị quyết Đại hội XIV đặc biệt nhấn mạnh vì lý do gì?","options":{"A":"Vì nguồn ngân sách nhà nước đang gặp khó khăn do các tác động bên ngoài.","B":"Vì người dân đang có xu hướng tiêu dùng quá nhiều các loại hàng ngoại nhập.","C":"Vì lãng phí làm suy yếu nguồn lực đất nước và niềm tin của Nhân dân.","D":"Vì đây là một phong trào để thi đua giữa các đơn vị trong hệ thống chính trị."},"answer":"C"},
-  {"id":82,"question":"Nghị quyết Đại hội XIV xác định việc trọng dụng nhân tài có vai trò như thế nào?","options":{"A":"Là giải pháp để thay thế hoàn toàn những cán bộ lớn tuổi trong bộ máy.","B":"Là khâu đột phá để phát triển lực lượng sản xuất mới của đất nước.","C":"Là cách để thu hút các chuyên gia nước ngoài về làm việc cho Việt Nam.","D":"Là hoạt động nhằm vinh danh những người có thành tích học tập xuất sắc."},"answer":"B"},
-  {"id":83,"question":"Trong đối ngoại đa phương, Việt Nam hướng tới vai trò gì theo Nghị quyết Đại hội XIV?",
-    "options":{"A":"Là thành viên có trách nhiệm, chủ động tham gia dẫn dắt các sáng kiến.","B":"Là quốc gia đứng ngoài quan sát các biến động chính trị của thế giới.","C":"Là trung gian để hòa giải mọi xung đột giữa các cường quốc lớn.","D":"Là nơi cung cấp các nguồn nguyên liệu thô cho thế giới."},"answer":"A"},
-  {"id":84,"question":"Đại hội XIV của Đảng, “Chủ quyền quốc gia trên không gian mạng” được bảo vệ như thế nào?","options":{"A":"Bằng cách ngăn chặn toàn bộ các nguồn thông tin từ internet nước ngoài.","B":"Bằng cách xây dựng hệ thống phòng thủ mạng và pháp luật mạng vững mạnh.","C":"Bằng cách yêu cầu người dân không được sử dụng mạng xã hội cá nhân.","D":"Bằng cách giao toàn quyền quản lý internet cho các doanh nghiệp viễn thông."},"answer":"B"},
-  {"id":85,"question":"Nghị quyết Đại hội XIV định hướng việc phát triển nông nghiệp theo hướng nào?","options":{"A":"Mở rộng diện tích trồng lúa để trở thành cường quốc lương thực số một.","B":"Phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh.","C":"Tập trung vào việc khai thác hải sản xa bờ bằng mọi phương tiện sẵn có.","D":"Quay lại với mô hình canh tác thủ công để đảm bảo tính truyền thống cao."},"answer":"B"},
-  {"id":86,"question":"Điểm mới về quyền làm chủ của Nhân dân tại Đại hội XIV của Đảng là gì?","options":{"A":"Thể chế hóa đầy đủ phương châm “Dân biết, dân bàn, dân làm, dân kiểm tra, dân thụ hưởng”.","B":"Nhân dân được phép quyết định mọi vấn đề về ngân sách của các cơ quan nhà nước.","C":"Nhân dân trực tiếp tham gia vào việc xét xử các vụ án hình sự tại các cấp tòa án.","D":"Nhân dân được cấp miễn phí mọi loại hàng hóa thiết yếu phục vụ cho cuộc sống."},"answer":"A"},
-  {"id":87,"question":"Đại hội XIV của Đảng, khát vọng phát triển của dân tộc Việt Nam đến năm 2045 nhằm khẳng định và vươn tới điều gì?","options":{"A":"Sự vượt trội về quân sự của Việt Nam so với các quốc gia trên thế giới.","B":"Ý chí tự lực, tự cường và khát vọng xây dựng đất nước phồn vinh, hạnh phúc.","C":"Khả năng làm chủ toàn bộ các công nghệ sản xuất vũ khí tiên tiến nhất hiện nay.","D":"Mục tiêu đưa Việt Nam trở thành quốc gia phát triển nhất khu vực châu Á."},"answer":"B"},
-  {"id":88,"question":"Một trong những nhiệm vụ trọng tâm về môi trường trong nhiệm kỳ Đại hội XIV là gì?","options":{"A":"Dừng hoạt động của tất cả các nhà máy sản xuất có phát thải khí nhà kính.","B":"Chuyển toàn bộ các khu công nghiệp ra khỏi địa giới hành chính của các tỉnh.","C":"Chủ động ứng phó biến đổi khí hậu, ngăn chặn tình trạng ô nhiễm môi trường.","D":"Chỉ tập trung bảo vệ môi trường tại các khu du lịch nổi tiếng của đất nước."},"answer":"C"},
-  {"id":89,"question":"Văn kiện Đại hội XIV của Đảng, những nguyên nhân chính của những thách thức đặt ra trong tình hình hiện nay?","options":{"A":"Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững.","B":"Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; rủi ro tụt hậu về công nghệ và chất lượng nguồn nhân lực.","C":"Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; rủi ro tụt hậu về công nghệ và chất lượng nguồn nhân lực; tác động ngày càng nặng nề của biến đổi khí hậu.","D":"Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; tác động ngày càng nặng nề của biến đổi khí hậu."},"answer":"C"},
-  {"id":90,"question":"Những dự báo dịch chuyển của thế giới trong giai đoạn hiện nay được xác định trong Văn kiện Đại hội XIV?","options":{"A":"Cấu trúc quyền lực, mô hình tăng trưởng và trật tự kinh tế.","B":"Cấu trúc quyền lực.","C":"Mô hình tăng trưởng.","D":"Dịch chuyển về kinh tế."},"answer":"A"},
-  {"id":91,"question":"Văn kiện Đại hội XIV của Đảng, việc xây dựng mô hình tăng trưởng phải dựa chủ yếu vào những yếu tốt nào?","options":{"A":"Năng suất, hiệu quả.","B":"Năng suất, chất lượng, hiệu quả.","C":"Chất lượng, hiệu quả, đổi mới sáng tạo.","D":"Năng suất, chất lượng, hiệu quả, đổi mới sáng tạo."},"answer":"D"},
-  {"id":92,"question":"Văn kiện Đại hội XIV của Đảng, động lực then chốt của tăng trưởng?","options":{"A":"Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.","B":"Công nghệ thông tin.","C":"Phá triển cơ sở hạ tầng.","D":"Khoa học, công nghệ, đổi mới sáng tạo."},"answer":"A"},
-  {"id":93,"question":"Trong công tác xây dựng, chỉnh đốn Đảng, Đại hội XIV xác định nội dung nào là điều kiện quyết định mọi thắng lợi?","options":{"A":"Xây dựng Đảng trong sạch.","B":"Xây dựng Đảng trong sạch, vững mạnh toàn diện, văn minh.","C":"Xây dựng Đảng trong sạch, vững mạnh toàn diện.","D":"Xây dựng Đảng đạo đức, văn minh."},"answer":"C"},
-  {"id":94,"question":"Nội dung, yêu cầu xây dựng xã hội Việt Nam theo Đại hội XIV của Đảng, nhằm tạo điều kiện, nền tảng để đất nước, dân tộc phát triển bền vững là gì?","options":{"A":"Xây dựng một xã hội có kỷ cương, trật tự.","B":"Xây dựng một xã hội lành mạnh về đạo đức, kỷ cương về pháp luật, văn hoá trong ứng xử, văn minh trong quản trị, an toàn trong đời sống, tiến bộ trong phát triển.","C":"Xây dựng một xã hội lành mạnh về đạo đức, an toàn trong đời sống, tiến bộ trong phát triển.","D":"Xây dựng một xã hội lành mạnh trên cơ sở pháp luật, văn minh, an toàn."},"answer":"B"},
-  {"id":95,"question":"Văn kiện Đại hội XIV của Đảng, tầm quan trọng các yếu tố thể chế, nhân lực, hạ tầng?","options":{"A":"Thể chế mở đường; nhân lực quyết định tốc độ và chất lượng; hạ tầng tạo không gian và sức bật.","B":"Thể chế mở đường; nhân lực quyết định tốc độ và chất lượng; hạ tầng tạo không gian.","C":"Thể chế mở đường; nhân lực quyết định chất lượng; hạ tầng tạo sức bật.","D":"Thể chế tạo sức bật; nhân lực quyết định chất lượng; hạ tầng tạo không gian."},"answer":"A"},
-  {"id":96,"question":"Đại hội đại biểu toàn quốc lần thứ XIV của Đảng xác định cục diện thế giới hiện nay đang chuyển biến theo xu hướng nào?","options":{"A":"Đơn cực, ổn định lâu dài","B":"Đa cực, phân tuyến, nhiều tầng nấc","C":"Lưỡng cực, đối đầu toàn diện","D":"Hợp nhất quyền lực toàn cầu"},"answer":"B"},
-  {"id":97,"question":"Báo cáo tổng kết công tác xây dựng Đảng tại Đại hội XIV đã bổ sung 2 nguyên tắc tổ chức, hoạt động nào?","options":{"A":"Đảng giữ mối liên hệ mật thiết với Nhân dân và Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật.","B":"Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật.","C":"Đảng giữ mối liên hệ mật thiết với Nhân dân, tự phê bình và phê bình,","D":"Tập trung dân chủ, đoàn kết thống nhất."},"answer":"A"},
-  {"id":98,"question":"Điểm mới của Đại hội XIV trong gắn Chương trình hành động thực hiện Nghị quyết trực tiếp vào Báo cáo chính trị trình Đại hội theo tinh thần như thế nào?","options":{"A":"Nói đi đôi với làm.","B":"Nói đi đôi với làm, mục tiêu gắn với giải pháp.","C":"Nói đi đôi với làm, mục tiêu gắn với giải pháp, giải pháp gắn với trách nhiệm, trách nhiệm gắn với thời hạn và nguồn lực.","D":"Nói đi đôi với làm, mục tiêu gắn với giải pháp, giải pháp gắn với trách nhiệm."},"answer":"C"},
-  {"id":99,"question":"Một trong những kết quả đạt được trong nhiệm kỳ Đại hội XIII về kinh tế, xã hội?","options":{"A":"Thu nhập bình quân đầu người của Việt Nam tiệm cận mức trung bình.","B":"Thu nhập bình quân đầu người của Việt Nam tiệm cận mức khá.","C":"Thu nhập bình quân đầu người của Việt Nam tiệm cận mức trung bình cao.","D":"Thu nhập bình quân đầu người của Việt Nam tiệm cận mức cao."},"answer":"C"},
-  {"id":100,"question":"Kết quả đạt được về chỉ số hạnh phúc của Nhân dân trong nhiệm kỳ Đại hội XIII được xác định tăng bao nhiêu bậc (từ năm 2020 - 2025)?","options":{"A":"Tăng 33 bậc.","B":"Tăng 35 bậc.","C":"Tăng 37 bậc.","D":"Tăng 39 bậc."},"answer":"C"}
+  {
+    "id": 1,
+    "question": "Khái quát truyền thống của Quân đội nhân dân Việt Nam là gì?",
+    "options": {
+      "A": "Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hy sinh, vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội. Nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng.",
+      "B": "Dựa vào dân, phát huy sức mạnh toàn dân.",
+      "C": "Lấy tuyên truyền, giáo dục, vận động, thuyết phục là chính.",
+      "D": "Tổ chức lực lượng rộng khắp, mạng lưới liên hoàn, khép kín."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Chủ đề phong trào thi đua Quyết thắng năm 2026?",
+    "options": {
+      "A": "Đoàn kết, sáng tạo, kỷ cương, nêu gương, quyết thắng.",
+      "B": "Đoàn kết, dân chủ, nêu gương, kỷ cương, quyết thắng.",
+      "C": "Đoàn kết, kỷ cương, đột phá, sáng tạo, quyết thắng.",
+      "D": "Dân chủ, đoàn kết, mẫu mực, kỷ cương, quyết thắng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa từ sớm, từ xa, trên tất cả các yếu tố cấu thành Tổ quốc gồm?",
+    "options": {
+      "A": "Đất liền, biển đảo, trên không, vũ trụ, biên giới và không gian mạng.",
+      "B": "Đất liền, biển đảo, vũ trụ và không gian mạng.",
+      "C": "Đất liền, biển đảo, trên không, vũ trụ và không gian mạng.",
+      "D": "Đất liền, biển đảo, trên không, vũ trụ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Trong quan hệ đối tác xếp theo cấp độ từ thấp đến cao là?",
+    "options": {
+      "A": "Đối tác chiến lược toàn diện; đối tác toàn diện; đối tác chiến lược.",
+      "B": "Đối tác toàn diện; đối tác chiến lược; đối tác chiến lược toàn diện.",
+      "C": "Đối tác chiến lược; đối tác toàn diện; đối tác chiến lược toàn diện.",
+      "D": "Đối tác chiến lược toàn diện; đối tác chiến lược; đối tác toàn diện."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Theo Nghị quyết số 847-NQ/QUTW ngày 28/12/2021 của Quân ủy Trung ương giải pháp quan trọng hàng đầu để giữ vững và phát huy phẩm chất “Bộ đội Cụ Hồ”; kiên quyết chống chủ nghĩa cá nhân trong tình hình mới?",
+    "options": {
+      "A": "Coi trọng xây dựng các cấp ủy, tổ chức đảng trong sạch, vững mạnh tiêu biểu, đề cao vai trò, trách nhiệm trong lãnh đạo phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân.",
+      "B": "Xây dựng đội ngũ cán bộ các cấp có đủ phẩm chất, năng lực, uy tín thực sự là tấm gương mẫu mực trong phát huy phẩm chất “Bộ đội Cụ Hồ”.",
+      "C": "Nâng cao hiệu lực, hiệu quả công tác kiểm tra, giám sát; kiên quyết chấn chỉnh, xử lý nghiêm các vi phạm.",
+      "D": "Tăng cường công tác lãnh đạo tư tưởng, giáo dục chính trị, nâng cao nhận thức, trách nhiệm cho cán bộ, đảng viên và quần chúng tiếp tục phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "question": "Theo Quy định số 144-QĐ/TW, ngày 09/5/2024 của Bộ Chính trị, đâu là chuẩn mực đạo đức cách mạng của cán bộ, đảng viên?",
+    "options": {
+      "A": "Liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến và chịu sự giám sát của Nhân dân.",
+      "B": "Tôn trọng Nhân dân, tận tụy phục vụ Nhân dân.",
+      "C": "Trung thành với Đảng Cộng sản Việt Nam, bảo vệ danh dự Tổ quốc và lợi ích quốc gia.",
+      "D": "Gương mẫu, khiêm tốn, tu dưỡng rèn luyện, học tập suốt đời."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Đấu tranh trên không gian mạng trong Quân đội nhân dân Việt Nam là nhiệm vụ của ai?",
+    "options": {
+      "A": "Là nhiệm vụ của cấp ủy, chỉ huy các cấp.",
+      "B": "Là nhiệm vụ của cán bộ chính trị các cấp.",
+      "C": "Là nhiệm vụ của cấp ủy, chỉ huy và của mọi tổ chức, mọi lực lượng trong toàn quân.",
+      "D": "Là nhiệm vụ của cơ quan chính trị các cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Quy định số 85-QĐ/TW ngày 07/10/2022 của Ban Bí thư về việc cán bộ, đảng viên thiết lập và sử dụng trang thông tin điện tử cá nhân trên Internet áp dụng đối tượng nào?",
+    "options": {
+      "A": "Áp dụng đối với cán bộ, đảng viên, nhất là cán bộ lãnh đạo, quản lý, người đứng đầu cấp ủy, tổ chức đảng.",
+      "B": "Áp dụng đối với các cấp ủy, tổ chức đảng, cán bộ, đảng viên.",
+      "C": "Áp dụng đối với cán bộ, đảng viên khi tham gia mạng xã hội.",
+      "D": "Áp dụng với cấp ủy, tổ chức đảng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Đâu là trách nhiệm của cán bộ, đảng viên trong việc thiết lập và sử dụng trang thông tin điện tử cá nhân trên Internet, mạng xã hội theo Quy định số 85-QĐ/TW ngày 07/10/2022 của Ban Bí thư?",
+    "options": {
+      "A": "Khai báo thông tin chính danh;",
+      "B": "Đăng ký ít nhất 01 tài khoản mạng xã hội;",
+      "C": "Sẵn sàng tham gia đấu tranh trên không gian mạng khi có chỉ đạo;",
+      "D": "Quản lý chặt chẽ trang thông tin điện tử cá nhân của mình;"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Lực lượng vũ trang Quân khu 5 được thành lập vào ngày tháng năm nào?",
+    "options": {
+      "A": "16 tháng 9 năm 1945",
+      "B": "16 tháng 10 năm 1945",
+      "C": "20 tháng 11 năm 1945",
+      "D": "22 tháng 12 năm 1944"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Tổ chức vũ trang tiền thân của Lực lượng vũ trang Quân khu 5 ngày nay là:",
+    "options": {
+      "A": "Đội Du kích Vũ Hùng",
+      "B": "Đội Du kích Ba Tơ",
+      "C": "Đội tự vệ Hỏa xa Diêu Trì",
+      "D": "Tất cả các"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "question": "Truyền thống vẻ vang của LLVT Quân khu 5 là gì?",
+    "options": {
+      "A": "Luôn nêu cao tinh thần độc lập tự chủ, tự lực tự cường, vượt qua mọi khó khăn gian khổ, hoàn thành xuất sắc nhiệm vụ được giao.",
+      "B": "Luôn nắm vững tư tưởng chiến lược tiến công, mưu trí, sáng tạo, phát huy cao độ sức mạnh tổng hợp của chiến tranh nhân dân; xây dựng nền quốc phòng toàn dân vững chắc, nâng cao chất lượng tổng hợp, sức mạnh chiến đấu, giành thắng lợi trong mọi tình huống.",
+      "C": "Tự lực tự cường, khắc phục khó khăn, chịu đựng gian khổ, mưu trí sáng tạo, chiến đấu kiên cường, chiến thắng vẻ vang.",
+      "D": "Đoàn kết nội bộ chặt chẽ, kỷ luật nghiêm minh, gắn bó máu thịt với nhân dân, không ngừng phát huy bản chất tốt đẹp và truyền thống vẻ vang của “Bộ đội Cụ Hồ”."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Ngày, tháng, năm nào, Chủ tịch Nước đã ký quyết định phong tặng Danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Quân khu 5?",
+    "options": {
+      "A": "Ngày 17/8/1985",
+      "B": "Ngày 29/4/2011",
+      "C": "Ngày 16/10/2015",
+      "D": "Ngày 13/02/2026"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Đảng bộ Quân khu 5 được thành lập ngày tháng năm nào, với tên gọi ban đầu là gì?",
+    "options": {
+      "A": "Ngày 22/11/1944, với tên gọi Đảng bộ Khu 5",
+      "B": "Ngày 22/11/1945, với tên gọi Đảng bộ Quân khu 5",
+      "C": "Ngày 22/11/1946, với tên gọi Đảng bộ Quân sự khu 5",
+      "D": "Ngày 22/11/1946, với tên gọi Đảng bộ Khu 5"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Đến nay, Đảng bộ Quân khu 5 đã trải qua mấy kỳ đại hội?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "“Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ” đặt mục tiêu tìm kiếm, quy tập khoảng bao nhiêu hài cốt liệt sĩ?",
+    "options": {
+      "A": "5.000 hài cốt",
+      "B": "7.000 hài cốt",
+      "C": "10.000 hài cốt",
+      "D": "18.000 hài cốt"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "“Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ” đặt mục tiêu giám định ADN khoảng bao nhiêu mẫu hài cốt liệt sĩ?",
+    "options": {
+      "A": "7.000 mẫu",
+      "B": "10.000 mẫu",
+      "C": "15.000 mẫu",
+      "D": "18.000 mẫu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "Lễ phát động \"Chiến dịch 500 ngày đêm...\" được tổ chức vào thời gian và địa điểm nào?",
+    "options": {
+      "A": "Sáng ngày 15/3/2026 tại Hà Nội",
+      "B": "Sáng ngày 02/4/2026 tại Thành cổ Quảng Trị, tỉnh Quảng Trị",
+      "C": "Sáng ngày 27/7/2026 tại Nghĩa trang Liệt sĩ Quốc gia Trường Sơn",
+      "D": "Sáng ngày 20/11/2026 tại tỉnh Tuyên Quang"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Chiến dịch tập trung đẩy mạnh công tác rà phá bom mìn, vật liệu nổ phục vụ tìm kiếm, quy tập tại các địa bàn trọng điểm nào?",
+    "options": {
+      "A": "Quảng Bình, Quảng Trị, Thừa Thiên Huế",
+      "B": "Tuyên Quang (Vị Xuyên), tỉnh Lào Cai, tỉnh Lạng Sơn",
+      "C": "Kon Tum, Gia Lai, Đắk Lắk",
+      "D": "Điện Biên, Sơn La, Lai Châu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Thời gian thực hiện tổng thể của \"Chiến dịch 500 ngày đêm...\" là từ ngày nào đến ngày nào?",
+    "options": {
+      "A": "Từ ngày 01/01/2026 đến ngày 27/7/2027",
+      "B": "Từ ngày 15/3/2026 đến ngày 27/7/2027",
+      "C": "Từ ngày 02/4/2026 đến ngày 31/12/2027",
+      "D": "Từ ngày 22/3/2026 đến ngày 27/7/2027"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định” gồm những nội dung nào?",
+    "options": {
+      "A": "Kiên định mục tiêu, lý tưởng chiến đấu của Quân đội; kiên định xây dựng lực lượng dân quân tự vệ, dự bị động viên vững mạnh.",
+      "B": "Kiên định đường lối quân sự, quốc phòng của Đảng; kiên định xây dựng Quân đội vững mạnh về chính trị.",
+      "C": "Kiên định quốc phòng toàn dân, chiến tranh nhân dân; kiên định hội nhập, đối ngoại quốc phòng.",
+      "D": "Kiên định hiện đại hóa Quân đội; kiên định công nghiệp quốc phòng tự chủ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Nội hàm “kiên định đường lối quân sự, quốc phòng của Đảng” trong chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội là gì?",
+    "options": {
+      "A": "Tập trung hiện đại hóa Quân đội, xây dựng một số lực lượng hiện đại.",
+      "B": "Tăng cường hợp tác quốc phòng, mua sắm vũ khí, trang bị.",
+      "C": "Quán triệt và thực hiện đúng quan điểm, đường lối, chính sách của Đảng, Nhà nước về quân sự, quốc phòng.",
+      "D": "Phát triển lực lượng thường trực, xây dựng dân quân tự vệ, dự bị động viên “vững mạnh, rộng khắp”, sẵn sàng chiến đấu cao."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, khi thực hiện “kiên định đường lối quân sự, quốc phòng của Đảng” cần quán triệt nội dung nào?",
+    "options": {
+      "A": "Quốc phòng toàn dân, chiến tranh nhân dân và chính sách “bốn không”.",
+      "B": "Phát triển kinh tế gắn với quốc phòng, bảo vệ biên cương của Tổ quốc.",
+      "C": "Mở rộng hợp tác quân sự, mua sắm vũ khí trang bị cho Quân đội.",
+      "D": "Tăng cường lực lượng dự bị, sẵn sàng bổ sung lực lượng khi có tình huống."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, phương châm nào là nền tảng quan trọng trong thực hiện “kiên định đường lối quân sự, quốc phòng của Đảng”?",
+    "options": {
+      "A": "Dựa vào tiềm lực kinh tế, đầu tư mạnh hơn cho Quân đội",
+      "B": "Dựa vào sức mạnh quốc tế, trên tinh thần đoàn kết, hòa bình trên thế giới",
+      "C": "Dựa vào khoa học, công nghệ, xây dựng nền quốc phòng vững mạnh",
+      "D": "Dựa vào dân, lấy dân làm gốc và phát huy sức mạnh của Nhân dân"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, trong đó “Kiên định xây dựng Quân đội vững mạnh về chính trị” trước hết nhằm?",
+    "options": {
+      "A": "Nâng cao chất lượng huấn luyện, khả năng sẵn sàng chiến đấu.",
+      "B": "Tăng cường sự lãnh đạo của Đảng đối với Quân đội.",
+      "C": "Đẩy mạnh hội nhập quốc tế, đối ngoại quốc phòng.",
+      "D": "Hiện đại hóa vũ khí, trang bị, nâng cao khả năng sẵn sàng chiến đấu."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 kiên định”, trong đó một nội dung quan trọng của kiên định xây dựng Quân đội vững mạnh về chính trị là gì?",
+    "options": {
+      "A": "Bản lĩnh chính trị kiên định, vững vàng, giỏi chuyên môn quân sự.",
+      "B": "Bản lĩnh chính trị kiên định, vững vàng, giỏi chuyên môn quân sự, thành thạo công nghệ số trong thời kỳ mới.",
+      "C": "Kiên định Chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, quan điểm, đường lối quân sự của Đảng, mục tiêu độc lập dân tộc và chủ nghĩa xã hội.",
+      "D": "Kiên định mục tiêu độc lập, có khả năng đối ngoại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về phương châm “5 vững”, cụm từ “không ngừng phát huy giá trị văn hóa “Bộ đội Cụ Hồ” thời kỳ mới” phản ánh nội dung nào?",
+    "options": {
+      "A": "Chính trị vững.",
+      "B": "Kỷ luật vững.",
+      "C": "Công nghệ vững.",
+      "D": "Nghệ thuật quân sự vững."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 đẩy mạnh” gồm:",
+    "options": {
+      "A": "Đẩy mạnh huấn luyện, xây dựng chính quy; đẩy mạnh phát huy giá trị văn hóa “Bộ đội Cụ Hồ”.",
+      "B": "Đẩy mạnh huấn luyện, xây dựng chính quy; đẩy mạnh chuyển đổi số và phát triển công nghiệp quốc phòng.",
+      "C": "Đẩy mạnh xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, hiện đại; đẩy mạnh hội nhập quốc tế và đối ngoại quốc phòng.",
+      "D": "Đẩy mạnh xây dựng quân đội vững mạnh về chính trị, quân sự; đẩy mạnh bảo đảm tốt hậu cần và kỹ thuật."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, từ “Hiện đại” được hiểu như thế nào?",
+    "options": {
+      "A": "Hiện đại về vũ khí, trang bị, kỹ thuật.",
+      "B": "Hiện đại hơn chính mình trước đây, nhất là về nghệ thuật quân sự.",
+      "C": "Hiện đại theo điều kiện từng đơn vị, một số binh chủng tiến thẳng lên hiện đại.",
+      "D": "Đặt trong tương quan với trình độ quân sự của khu vực và thế giới."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, nhân tố tiên quyết là gì?",
+    "options": {
+      "A": "Đẩy mạnh xây dựng con người hiện đại trong Quân đội.",
+      "B": "Tăng cường mua sắm vũ khí, trang bị của các nước tiên tiến.",
+      "C": "Tăng thời gian huấn luyện, nâng cao khả năng sẵn sàng chiến đấu.",
+      "D": "Mở rộng hợp tác quân sự, xây dựng các lực lượng tiên tiến, hiện đại."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “Đẩy mạnh xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại”, giải pháp căn cơ để xây dựng Quân đội hiện đại là gì?",
+    "options": {
+      "A": "Tăng cường mua sắm vũ khí, trang bị của các nước tiên tiến.",
+      "B": "Tăng thời gian huấn luyện, nâng cao khả năng sẵn sàng chiến đấu.",
+      "C": "Đẩy mạnh xây dựng công nghiệp quốc phòng tự chủ, tự lực, tự cường, lưỡng dụng, hiện đại.",
+      "D": "Mở rộng hợp tác quân sự, xây dựng các lực lượng tiên tiến, hiện đại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 đẩy mạnh”, trong đó “Đẩy mạnh hội nhập quốc tế và đối ngoại quốc phòng” nhằm?",
+    "options": {
+      "A": "Mở rộng quan hệ quân sự, sẵn sàng tham gia lực lượng gìn giữ hòa bình của Liên hiệp quốc.",
+      "B": "Giữ vững môi trường hòa bình, ổn định và bảo vệ Tổ quốc từ sớm, từ xa.",
+      "C": "Tăng xuất khẩu quốc phòng, bảo đảm thu ngân sách cho Quân đội.",
+      "D": "Mở rộng hoạt động đa phương hóa, đa dạng hóa trong đối ngoại quốc phòng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa” gồm:",
+    "options": {
+      "A": "Ngăn ngừa chiến tranh; ngăn ngừa vi phạm pháp luật, kỷ luật, mất an toàn.",
+      "B": "Ngăn ngừa thiên tai, dịch bệnh; ngăn ngừa chiến tranh.",
+      "C": "Ngăn ngừa các nguy cơ chiến tranh, xung đột; ngăn ngừa suy thoái, “tự diễn biến”, “tự chuyển hóa”.",
+      "D": "Ngăn ngừa vi phạm pháp luật, kỷ luật, mất an toàn; ngăn ngừa tham nhũng, lãng phí, tiêu cực."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “2 ngăn ngừa”, trong đó “Ngăn ngừa mọi biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa”...” cần thực hiện theo tinh thần nào?",
+    "options": {
+      "A": "Xử lý ngay khi có vi phạm.",
+      "B": "Chờ dấu hiệu rõ mới kiểm tra, xử lý.",
+      "C": "Tăng cường kiểm tra, nhất là khi có dấu hiệu vi phạm.",
+      "D": "Ngăn ngừa từ sớm, từ khi còn là mầm mống."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững” gồm những gì?",
+    "options": {
+      "A": "Chính trị, tư tưởng, kỷ luật, công nghệ, đời sống bộ đội.",
+      "B": "Chính trị, kỷ luật, công nghệ, nghệ thuật quân sự, đời sống bộ đội.",
+      "C": "Chính trị, quân sự, hậu cần, kỹ thuật, đời sống.",
+      "D": "Chính trị, tổ chức, cán bộ, công nghệ, đời sống."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Theo tinh thần chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững” được xác định là gì?",
+    "options": {
+      "A": "Khẩu hiệu tuyên truyền rộng rãi trong toàn quân.",
+      "B": "Nội dung học tập thường xuyên, liên tục.",
+      "C": "Tiêu chí rèn luyện và thước đo kết quả.",
+      "D": "Nội dung sinh hoạt định kỳ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Chính trị vững” thể hiện rõ nhất ở yêu cầu nào?",
+    "options": {
+      "A": "Có trình độ lý luận cao, đáp ứng yêu cầu nhiệm vụ trong tình hình mới.",
+      "B": "Bản lĩnh chính trị kiên định, vững vàng; giỏi chuyên môn quân sự.",
+      "C": "Tuyệt đối trung thành với Tổ quốc, Đảng, Nhà nước và Nhân dân; vững vàng về mục tiêu, lý tưởng.",
+      "D": "Có tinh thần cảnh giác cách mạng cao, kỷ luật nghiêm minh."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, nội dung nào không thuộc “Kỷ luật vững”?",
+    "options": {
+      "A": "Chấp hành điều lệnh, điều lệ.",
+      "B": "Quản lý chặt chẽ quân nhân, vũ khí.",
+      "C": "Không vi phạm pháp luật, kỷ luật.",
+      "D": "Làm chủ nền tảng số và trí tuệ nhân tạo."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Công nghệ vững” nhấn mạnh yêu cầu:",
+    "options": {
+      "A": "Sử dụng tốt máy tính, trang thiết bị kỹ thuật thông minh.",
+      "B": "Thành thạo điện thoại thông minh, các thiết bị điện tử trong Quân đội.",
+      "C": "Làm chủ công nghệ quân sự, khai thác tốt trang bị hiện đại và hình thành “chiến sĩ số”.",
+      "D": "Xây dựng cơ sở dữ liệu, đưa quân đội nhanh chóng hội nhập quốc tế."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Chỉ đạo của Tổng Bí thư, Chủ tịch nước đối với Quân đội về “5 vững”, trong đó “Nghệ thuật quân sự vững” đòi hỏi?",
+    "options": {
+      "A": "Nắm chắc kinh nghiệm chiến đấu, nhất là trong các cuộc kháng chiến chống Pháp, Mỹ.",
+      "B": "Giỏi sử dụng vũ khí, tinh thông binh pháp.",
+      "C": "Giỏi huấn luyện, vận dụng nghệ thuật quân sự trong điều kiện mới.",
+      "D": "Nắm vững đường lối quân sự, nghệ thuật đánh giặc và vận dụng sáng tạo trong điều kiện mới."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "question": "Phương châm của Đại hội XIV của Đảng được xác định là gì?",
+    "options": {
+      "A": "Đoàn kết – Kỷ cương – Phát triển – Hội nhập",
+      "B": "Đoàn kết – Dân chủ – Kỷ cương – Đột phá – Phát triển",
+      "C": "Dân chủ – Kỷ luật – Đổi mới – Phát triển",
+      "D": "Đoàn kết – Đổi mới – Hội nhập – Bền vững"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Đại hội XIV của Đảng xác định mục tiêu phát triển đến năm 2030 của Việt Nam là gì?",
+    "options": {
+      "A": "Nước phát triển, thu nhập cao",
+      "B": "Nước công nghiệp theo hướng hiện đại",
+      "C": "Nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
+      "D": "Trung tâm kinh tế số của khu vực"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "question": "Tầm nhìn đến năm 2045 được Nghị quyết Đại hội XIV xác định là gì?",
+    "options": {
+      "A": "Trở thành nước công nghiệp hiện đại",
+      "B": "Trở thành nước phát triển, thu nhập cao",
+      "C": "Trở thành trung tâm đổi mới sáng tạo châu Á",
+      "D": "Trở thành quốc gia kinh tế số hàng đầu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Đại hội XIV của Đảng xác định chỉ tiêu tăng trưởng GDP bình quân giai đoạn 2026–2030?",
+    "options": {
+      "A": "7–8%/năm",
+      "B": "8–9%/năm",
+      "C": "Từ 9%/năm trở lên",
+      "D": "Từ 10%/năm trở lên"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Đại hội XIV của Đảng xác định một trong các ngành công nghiệp, công nghệ chiến lược được ưu tiên phát triển là gì?",
+    "options": {
+      "A": "Công nghiệp khai khoáng",
+      "B": "Công nghiệp dệt may",
+      "C": "Chip bán dẫn và trí tuệ nhân tạo",
+      "D": "Công nghiệp chế biến nông sản"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "question": "Một trong ba đột phá chiến lược được Đại hội XIV của Đảng xác định là gì?",
+    "options": {
+      "A": "Đột phá về ngoại giao",
+      "B": "Đột phá về phân phối thu nhập",
+      "C": "Đột phá mạnh mẽ về thể chế phát triển",
+      "D": "Đột phá về dân số"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Đại hội XIV của Đảng, quan điểm xuyên suốt trong các định hướng phát triển 2026–2030 là gì?",
+    "options": {
+      "A": "Tăng trưởng nhanh bằng mọi giá",
+      "B": "Lấy phát triển để ổn định, ổn định để thúc đẩy phát triển",
+      "C": "Ưu tiên kinh tế trước, xã hội sau",
+      "D": "Phát triển tập trung vào đô thị lớn"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Một nhiệm vụ trọng tâm về xây dựng Đảng trong nhiệm kỳ Đại hội XIV của Đảng là gì?",
+    "options": {
+      "A": "Mở rộng số lượng đảng viên",
+      "B": "Tăng quyền tự chủ cho cơ sở",
+      "C": "Kiểm soát quyền lực, phòng chống tham nhũng, tiêu cực",
+      "D": "Giảm vai trò lãnh đạo của Đảng trong kinh tế"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Đại hội XIV của Đảng, đột phá chiến lược về thể chế phát triển nhằm mục tiêu trực tiếp nào?",
+    "options": {
+      "A": "Tăng thu ngân sách",
+      "B": "Giảm chi tiêu công",
+      "C": "Khơi thông, giải phóng và phát huy hiệu quả các nguồn lực",
+      "D": "Đẩy nhanh đô thị hóa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "question": "Đại hội XIV của Đảng xác định việc nhấn mạnh phát triển nguồn nhân lực chất lượng cao gắn chặt nhất với mục tiêu nào?",
+    "options": {
+      "A": "Thu hút đầu tư nước ngoài",
+      "B": "Nâng cao năng suất, chất lượng lao động",
+      "C": "Giải quyết việc làm, ổn định đời sống người dân",
+      "D": "Tăng dân số trong độ tuổi lao động"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "question": "Đại hội XIV của Đảng xác định phát triển văn hóa và con người trong chiến lược phát triển đất nước là gì?",
+    "options": {
+      "A": "Một lĩnh vực xã hội cần đầu tư",
+      "B": "Nhiệm vụ lâu dài, gián tiếp, góp phần phát triển kinh tế, xã hội, ổn định đời sống Nhân dân",
+      "C": "Nền tảng tinh thần, sức mạnh nội sinh, động lực to lớn cho sự phát triển nhanh, bền vững của đất nước",
+      "D": "Công cụ hỗ trợ ổn định xã hội"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Đại hội XIV của Đảng, trong các loại hình kinh tế được nhấn mạnh, đâu là trọng tâm mới nổi bật?",
+    "options": {
+      "A": "Kinh tế nông nghiệp",
+      "B": "Kinh tế công nghiệp truyền thống, bảo vệ môi trường, ứng phó với các thách thức an ninh bên ngoài",
+      "C": "Kinh tế số, kinh tế xanh, kinh tế tuần hoàn, xây dựng xã hội số, thân thiện với môi trường.",
+      "D": "Kinh tế hộ gia đình"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Đại hội XIV của Đảng, chỉ số phát triển con người (HDI) đến năm 2030 phấn đấu đạt khoảng bao nhiêu?",
+    "options": {
+      "A": "0,7",
+      "B": "0,75",
+      "C": "0,8",
+      "D": "0,85"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "Đại hội XIV của Đảng xác định tỷ trọng kinh tế số trong GDP đến năm 2030 phấn đấu đạt khoảng bao nhiêu phần trăm?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Đại hội XIV của Đảng đặt ra chỉ tiêu GDP bình quân đầu người đến năm 2030 dự kiến đạt khoảng bao nhiêu USD?",
+    "options": {
+      "A": "6.500 USD",
+      "B": "7.500 USD",
+      "C": "8.500 USD",
+      "D": "10.000 USD"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Đại hội XIV của Đảng bầu Ban Chấp hành Trung ương Đảng gồm bao nhiêu đồng chí?",
+    "options": {
+      "A": "200 đồng chí",
+      "B": "180 đồng chí",
+      "C": "220 đồng chí",
+      "D": "160 đồng chí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "question": "Nghị quyết Đại hội XIV xác định vị thế của đất nước ta sau 40 năm tiến hành công cuộc Đổi mới là gì?",
+    "options": {
+      "A": "Đã hoàn thành mục tiêu trở thành một nước công nghiệp hiện đại.",
+      "B": "Đang trong giai đoạn quá độ lên chủ nghĩa xã hội ở trình độ cao.",
+      "C": "Mở ra bước ngoặt lịch sử mới, kỷ nguyên vươn mình của dân tộc.",
+      "D": "Trở thành quốc gia có tầm ảnh hưởng lớn nhất trong khu vực ASEAN."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "question": "“Kỷ nguyên vươn mình của dân tộc” theo tinh thần Đại hội XIV được hiểu cốt lõi là gì?",
+    "options": {
+      "A": "Thời kỳ tập trung tối đa nguồn lực để phát triển các ngành quân sự.",
+      "B": "Giai đoạn bứt phá để đạt mục tiêu quốc gia phát triển, thu nhập cao.",
+      "C": "Thời kỳ mở rộng hợp tác quốc tế trên tất cả các lĩnh vực đời sống.",
+      "D": "Giai đoạn hoàn thiện hệ thống luật pháp theo tiêu chuẩn quốc tế mới."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "question": "Điểm mới đột phá trong quan điểm về kinh tế tư nhân tại Đại hội XIV là gì?",
+    "options": {
+      "A": "Kinh tế tư nhân là một bộ phận hỗ trợ cho các doanh nghiệp nhà nước.",
+      "B": "Kinh tế tư nhân đóng vai trò nòng cốt trong việc xuất khẩu hàng hóa.",
+      "C": "Kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế.",
+      "D": "Kinh tế tư nhân là thành phần kinh tế chiếm tỷ trọng lớn nhất hiện nay."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Trong nhiệm kỳ XIV, Đảng xác định yếu tố nào là “động lực chính” của sự phát triển bứt phá?",
+    "options": {
+      "A": "Việc khai thác và sử dụng hiệu quả nguồn tài nguyên thiên nhiên sẵn có.",
+      "B": "Việc huy động tối đa nguồn vốn đầu tư trực tiếp từ các nước phát triển.",
+      "C": "Khoa học, công nghệ, đổi mới sáng tạo và công cuộc chuyển đổi số.",
+      "D": "Nguồn lao động giá rẻ và các chính sách ưu đãi về thuế cho doanh nghiệp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Đại hội XIV của Đảng coi cuộc cách mạng về sắp xếp tổ chức bộ máy có ý nghĩa như thế nào?",
+    "options": {
+      "A": "Tạo ra bước chuyển chiến lược để hệ thống chính trị hoạt động hiệu quả.",
+      "B": "Giúp giảm bớt chi phí vận hành thường xuyên của bộ máy chính quyền.",
+      "C": "Nhằm hiện đại hóa các quy trình quản lý văn bản trong cơ quan nhà nước.",
+      "D": "Là giải pháp tạm thời để ứng phó với tình hình khó khăn kinh tế hiện nay."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "question": "Nghị quyết Đại hội XIV nhấn mạnh việc xây dựng “lực lượng sản xuất mới” dựa trên yếu tố nào?",
+    "options": {
+      "A": "Những người công nhân có kỹ năng lao động phổ thông tốt nhất hiện nay.",
+      "B": "Hệ thống máy móc cơ khí truyền thống kết hợp với sức lao động thủ công.",
+      "C": "Nguồn nhân lực chất lượng cao gắn liền với công nghệ trí tuệ nhân tạo.",
+      "D": "Việc mở rộng quy mô các khu công nghiệp tập trung tại các tỉnh biên giới."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Trong lĩnh vực đối ngoại, “Tự chủ chiến lược” theo Nghị quyết Đại hội XIV có nghĩa là gì?",
+    "options": {
+      "A": "Giữ vững độc lập, chủ động lựa chọn hướng đi có lợi cho dân tộc.",
+      "B": "Không tham gia vào bất kỳ một tổ chức kinh tế hay chính trị nào quốc tế.",
+      "C": "Chỉ tập trung quan hệ với các nước láng giềng có chung đường biên giới.",
+      "D": "Tự sản xuất mọi hàng hóa thiết yếu mà không cần nhập khẩu từ nước ngoài."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "question": "Điểm mới trong công tác đấu tranh phòng, chống tham nhũng, tiêu cực tại Đại hội XIV của Đảng là gì?",
+    "options": {
+      "A": "Chỉ tập trung xử lý các sai phạm có liên quan đến lĩnh vực kinh tế.",
+      "B": "Tăng cường quyền hạn cho các cơ quan điều tra tại các cấp địa phương.",
+      "C": "Đẩy mạnh đấu tranh phòng, chống lãng phí ngang với chống tham nhũng.",
+      "D": "Thực hiện việc công khai hóa các báo cáo tài chính của mọi người dân."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Nghị quyết Đại hội XIV định hướng việc phát triển văn hóa, con người Việt Nam như thế nào?",
+    "options": {
+      "A": "Văn hóa là sức mạnh nội sinh, động lực mạnh mẽ để phát triển đất nước.",
+      "B": "Văn hóa là lĩnh vực giải trí nhằm nâng cao đời sống tinh thần cho nhân dân.",
+      "C": "Văn hóa là phương tiện để giới thiệu hình ảnh đất nước với khách quốc tế.",
+      "D": "Văn hóa là nền tảng để thu hút các nguồn vốn đầu tư từ nước ngoài về."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "question": "Về nhiệm vụ bảo vệ Tổ quốc, Nghị quyết Đại hội XIV xác định phương châm cốt lõi là gì?",
+    "options": {
+      "A": "Sẵn sàng chiến đấu để đánh thắng mọi kẻ thù khi chúng xâm phạm lãnh thổ.",
+      "B": "Xây dựng quân đội hiện đại để đủ sức cạnh tranh với các nước trong khu vực.",
+      "C": "Bảo vệ Tổ quốc từ sớm, từ xa, giữ vững môi trường hòa bình để phát triển.",
+      "D": "Tập trung vào việc phát triển vũ khí hạt nhân để tăng cường sức mạnh quân sự."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "question": "“Chuyển đổi xanh” trong định hướng phát triển kinh tế của Đại hội XIV của Đảng bao hàm ý nghĩa gì?",
+    "options": {
+      "A": "Việc phủ xanh đất trống đồi trọc tại các tỉnh miền núi và vùng sâu vùng xa.",
+      "B": "Việc sử dụng màu xanh làm màu chủ đạo cho các dự án xây dựng đô thị mới.",
+      "C": "Phát triển kinh tế gắn với bảo vệ môi trường và sử dụng năng lượng sạch.",
+      "D": "Ưu tiên phát triển các ngành nông nghiệp truyền thống của người dân địa phương."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "question": "Đại hội XIV của Đảng, một trong những “nút thắt” lớn nhất cần tháo gỡ để phát triển đất nước hiện nay là gì?",
+    "options": {
+      "A": "Sự thiếu hụt về nguồn vốn đầu tư từ các ngân hàng thương mại nhà nước.",
+      "B": "Hệ thống hạ tầng giao thông kết nối giữa các vùng miền còn chưa đồng bộ.",
+      "C": "Những điểm nghẽn về thể chế, chính sách chưa bắt kịp yêu cầu thực tiễn.",
+      "D": "Nguồn tài nguyên khoáng sản đang ngày càng bị cạn kiệt do khai thác quá mức."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Tinh thần khởi nghiệp trong học sinh, sinh viên được Nghị quyết Đại hội XIV khuyến khích như thế nào?",
+    "options": {
+      "A": "Tập trung vào việc mua bán hàng hóa online để kiếm thêm thu nhập cá nhân.",
+      "B": "Khuyến khích học sinh sớm nghỉ học để tham gia vào thị trường lao động.",
+      "C": "Thúc đẩy tư duy sáng tạo, khởi nghiệp dựa trên nền tảng công nghệ số.",
+      "D": "Chỉ thực hiện khởi nghiệp khi đã có đầy đủ nguồn vốn từ phía gia đình cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "Để xây dựng “thế trận lòng dân” vững chắc, Nghị quyết Đại hội XIV nhấn mạnh nội dung nào?",
+    "options": {
+      "A": "Thực hiện tốt dân chủ, bảo đảm quyền làm chủ thực chất của nhân dân.",
+      "B": "Tăng cường việc tuyên truyền các văn bản pháp luật đến tận từng hộ gia đình.",
+      "C": "Xây dựng thêm nhiều công trình công cộng phục vụ lợi ích của cộng đồng.",
+      "D": "Tổ chức các cuộc thi tìm hiểu về lịch sử Đảng cho mọi tầng lớp nhân dân."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "question": "Hệ thống chính trị nhiệm kỳ XIV của Đảng hướng tới mô hình tổ chức như thế nào?",
+    "options": {
+      "A": "Mở rộng thêm nhiều cơ quan chuyên trách để quản lý sâu sát từng lĩnh vực.",
+      "B": "Giữ nguyên mô hình cũ để đảm bảo tính ổn định và liên tục của chính sách.",
+      "C": "Tinh gọn, thông suốt, hoạt động hiệu lực, hiệu quả, vì nhân dân phục vụ.",
+      "D": "Tập trung quyền lực tuyệt đối vào người đứng đầu các cơ quan hành chính."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "question": "Tại sao Đại hội XIV của Đảng coi chuyển đổi số là một “cuộc cách mạng” thực sự?",
+    "options": {
+      "A": "Vì nó thay đổi hoàn toàn phương thức sản xuất và đời sống xã hội.",
+      "B": "Vì nó giúp tiết kiệm được một lượng lớn giấy tờ trong các văn phòng.",
+      "C": "Vì nó yêu cầu mọi người dân phải có một chiếc điện thoại thông minh.",
+      "D": "Vì nó là nhiệm vụ bắt buộc của các quốc gia đang phát triển hiện nay."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Điểm mới về mô hình tăng trưởng kinh tế trong Nghị quyết Đại hội XIV là gì?",
+    "options": {
+      "A": "Tăng trưởng dựa trên việc mở rộng tối đa diện tích canh tác nông nghiệp.",
+      "B": "Tăng trưởng dựa trên việc gia tăng số lượng công nhân lao động phổ thông.",
+      "C": "Tăng trưởng dựa trên năng suất, chất lượng và đổi mới sáng tạo số.",
+      "D": "Tăng trưởng dựa trên việc vay vốn ưu đãi từ các định chế tài chính quốc tế."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "question": "Đại hội XIV của Đảng, xác định trong kỷ nguyên vươn mình, nhiệm vụ nào được coi là “then chốt” của xây dựng Đảng?",
+    "options": {
+      "A": "Công tác cán bộ, xây dựng đội ngũ đủ phẩm chất, năng lực và uy tín.",
+      "B": "Việc phát triển thêm số lượng đảng viên mới trong các doanh nghiệp tư nhân.",
+      "C": "Việc tổ chức các lớp học tập nghị quyết định kỳ hàng năm cho đảng viên.",
+      "D": "Việc hiện đại hóa các phòng họp và trang thiết bị làm việc của cấp ủy."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "question": "Đối với lĩnh vực giáo dục phổ thông, Đại hội XIV của Đảng nhấn mạnh hướng đi nào?",
+    "options": {
+      "A": "Tập trung vào việc nhồi nhét kiến thức để đạt giải cao trong các kỳ thi quốc tế.",
+      "B": "Đổi mới căn bản, toàn diện, chú trọng phát triển kỹ năng và tư duy sáng tạo.",
+      "C": "Tăng số lượng giờ học lý thuyết để học sinh nắm vững các kiến thức cơ bản.",
+      "D": "Chỉ tập trung đào tạo những môn học liên quan trực tiếp đến khoa học tự nhiên."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "question": "Đại hội XIV của Đảng, quốc phòng, an ninh trong kỷ nguyên mới được gắn kết chặt chẽ với yếu tố nào?",
+    "options": {
+      "A": "Gắn kết chặt chẽ, hài hòa giữa phát triển kinh tế, xã hội với quốc phòng, an ninh.",
+      "B": "Gắn kết với việc mua sắm thêm nhiều trang thiết bị quân sự từ nước ngoài.",
+      "C": "Gắn kết với việc tăng cường diễn tập quân sự tại tất cả các cấp học phổ thông.",
+      "D": "Gắn kết với việc hạn chế các hoạt động giao lưu văn hóa với người nước ngoài."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Nghị quyết Đại hội XIV xác định “nguồn lực nội sinh” của dân tộc bao gồm những gì?",
+    "options": {
+      "A": "Các mỏ khoáng sản quý hiếm và nguồn tài nguyên rừng vàng biển bạc hiện nay.",
+      "B": "Lượng tiền tiết kiệm của người dân và các nguồn kiều hối gửi về hàng năm.",
+      "C": "Giá trị văn hóa, sức mạnh con người và khối đại đoàn kết toàn dân tộc.",
+      "D": "Hệ thống các cảng biển nước sâu và sân bay quốc tế hiện đại khắp cả nước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Tư duy phát triển bền vững Đại hội XIV của Đảng thể hiện qua việc xử lý mối quan hệ nào?",
+    "options": {
+      "A": "Giữa tăng trưởng kinh tế với phát triển văn hóa và bảo vệ môi trường.",
+      "B": "Giữa việc sản xuất hàng hóa phục vụ trong nước và việc xuất khẩu ra ngoài.",
+      "C": "Giữa việc sử dụng lao động trẻ và việc chăm sóc những người già hiện nay.",
+      "D": "Giữa việc phát triển các khu đô thị mới và giữ gìn các làng nghề cổ truyền."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "question": "Một điểm mới trong phương thức lãnh đạo của Đảng được nêu tại Nghị quyết Đại hội XIV là gì?",
+    "options": {
+      "A": "Tăng cường việc ban hành các chỉ thị bằng văn bản giấy đến tận cấp cơ sở.",
+      "B": "Đổi mới mạnh mẽ phương thức lãnh đạo theo hướng cầm quyền khoa học.",
+      "C": "Trực tiếp can thiệp vào các hoạt động sản xuất kinh doanh của các tập đoàn.",
+      "D": "Chỉ tập trung vào việc giám sát các hoạt động của các cơ quan lập pháp."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "question": "Đại hội XIV của Đảng, để thúc đẩy khởi nghiệp trong học sinh, nhà trường cần đóng vai trò gì theo định hướng mới?",
+    "options": {
+      "A": "Là môi trường nuôi dưỡng ý tưởng, kết nối học sinh với các hệ sinh thái số.",
+      "B": "Là nơi cung cấp toàn bộ vốn đầu tư cho các dự án kinh doanh của học sinh.",
+      "C": "Là cơ quan quản lý và thu lợi nhuận từ các hoạt động buôn bán của học sinh.",
+      "D": "Là nơi lựa chọn những học sinh giỏi nhất để thay mặt cả lớp đi kinh doanh."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "Vấn đề “chống lãng phí” được Nghị quyết Đại hội XIV đặc biệt nhấn mạnh vì lý do gì?",
+    "options": {
+      "A": "Vì nguồn ngân sách nhà nước đang gặp khó khăn do các tác động bên ngoài.",
+      "B": "Vì người dân đang có xu hướng tiêu dùng quá nhiều các loại hàng ngoại nhập.",
+      "C": "Vì lãng phí làm suy yếu nguồn lực đất nước và niềm tin của Nhân dân.",
+      "D": "Vì đây là một phong trào để thi đua giữa các đơn vị trong hệ thống chính trị."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "question": "Nghị quyết Đại hội XIV xác định việc trọng dụng nhân tài có vai trò như thế nào?",
+    "options": {
+      "A": "Là giải pháp để thay thế hoàn toàn những cán bộ lớn tuổi trong bộ máy.",
+      "B": "Là khâu đột phá để phát triển lực lượng sản xuất mới của đất nước.",
+      "C": "Là cách để thu hút các chuyên gia nước ngoài về làm việc cho Việt Nam.",
+      "D": "Là hoạt động nhằm vinh danh những người có thành tích học tập xuất sắc."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "question": "Trong đối ngoại đa phương, Việt Nam hướng tới vai trò gì theo Nghị quyết Đại hội XIV?",
+    "options": {
+      "A": "Là thành viên có trách nhiệm, chủ động tham gia dẫn dắt các sáng kiến.",
+      "B": "Là quốc gia đứng ngoài quan sát các biến động chính trị của thế giới.",
+      "C": "Là trung gian để hòa giải mọi xung đột giữa các cường quốc lớn.",
+      "D": "Là nơi cung cấp các nguồn nguyên liệu thô cho thế giới."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Đại hội XIV của Đảng, “Chủ quyền quốc gia trên không gian mạng” được bảo vệ như thế nào?",
+    "options": {
+      "A": "Bằng cách ngăn chặn toàn bộ các nguồn thông tin từ internet nước ngoài.",
+      "B": "Bằng cách xây dựng hệ thống phòng thủ mạng và pháp luật mạng vững mạnh.",
+      "C": "Bằng cách yêu cầu người dân không được sử dụng mạng xã hội cá nhân.",
+      "D": "Bằng cách giao toàn quyền quản lý internet cho các doanh nghiệp viễn thông."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "question": "Nghị quyết Đại hội XIV định hướng việc phát triển nông nghiệp theo hướng nào?",
+    "options": {
+      "A": "Mở rộng diện tích trồng lúa để trở thành cường quốc lương thực số một.",
+      "B": "Phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh.",
+      "C": "Tập trung vào việc khai thác hải sản xa bờ bằng mọi phương tiện sẵn có.",
+      "D": "Quay lại với mô hình canh tác thủ công để đảm bảo tính truyền thống cao."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Điểm mới về quyền làm chủ của Nhân dân tại Đại hội XIV của Đảng là gì?",
+    "options": {
+      "A": "Thể chế hóa đầy đủ phương châm “Dân biết, dân bàn, dân làm, dân kiểm tra, dân thụ hưởng”.",
+      "B": "Nhân dân được phép quyết định mọi vấn đề về ngân sách của các cơ quan nhà nước.",
+      "C": "Nhân dân trực tiếp tham gia vào việc xét xử các vụ án hình sự tại các cấp tòa án.",
+      "D": "Nhân dân được cấp miễn phí mọi loại hàng hóa thiết yếu phục vụ cho cuộc sống."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Đại hội XIV của Đảng, khát vọng phát triển của dân tộc Việt Nam đến năm 2045 nhằm khẳng định và vươn tới điều gì?",
+    "options": {
+      "A": "Sự vượt trội về quân sự của Việt Nam so với các quốc gia trên thế giới.",
+      "B": "Ý chí tự lực, tự cường và khát vọng xây dựng đất nước phồn vinh, hạnh phúc.",
+      "C": "Khả năng làm chủ toàn bộ các công nghệ sản xuất vũ khí tiên tiến nhất hiện nay.",
+      "D": "Mục tiêu đưa Việt Nam trở thành quốc gia phát triển nhất khu vực châu Á."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Một trong những nhiệm vụ trọng tâm về môi trường trong nhiệm kỳ Đại hội XIV là gì?",
+    "options": {
+      "A": "Dừng hoạt động của tất cả các nhà máy sản xuất có phát thải khí nhà kính.",
+      "B": "Chuyển toàn bộ các khu công nghiệp ra khỏi địa giới hành chính của các tỉnh.",
+      "C": "Chủ động ứng phó biến đổi khí hậu, ngăn chặn tình trạng ô nhiễm môi trường.",
+      "D": "Chỉ tập trung bảo vệ môi trường tại các khu du lịch nổi tiếng của đất nước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "Văn kiện Đại hội XIV của Đảng, những nguyên nhân chính của những thách thức đặt ra trong tình hình hiện nay?",
+    "options": {
+      "A": "Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững.",
+      "B": "Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; rủi ro tụt hậu về công nghệ và chất lượng nguồn nhân lực.",
+      "C": "Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; rủi ro tụt hậu về công nghệ và chất lượng nguồn nhân lực; tác động ngày càng nặng nề của biến đổi khí hậu.",
+      "D": "Điểm nghẽn nội tại; yêu cầu phát triển nhanh và bền vững; sức ép cạnh tranh gay gắt; tác động ngày càng nặng nề của biến đổi khí hậu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "question": "Những dự báo dịch chuyển của thế giới trong giai đoạn hiện nay được xác định trong Văn kiện Đại hội XIV?",
+    "options": {
+      "A": "Cấu trúc quyền lực, mô hình tăng trưởng và trật tự kinh tế.",
+      "B": "Cấu trúc quyền lực.",
+      "C": "Mô hình tăng trưởng.",
+      "D": "Dịch chuyển về kinh tế."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "question": "Văn kiện Đại hội XIV của Đảng, việc xây dựng mô hình tăng trưởng phải dựa chủ yếu vào những yếu tốt nào?",
+    "options": {
+      "A": "Năng suất, hiệu quả.",
+      "B": "Năng suất, chất lượng, hiệu quả.",
+      "C": "Chất lượng, hiệu quả, đổi mới sáng tạo.",
+      "D": "Năng suất, chất lượng, hiệu quả, đổi mới sáng tạo."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 92,
+    "question": "Văn kiện Đại hội XIV của Đảng, động lực then chốt của tăng trưởng?",
+    "options": {
+      "A": "Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "B": "Công nghệ thông tin.",
+      "C": "Phá triển cơ sở hạ tầng.",
+      "D": "Khoa học, công nghệ, đổi mới sáng tạo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Trong công tác xây dựng, chỉnh đốn Đảng, Đại hội XIV xác định nội dung nào là điều kiện quyết định mọi thắng lợi?",
+    "options": {
+      "A": "Xây dựng Đảng trong sạch.",
+      "B": "Xây dựng Đảng trong sạch, vững mạnh toàn diện, văn minh.",
+      "C": "Xây dựng Đảng trong sạch, vững mạnh toàn diện.",
+      "D": "Xây dựng Đảng đạo đức, văn minh."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "question": "Nội dung, yêu cầu xây dựng xã hội Việt Nam theo Đại hội XIV của Đảng, nhằm tạo điều kiện, nền tảng để đất nước, dân tộc phát triển bền vững là gì?",
+    "options": {
+      "A": "Xây dựng một xã hội có kỷ cương, trật tự.",
+      "B": "Xây dựng một xã hội lành mạnh về đạo đức, kỷ cương về pháp luật, văn hoá trong ứng xử, văn minh trong quản trị, an toàn trong đời sống, tiến bộ trong phát triển.",
+      "C": "Xây dựng một xã hội lành mạnh về đạo đức, an toàn trong đời sống, tiến bộ trong phát triển.",
+      "D": "Xây dựng một xã hội lành mạnh trên cơ sở pháp luật, văn minh, an toàn."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Văn kiện Đại hội XIV của Đảng, tầm quan trọng các yếu tố thể chế, nhân lực, hạ tầng?",
+    "options": {
+      "A": "Thể chế mở đường; nhân lực quyết định tốc độ và chất lượng; hạ tầng tạo không gian và sức bật.",
+      "B": "Thể chế mở đường; nhân lực quyết định tốc độ và chất lượng; hạ tầng tạo không gian.",
+      "C": "Thể chế mở đường; nhân lực quyết định chất lượng; hạ tầng tạo sức bật.",
+      "D": "Thể chế tạo sức bật; nhân lực quyết định chất lượng; hạ tầng tạo không gian."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng xác định cục diện thế giới hiện nay đang chuyển biến theo xu hướng nào?",
+    "options": {
+      "A": "Đơn cực, ổn định lâu dài",
+      "B": "Đa cực, phân tuyến, nhiều tầng nấc",
+      "C": "Lưỡng cực, đối đầu toàn diện",
+      "D": "Hợp nhất quyền lực toàn cầu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Báo cáo tổng kết công tác xây dựng Đảng tại Đại hội XIV đã bổ sung 2 nguyên tắc tổ chức, hoạt động nào?",
+    "options": {
+      "A": "Đảng giữ mối liên hệ mật thiết với Nhân dân và Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật.",
+      "B": "Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật.",
+      "C": "Đảng giữ mối liên hệ mật thiết với Nhân dân, tự phê bình và phê bình,",
+      "D": "Tập trung dân chủ, đoàn kết thống nhất."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Điểm mới của Đại hội XIV trong gắn Chương trình hành động thực hiện Nghị quyết trực tiếp vào Báo cáo chính trị trình Đại hội theo tinh thần như thế nào?",
+    "options": {
+      "A": "Nói đi đôi với làm.",
+      "B": "Nói đi đôi với làm, mục tiêu gắn với giải pháp.",
+      "C": "Nói đi đôi với làm, mục tiêu gắn với giải pháp, giải pháp gắn với trách nhiệm, trách nhiệm gắn với thời hạn và nguồn lực.",
+      "D": "Nói đi đôi với làm, mục tiêu gắn với giải pháp, giải pháp gắn với trách nhiệm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "question": "Một trong những kết quả đạt được trong nhiệm kỳ Đại hội XIII về kinh tế, xã hội?",
+    "options": {
+      "A": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức trung bình.",
+      "B": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức khá.",
+      "C": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức trung bình cao.",
+      "D": "Thu nhập bình quân đầu người của Việt Nam tiệm cận mức cao."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "question": "Kết quả đạt được về chỉ số hạnh phúc của Nhân dân trong nhiệm kỳ Đại hội XIII được xác định tăng bao nhiêu bậc (từ năm 2020 - 2025)?",
+    "options": {
+      "A": "Tăng 33 bậc.",
+      "B": "Tăng 35 bậc.",
+      "C": "Tăng 37 bậc.",
+      "D": "Tăng 39 bậc."
+    },
+    "answer": "C"
+  }
 ]

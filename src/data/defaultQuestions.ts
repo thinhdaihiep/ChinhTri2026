@@ -9,6 +9,7 @@ import q7 from './q_601_700.json';
 import q8 from './q_701_800.json';
 import q9 from './q_801_900.json';
 import q10 from './q_901_1000.json';
+import q11 from './q_1001_1021.json';
 
 export const defaultQuestions: QuestionItem[] = [
   ...(q1 as QuestionItem[]),
@@ -20,6 +21,8 @@ export const defaultQuestions: QuestionItem[] = [
   ...(q7 as QuestionItem[]),
   ...(q8 as QuestionItem[]),
   ...(q9 as QuestionItem[]),
-  ...(q10 as QuestionItem[])
+  ...(q10 as QuestionItem[]),
+  ...(q11 as QuestionItem[])
 ];
+
 

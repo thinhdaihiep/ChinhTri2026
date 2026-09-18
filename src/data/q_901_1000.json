@@ -1,102 +1,1102 @@
 [
-  {"id":901,"question":"Nội dung cơ bản của Quy chế làm việc của Đảng ủy các cấp trong Quân đội là gì?","options":{"A":"Quy định cụ thể chức trách, nhiệm vụ, quyền hạn, nguyên tắc, chế độ làm việc và mối quan hệ công tác của tập thể đảng ủy và từng cấp ủy viên","B":"Quy định chế độ chi tiêu tài chính riêng của đơn vị","C":"Quy định thời gian huấn luyện quân sự hàng tuần","D":"Quy định phân chia đất đai doanh trại"},"answer":"A"},
-  {"id":902,"question":"Nguyên tắc cao nhất trong hoạt động lãnh đạo của tổ chức Đảng trong Quân đội là nguyên tắc nào?","options":{"A":"Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách","B":"Thủ trưởng toàn quyền quyết định mọi vấn đề","C":"Đa số phục tùng thiểu số","D":"Biểu quyết theo cảm tính"},"answer":"A"},
-  {"id":903,"question":"Chế độ sinh hoạt định kỳ của Chi bộ cơ sở trong Quân đội được tiến hành như thế nào?","options":{"A":"Mỗi tháng họp thường kỳ một lần (vào đầu tháng), khi cần thiết có thể họp bất thường","B":"Mỗi quý họp một lần","C":"Sáu tháng họp một lần","D":"Chỉ họp khi có đảng viên vi phạm kỷ luật"},"answer":"A"},
-  {"id":904,"question":"Nội dung cốt lõi của Nghị quyết lãnh đạo thực hiện nhiệm vụ tháng của chi bộ bao gồm những gì?","options":{"A":"Đánh giá kết quả lãnh đạo tháng trước, xác định phương hướng, mục tiêu, nhiệm vụ và các biện pháp lãnh đạo chủ yếu trong tháng tới","B":"Liệt kê danh sách khen thưởng tiền mặt","C":"Ghi chép lại các bài báo thời sự trong tháng","D":"Thông báo thời gian nghỉ phép của đảng viên"},"answer":"A"},
-  {"id":905,"question":"Vai trò của Bí thư Chi bộ trong việc chuẩn bị nội dung sinh hoạt chi bộ là gì?","options":{"A":"Chủ trì chuẩn bị chu đáo dự thảo nghị quyết, hội ý trong cấp ủy trước khi đưa ra toàn thể chi bộ thảo luận, biểu quyết","B":"Tự mình quyết định mọi điều mà không cần bàn với cấp ủy","C":"Giao toàn bộ việc chuẩn bị cho đảng viên trẻ","D":"Chỉ cần điều hành cuộc họp mà không cần chuẩn bị trước"},"answer":"A"},
-  {"id":906,"question":"Trách nhiệm của mỗi đảng viên trong buổi sinh hoạt chi bộ là gì?","options":{"A":"Tham gia sinh hoạt đầy đủ, đúng giờ, tích cực thảo luận, đóng góp ý kiến xây dựng nghị quyết và gương mẫu chấp hành nghị quyết đã được thông qua","B":"Chỉ ngồi nghe và biểu quyết theo số đông","C":"Làm việc riêng trong khi cuộc họp đang diễn ra","D":"Chỉ phát biểu khi có người nhắc tên"},"answer":"A"},
-  {"id":907,"question":"Ý nghĩa của việc tổ chức sinh hoạt chuyên đề của chi bộ là gì?","options":{"A":"Đi sâu bàn bạc, giải quyết thấu đáo một khâu yếu, mặt yếu hoặc một nhiệm vụ trọng tâm, đột xuất của đơn vị","B":"Tổ chức đi dã ngoại giải trí cho đảng viên","C":"Giảm bớt thời gian họp thường kỳ","D":"Để kiểm tra kiến thức lý luận thuần túy"},"answer":"A"},
-  {"id":908,"question":"Công tác phát triển đảng viên mới trong Quân đội đòi hỏi phải coi trọng yếu tố nào hàng đầu?","options":{"A":"Coi trọng chất lượng, không chạy theo số lượng đơn thuần; bảo đảm tiêu chuẩn chính trị, phẩm chất đạo đức và năng lực hoàn thành nhiệm vụ","B":"Tuyển chọn người có độ tuổi cao nhất","C":"Ưu tiên người có hoàn cảnh kinh tế khá giả","D":"Chạy theo chỉ tiêu số lượng để báo cáo thành tích"},"answer":"A"},
-  {"id":909,"question":"Thời gian thử thách đối với đảng viên dự bị theo Điều lệ Đảng là bao nhiêu tháng?","options":{"A":"12 tháng (tính từ ngày chi bộ tổ chức lễ kết nạp)","B":"6 tháng","C":"18 tháng","D":"24 tháng"},"answer":"A"},
-  {"id":910,"question":"Nhiệm vụ của đảng viên chính thức được phân công giúp đỡ đảng viên dự bị là gì?","options":{"A":"Thường xuyên theo dõi, hướng dẫn, động viên, giúp đỡ đảng viên dự bị tiến bộ và định kỳ báo cáo chi bộ nhận xét","B":"Làm thay các bài học chính trị cho đảng viên dự bị","C":"Chỉ cần ký giấy xác nhận khi hết thời hạn 12 tháng","D":"Theo dõi đời sống riêng tư ngoài giờ công tác"},"answer":"A"},
-  {"id":911,"question":"Hành vi không tham gia sinh hoạt chi bộ hoặc không đóng đảng phí bao nhiêu tháng liên tục không có lý do chính đáng thì bị xóa tên khỏi danh sách đảng viên?","options":{"A":"3 tháng liên tục trong năm","B":"1 tháng","C":"6 tháng","D":"12 tháng"},"answer":"A"},
-  {"id":912,"question":"Mục đích của việc lấy phiếu tín nhiệm đối với cán bộ lãnh đạo, chỉ huy trong Quân đội là gì?","options":{"A":"Đánh giá uy tín và kết quả thực hiện chức trách, nhiệm vụ được giao; giúp cán bộ tự soi, tự sửa, tiếp tục phấn đấu, rèn luyện","B":"Để tìm cách bãi miễn chức vụ ngay lập tức","C":"Để phân biệt đối xử trong nội bộ đơn vị","D":"Là hình thức kiểm tra mang tính tượng trưng"},"answer":"A"},
-  {"id":913,"question":"Tiêu chuẩn đánh giá, xếp loại chất lượng cán bộ hàng năm gồm mấy mức độ?","options":{"A":"4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ","B":"3 mức: Tốt; Khá; Trung bình","C":"5 mức: Xuất sắc; Giỏi; Khá; Trung bình; Yếu","D":"2 mức: Đạt và Không đạt"},"answer":"A"},
-  {"id":914,"question":"Công tác quy hoạch cán bộ chỉ huy các cấp trong Quân đội nhằm mục đích gì?","options":{"A":"Chủ động phát hiện, đào tạo, bồi dưỡng nguồn cán bộ kế cận có đủ phẩm chất, năng lực và uy tín, bảo đảm tính kế thừa vững chắc","B":"Chia ghế lãnh đạo cho các cơ quan","C":"Chỉ chọn con em cán bộ trong ngành","D":"Bố trí cán bộ theo sở thích cá nhân"},"answer":"A"},
-  {"id":915,"question":"Phương châm trong công tác luân chuyển, điều động cán bộ của Quân đội là gì?","options":{"A":"Bám sát yêu cầu nhiệm vụ, kết hợp luân chuyển để đào tạo thực tiễn, rèn luyện cán bộ qua cơ sở, bảo đảm công tâm, khách quan","B":"Luân chuyển cán bộ bị kỷ luật đến vùng sâu vùng xa","C":"Chỉ điều động cán bộ khi có khiếu nại tố cáo","D":"Ưu tiên chuyển cán bộ về gần thành phố lớn"},"answer":"A"},
-  {"id":916,"question":"Chính sách tiền lương mới trong lực lượng vũ trang thực hiện theo tinh thần Nghị quyết số 27-NQ/TW nhằm mục tiêu gì?","options":{"A":"Xây dựng thang bảng lương phù hợp với tính chất đặc thù lao động của lực lượng vũ trang, bảo đảm đãi ngộ xứng đáng, tạo động lực cống hiến","B":"Cắt giảm tối đa chi ngân sách quốc phòng","C":"Cào bằng mức thu nhập giữa tất cả các vị trí","D":"Chuyển sang trả lương theo sản phẩm kinh doanh"},"answer":"A"},
-  {"id":917,"question":"Chế độ phụ cấp đặc thù quân sự (phụ cấp độc hại, phụ cấp trách nhiệm, phụ cấp khu vực, phụ cấp biển đảo...) có ý nghĩa gì?","options":{"A":"Động viên, hỗ trợ kịp thời cán bộ, chiến sĩ thực hiện nhiệm vụ ở những nơi gian khổ, nguy hiểm, bảo đảm công bằng xã hội","B":"Chỉ là khoản tiền thưởng thêm khi lập công","C":"Tự động cấp phát không cần điều kiện công tác","D":"Thay thế hoàn toàn tiền lương cơ bản"},"answer":"A"},
-  {"id":918,"question":"Trách nhiệm của cơ quan tài chính các cấp trong Quân đội là gì?","options":{"A":"Quản lý chặt chẽ ngân sách, cấp phát đúng, đủ, kịp thời các chế độ tiêu chuẩn, thực hành tiết kiệm, chống thất thoát, lãng phí, tham nhũng","B":"Giữ lại tiền ngân sách để cho vay sinh lời","C":"Tự ý cắt giảm tiêu chuẩn ăn uống của bộ đội","D":"Chỉ phục vụ chi tiêu cho cán bộ chỉ huy"},"answer":"A"},
-  {"id":919,"question":"Hành vi tham ô tài sản, bòn rút tiêu chuẩn của bộ đội hoặc lập quỹ trái phép bị xử lý như thế nào?","options":{"A":"Bị xử lý nghiêm trị thích đáng, cách chức, tước danh hiệu quân nhân và truy cứu trách nhiệm hình sự, không có vùng cấm, không có ngoại lệ","B":"Chỉ cần nộp lại số tiền đã chiếm đoạt","C":"Bị phạt cảnh cáo và cho chuyển đơn vị khác","D":"Được bỏ qua nếu sau đó đơn vị đạt thành tích cao"},"answer":"A"},
-  {"id":920,"question":"Mỗi cán bộ phụ trách công tác hậu cần, tài chính phải luôn ghi nhớ lời Bác Hồ dạy: \"Một bát cơm, một tấm áo...\"","options":{"A":"...đều là mồ hôi nước mắt của đồng bào, phải giữ gìn quý trọng, không được lãng phí, tham ô","B":"...là của cải Nhà nước bao cấp nên cứ dùng thoải mái","C":"...chỉ là nhu cầu vật chất thông thường","D":"...phải phân chia cho người thân trước"},"answer":"A"},
-  {"id":921,"question":"Nhiệm vụ của công tác rà phá bom mìn, vật nổ còn sót lại sau chiến tranh do lực lượng Công binh Quân đội thực hiện có ý nghĩa gì?","options":{"A":"Làm sạch đất đai, giải phóng mặt bằng phát triển kinh tế - xã hội, bảo vệ an toàn tính mạng cho nhân dân, xoa dịu nỗi đau chiến tranh","B":"Tìm kiếm kim loại phế liệu để bán","C":"Chỉ thử nghiệm thiết bị dò mìn mới","D":"Để chuẩn bị mặt bằng xây dựng doanh trại quân đội"},"answer":"A"},
-  {"id":922,"question":"Hàng triệu héc-ta đất đai bị ô nhiễm bom mìn đã được hồi sinh thành các khu đô thị, cánh đồng màu mỡ là nhờ công lao của ai?","options":{"A":"Sự cống hiến, hy sinh thầm lặng, quả cảm của cán bộ, chiến sĩ Công binh và các lực lượng chức năng Quân đội nhân dân Việt Nam","B":"Tự nhiên bom mìn phân hủy theo thời gian","C":"Nhờ các công ty bất động sản nước ngoài","D":"Nhân dân tự tháo gỡ bom mìn"},"answer":"A"},
-  {"id":923,"question":"Các dự án xử lý chất độc hóa học/dioxin tại các sân bay Đà Nẵng, Phù Cát, Biên Hòa do Bộ Quốc phòng chủ trì nhằm mục đích gì?","options":{"A":"Triệt tiêu nguy cơ phơi nhiễm dioxin, phục hồi môi trường trong sạch, bảo vệ sức khỏe cộng đồng và mở rộng không gian phát triển","B":"Chỉ để xây dựng kho chứa vũ khí mới","C":"Lấy đất làm bãi tập quân sự","D":"Nghiên cứu khoa học không ứng dụng"},"answer":"A"},
-  {"id":924,"question":"Chính sách chăm lo cho các nạn nhân chất độc da cam/dioxin thể hiện trách nhiệm đạo lý gì của dân tộc ta?","options":{"A":"Truyền thống nhân văn sâu sắc, trách nhiệm và sự sẻ chia của Đảng, Nhà nước và toàn xã hội đối với những người mang thương tật chiến tranh","B":"Chương trình trợ cấp ngắn hạn mang tính từ thiện","C":"Nghĩa vụ của riêng ngành y tế","D":"Hình thức hỗ trợ chỉ dành cho cán bộ hưu trí"},"answer":"A"},
-  {"id":925,"question":"Hành vi kỳ thị, xa lánh hoặc vô cảm trước nỗi đau của các nạn nhân chất độc da cam bị xã hội đánh giá như thế nào?","options":{"A":"Là hành vi thiếu lương tâm, vô đạo đức và đi ngược lại truyền thống nhân văn cao đẹp của dân tộc ta","B":"Là phản ứng tâm lý bình thường","C":"Không đáng bị lên án","D":"Được chấp nhận trong đời sống hiện đại"},"answer":"A"},
-  {"id":926,"question":"Ý nghĩa của việc tổ chức Ngày hội Đại đoàn kết toàn dân tộc (ngày 18/11 hàng năm) tại khu dân cư nơi đơn vị đóng quân là gì?","options":{"A":"Thắt chặt tình đoàn kết giữa các tầng lớp nhân dân, củng cố mối quan hệ gắn bó máu thịt quân dân và xây dựng đời sống văn hóa mới","B":"Tổ chức các bữa tiệc ăn uống lãng phí","C":"Để cán bộ quân đội đi giao lưu giải trí","D":"Chỉ là sự kiện tuyên truyền mang tính hình thức"},"answer":"A"},
-  {"id":927,"question":"Khi tham gia Ngày hội Đại đoàn kết cùng bà con địa phương, cán bộ, chiến sĩ cần có thái độ như thế nào?","options":{"A":"Vui vẻ, hòa nhã, tôn trọng phong tục tập quán, tích cực tham gia giao lưu văn hóa thể thao, để lại hình ảnh đẹp của Bộ đội Cụ Hồ","B":"Giữ thái độ xa cách, đứng ngoài quan sát","C":"Uống rượu bia say sưa cùng người dân","D":"Tranh cãi với người dân về các quan điểm cá nhân"},"answer":"A"},
-  {"id":928,"question":"Vai trò của tổ chức Hội Cựu chiến binh Việt Nam trong đời sống chính trị - xã hội là gì?","options":{"A":"Là tổ chức chính trị - xã hội đại diện cho ý chí, nguyện vọng của cựu chiến binh, chỗ dựa tin cậy của Đảng, chính quyền và nhân dân","B":"Chỉ là câu lạc bộ gặp mặt của người già","C":"Cơ quan giải quyết chế độ hưu trí quân đội","D":"Tổ chức kinh doanh dịch vụ bảo vệ tư nhân"},"answer":"A"},
-  {"id":929,"question":"Sự phối hợp giữa các đơn vị Quân đội tại ngũ với Hội Cựu chiến binh địa phương có tác dụng gì?","options":{"A":"Giáo dục truyền thống cách mạng cho thế hệ trẻ, giữ vững an ninh trật tự, tham gia xây dựng thế trận quốc phòng toàn dân vững chắc","B":"Tổ chức các buổi gặp gỡ riêng tư","C":"Nhờ vả các công việc hành chính","D":"Chỉ phục vụ công tác kỷ niệm lễ tết"},"answer":"A"},
-  {"id":930,"question":"Các cựu chiến binh phát huy phẩm chất \"Bộ đội Cụ Hồ\" trong cuộc sống đời thường bằng những việc làm gì?","options":{"A":"Gương mẫu chấp hành pháp luật, tích cực lao động sản xuất, giúp nhau làm kinh tế, tham gia hòa giải cơ sở và giáo dục con cháu","B":"Đòi hỏi Nhà nước phải ưu tiên đặc quyền mọi mặt","C":"Can thiệp vào công việc chỉ huy của đơn vị tại ngũ","D":"Nghỉ ngơi an nhàn không tham gia việc xã hội"},"answer":"A"},
-  {"id":931,"question":"Nhiệm vụ của lực lượng Vận tải quân sự trong thời bình và thời chiến là gì?","options":{"A":"Cơ động lực lượng, vận chuyển vũ khí, trang bị, đạn dược, lương thực, thuốc men kịp thời, bảo đảm an toàn thông suốt cho các nhiệm vụ","B":"Kinh doanh dịch vụ taxi vận tải hành khách","C":"Chỉ bảo quản xe ôtô trong nhà xe","D":"Chở hàng hóa tự do kiếm thêm thu nhập"},"answer":"A"},
-  {"id":932,"question":"Yêu cầu đối với người lái xe quân sự khi thực hiện nhiệm vụ vận chuyển trên đường là gì?","options":{"A":"Nắm vững luật giao thông, giữ gìn xe tốt lái xe an toàn, chấp hành đúng lộ trình, thời gian quy định và bảo đảm bí mật chuyến đi","B":"Chạy thật nhanh để về đơn vị sớm nghỉ ngơi","C":"Cho người lạ đi nhờ xe kiếm thêm tiền","D":"Tự ý thay đổi tuyến đường theo ý thích"},"answer":"A"},
-  {"id":933,"question":"Khẩu hiệu truyền thống của ngành Xe - Máy Quân đội là gì?","options":{"A":"\"Yêu xe như con, quý xăng như máu, vượt mọi khó khăn, hoàn thành nhiệm vụ\"","B":"\"Lái xe thật nhanh, tiết kiệm thời gian\"","C":"\"Xe luôn sạch bóng, máy nổ êm tai\"","D":"\"Đi đến nơi, về đến chốn an nhàn\""},"answer":"A"},
-  {"id":934,"question":"Nhiệm vụ của ngành Quân nhu Quân đội là gì?","options":{"A":"Bảo đảm ăn, mặc, ở, dụng cụ sinh hoạt và trang bị dã ngoại cho bộ đội trong mọi điều kiện huấn luyện và sẵn sàng chiến đấu","B":"Sản xuất hàng may mặc xuất khẩu ra nước ngoài","C":"Bán đồ quân trang tại các chợ dân sinh","D":"Chỉ quản lý kho vải của đơn vị"},"answer":"A"},
-  {"id":935,"question":"Tiêu chuẩn cấp phát quân trang cho hạ sĩ quan, binh sĩ nhập ngũ hàng năm bảo đảm điều gì?","options":{"A":"Đúng chủng loại, đủ số lượng, kích cỡ vừa vặn, đồng bộ, đúng thời gian quy định theo tiêu chuẩn Bộ Quốc phòng ban hành","B":"Cấp phát tùy tiện theo số lượng hàng có sẵn trong kho","C":"Bắt buộc chiến sĩ phải mua thêm bằng tiền cá nhân","D":"Chỉ cấp phát áo quần cũ đã qua sử dụng"},"answer":"A"},
-  {"id":936,"question":"Hành vi mua bán, trao đổi hoặc sử dụng quân trang trái phép ra ngoài xã hội bị xử lý như thế nào?","options":{"A":"Nghiêm cấm tuyệt đối, vi phạm sẽ bị xử lý kỷ luật nghiêm khắc và tịch thu toàn bộ tang vật theo quy định","B":"Được phép bán lại quân trang cũ không dùng đến","C":"Chỉ bị phạt tiền tương đương giá trị chiếc áo","D":"Không bị cấm nếu bán cho người thân trong gia đình"},"answer":"A"},
-  {"id":937,"question":"Nhiệm vụ của ngành Quân y trong Quân đội nhân dân Việt Nam là gì?","options":{"A":"Bảo đảm y tế cho huấn luyện, sẵn sàng chiến đấu, phòng chống dịch bệnh, chăm sóc sức khỏe ban đầu và điều trị thương bệnh binh","B":"Mở phòng khám tư nhân thu tiền dịch vụ","C":"Chỉ cấp phát bông băng cồn sát trùng","D":"Nghiên cứu sản xuất thuốc đông y bán ra thị trường"},"answer":"A"},
-  {"id":938,"question":"Phẩm chất đạo đức của người thầy thuốc quân y theo lời Bác Hồ dạy là gì?","options":{"A":"\"Người thầy thuốc giỏi đồng thời phải là người mẹ hiền\" (Lương y như từ mẫu)","B":"Thầy thuốc phải có bằng cấp ngoại quốc","C":"Thầy thuốc phải nghiêm khắc làm bệnh nhân sợ","D":"Thầy thuốc phải thu đủ viện phí trước khi cấp cứu"},"answer":"A"},
-  {"id":939,"question":"Kỹ năng sơ cứu ban đầu trên chiến trường hoặc khi xảy ra tai nạn bao gồm những thao tác cơ bản nào?","options":{"A":"Băng bó vết thương, garô cầm máu, cố định tạm thời gãy xương, hô hấp nhân tạo và vận chuyển nạn nhân an toàn","B":"Chỉ cần gọi xe cấp cứu rồi ngồi chờ","C":"Cho nạn nhân uống thật nhiều nước ngọt","D":"Xoa dầu nóng trực tiếp vào vết thương hở"},"answer":"A"},
-  {"id":940,"question":"Túi thuốc cấp cứu cá nhân được trang bị cho mỗi chiến sĩ khi đi chiến đấu gồm những thứ gì?","options":{"A":"Băng cuộn cá nhân tiệt trùng, thuốc giảm đau, thuốc sát trùng, viên lọc nước và bông băng y tế cơ bản","B":"Thuốc bổ, sâm nhung đắt tiền","C":"Thuốc an thần gây ngủ mạnh","D":"Chỉ có cồn đỏ và kéo cắt chỉ"},"answer":"A"},
-  {"id":941,"question":"Nhiệm vụ của ngành Xăng dầu Quân đội là gì?","options":{"A":"Tiếp nhận, quản lý, dự trữ, bảo quản và cấp phát đầy đủ, kịp thời xăng, dầu, mỡ nhờn quân sự phục vụ huấn luyện, tác chiến và công tác","B":"Kinh doanh cây xăng bán lẻ cho nhân dân","C":"Chỉ lưu trữ dầu hỏa thắp sáng","D":"Tự ý pha chế xăng dầu kém chất lượng"},"answer":"A"},
-  {"id":942,"question":"Yêu cầu về việc chống hao hụt, rò rỉ trong quản lý xăng dầu quân sự đòi hỏi điều gì?","options":{"A":"Kiểm tra hệ thống van, bể chứa định kỳ, đo tính chính xác nhiệt độ tỉ trọng, bảo quản kín và thực hành tiết kiệm triệt để","B":"Cho phép hao hụt tự do theo thời tiết","C":"Xả bớt xăng dầu thừa ra ngoài đất khi đầy bể","D":"Không cần ghi chép sổ sách xuất nhập hàng ngày"},"answer":"A"},
-  {"id":943,"question":"Ngành Doanh trại trong Quân đội có nhiệm vụ trọng tâm nào?","options":{"A":"Bảo đảm nhà ở, nhà làm việc, doanh cụ, điện nước, quy hoạch xây dựng doanh trại chính quy, sáng, xanh, sạch, đẹp","B":"Xây dựng chung cư thương mại bán ra thị trường","C":"Chỉ sửa chữa bóng đèn bị cháy trong phòng","D":"Quản lý đất đai để cho thuê ngoài"},"answer":"A"},
-  {"id":944,"question":"Phong trào thi đua \"Xây dựng và quản lý doanh trại chính quy, xanh, sạch, đẹp\" nhằm mục đích gì?","options":{"A":"Cải thiện nâng cao đời sống bộ đội, tạo cảnh quan môi trường văn hóa quân sự mẫu mực, chính quy và bền vững","B":"Để đón các đoàn khách du lịch ghé thăm","C":"Để bán doanh trại lấy tiền xây công trình khác","D":"Chỉ chạy theo danh hiệu thi đua bề nổi"},"answer":"A"},
-  {"id":945,"question":"Ý thức tự giác chăm sóc bồn hoa, cây cảnh, vệ sinh doanh trại hàng ngày rèn luyện cho chiến sĩ điều gì?","options":{"A":"Tình yêu lao động, ý thức gắn bó với đơn vị xem \"Đơn vị là nhà\", nâng cao khiếu thẩm mỹ và nếp sống văn minh","B":"Chỉ làm cho đỡ buồn chán trong giờ nghỉ","C":"Làm việc theo lệnh ép buộc của cấp trên","D":"Thay thế các bài học quân sự"},"answer":"A"},
-  {"id":946,"question":"Nhiệm vụ của ngành Quân khí Quân đội là gì?","options":{"A":"Quản lý, bảo quản, bảo dưỡng, sửa chữa, thu hồi, phân cấp và cấp phát vũ khí, khí tài, đạn dược phục vụ huấn luyện và chiến đấu","B":"Mua bán súng đạn tự do trên thị trường","C":"Chỉ lau chùi súng bộ binh trong phòng","D":"Tự chế tạo vũ khí không theo thiết kế chuẩn"},"answer":"A"},
-  {"id":947,"question":"Quy định về việc bảo đảm an toàn kho đạn dược quân khí đòi hỏi việc sắp xếp như thế nào?","options":{"A":"Sắp xếp theo đúng chủng loại, lô, năm sản xuất, bảo đảm khoảng cách an toàn, thông thoáng, có hệ thống chống sét và thông gió tốt","B":"Chất đống tất cả các loại đạn vào một góc cho gọn","C":"Để chung đạn dược với thùng xăng dầu cho tiện lấy","D":"Xếp đạn sát mái tôn để tiết kiệm diện tích"},"answer":"A"},
-  {"id":948,"question":"Hành vi cưa bom, đục đạn, tháo gỡ đầu đạn hoặc đốt pháo trái phép bị xử lý như thế nào?","options":{"A":"Nghiêm cấm tuyệt đối, là hành vi cực kỳ nguy hiểm đến tính mạng, bị xử lý kỷ luật nghiêm khắc và truy cứu trách nhiệm hình sự","B":"Được phép làm nếu có hiểu biết kỹ thuật","C":"Chỉ bị nhắc nhở nếu không nổ","D":"Được làm nếu để lấy thuốc nổ đào ao"},"answer":"A"},
-  {"id":949,"question":"Công tác kiểm định an toàn kỹ thuật đối với xe máy, trang thiết bị quân sự nhằm bảo đảm điều gì?","options":{"A":"Bảo đảm trang bị đạt đầy đủ tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường trước khi đưa vào vận hành, sử dụng","B":"Chỉ cấp giấy chứng nhận mang tính hình thức","C":"Thu phí kiểm định nộp quỹ","D":"Để hạn chế việc sử dụng xe công"},"answer":"A"},
-  {"id":950,"question":"Vai trò của người thợ kỹ thuật quân sự trong các nhà máy, xí nghiệp quốc phòng là gì?","options":{"A":"Cần cù, tỉ mỉ, sáng tạo, làm chủ công nghệ, giữ gìn và phục hồi tính năng chiến đấu của vũ khí trang bị, góp phần tăng cường sức mạnh quân đội","B":"Làm việc theo kiểu khoán sản phẩm đại khái","C":"Chỉ sửa chữa những hỏng hóc đơn giản","D":"Làm thêm các sản phẩm dân dụng ngoài giờ mà không xin phép"},"answer":"A"},
-  {"id":951,"question":"Một trong những nhiệm vụ trọng tâm của năm 2026 là tổ chức thành công Đại hội Đảng các cấp tiến tới Đại hội toàn quốc lần thứ mấy của Đảng?","options":{"A":"Đại hội đại biểu toàn quốc lần thứ XIV của Đảng","B":"Đại hội lần thứ XIII","C":"Đại hội lần thứ XV","D":"Đại hội lần thứ XVI"},"answer":"A"},
-  {"id":952,"question":"Chủ đề của Đại hội Đảng các cấp thường thể hiện tinh thần cốt lõi nào?","options":{"A":"Đoàn kết, dân chủ, kỷ cương, đổi mới sáng tạo, phát triển; nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng bộ","B":"Chỉ tập trung phát triển kinh tế thương mại","C":"Đổi mới hình thức tổ chức lễ hội","D":"Tăng cường khen thưởng cho cán bộ cấp cao"},"answer":"A"},
-  {"id":953,"question":"Báo cáo chính trị trình Đại hội Đảng bộ các cấp có vai trò quan trọng như thế nào?","options":{"A":"Là văn kiện trung tâm, kết tinh trí tuệ của toàn đảng bộ, đánh giá toàn diện nhiệm kỳ qua và vạch ra mục tiêu, giải pháp cho nhiệm kỳ tới","B":"Chỉ là bản tóm tắt các cuộc họp định kỳ","C":"Tài liệu lưu hành nội bộ không cần đóng góp ý kiến","D":"Bản báo cáo tài chính thu chi của cơ quan"},"answer":"A"},
-  {"id":954,"question":"Trách nhiệm của mỗi cán bộ, đảng viên và quần chúng trong việc tham gia đóng góp ý kiến vào văn kiện Đại hội Đảng là gì?","options":{"A":"Nghiên cứu kỹ lưỡng, đóng góp ý kiến tâm huyết, trách nhiệm, thẳng thắn, mang tính xây dựng cao vì sự nghiệp phát triển chung","B":"Sao chép lại ý kiến của người khác cho nhanh","C":"Phát biểu ý kiến theo cảm tính cá nhân tiêu cực","D":"Không cần tham gia vì đã có lãnh đạo lo"},"answer":"A"},
-  {"id":955,"question":"Bầu cử cấp ủy tại Đại hội Đảng các cấp được tiến hành bằng hình thức nào theo quy định Điều lệ Đảng?","options":{"A":"Bỏ phiếu kín","B":"Biểu quyết giơ tay công khai","C":"Chỉ định trực tiếp từ trên xuống","D":"Bốc thăm ngẫu nhiên"},"answer":"A"},
-  {"id":956,"question":"Tiêu chuẩn nhân sự tham gia cấp ủy nhiệm kỳ mới đòi hỏi phẩm chất gì hàng đầu?","options":{"A":"Bản lĩnh chính trị vững vàng, đạo đức trong sáng, có năng lực thực tiễn nổi trội, dám nghĩ dám làm dám chịu trách nhiệm, được quần chúng tín nhiệm cao","B":"Người có độ tuổi trẻ nhất đơn vị","C":"Người có điều kiện kinh tế gia đình giàu có","D":"Người có mối quan hệ thân quen với lãnh đạo cũ"},"answer":"A"},
-  {"id":957,"question":"Ý nghĩa của việc tổ chức phong trào thi đua cao điểm chào mừng Đại hội Đảng các cấp là gì?","options":{"A":"Tạo không khí thi đua sôi nổi, biến quyết tâm chính trị thành hành động cách mạng thiết thực, lập nhiều thành tích đỉnh cao dâng lên Đảng","B":"Để được nghỉ lễ nhiều hơn thường lệ","C":"Tổ chức các buổi liên hoan gặp mặt tốn kém","D":"Để chi tiêu hết số tiền ngân sách được phân bổ"},"answer":"A"},
-  {"id":958,"question":"Công tác bảo đảm an ninh, an toàn tuyệt đối cho Đại hội Đảng các cấp đòi hỏi các đơn vị Quân đội phải làm gì?","options":{"A":"Nâng cao cảnh giác, duy trì nghiêm chế độ trực SSCĐ, tuần tra canh gác chặt chẽ, chủ động xử lý kịp thời mọi tình huống từ sớm, từ xa","B":"Chỉ cần khóa cổng doanh trại cẩn thận","C":"Giao khoán việc bảo vệ cho lực lượng dân phòng","D":"Chờ có lệnh báo động mới bắt đầu kiểm tra vũ khí"},"answer":"A"},
-  {"id":959,"question":"Cuộc bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 là ngày hội của ai?","options":{"A":"Là Ngày hội non sông, ngày hội của toàn dân thể hiện quyền làm chủ thiêng liêng của Nhân dân thông qua lá phiếu","B":"Ngày hội riêng của các cơ quan nhà nước","C":"Ngày biểu diễn văn hóa thể thao toàn quốc","D":"Ngày nghỉ lễ vui chơi giải trí đơn thuần"},"answer":"A"},
-  {"id":960,"question":"Mỗi lá phiếu cử tri đi bầu cử thể hiện điều gì?","options":{"A":"Trách nhiệm, quyền làm chủ và niềm tin sâu sắc của công dân gửi gắm vào những đại biểu xứng đáng đại diện cho ý chí, nguyện vọng của Nhân dân","B":"Thủ tục hành chính mang tính chiếu lệ","C":"Nghĩa vụ đóng thuế của cá nhân","D":"Sự ủng hộ cá nhân cho người thân thích"},"answer":"A"},
-  {"id":961,"question":"Nhiệm vụ của lực lượng vũ trang trong dịp bầu cử đại biểu Quốc hội và HĐND các cấp là gì?","options":{"A":"Vừa gương mẫu thực hiện quyền bầu cử của công dân, vừa làm tốt nhiệm vụ sẵn sàng chiến đấu, bảo vệ tuyệt đối an toàn cuộc bầu cử","B":"Chỉ cần đi bầu cử sớm rồi về nghỉ ngơi","C":"Không cần tham gia bỏ phiếu nếu đang làm nhiệm vụ trực","D":"Chỉ bảo vệ thùng phiếu tại trụ sở ủy ban"},"answer":"A"},
-  {"id":962,"question":"Khẩu hiệu tuyên truyền bầu cử đại biểu Quốc hội và Hội đồng nhân dân các cấp nhằm mục đích gì?","options":{"A":"Cổ vũ, động viên toàn dân phát huy tinh thần yêu nước, ý thức trách nhiệm công dân, tích cực tham gia đi bầu cử đầy đủ, đúng luật","B":"Trang trí đường phố cho rực rỡ sắc màu","C":"Quảng cáo tên tuổi của các ứng cử viên giàu có","D":"Thông báo giá cả các mặt hàng tiêu dùng"},"answer":"A"},
-  {"id":963,"question":"Tiêu chuẩn của người đại biểu Quốc hội và đại biểu Hội đồng nhân dân theo quy định pháp luật là gì?","options":{"A":"Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, cần kiệm liêm chính; có trình độ năng lực và liên hệ chặt chẽ với Nhân dân","B":"Chỉ cần có bằng cấp tiến sĩ trở lên","C":"Người nắm giữ nhiều tài sản doanh nghiệp","D":"Người thường xuyên xuất hiện trên mạng xã hội"},"answer":"A"},
-  {"id":964,"question":"Hành vi gian lận trong bầu cử, bỏ phiếu hộ, bỏ phiếu thay bị xử lý như thế nào theo pháp luật?","options":{"A":"Bị nghiêm cấm tuyệt đối, vi phạm sẽ bị hủy bỏ kết quả kiểm phiếu và xử lý nghiêm theo quy định của pháp luật hình sự hoặc hành chính","B":"Được chấp nhận nếu người được nhờ có lý do bận việc","C":"Chỉ bị nhắc nhở rút kinh nghiệm lần sau","D":"Không bị xử phạt nếu không có ai khiếu kiện"},"answer":"A"},
-  {"id":965,"question":"Trách nhiệm của công dân khi tham gia tiếp xúc cử tri với những người ứng cử đại biểu Quốc hội là gì?","options":{"A":"Lắng nghe chương trình hành động của người ứng cử, thẳng thắn trao đổi, nêu lên tâm tư nguyện vọng chính đáng của cử tri và địa phương","B":"Đến dự cho đủ quân số hội trường","C":"Chỉ vỗ tay biểu quyết theo sự sắp đặt","D":"Yêu cầu các ứng cử viên phải giải quyết lợi ích riêng cho gia đình"},"answer":"A"},
-  {"id":966,"question":"Kỳ vọng của cán bộ, chiến sĩ Quân đội nhân dân Việt Nam đối với Quốc hội khóa mới là gì?","options":{"A":"Tiếp tục hoàn thiện hệ thống pháp luật về quân sự, quốc phòng, an ninh, chăm lo chính sách hậu phương quân đội và xây dựng LLVT cách mạng, chính quy, tinh nhuệ, hiện đại","B":"Cắt giảm bớt thời gian huấn luyện chiến đấu","C":"Cho phép quân đội tự chủ về kinh phí hoạt động","D":"Giảm nhẹ các chế độ kỷ luật quân ngũ"},"answer":"A"},
-  {"id":967,"question":"Năm 2026 đánh dấu bước chuyển mình quan trọng của toàn quân trong việc hoàn thành mục tiêu xây dựng Quân đội theo Nghị quyết Đại hội XIII là gì?","options":{"A":"Xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại; một số quân chủng, binh chủng, lực lượng tiến thẳng lên hiện đại; tạo tiền đề vững chắc phấn đấu năm 2030 xây dựng Quân đội hiện đại","B":"Mở rộng quy mô quân số thêm 50%","C":"Chuyển đổi toàn bộ vũ khí sang mua sắm từ phương Tây","D":"Xóa bỏ các đơn vị bộ binh truyền thống"},"answer":"A"},
-  {"id":968,"question":"Các quân chủng, binh chủng và lực lượng nào được ưu tiên tiến thẳng lên hiện đại theo định hướng của Đảng?","options":{"A":"Hải quân, Phòng không - Không quân, Tác chiến không gian mạng, Dác chiến điện tử, Thông tin liên lạc, Cảnh sát biển, Tình báo quân sự...","B":"Tất cả các cơ quan hành chính quân sự","C":"Các trường đào tạo lái xe","D":"Lực lượng bảo vệ các kho lương thực"},"answer":"A"},
-  {"id":969,"question":"Yếu tố quyết định nhất để xây dựng Quân đội hiện đại theo quan điểm của Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh là gì?","options":{"A":"Con người hiện đại - có bản lĩnh chính trị vững vàng, ý chí sắt đá, trình độ học vấn cao và làm chủ vũ khí trang bị kỹ thuật tiên tiến","B":"Số lượng máy bay, tàu ngầm mua được từ nước ngoài","C":"Tài chính dồi dào tài trợ cho quân đội","D":"Khuôn viên doanh trại khang trang hiện đại"},"answer":"A"},
-  {"id":970,"question":"Để làm chủ vũ khí trang bị kỹ thuật hiện đại, mỗi cán bộ, chiến sĩ trẻ cần tích cực làm gì?","options":{"A":"Tích cực học tập nghiên cứu khoa học, nâng cao trình độ ngoại ngữ, tin học, thuần thục quy trình vận hành và giữ tốt dùng bền vũ khí","B":"Chờ chuyên gia nước ngoài hướng dẫn từng nút bấm","C":"Tự ý tháo lắp sửa đổi cấu tạo vũ khí mới","D":"Chỉ học tập khi có yêu cầu kiểm tra bắt buộc"},"answer":"A"},
-  {"id":971,"question":"Sức mạnh tổng hợp của Quân đội nhân dân Việt Nam là sự kết hợp nhuần nhuyễn giữa những yếu tố nào?","options":{"A":"Sức mạnh con người và vũ khí trang bị; nghệ thuật quân sự độc đáo và truyền thống yêu nước bất khuất của dân tộc","B":"Chỉ dựa vào hỏa lực pháo binh và tên lửa","C":"Dựa vào sự viện trợ của các đồng minh quốc tế","D":"Chỉ dựa vào số lượng quân số đông đảo"},"answer":"A"},
-  {"id":972,"question":"Bản chất anh hùng của Quân đội nhân dân Việt Nam được tôi luyện qua bao nhiêu năm xây dựng, chiến đấu và trưởng thành?","options":{"A":"Hơn 80 năm lịch sử vẻ vang (từ 22/12/1944 đến nay), đánh thắng hai đế quốc to, bảo vệ vững chắc độc lập chủ quyền Tổ quốc","B":"Chỉ trong cuộc kháng chiến chống Mỹ","C":"Từ sau ngày Đổi mới đất nước năm 1986","D":"Khoảng 50 năm trở lại đây"},"answer":"A"},
-  {"id":973,"question":"Truyền thống \"Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội\" nhắc nhở mỗi quân nhân điều gì?","options":{"A":"Tuyệt đối trung thành vô điều kiện, kiên định lý tưởng cách mạng, coi lợi ích của Tổ quốc và Nhân dân là trên hết, trước hết","B":"Tìm kiếm danh vọng và chức tước cho bản thân","C":"Chỉ trung thành khi được đãi ngộ xứng đáng","D":"Ưu tiên phát triển kinh tế gia đình trước"},"answer":"A"},
-  {"id":974,"question":"Ý nghĩa của việc giữ gìn và phát huy giá trị văn hóa \"Bộ đội Cụ Hồ\" trong kỷ nguyên mới là gì?","options":{"A":"Là sức mạnh nội sinh vô giá, ngọn cờ tập hợp tinh thần, bảo đảm Quân đội ta mãi mãi là điểm tựa niềm tin vững chắc của Đảng và Nhân dân","B":"Chỉ để lưu giữ trong bảo tàng lịch sử","C":"Để giới thiệu với khách du lịch quốc tế","D":"Là khẩu hiệu truyền thống không cần cập nhật"},"answer":"A"},
-  {"id":975,"question":"Hành động thiết thực nhất của người chiến sĩ hàng ngày tại đơn vị để học tập và làm theo Bác Hồ là gì?","options":{"A":"Chấp hành nghiêm kỷ luật, tích cực huấn luyện giỏi, bảo quản súng đạn tốt, đoàn kết thương yêu đồng đội và giúp đỡ nhân dân","B":"Đọc thuộc lòng các bài viết của Bác mà không thực hành","C":"Nói thật hay trong các buổi sinh hoạt nhưng làm không tốt","D":"Chỉ làm việc tốt khi có cán bộ giám sát"},"answer":"A"},
-  {"id":976,"question":"Ý nghĩa của việc học tập lời dạy của Bác Hồ: \"Việc gì có lợi cho dân, ta phải hết sức làm. Việc gì có hại đến dân, ta phải hết sức tránh\" là gì?","options":{"A":"Đặt lợi ích của nhân dân lên hàng đầu, phụng sự nhân dân tận tụy, không bao giờ làm phiền hà, sách nhiễu đồng bào","B":"Chỉ làm việc có lợi cho người thân quen","C":"Tránh tiếp xúc với nhân dân để không có lỗi","D":"Chờ nhân dân yêu cầu mới giúp đỡ"},"answer":"A"},
-  {"id":977,"question":"Một trong những yêu cầu cấp bách trong công tác xây dựng Đảng hiện nay theo tinh thần Nghị quyết Trung ương là gì?","options":{"A":"Kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, tham nhũng, tiêu cực","B":"Mở rộng kết nạp đảng viên thật nhanh","C":"Giảm bớt các cuộc thanh tra, kiểm tra tài chính","D":"Bỏ qua vi phạm nhỏ để giữ gìn thành tích"},"answer":"A"},
-  {"id":978,"question":"Phương châm \"Không có vùng cấm, không có ngoại lệ\" trong công tác đấu tranh phòng chống tham nhũng, tiêu cực khẳng định điều gì?","options":{"A":"Bất kỳ ai vi phạm pháp luật và kỷ luật của Đảng đều bị xử lý nghiêm minh, bất kể người đó giữ chức vụ gì hay công tác ở đâu","B":"Chỉ áp dụng đối với cán bộ đã nghỉ hưu","C":"Chỉ xử lý các vụ việc nhỏ để làm gương","D":"Ưu tiên tha thứ cho cán bộ cấp cao"},"answer":"A"},
-  {"id":979,"question":"Vai trò gương mẫu của người đứng đầu cơ quan, đơn vị trong công tác phòng chống tham nhũng, lãng phí đòi hỏi điều gì?","options":{"A":"Phải đi đầu thực hiện, liêm khiết, trung thực, công khai minh bạch tài chính, chịu trách nhiệm khi để xảy ra tham nhũng trong đơn vị mình","B":"Khoán trách nhiệm cho cấp phó và kế toán","C":"Giữ bí mật các khoản chi tiêu để tránh thắc mắc","D":"Chỉ cần nhắc nhở người khác mà không cần làm gương"},"answer":"A"},
-  {"id":980,"question":"Mỗi cán bộ, chiến sĩ có quyền và nghĩa vụ gì khi phát hiện các biểu hiện tham nhũng, lãng phí hoặc tiêu cực trong đơn vị?","options":{"A":"Dũng cảm phản ánh, tố giác qua các kênh thông tin chính thức của tổ chức đảng, cơ quan thanh tra, bảo vệ để xử lý theo đúng quy định","B":"Im lặng làm ngơ để giữ hòa khí nội bộ","C":"Đăng bài tố cáo nặc danh lên mạng xã hội","D":"Tống tiền người có hành vi vi phạm"},"answer":"A"},
-  {"id":981,"question":"Ý thức bảo vệ tài sản công, chống lãng phí thời gian và công sức trong thực hiện nhiệm vụ được biểu hiện như thế nào?","options":{"A":"Làm việc có kế hoạch, khoa học, khẩn trương, đúng giờ, sử dụng hiệu quả tài nguyên, ngân sách được giao vì mục tiêu chung","B":"Kéo dài thời gian làm việc để tính thêm giờ","C":"Sử dụng xe công vụ vào mục đích đi du lịch cá nhân","D":"Để máy điều hòa chạy suốt đêm trong phòng trống"},"answer":"A"},
-  {"id":982,"question":"Quy định về việc bảo đảm tính bảo mật trong việc sử dụng điện thoại thông minh và thiết bị số cá nhân đòi hỏi điều gì?","options":{"A":"Không mang điện thoại vào phòng họp mật, sở chỉ huy, không chụp ảnh tài liệu quân sự, không cài đặt phần mềm độc hại","B":"Có thể chụp ảnh súng đạn mới để khoe với người thân","C":"Bật định vị GPS liên tục khi đang diễn tập bí mật","D":"Cho người ngoài mượn điện thoại cá nhân chứa dữ liệu công việc"},"answer":"A"},
-  {"id":983,"question":"Nguy cơ mất an toàn an ninh mạng từ việc kết nối vào các mạng wifi công cộng miễn phí không an toàn là gì?","options":{"A":"Dễ bị đối tượng xấu đánh cắp thông tin cá nhân, mật khẩu tài khoản và cài cắm mã độc theo dõi vị trí, dữ liệu","B":"Không có nguy cơ gì nếu máy có mật khẩu khóa màn hình","C":"Chỉ bị tốn pin điện thoại","D":"Wifi miễn phí luôn luôn an toàn tuyệt đối"},"answer":"A"},
-  {"id":984,"question":"Mỗi quân nhân cần có trách nhiệm gì trong việc xây dựng không gian mạng an toàn, lành mạnh?","options":{"A":"Nói lời hay, làm việc tốt trên mạng, chia sẻ thông tin chính thống, tích cực, không tham gia bôi nhọ, xúc phạm danh dự của người khác","B":"Tự do bình luận chửi bới người khác khi không lộ mặt","C":"Lan truyền các tin đồn vô căn cứ để câu like","D":"Tham gia cá độ bóng đá trực tuyến để giải trí"},"answer":"A"},
-  {"id":985,"question":"Hành vi sử dụng mạng xã hội để đăng bài nói xấu cấp trên, chỉ trích đồng đội hoặc làm lộ bí mật đơn vị bị xử lý thế nào?","options":{"A":"Vi phạm nghiêm trọng kỷ luật quân đội và Luật An ninh mạng, bị tước danh hiệu quân nhân và xử lý hình sự nghiêm minh","B":"Chỉ bị yêu cầu xóa bài viết là xong","C":"Bị phạt trừ tiền thưởng cuối tháng","D":"Được coi là quyền tự do biểu đạt cá nhân"},"answer":"A"},
-  {"id":986,"question":"Tinh thần cảnh giác trước các thủ đoạn \"Bẫy tình\", \"Bẫy tài chính\" của các cơ quan tình báo nước ngoài và đối tượng xấu nhằm mục đích gì?","options":{"A":"Bảo vệ an toàn bản thân, không để bị khống chế, lôi kéo, mua chuộc, trở thành tay sai phá hoại Quân đội và đất nước","B":"Tránh bị thua lỗ trong đầu tư tiền số","C":"Để tập trung vào rèn luyện thể thao","D":"Không có nguy cơ nào như vậy trong thời bình"},"answer":"A"},
-  {"id":987,"question":"Khi nhận được những tin nhắn, cuộc gọi lạ dụ dỗ chuyển tiền, cung cấp thông tin quân sự hoặc tài khoản ngân hàng, quân nhân phải làm gì?","options":{"A":"Tuyệt đối không làm theo, ghi lại thông tin và báo cáo ngay cho cơ quan chức năng, chỉ huy đơn vị để phối hợp xử lý","B":"Làm theo hướng dẫn để xem đối phương định làm gì","C":"Chuyển số tiền nhỏ để thử nghiệm","D":"Xóa ngay tin nhắn mà không báo cáo cho ai"},"answer":"A"},
-  {"id":988,"question":"Ý thức bảo vệ môi trường biển, đảo và bảo vệ nguồn lợi thủy sản của cán bộ, chiến sĩ và ngư dân đòi hỏi điều gì?","options":{"A":"Không dùng chất nổ, xung điện, hóa chất độc hại đánh bắt hải sản; không vứt rác thải nhựa xuống biển; chung tay giữ gìn biển xanh","B":"Đánh bắt hải sản bằng mọi phương tiện để tăng thu nhập","C":"Xả toàn bộ dầu thải xuống biển khi tàu chạy","D":"Khai thác san hô để bán cho khách du lịch"},"answer":"A"},
-  {"id":989,"question":"Chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU) nhằm mục tiêu gì?","options":{"A":"Bảo vệ nguồn lợi thủy sản bền vững, tháo gỡ \"thẻ vàng\" của Ủy ban châu Âu (EC), nâng cao uy tín quốc gia trên trường quốc tế","B":"Cấm hoàn toàn ngư dân vươn khơi bám biển","C":"Tăng tiền phạt nộp ngân sách địa phương","D":"Chỉ bảo vệ các loài cá quý hiếm"},"answer":"A"},
-  {"id":990,"question":"Vai trò của lực lượng Hải quân, Cảnh sát biển, Biên phòng trong việc hỗ trợ ngư dân vươn khơi bám biển là gì?","options":{"A":"Là điểm tựa vững chắc, bảo vệ tính mạng tài sản của ngư dân, cứu hộ cứu nạn kịp thời, cùng ngư dân khẳng định chủ quyền biển đảo thiêng liêng","B":"Kiểm tra thu thuế các tàu cá trên biển","C":"Cạnh tranh đánh bắt hải sản với ngư dân","D":"Bắt buộc ngư dân phải bán hải sản cho tàu quân đội"},"answer":"A"},
-  {"id":991,"question":"Nhiệm vụ của mỗi cán bộ, chiến sĩ trong phong trào \"Cả nước chung sức xây dựng nông thôn mới\" và \"Đô thị văn minh\" là gì?","options":{"A":"Tích cực tham gia ngày công lao động, giúp nhân dân dọn vệ sinh, làm đường, kênh mương, xây dựng nếp sống văn hóa mới văn minh, tiến bộ","B":"Chỉ đóng góp kinh phí rồi không cần tham gia","C":"Yêu cầu chính quyền địa phương phải phục vụ bộ đội","D":"Tham gia chụp ảnh lưu niệm rồi về doanh trại"},"answer":"A"},
-  {"id":992,"question":"Tinh thần \"Lá lành đùm lá rách\", sẻ chia khó khăn với các gia đình chính sách, người có công với cách mạng thể hiện điều gì?","options":{"A":"Đạo lý truyền thống cao đẹp của dân tộc Việt Nam, khẳng định bản chất nhân văn sâu sắc của Quân đội nhân dân Việt Nam","B":"Nhiệm vụ làm thêm chỉ tiêu ngoài giờ","C":"Sự ban ơn của lực lượng vũ trang đối với nhân dân","D":"Chỉ dành cho những ngày lễ kỷ niệm lớn"},"answer":"A"},
-  {"id":993,"question":"Mỗi khi bước vào phòng học chính trị, thái độ học tập đúng đắn của người học viên, chiến sĩ là gì?","options":{"A":"Mang mặc trang phục đúng quy định, mang đủ vở ghi, bút viết, tập trung lắng nghe, ghi chép cẩn thận và tích cực tham gia thảo luận","B":"Ngồi tự do và nghe giảng qua loa","C":"Mang điện thoại cá nhân vào lướt mạng","D":"Nói chuyện riêng hoặc ngủ gật trong giờ học"},"answer":"A"},
-  {"id":994,"question":"Mục đích của việc kiểm tra đánh giá nhận thức chính trị định kỳ hàng tháng, hàng năm đối với hạ sĩ quan, binh sĩ là gì?","options":{"A":"Đánh giá thực chất mức độ hiểu biết, nhận thức của bộ đội, kịp thời bổ sung những nội dung còn thiếu, nâng cao chất lượng giáo dục","B":"Để xử phạt những người không thuộc lòng chữ nghĩa","C":"Để chấm điểm thi đua làm giảm lương phụ cấp","D":"Chỉ là thủ tục hành chính chiếu lệ cho xong việc"},"answer":"A"},
-  {"id":995,"question":"Phương pháp ôn tập kiến thức chính trị hiệu quả nhất cho chiến sĩ là gì?","options":{"A":"Gắn lý thuyết với thực tế nhiệm vụ hàng ngày của bản thân, thảo luận nhóm, trao đổi cùng đồng đội và biến nhận thức thành hành động cụ thể","B":"Học vẹt từng câu chữ mà không hiểu ý nghĩa","C":"Chỉ học lướt qua vào đêm trước ngày kiểm tra","D":"Nhờ người khác làm bài thi kiểm tra hộ"},"answer":"A"},
-  {"id":996,"question":"Ý nghĩa của câu tục ngữ \"Học đi đôi với hành\" trong quá trình học tập chính trị và quân sự là gì?","options":{"A":"Kiến thức học được phải được vận dụng sáng tạo vào thực tiễn huấn luyện, rèn luyện kỷ luật và hoàn thành xuất sắc nhiệm vụ được giao","B":"Học chỉ để biết còn làm thì tùy ý","C":"Chỉ cần làm tốt không cần học lý luận","D":"Học và hành là hai việc hoàn toàn tách rời nhau"},"answer":"A"},
-  {"id":997,"question":"Lời thề danh dự của người quân nhân trước Quân kỳ Quyết thắng thể hiện điều thiêng liêng nhất là gì?","options":{"A":"Lời hứa danh dự son sắt suốt đời trung thành với Đảng, với Tổ quốc và Nhân dân, quyết tâm bảo vệ vững chắc non sông gấm vóc Việt Nam","B":"Cam kết hoàn thành hợp đồng lao động có thời hạn","C":"Nghi thức chào đón tân binh hàng năm","D":"Thủ tục tuyên thệ mang tính lễ nghi đơn thuần"},"answer":"A"},
-  {"id":998,"question":"Quân kỳ Quyết thắng của Quân đội nhân dân Việt Nam mang dòng chữ vàng nào ở góc trên bên trái cờ đỏ sao vàng?","options":{"A":"Dòng chữ vàng \"QUYẾT THẮNG\"","B":"Dòng chữ vàng \"QUYẾT TỬ\"","C":"Dòng chữ vàng \"TIẾN LÊN\"","D":"Dòng chữ vàng \"TOÀN THẮNG\""},"answer":"A"},
-  {"id":999,"question":"Ý nghĩa thiêng liêng của lá cờ Quân kỳ Quyết thắng là biểu tượng của điều gì?","options":{"A":"Biểu tượng của lòng dũng cảm, tinh thần quyết chiến quyết thắng, truyền thống anh hùng và niềm tự hào bất diệt của Quân đội nhân dân Việt Nam","B":"Chỉ là lá cờ hiệu dùng trong chỉ huy hành quân","C":"Vật trang trí trong phòng truyền thống đơn vị","D":"Dùng để dẫn đường cho các đoàn xe diễu binh"},"answer":"A"},
-  {"id":1000,"question":"Mục tiêu cao nhất của người chiến sĩ Quân đội nhân dân Việt Nam trong năm 2026 và suốt cuộc đời quân ngũ là gì?","options":{"A":"Tuyệt đối trung thành với Đảng, với Tổ quốc, gắn bó máu thịt với Nhân dân, hoàn thành xuất sắc mọi nhiệm vụ được giao, xứng danh Bộ đội Cụ Hồ thời kỳ mới","B":"Sớm hoàn thành nghĩa vụ để về phát triển kinh tế tư nhân","C":"Chỉ mong muốn nhận được huân chương và khen thưởng cao","D":"Tránh né mọi gian nan nguy hiểm để bảo toàn tính mạng bản thân"},"answer":"A"}
+  {
+    "id": 901,
+    "question": "Nội dung cơ bản của Quy chế làm việc của Đảng ủy các cấp trong Quân đội là gì?",
+    "options": {
+      "A": "Quy định cụ thể chức trách, nhiệm vụ, quyền hạn, nguyên tắc, chế độ làm việc và mối quan hệ công tác của tập thể đảng ủy và từng cấp ủy viên",
+      "B": "Quy định chế độ chi tiêu tài chính riêng của đơn vị",
+      "C": "Quy định thời gian huấn luyện quân sự hàng tuần",
+      "D": "Quy định phân chia đất đai doanh trại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 902,
+    "question": "Nguyên tắc cao nhất trong hoạt động lãnh đạo của tổ chức Đảng trong Quân đội là nguyên tắc nào?",
+    "options": {
+      "A": "Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách",
+      "B": "Thủ trưởng toàn quyền quyết định mọi vấn đề",
+      "C": "Đa số phục tùng thiểu số",
+      "D": "Biểu quyết theo cảm tính"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 903,
+    "question": "Chế độ sinh hoạt định kỳ của Chi bộ cơ sở trong Quân đội được tiến hành như thế nào?",
+    "options": {
+      "A": "Mỗi tháng họp thường kỳ một lần (vào đầu tháng), khi cần thiết có thể họp bất thường",
+      "B": "Mỗi quý họp một lần",
+      "C": "Sáu tháng họp một lần",
+      "D": "Chỉ họp khi có đảng viên vi phạm kỷ luật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 904,
+    "question": "Nội dung cốt lõi của Nghị quyết lãnh đạo thực hiện nhiệm vụ tháng của chi bộ bao gồm những gì?",
+    "options": {
+      "A": "Đánh giá kết quả lãnh đạo tháng trước, xác định phương hướng, mục tiêu, nhiệm vụ và các biện pháp lãnh đạo chủ yếu trong tháng tới",
+      "B": "Liệt kê danh sách khen thưởng tiền mặt",
+      "C": "Ghi chép lại các bài báo thời sự trong tháng",
+      "D": "Thông báo thời gian nghỉ phép của đảng viên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 905,
+    "question": "Vai trò của Bí thư Chi bộ trong việc chuẩn bị nội dung sinh hoạt chi bộ là gì?",
+    "options": {
+      "A": "Chủ trì chuẩn bị chu đáo dự thảo nghị quyết, hội ý trong cấp ủy trước khi đưa ra toàn thể chi bộ thảo luận, biểu quyết",
+      "B": "Tự mình quyết định mọi điều mà không cần bàn với cấp ủy",
+      "C": "Giao toàn bộ việc chuẩn bị cho đảng viên trẻ",
+      "D": "Chỉ cần điều hành cuộc họp mà không cần chuẩn bị trước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 906,
+    "question": "Trách nhiệm của mỗi đảng viên trong buổi sinh hoạt chi bộ là gì?",
+    "options": {
+      "A": "Tham gia sinh hoạt đầy đủ, đúng giờ, tích cực thảo luận, đóng góp ý kiến xây dựng nghị quyết và gương mẫu chấp hành nghị quyết đã được thông qua",
+      "B": "Chỉ ngồi nghe và biểu quyết theo số đông",
+      "C": "Làm việc riêng trong khi cuộc họp đang diễn ra",
+      "D": "Chỉ phát biểu khi có người nhắc tên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 907,
+    "question": "Ý nghĩa của việc tổ chức sinh hoạt chuyên đề của chi bộ là gì?",
+    "options": {
+      "A": "Đi sâu bàn bạc, giải quyết thấu đáo một khâu yếu, mặt yếu hoặc một nhiệm vụ trọng tâm, đột xuất của đơn vị",
+      "B": "Tổ chức đi dã ngoại giải trí cho đảng viên",
+      "C": "Giảm bớt thời gian họp thường kỳ",
+      "D": "Để kiểm tra kiến thức lý luận thuần túy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 908,
+    "question": "Công tác phát triển đảng viên mới trong Quân đội đòi hỏi phải coi trọng yếu tố nào hàng đầu?",
+    "options": {
+      "A": "Coi trọng chất lượng, không chạy theo số lượng đơn thuần; bảo đảm tiêu chuẩn chính trị, phẩm chất đạo đức và năng lực hoàn thành nhiệm vụ",
+      "B": "Tuyển chọn người có độ tuổi cao nhất",
+      "C": "Ưu tiên người có hoàn cảnh kinh tế khá giả",
+      "D": "Chạy theo chỉ tiêu số lượng để báo cáo thành tích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 909,
+    "question": "Thời gian thử thách đối với đảng viên dự bị theo Điều lệ Đảng là bao nhiêu tháng?",
+    "options": {
+      "A": "12 tháng (tính từ ngày chi bộ tổ chức lễ kết nạp)",
+      "B": "6 tháng",
+      "C": "18 tháng",
+      "D": "24 tháng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 910,
+    "question": "Nhiệm vụ của đảng viên chính thức được phân công giúp đỡ đảng viên dự bị là gì?",
+    "options": {
+      "A": "Thường xuyên theo dõi, hướng dẫn, động viên, giúp đỡ đảng viên dự bị tiến bộ và định kỳ báo cáo chi bộ nhận xét",
+      "B": "Làm thay các bài học chính trị cho đảng viên dự bị",
+      "C": "Chỉ cần ký giấy xác nhận khi hết thời hạn 12 tháng",
+      "D": "Theo dõi đời sống riêng tư ngoài giờ công tác"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 911,
+    "question": "Hành vi không tham gia sinh hoạt chi bộ hoặc không đóng đảng phí bao nhiêu tháng liên tục không có lý do chính đáng thì bị xóa tên khỏi danh sách đảng viên?",
+    "options": {
+      "A": "3 tháng liên tục trong năm",
+      "B": "1 tháng",
+      "C": "6 tháng",
+      "D": "12 tháng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 912,
+    "question": "Mục đích của việc lấy phiếu tín nhiệm đối với cán bộ lãnh đạo, chỉ huy trong Quân đội là gì?",
+    "options": {
+      "A": "Đánh giá uy tín và kết quả thực hiện chức trách, nhiệm vụ được giao; giúp cán bộ tự soi, tự sửa, tiếp tục phấn đấu, rèn luyện",
+      "B": "Để tìm cách bãi miễn chức vụ ngay lập tức",
+      "C": "Để phân biệt đối xử trong nội bộ đơn vị",
+      "D": "Là hình thức kiểm tra mang tính tượng trưng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 913,
+    "question": "Tiêu chuẩn đánh giá, xếp loại chất lượng cán bộ hàng năm gồm mấy mức độ?",
+    "options": {
+      "A": "4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ",
+      "B": "3 mức: Tốt; Khá; Trung bình",
+      "C": "5 mức: Xuất sắc; Giỏi; Khá; Trung bình; Yếu",
+      "D": "2 mức: Đạt và Không đạt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 914,
+    "question": "Công tác quy hoạch cán bộ chỉ huy các cấp trong Quân đội nhằm mục đích gì?",
+    "options": {
+      "A": "Chủ động phát hiện, đào tạo, bồi dưỡng nguồn cán bộ kế cận có đủ phẩm chất, năng lực và uy tín, bảo đảm tính kế thừa vững chắc",
+      "B": "Chia ghế lãnh đạo cho các cơ quan",
+      "C": "Chỉ chọn con em cán bộ trong ngành",
+      "D": "Bố trí cán bộ theo sở thích cá nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 915,
+    "question": "Phương châm trong công tác luân chuyển, điều động cán bộ của Quân đội là gì?",
+    "options": {
+      "A": "Bám sát yêu cầu nhiệm vụ, kết hợp luân chuyển để đào tạo thực tiễn, rèn luyện cán bộ qua cơ sở, bảo đảm công tâm, khách quan",
+      "B": "Luân chuyển cán bộ bị kỷ luật đến vùng sâu vùng xa",
+      "C": "Chỉ điều động cán bộ khi có khiếu nại tố cáo",
+      "D": "Ưu tiên chuyển cán bộ về gần thành phố lớn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 916,
+    "question": "Chính sách tiền lương mới trong lực lượng vũ trang thực hiện theo tinh thần Nghị quyết số 27-NQ/TW nhằm mục tiêu gì?",
+    "options": {
+      "A": "Xây dựng thang bảng lương phù hợp với tính chất đặc thù lao động của lực lượng vũ trang, bảo đảm đãi ngộ xứng đáng, tạo động lực cống hiến",
+      "B": "Cắt giảm tối đa chi ngân sách quốc phòng",
+      "C": "Cào bằng mức thu nhập giữa tất cả các vị trí",
+      "D": "Chuyển sang trả lương theo sản phẩm kinh doanh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 917,
+    "question": "Chế độ phụ cấp đặc thù quân sự (phụ cấp độc hại, phụ cấp trách nhiệm, phụ cấp khu vực, phụ cấp biển đảo...) có ý nghĩa gì?",
+    "options": {
+      "A": "Động viên, hỗ trợ kịp thời cán bộ, chiến sĩ thực hiện nhiệm vụ ở những nơi gian khổ, nguy hiểm, bảo đảm công bằng xã hội",
+      "B": "Chỉ là khoản tiền thưởng thêm khi lập công",
+      "C": "Tự động cấp phát không cần điều kiện công tác",
+      "D": "Thay thế hoàn toàn tiền lương cơ bản"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 918,
+    "question": "Trách nhiệm của cơ quan tài chính các cấp trong Quân đội là gì?",
+    "options": {
+      "A": "Quản lý chặt chẽ ngân sách, cấp phát đúng, đủ, kịp thời các chế độ tiêu chuẩn, thực hành tiết kiệm, chống thất thoát, lãng phí, tham nhũng",
+      "B": "Giữ lại tiền ngân sách để cho vay sinh lời",
+      "C": "Tự ý cắt giảm tiêu chuẩn ăn uống của bộ đội",
+      "D": "Chỉ phục vụ chi tiêu cho cán bộ chỉ huy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 919,
+    "question": "Hành vi tham ô tài sản, bòn rút tiêu chuẩn của bộ đội hoặc lập quỹ trái phép bị xử lý như thế nào?",
+    "options": {
+      "A": "Bị xử lý nghiêm trị thích đáng, cách chức, tước danh hiệu quân nhân và truy cứu trách nhiệm hình sự, không có vùng cấm, không có ngoại lệ",
+      "B": "Chỉ cần nộp lại số tiền đã chiếm đoạt",
+      "C": "Bị phạt cảnh cáo và cho chuyển đơn vị khác",
+      "D": "Được bỏ qua nếu sau đó đơn vị đạt thành tích cao"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 920,
+    "question": "Mỗi cán bộ phụ trách công tác hậu cần, tài chính phải luôn ghi nhớ lời Bác Hồ dạy: \"Một bát cơm, một tấm áo...\"",
+    "options": {
+      "A": "...đều là mồ hôi nước mắt của đồng bào, phải giữ gìn quý trọng, không được lãng phí, tham ô",
+      "B": "...là của cải Nhà nước bao cấp nên cứ dùng thoải mái",
+      "C": "...chỉ là nhu cầu vật chất thông thường",
+      "D": "...phải phân chia cho người thân trước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 921,
+    "question": "Nhiệm vụ của công tác rà phá bom mìn, vật nổ còn sót lại sau chiến tranh do lực lượng Công binh Quân đội thực hiện có ý nghĩa gì?",
+    "options": {
+      "A": "Làm sạch đất đai, giải phóng mặt bằng phát triển kinh tế - xã hội, bảo vệ an toàn tính mạng cho nhân dân, xoa dịu nỗi đau chiến tranh",
+      "B": "Tìm kiếm kim loại phế liệu để bán",
+      "C": "Chỉ thử nghiệm thiết bị dò mìn mới",
+      "D": "Để chuẩn bị mặt bằng xây dựng doanh trại quân đội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 922,
+    "question": "Hàng triệu héc-ta đất đai bị ô nhiễm bom mìn đã được hồi sinh thành các khu đô thị, cánh đồng màu mỡ là nhờ công lao của ai?",
+    "options": {
+      "A": "Sự cống hiến, hy sinh thầm lặng, quả cảm của cán bộ, chiến sĩ Công binh và các lực lượng chức năng Quân đội nhân dân Việt Nam",
+      "B": "Tự nhiên bom mìn phân hủy theo thời gian",
+      "C": "Nhờ các công ty bất động sản nước ngoài",
+      "D": "Nhân dân tự tháo gỡ bom mìn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 923,
+    "question": "Các dự án xử lý chất độc hóa học/dioxin tại các sân bay Đà Nẵng, Phù Cát, Biên Hòa do Bộ Quốc phòng chủ trì nhằm mục đích gì?",
+    "options": {
+      "A": "Triệt tiêu nguy cơ phơi nhiễm dioxin, phục hồi môi trường trong sạch, bảo vệ sức khỏe cộng đồng và mở rộng không gian phát triển",
+      "B": "Chỉ để xây dựng kho chứa vũ khí mới",
+      "C": "Lấy đất làm bãi tập quân sự",
+      "D": "Nghiên cứu khoa học không ứng dụng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 924,
+    "question": "Chính sách chăm lo cho các nạn nhân chất độc da cam/dioxin thể hiện trách nhiệm đạo lý gì của dân tộc ta?",
+    "options": {
+      "A": "Truyền thống nhân văn sâu sắc, trách nhiệm và sự sẻ chia của Đảng, Nhà nước và toàn xã hội đối với những người mang thương tật chiến tranh",
+      "B": "Chương trình trợ cấp ngắn hạn mang tính từ thiện",
+      "C": "Nghĩa vụ của riêng ngành y tế",
+      "D": "Hình thức hỗ trợ chỉ dành cho cán bộ hưu trí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 925,
+    "question": "Hành vi kỳ thị, xa lánh hoặc vô cảm trước nỗi đau của các nạn nhân chất độc da cam bị xã hội đánh giá như thế nào?",
+    "options": {
+      "A": "Là hành vi thiếu lương tâm, vô đạo đức và đi ngược lại truyền thống nhân văn cao đẹp của dân tộc ta",
+      "B": "Là phản ứng tâm lý bình thường",
+      "C": "Không đáng bị lên án",
+      "D": "Được chấp nhận trong đời sống hiện đại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 926,
+    "question": "Ý nghĩa của việc tổ chức Ngày hội Đại đoàn kết toàn dân tộc (ngày 18/11 hàng năm) tại khu dân cư nơi đơn vị đóng quân là gì?",
+    "options": {
+      "A": "Thắt chặt tình đoàn kết giữa các tầng lớp nhân dân, củng cố mối quan hệ gắn bó máu thịt quân dân và xây dựng đời sống văn hóa mới",
+      "B": "Tổ chức các bữa tiệc ăn uống lãng phí",
+      "C": "Để cán bộ quân đội đi giao lưu giải trí",
+      "D": "Chỉ là sự kiện tuyên truyền mang tính hình thức"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 927,
+    "question": "Khi tham gia Ngày hội Đại đoàn kết cùng bà con địa phương, cán bộ, chiến sĩ cần có thái độ như thế nào?",
+    "options": {
+      "A": "Vui vẻ, hòa nhã, tôn trọng phong tục tập quán, tích cực tham gia giao lưu văn hóa thể thao, để lại hình ảnh đẹp của Bộ đội Cụ Hồ",
+      "B": "Giữ thái độ xa cách, đứng ngoài quan sát",
+      "C": "Uống rượu bia say sưa cùng người dân",
+      "D": "Tranh cãi với người dân về các quan điểm cá nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 928,
+    "question": "Vai trò của tổ chức Hội Cựu chiến binh Việt Nam trong đời sống chính trị - xã hội là gì?",
+    "options": {
+      "A": "Là tổ chức chính trị - xã hội đại diện cho ý chí, nguyện vọng của cựu chiến binh, chỗ dựa tin cậy của Đảng, chính quyền và nhân dân",
+      "B": "Chỉ là câu lạc bộ gặp mặt của người già",
+      "C": "Cơ quan giải quyết chế độ hưu trí quân đội",
+      "D": "Tổ chức kinh doanh dịch vụ bảo vệ tư nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 929,
+    "question": "Sự phối hợp giữa các đơn vị Quân đội tại ngũ với Hội Cựu chiến binh địa phương có tác dụng gì?",
+    "options": {
+      "A": "Giáo dục truyền thống cách mạng cho thế hệ trẻ, giữ vững an ninh trật tự, tham gia xây dựng thế trận quốc phòng toàn dân vững chắc",
+      "B": "Tổ chức các buổi gặp gỡ riêng tư",
+      "C": "Nhờ vả các công việc hành chính",
+      "D": "Chỉ phục vụ công tác kỷ niệm lễ tết"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 930,
+    "question": "Các cựu chiến binh phát huy phẩm chất \"Bộ đội Cụ Hồ\" trong cuộc sống đời thường bằng những việc làm gì?",
+    "options": {
+      "A": "Gương mẫu chấp hành pháp luật, tích cực lao động sản xuất, giúp nhau làm kinh tế, tham gia hòa giải cơ sở và giáo dục con cháu",
+      "B": "Đòi hỏi Nhà nước phải ưu tiên đặc quyền mọi mặt",
+      "C": "Can thiệp vào công việc chỉ huy của đơn vị tại ngũ",
+      "D": "Nghỉ ngơi an nhàn không tham gia việc xã hội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 931,
+    "question": "Nhiệm vụ của lực lượng Vận tải quân sự trong thời bình và thời chiến là gì?",
+    "options": {
+      "A": "Cơ động lực lượng, vận chuyển vũ khí, trang bị, đạn dược, lương thực, thuốc men kịp thời, bảo đảm an toàn thông suốt cho các nhiệm vụ",
+      "B": "Kinh doanh dịch vụ taxi vận tải hành khách",
+      "C": "Chỉ bảo quản xe ôtô trong nhà xe",
+      "D": "Chở hàng hóa tự do kiếm thêm thu nhập"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 932,
+    "question": "Yêu cầu đối với người lái xe quân sự khi thực hiện nhiệm vụ vận chuyển trên đường là gì?",
+    "options": {
+      "A": "Nắm vững luật giao thông, giữ gìn xe tốt lái xe an toàn, chấp hành đúng lộ trình, thời gian quy định và bảo đảm bí mật chuyến đi",
+      "B": "Chạy thật nhanh để về đơn vị sớm nghỉ ngơi",
+      "C": "Cho người lạ đi nhờ xe kiếm thêm tiền",
+      "D": "Tự ý thay đổi tuyến đường theo ý thích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 933,
+    "question": "Khẩu hiệu truyền thống của ngành Xe - Máy Quân đội là gì?",
+    "options": {
+      "A": "\"Yêu xe như con, quý xăng như máu, vượt mọi khó khăn, hoàn thành nhiệm vụ\"",
+      "B": "\"Lái xe thật nhanh, tiết kiệm thời gian\"",
+      "C": "\"Xe luôn sạch bóng, máy nổ êm tai\"",
+      "D": "\"Đi đến nơi, về đến chốn an nhàn\""
+    },
+    "answer": "A"
+  },
+  {
+    "id": 934,
+    "question": "Nhiệm vụ của ngành Quân nhu Quân đội là gì?",
+    "options": {
+      "A": "Bảo đảm ăn, mặc, ở, dụng cụ sinh hoạt và trang bị dã ngoại cho bộ đội trong mọi điều kiện huấn luyện và sẵn sàng chiến đấu",
+      "B": "Sản xuất hàng may mặc xuất khẩu ra nước ngoài",
+      "C": "Bán đồ quân trang tại các chợ dân sinh",
+      "D": "Chỉ quản lý kho vải của đơn vị"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 935,
+    "question": "Tiêu chuẩn cấp phát quân trang cho hạ sĩ quan, binh sĩ nhập ngũ hàng năm bảo đảm điều gì?",
+    "options": {
+      "A": "Đúng chủng loại, đủ số lượng, kích cỡ vừa vặn, đồng bộ, đúng thời gian quy định theo tiêu chuẩn Bộ Quốc phòng ban hành",
+      "B": "Cấp phát tùy tiện theo số lượng hàng có sẵn trong kho",
+      "C": "Bắt buộc chiến sĩ phải mua thêm bằng tiền cá nhân",
+      "D": "Chỉ cấp phát áo quần cũ đã qua sử dụng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 936,
+    "question": "Hành vi mua bán, trao đổi hoặc sử dụng quân trang trái phép ra ngoài xã hội bị xử lý như thế nào?",
+    "options": {
+      "A": "Nghiêm cấm tuyệt đối, vi phạm sẽ bị xử lý kỷ luật nghiêm khắc và tịch thu toàn bộ tang vật theo quy định",
+      "B": "Được phép bán lại quân trang cũ không dùng đến",
+      "C": "Chỉ bị phạt tiền tương đương giá trị chiếc áo",
+      "D": "Không bị cấm nếu bán cho người thân trong gia đình"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 937,
+    "question": "Nhiệm vụ của ngành Quân y trong Quân đội nhân dân Việt Nam là gì?",
+    "options": {
+      "A": "Bảo đảm y tế cho huấn luyện, sẵn sàng chiến đấu, phòng chống dịch bệnh, chăm sóc sức khỏe ban đầu và điều trị thương bệnh binh",
+      "B": "Mở phòng khám tư nhân thu tiền dịch vụ",
+      "C": "Chỉ cấp phát bông băng cồn sát trùng",
+      "D": "Nghiên cứu sản xuất thuốc đông y bán ra thị trường"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 938,
+    "question": "Phẩm chất đạo đức của người thầy thuốc quân y theo lời Bác Hồ dạy là gì?",
+    "options": {
+      "A": "\"Người thầy thuốc giỏi đồng thời phải là người mẹ hiền\" (Lương y như từ mẫu)",
+      "B": "Thầy thuốc phải có bằng cấp ngoại quốc",
+      "C": "Thầy thuốc phải nghiêm khắc làm bệnh nhân sợ",
+      "D": "Thầy thuốc phải thu đủ viện phí trước khi cấp cứu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 939,
+    "question": "Kỹ năng sơ cứu ban đầu trên chiến trường hoặc khi xảy ra tai nạn bao gồm những thao tác cơ bản nào?",
+    "options": {
+      "A": "Băng bó vết thương, garô cầm máu, cố định tạm thời gãy xương, hô hấp nhân tạo và vận chuyển nạn nhân an toàn",
+      "B": "Chỉ cần gọi xe cấp cứu rồi ngồi chờ",
+      "C": "Cho nạn nhân uống thật nhiều nước ngọt",
+      "D": "Xoa dầu nóng trực tiếp vào vết thương hở"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 940,
+    "question": "Túi thuốc cấp cứu cá nhân được trang bị cho mỗi chiến sĩ khi đi chiến đấu gồm những thứ gì?",
+    "options": {
+      "A": "Băng cuộn cá nhân tiệt trùng, thuốc giảm đau, thuốc sát trùng, viên lọc nước và bông băng y tế cơ bản",
+      "B": "Thuốc bổ, sâm nhung đắt tiền",
+      "C": "Thuốc an thần gây ngủ mạnh",
+      "D": "Chỉ có cồn đỏ và kéo cắt chỉ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 941,
+    "question": "Nhiệm vụ của ngành Xăng dầu Quân đội là gì?",
+    "options": {
+      "A": "Tiếp nhận, quản lý, dự trữ, bảo quản và cấp phát đầy đủ, kịp thời xăng, dầu, mỡ nhờn quân sự phục vụ huấn luyện, tác chiến và công tác",
+      "B": "Kinh doanh cây xăng bán lẻ cho nhân dân",
+      "C": "Chỉ lưu trữ dầu hỏa thắp sáng",
+      "D": "Tự ý pha chế xăng dầu kém chất lượng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 942,
+    "question": "Qua nghiên cứu chuyên đề năm 2026, “thời gian vàng” trong xử lý khủng hoảng truyền thông thường được xác định là:",
+    "options": {
+      "A": "Dưới 24 giờ",
+      "B": "Từ 24 đến 48 giờ",
+      "C": "Trong một tuần",
+      "D": "Sau khi có kết luận"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 943,
+    "question": "Ngành Doanh trại trong Quân đội có nhiệm vụ trọng tâm nào?",
+    "options": {
+      "A": "Bảo đảm nhà ở, nhà làm việc, doanh cụ, điện nước, quy hoạch xây dựng doanh trại chính quy, sáng, xanh, sạch, đẹp",
+      "B": "Xây dựng chung cư thương mại bán ra thị trường",
+      "C": "Chỉ sửa chữa bóng đèn bị cháy trong phòng",
+      "D": "Quản lý đất đai để cho thuê ngoài"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 944,
+    "question": "Phong trào thi đua \"Xây dựng và quản lý doanh trại chính quy, xanh, sạch, đẹp\" nhằm mục đích gì?",
+    "options": {
+      "A": "Cải thiện nâng cao đời sống bộ đội, tạo cảnh quan môi trường văn hóa quân sự mẫu mực, chính quy và bền vững",
+      "B": "Để đón các đoàn khách du lịch ghé thăm",
+      "C": "Để bán doanh trại lấy tiền xây công trình khác",
+      "D": "Chỉ chạy theo danh hiệu thi đua bề nổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 945,
+    "question": "Ý thức tự giác chăm sóc bồn hoa, cây cảnh, vệ sinh doanh trại hàng ngày rèn luyện cho chiến sĩ điều gì?",
+    "options": {
+      "A": "Tình yêu lao động, ý thức gắn bó với đơn vị xem \"Đơn vị là nhà\", nâng cao khiếu thẩm mỹ và nếp sống văn minh",
+      "B": "Chỉ làm cho đỡ buồn chán trong giờ nghỉ",
+      "C": "Làm việc theo lệnh ép buộc của cấp trên",
+      "D": "Thay thế các bài học quân sự"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 946,
+    "question": "Nhiệm vụ của ngành Quân khí Quân đội là gì?",
+    "options": {
+      "A": "Quản lý, bảo quản, bảo dưỡng, sửa chữa, thu hồi, phân cấp và cấp phát vũ khí, khí tài, đạn dược phục vụ huấn luyện và chiến đấu",
+      "B": "Mua bán súng đạn tự do trên thị trường",
+      "C": "Chỉ lau chùi súng bộ binh trong phòng",
+      "D": "Tự chế tạo vũ khí không theo thiết kế chuẩn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 947,
+    "question": "Quy định về việc bảo đảm an toàn kho đạn dược quân khí đòi hỏi việc sắp xếp như thế nào?",
+    "options": {
+      "A": "Sắp xếp theo đúng chủng loại, lô, năm sản xuất, bảo đảm khoảng cách an toàn, thông thoáng, có hệ thống chống sét và thông gió tốt",
+      "B": "Chất đống tất cả các loại đạn vào một góc cho gọn",
+      "C": "Để chung đạn dược với thùng xăng dầu cho tiện lấy",
+      "D": "Xếp đạn sát mái tôn để tiết kiệm diện tích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 948,
+    "question": "Hành vi cưa bom, đục đạn, tháo gỡ đầu đạn hoặc đốt pháo trái phép bị xử lý như thế nào?",
+    "options": {
+      "A": "Nghiêm cấm tuyệt đối, là hành vi cực kỳ nguy hiểm đến tính mạng, bị xử lý kỷ luật nghiêm khắc và truy cứu trách nhiệm hình sự",
+      "B": "Được phép làm nếu có hiểu biết kỹ thuật",
+      "C": "Chỉ bị nhắc nhở nếu không nổ",
+      "D": "Được làm nếu để lấy thuốc nổ đào ao"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 949,
+    "question": "Công tác kiểm định an toàn kỹ thuật đối với xe máy, trang thiết bị quân sự nhằm bảo đảm điều gì?",
+    "options": {
+      "A": "Bảo đảm trang bị đạt đầy đủ tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường trước khi đưa vào vận hành, sử dụng",
+      "B": "Chỉ cấp giấy chứng nhận mang tính hình thức",
+      "C": "Thu phí kiểm định nộp quỹ",
+      "D": "Để hạn chế việc sử dụng xe công"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 950,
+    "question": "Vai trò của người thợ kỹ thuật quân sự trong các nhà máy, xí nghiệp quốc phòng là gì?",
+    "options": {
+      "A": "Cần cù, tỉ mỉ, sáng tạo, làm chủ công nghệ, giữ gìn và phục hồi tính năng chiến đấu của vũ khí trang bị, góp phần tăng cường sức mạnh quân đội",
+      "B": "Làm việc theo kiểu khoán sản phẩm đại khái",
+      "C": "Chỉ sửa chữa những hỏng hóc đơn giản",
+      "D": "Làm thêm các sản phẩm dân dụng ngoài giờ mà không xin phép"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 951,
+    "question": "Một trong những nhiệm vụ trọng tâm của năm 2026 là tổ chức thành công Đại hội Đảng các cấp tiến tới Đại hội toàn quốc lần thứ mấy của Đảng?",
+    "options": {
+      "A": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "B": "Đại hội lần thứ XIII",
+      "C": "Đại hội lần thứ XV",
+      "D": "Đại hội lần thứ XVI"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 952,
+    "question": "Chủ đề của Đại hội Đảng các cấp thường thể hiện tinh thần cốt lõi nào?",
+    "options": {
+      "A": "Đoàn kết, dân chủ, kỷ cương, đổi mới sáng tạo, phát triển; nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng bộ",
+      "B": "Chỉ tập trung phát triển kinh tế thương mại",
+      "C": "Đổi mới hình thức tổ chức lễ hội",
+      "D": "Tăng cường khen thưởng cho cán bộ cấp cao"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 953,
+    "question": "Báo cáo chính trị trình Đại hội Đảng bộ các cấp có vai trò quan trọng như thế nào?",
+    "options": {
+      "A": "Là văn kiện trung tâm, kết tinh trí tuệ của toàn đảng bộ, đánh giá toàn diện nhiệm kỳ qua và vạch ra mục tiêu, giải pháp cho nhiệm kỳ tới",
+      "B": "Chỉ là bản tóm tắt các cuộc họp định kỳ",
+      "C": "Tài liệu lưu hành nội bộ không cần đóng góp ý kiến",
+      "D": "Bản báo cáo tài chính thu chi của cơ quan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 954,
+    "question": "Trách nhiệm của mỗi cán bộ, đảng viên và quần chúng trong việc tham gia đóng góp ý kiến vào văn kiện Đại hội Đảng là gì?",
+    "options": {
+      "A": "Nghiên cứu kỹ lưỡng, đóng góp ý kiến tâm huyết, trách nhiệm, thẳng thắn, mang tính xây dựng cao vì sự nghiệp phát triển chung",
+      "B": "Sao chép lại ý kiến của người khác cho nhanh",
+      "C": "Phát biểu ý kiến theo cảm tính cá nhân tiêu cực",
+      "D": "Không cần tham gia vì đã có lãnh đạo lo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 955,
+    "question": "Bầu cử cấp ủy tại Đại hội Đảng các cấp được tiến hành bằng hình thức nào theo quy định Điều lệ Đảng?",
+    "options": {
+      "A": "Bỏ phiếu kín",
+      "B": "Biểu quyết giơ tay công khai",
+      "C": "Chỉ định trực tiếp từ trên xuống",
+      "D": "Bốc thăm ngẫu nhiên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 956,
+    "question": "Tiêu chuẩn nhân sự tham gia cấp ủy nhiệm kỳ mới đòi hỏi phẩm chất gì hàng đầu?",
+    "options": {
+      "A": "Bản lĩnh chính trị vững vàng, đạo đức trong sáng, có năng lực thực tiễn nổi trội, dám nghĩ dám làm dám chịu trách nhiệm, được quần chúng tín nhiệm cao",
+      "B": "Người có độ tuổi trẻ nhất đơn vị",
+      "C": "Người có điều kiện kinh tế gia đình giàu có",
+      "D": "Người có mối quan hệ thân quen với lãnh đạo cũ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 957,
+    "question": "Ý nghĩa của việc tổ chức phong trào thi đua cao điểm chào mừng Đại hội Đảng các cấp là gì?",
+    "options": {
+      "A": "Tạo không khí thi đua sôi nổi, biến quyết tâm chính trị thành hành động cách mạng thiết thực, lập nhiều thành tích đỉnh cao dâng lên Đảng",
+      "B": "Để được nghỉ lễ nhiều hơn thường lệ",
+      "C": "Tổ chức các buổi liên hoan gặp mặt tốn kém",
+      "D": "Để chi tiêu hết số tiền ngân sách được phân bổ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 958,
+    "question": "Công tác bảo đảm an ninh, an toàn tuyệt đối cho Đại hội Đảng các cấp đòi hỏi các đơn vị Quân đội phải làm gì?",
+    "options": {
+      "A": "Nâng cao cảnh giác, duy trì nghiêm chế độ trực SSCĐ, tuần tra canh gác chặt chẽ, chủ động xử lý kịp thời mọi tình huống từ sớm, từ xa",
+      "B": "Chỉ cần khóa cổng doanh trại cẩn thận",
+      "C": "Giao khoán việc bảo vệ cho lực lượng dân phòng",
+      "D": "Chờ có lệnh báo động mới bắt đầu kiểm tra vũ khí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 959,
+    "question": "Cuộc bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 là ngày hội của ai?",
+    "options": {
+      "A": "Là Ngày hội non sông, ngày hội của toàn dân thể hiện quyền làm chủ thiêng liêng của Nhân dân thông qua lá phiếu",
+      "B": "Ngày hội riêng của các cơ quan nhà nước",
+      "C": "Ngày biểu diễn văn hóa thể thao toàn quốc",
+      "D": "Ngày nghỉ lễ vui chơi giải trí đơn thuần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 960,
+    "question": "Mỗi lá phiếu cử tri đi bầu cử thể hiện điều gì?",
+    "options": {
+      "A": "Trách nhiệm, quyền làm chủ và niềm tin sâu sắc của công dân gửi gắm vào những đại biểu xứng đáng đại diện cho ý chí, nguyện vọng của Nhân dân",
+      "B": "Thủ tục hành chính mang tính chiếu lệ",
+      "C": "Nghĩa vụ đóng thuế của cá nhân",
+      "D": "Sự ủng hộ cá nhân cho người thân thích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 961,
+    "question": "Nhiệm vụ của lực lượng vũ trang trong dịp bầu cử đại biểu Quốc hội và HĐND các cấp là gì?",
+    "options": {
+      "A": "Vừa gương mẫu thực hiện quyền bầu cử của công dân, vừa làm tốt nhiệm vụ sẵn sàng chiến đấu, bảo vệ tuyệt đối an toàn cuộc bầu cử",
+      "B": "Chỉ cần đi bầu cử sớm rồi về nghỉ ngơi",
+      "C": "Không cần tham gia bỏ phiếu nếu đang làm nhiệm vụ trực",
+      "D": "Chỉ bảo vệ thùng phiếu tại trụ sở ủy ban"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 962,
+    "question": "Khẩu hiệu tuyên truyền bầu cử đại biểu Quốc hội và Hội đồng nhân dân các cấp nhằm mục đích gì?",
+    "options": {
+      "A": "Cổ vũ, động viên toàn dân phát huy tinh thần yêu nước, ý thức trách nhiệm công dân, tích cực tham gia đi bầu cử đầy đủ, đúng luật",
+      "B": "Trang trí đường phố cho rực rỡ sắc màu",
+      "C": "Quảng cáo tên tuổi của các ứng cử viên giàu có",
+      "D": "Thông báo giá cả các mặt hàng tiêu dùng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 963,
+    "question": "Tiêu chuẩn của người đại biểu Quốc hội và đại biểu Hội đồng nhân dân theo quy định pháp luật là gì?",
+    "options": {
+      "A": "Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, cần kiệm liêm chính; có trình độ năng lực và liên hệ chặt chẽ với Nhân dân",
+      "B": "Chỉ cần có bằng cấp tiến sĩ trở lên",
+      "C": "Người nắm giữ nhiều tài sản doanh nghiệp",
+      "D": "Người thường xuyên xuất hiện trên mạng xã hội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 964,
+    "question": "Hành vi gian lận trong bầu cử, bỏ phiếu hộ, bỏ phiếu thay bị xử lý như thế nào theo pháp luật?",
+    "options": {
+      "A": "Bị nghiêm cấm tuyệt đối, vi phạm sẽ bị hủy bỏ kết quả kiểm phiếu và xử lý nghiêm theo quy định của pháp luật hình sự hoặc hành chính",
+      "B": "Được chấp nhận nếu người được nhờ có lý do bận việc",
+      "C": "Chỉ bị nhắc nhở rút kinh nghiệm lần sau",
+      "D": "Không bị xử phạt nếu không có ai khiếu kiện"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 965,
+    "question": "Trách nhiệm của công dân khi tham gia tiếp xúc cử tri với những người ứng cử đại biểu Quốc hội là gì?",
+    "options": {
+      "A": "Lắng nghe chương trình hành động của người ứng cử, thẳng thắn trao đổi, nêu lên tâm tư nguyện vọng chính đáng của cử tri và địa phương",
+      "B": "Đến dự cho đủ quân số hội trường",
+      "C": "Chỉ vỗ tay biểu quyết theo sự sắp đặt",
+      "D": "Yêu cầu các ứng cử viên phải giải quyết lợi ích riêng cho gia đình"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 966,
+    "question": "Kỳ vọng của cán bộ, chiến sĩ Quân đội nhân dân Việt Nam đối với Quốc hội khóa mới là gì?",
+    "options": {
+      "A": "Tiếp tục hoàn thiện hệ thống pháp luật về quân sự, quốc phòng, an ninh, chăm lo chính sách hậu phương quân đội và xây dựng LLVT cách mạng, chính quy, tinh nhuệ, hiện đại",
+      "B": "Cắt giảm bớt thời gian huấn luyện chiến đấu",
+      "C": "Cho phép quân đội tự chủ về kinh phí hoạt động",
+      "D": "Giảm nhẹ các chế độ kỷ luật quân ngũ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 967,
+    "question": "Năm 2026 đánh dấu bước chuyển mình quan trọng của toàn quân trong việc hoàn thành mục tiêu xây dựng Quân đội theo Nghị quyết Đại hội XIII là gì?",
+    "options": {
+      "A": "Xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại; một số quân chủng, binh chủng, lực lượng tiến thẳng lên hiện đại; tạo tiền đề vững chắc phấn đấu năm 2030 xây dựng Quân đội hiện đại",
+      "B": "Mở rộng quy mô quân số thêm 50%",
+      "C": "Chuyển đổi toàn bộ vũ khí sang mua sắm từ phương Tây",
+      "D": "Xóa bỏ các đơn vị bộ binh truyền thống"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 968,
+    "question": "Các quân chủng, binh chủng và lực lượng nào được ưu tiên tiến thẳng lên hiện đại theo định hướng của Đảng?",
+    "options": {
+      "A": "Hải quân, Phòng không - Không quân, Tác chiến không gian mạng, Dác chiến điện tử, Thông tin liên lạc, Cảnh sát biển, Tình báo quân sự...",
+      "B": "Tất cả các cơ quan hành chính quân sự",
+      "C": "Các trường đào tạo lái xe",
+      "D": "Lực lượng bảo vệ các kho lương thực"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 969,
+    "question": "Yếu tố quyết định nhất để xây dựng Quân đội hiện đại theo quan điểm của Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh là gì?",
+    "options": {
+      "A": "Con người hiện đại - có bản lĩnh chính trị vững vàng, ý chí sắt đá, trình độ học vấn cao và làm chủ vũ khí trang bị kỹ thuật tiên tiến",
+      "B": "Số lượng máy bay, tàu ngầm mua được từ nước ngoài",
+      "C": "Tài chính dồi dào tài trợ cho quân đội",
+      "D": "Khuôn viên doanh trại khang trang hiện đại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 970,
+    "question": "Để làm chủ vũ khí trang bị kỹ thuật hiện đại, mỗi cán bộ, chiến sĩ trẻ cần tích cực làm gì?",
+    "options": {
+      "A": "Tích cực học tập nghiên cứu khoa học, nâng cao trình độ ngoại ngữ, tin học, thuần thục quy trình vận hành và giữ tốt dùng bền vũ khí",
+      "B": "Chờ chuyên gia nước ngoài hướng dẫn từng nút bấm",
+      "C": "Tự ý tháo lắp sửa đổi cấu tạo vũ khí mới",
+      "D": "Chỉ học tập khi có yêu cầu kiểm tra bắt buộc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 971,
+    "question": "Sức mạnh tổng hợp của Quân đội nhân dân Việt Nam là sự kết hợp nhuần nhuyễn giữa những yếu tố nào?",
+    "options": {
+      "A": "Sức mạnh con người và vũ khí trang bị; nghệ thuật quân sự độc đáo và truyền thống yêu nước bất khuất của dân tộc",
+      "B": "Chỉ dựa vào hỏa lực pháo binh và tên lửa",
+      "C": "Dựa vào sự viện trợ của các đồng minh quốc tế",
+      "D": "Chỉ dựa vào số lượng quân số đông đảo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 972,
+    "question": "Bản chất anh hùng của Quân đội nhân dân Việt Nam được tôi luyện qua bao nhiêu năm xây dựng, chiến đấu và trưởng thành?",
+    "options": {
+      "A": "Hơn 80 năm lịch sử vẻ vang (từ 22/12/1944 đến nay), đánh thắng hai đế quốc to, bảo vệ vững chắc độc lập chủ quyền Tổ quốc",
+      "B": "Chỉ trong cuộc kháng chiến chống Mỹ",
+      "C": "Từ sau ngày Đổi mới đất nước năm 1986",
+      "D": "Khoảng 50 năm trở lại đây"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 973,
+    "question": "Truyền thống \"Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội\" nhắc nhở mỗi quân nhân điều gì?",
+    "options": {
+      "A": "Tuyệt đối trung thành vô điều kiện, kiên định lý tưởng cách mạng, coi lợi ích của Tổ quốc và Nhân dân là trên hết, trước hết",
+      "B": "Tìm kiếm danh vọng và chức tước cho bản thân",
+      "C": "Chỉ trung thành khi được đãi ngộ xứng đáng",
+      "D": "Ưu tiên phát triển kinh tế gia đình trước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 974,
+    "question": "Ý nghĩa của việc giữ gìn và phát huy giá trị văn hóa \"Bộ đội Cụ Hồ\" trong kỷ nguyên mới là gì?",
+    "options": {
+      "A": "Là sức mạnh nội sinh vô giá, ngọn cờ tập hợp tinh thần, bảo đảm Quân đội ta mãi mãi là điểm tựa niềm tin vững chắc của Đảng và Nhân dân",
+      "B": "Chỉ để lưu giữ trong bảo tàng lịch sử",
+      "C": "Để giới thiệu với khách du lịch quốc tế",
+      "D": "Là khẩu hiệu truyền thống không cần cập nhật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 975,
+    "question": "Hành động thiết thực nhất của người chiến sĩ hàng ngày tại đơn vị để học tập và làm theo Bác Hồ là gì?",
+    "options": {
+      "A": "Chấp hành nghiêm kỷ luật, tích cực huấn luyện giỏi, bảo quản súng đạn tốt, đoàn kết thương yêu đồng đội và giúp đỡ nhân dân",
+      "B": "Đọc thuộc lòng các bài viết của Bác mà không thực hành",
+      "C": "Nói thật hay trong các buổi sinh hoạt nhưng làm không tốt",
+      "D": "Chỉ làm việc tốt khi có cán bộ giám sát"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 976,
+    "question": "Ý nghĩa của việc học tập lời dạy của Bác Hồ: \"Việc gì có lợi cho dân, ta phải hết sức làm. Việc gì có hại đến dân, ta phải hết sức tránh\" là gì?",
+    "options": {
+      "A": "Đặt lợi ích của nhân dân lên hàng đầu, phụng sự nhân dân tận tụy, không bao giờ làm phiền hà, sách nhiễu đồng bào",
+      "B": "Chỉ làm việc có lợi cho người thân quen",
+      "C": "Tránh tiếp xúc với nhân dân để không có lỗi",
+      "D": "Chờ nhân dân yêu cầu mới giúp đỡ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 977,
+    "question": "Một trong những yêu cầu cấp bách trong công tác xây dựng Đảng hiện nay theo tinh thần Nghị quyết Trung ương là gì?",
+    "options": {
+      "A": "Kiên quyết ngăn chặn, đẩy lùi, xử lý nghiêm cán bộ, đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống, tham nhũng, tiêu cực",
+      "B": "Mở rộng kết nạp đảng viên thật nhanh",
+      "C": "Giảm bớt các cuộc thanh tra, kiểm tra tài chính",
+      "D": "Bỏ qua vi phạm nhỏ để giữ gìn thành tích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 978,
+    "question": "Phương châm \"Không có vùng cấm, không có ngoại lệ\" trong công tác đấu tranh phòng chống tham nhũng, tiêu cực khẳng định điều gì?",
+    "options": {
+      "A": "Bất kỳ ai vi phạm pháp luật và kỷ luật của Đảng đều bị xử lý nghiêm minh, bất kể người đó giữ chức vụ gì hay công tác ở đâu",
+      "B": "Chỉ áp dụng đối với cán bộ đã nghỉ hưu",
+      "C": "Chỉ xử lý các vụ việc nhỏ để làm gương",
+      "D": "Ưu tiên tha thứ cho cán bộ cấp cao"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 979,
+    "question": "Vai trò gương mẫu của người đứng đầu cơ quan, đơn vị trong công tác phòng chống tham nhũng, lãng phí đòi hỏi điều gì?",
+    "options": {
+      "A": "Phải đi đầu thực hiện, liêm khiết, trung thực, công khai minh bạch tài chính, chịu trách nhiệm khi để xảy ra tham nhũng trong đơn vị mình",
+      "B": "Khoán trách nhiệm cho cấp phó và kế toán",
+      "C": "Giữ bí mật các khoản chi tiêu để tránh thắc mắc",
+      "D": "Chỉ cần nhắc nhở người khác mà không cần làm gương"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 980,
+    "question": "Mỗi cán bộ, chiến sĩ có quyền và nghĩa vụ gì khi phát hiện các biểu hiện tham nhũng, lãng phí hoặc tiêu cực trong đơn vị?",
+    "options": {
+      "A": "Dũng cảm phản ánh, tố giác qua các kênh thông tin chính thức của tổ chức đảng, cơ quan thanh tra, bảo vệ để xử lý theo đúng quy định",
+      "B": "Im lặng làm ngơ để giữ hòa khí nội bộ",
+      "C": "Đăng bài tố cáo nặc danh lên mạng xã hội",
+      "D": "Tống tiền người có hành vi vi phạm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 981,
+    "question": "Ý thức bảo vệ tài sản công, chống lãng phí thời gian và công sức trong thực hiện nhiệm vụ được biểu hiện như thế nào?",
+    "options": {
+      "A": "Làm việc có kế hoạch, khoa học, khẩn trương, đúng giờ, sử dụng hiệu quả tài nguyên, ngân sách được giao vì mục tiêu chung",
+      "B": "Kéo dài thời gian làm việc để tính thêm giờ",
+      "C": "Sử dụng xe công vụ vào mục đích đi du lịch cá nhân",
+      "D": "Để máy điều hòa chạy suốt đêm trong phòng trống"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 982,
+    "question": "Quy định về việc bảo đảm tính bảo mật trong việc sử dụng điện thoại thông minh và thiết bị số cá nhân đòi hỏi điều gì?",
+    "options": {
+      "A": "Không mang điện thoại vào phòng họp mật, sở chỉ huy, không chụp ảnh tài liệu quân sự, không cài đặt phần mềm độc hại",
+      "B": "Có thể chụp ảnh súng đạn mới để khoe với người thân",
+      "C": "Bật định vị GPS liên tục khi đang diễn tập bí mật",
+      "D": "Cho người ngoài mượn điện thoại cá nhân chứa dữ liệu công việc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 983,
+    "question": "Nguy cơ mất an toàn an ninh mạng từ việc kết nối vào các mạng wifi công cộng miễn phí không an toàn là gì?",
+    "options": {
+      "A": "Dễ bị đối tượng xấu đánh cắp thông tin cá nhân, mật khẩu tài khoản và cài cắm mã độc theo dõi vị trí, dữ liệu",
+      "B": "Không có nguy cơ gì nếu máy có mật khẩu khóa màn hình",
+      "C": "Chỉ bị tốn pin điện thoại",
+      "D": "Wifi miễn phí luôn luôn an toàn tuyệt đối"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 984,
+    "question": "Mỗi quân nhân cần có trách nhiệm gì trong việc xây dựng không gian mạng an toàn, lành mạnh?",
+    "options": {
+      "A": "Nói lời hay, làm việc tốt trên mạng, chia sẻ thông tin chính thống, tích cực, không tham gia bôi nhọ, xúc phạm danh dự của người khác",
+      "B": "Tự do bình luận chửi bới người khác khi không lộ mặt",
+      "C": "Lan truyền các tin đồn vô căn cứ để câu like",
+      "D": "Tham gia cá độ bóng đá trực tuyến để giải trí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 985,
+    "question": "Hành vi sử dụng mạng xã hội để đăng bài nói xấu cấp trên, chỉ trích đồng đội hoặc làm lộ bí mật đơn vị bị xử lý thế nào?",
+    "options": {
+      "A": "Vi phạm nghiêm trọng kỷ luật quân đội và Luật An ninh mạng, bị tước danh hiệu quân nhân và xử lý hình sự nghiêm minh",
+      "B": "Chỉ bị yêu cầu xóa bài viết là xong",
+      "C": "Bị phạt trừ tiền thưởng cuối tháng",
+      "D": "Được coi là quyền tự do biểu đạt cá nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 986,
+    "question": "Tinh thần cảnh giác trước các thủ đoạn \"Bẫy tình\", \"Bẫy tài chính\" của các cơ quan tình báo nước ngoài và đối tượng xấu nhằm mục đích gì?",
+    "options": {
+      "A": "Bảo vệ an toàn bản thân, không để bị khống chế, lôi kéo, mua chuộc, trở thành tay sai phá hoại Quân đội và đất nước",
+      "B": "Tránh bị thua lỗ trong đầu tư tiền số",
+      "C": "Để tập trung vào rèn luyện thể thao",
+      "D": "Không có nguy cơ nào như vậy trong thời bình"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 987,
+    "question": "Khi nhận được những tin nhắn, cuộc gọi lạ dụ dỗ chuyển tiền, cung cấp thông tin quân sự hoặc tài khoản ngân hàng, quân nhân phải làm gì?",
+    "options": {
+      "A": "Tuyệt đối không làm theo, ghi lại thông tin và báo cáo ngay cho cơ quan chức năng, chỉ huy đơn vị để phối hợp xử lý",
+      "B": "Làm theo hướng dẫn để xem đối phương định làm gì",
+      "C": "Chuyển số tiền nhỏ để thử nghiệm",
+      "D": "Xóa ngay tin nhắn mà không báo cáo cho ai"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 988,
+    "question": "Qua nghiên cứu chuyên đề năm 2026, công nghệ nào bị các thế lực thù địch lợi dụng để giả mạo hình ảnh, giọng nói của lãnh đạo nhằm bôi nhọ?",
+    "options": {
+      "A": "Big Data",
+      "B": "Cloud Computing",
+      "C": "Deepfake",
+      "D": "Blockchain"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 989,
+    "question": "Chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU) nhằm mục tiêu gì?",
+    "options": {
+      "A": "Bảo vệ nguồn lợi thủy sản bền vững, tháo gỡ \"thẻ vàng\" của Ủy ban châu Âu (EC), nâng cao uy tín quốc gia trên trường quốc tế",
+      "B": "Cấm hoàn toàn ngư dân vươn khơi bám biển",
+      "C": "Tăng tiền phạt nộp ngân sách địa phương",
+      "D": "Chỉ bảo vệ các loài cá quý hiếm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 990,
+    "question": "Vai trò của lực lượng Hải quân, Cảnh sát biển, Biên phòng trong việc hỗ trợ ngư dân vươn khơi bám biển là gì?",
+    "options": {
+      "A": "Là điểm tựa vững chắc, bảo vệ tính mạng tài sản của ngư dân, cứu hộ cứu nạn kịp thời, cùng ngư dân khẳng định chủ quyền biển đảo thiêng liêng",
+      "B": "Kiểm tra thu thuế các tàu cá trên biển",
+      "C": "Cạnh tranh đánh bắt hải sản với ngư dân",
+      "D": "Bắt buộc ngư dân phải bán hải sản cho tàu quân đội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 991,
+    "question": "Nhiệm vụ của mỗi cán bộ, chiến sĩ trong phong trào \"Cả nước chung sức xây dựng nông thôn mới\" và \"Đô thị văn minh\" là gì?",
+    "options": {
+      "A": "Tích cực tham gia ngày công lao động, giúp nhân dân dọn vệ sinh, làm đường, kênh mương, xây dựng nếp sống văn hóa mới văn minh, tiến bộ",
+      "B": "Chỉ đóng góp kinh phí rồi không cần tham gia",
+      "C": "Yêu cầu chính quyền địa phương phải phục vụ bộ đội",
+      "D": "Tham gia chụp ảnh lưu niệm rồi về doanh trại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 992,
+    "question": "Tinh thần \"Lá lành đùm lá rách\", sẻ chia khó khăn với các gia đình chính sách, người có công với cách mạng thể hiện điều gì?",
+    "options": {
+      "A": "Đạo lý truyền thống cao đẹp của dân tộc Việt Nam, khẳng định bản chất nhân văn sâu sắc của Quân đội nhân dân Việt Nam",
+      "B": "Nhiệm vụ làm thêm chỉ tiêu ngoài giờ",
+      "C": "Sự ban ơn của lực lượng vũ trang đối với nhân dân",
+      "D": "Chỉ dành cho những ngày lễ kỷ niệm lớn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 993,
+    "question": "Mỗi khi bước vào phòng học chính trị, thái độ học tập đúng đắn của người học viên, chiến sĩ là gì?",
+    "options": {
+      "A": "Mang mặc trang phục đúng quy định, mang đủ vở ghi, bút viết, tập trung lắng nghe, ghi chép cẩn thận và tích cực tham gia thảo luận",
+      "B": "Ngồi tự do và nghe giảng qua loa",
+      "C": "Mang điện thoại cá nhân vào lướt mạng",
+      "D": "Nói chuyện riêng hoặc ngủ gật trong giờ học"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 994,
+    "question": "Mục đích của việc kiểm tra đánh giá nhận thức chính trị định kỳ hàng tháng, hàng năm đối với hạ sĩ quan, binh sĩ là gì?",
+    "options": {
+      "A": "Đánh giá thực chất mức độ hiểu biết, nhận thức của bộ đội, kịp thời bổ sung những nội dung còn thiếu, nâng cao chất lượng giáo dục",
+      "B": "Để xử phạt những người không thuộc lòng chữ nghĩa",
+      "C": "Để chấm điểm thi đua làm giảm lương phụ cấp",
+      "D": "Chỉ là thủ tục hành chính chiếu lệ cho xong việc"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 995,
+    "question": "Phương pháp ôn tập kiến thức chính trị hiệu quả nhất cho chiến sĩ là gì?",
+    "options": {
+      "A": "Gắn lý thuyết với thực tế nhiệm vụ hàng ngày của bản thân, thảo luận nhóm, trao đổi cùng đồng đội và biến nhận thức thành hành động cụ thể",
+      "B": "Học vẹt từng câu chữ mà không hiểu ý nghĩa",
+      "C": "Chỉ học lướt qua vào đêm trước ngày kiểm tra",
+      "D": "Nhờ người khác làm bài thi kiểm tra hộ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 996,
+    "question": "Ý nghĩa của câu tục ngữ \"Học đi đôi với hành\" trong quá trình học tập chính trị và quân sự là gì?",
+    "options": {
+      "A": "Kiến thức học được phải được vận dụng sáng tạo vào thực tiễn huấn luyện, rèn luyện kỷ luật và hoàn thành xuất sắc nhiệm vụ được giao",
+      "B": "Học chỉ để biết còn làm thì tùy ý",
+      "C": "Chỉ cần làm tốt không cần học lý luận",
+      "D": "Học và hành là hai việc hoàn toàn tách rời nhau"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 997,
+    "question": "Lời thề danh dự của người quân nhân trước Quân kỳ Quyết thắng thể hiện điều thiêng liêng nhất là gì?",
+    "options": {
+      "A": "Lời hứa danh dự son sắt suốt đời trung thành với Đảng, với Tổ quốc và Nhân dân, quyết tâm bảo vệ vững chắc non sông gấm vóc Việt Nam",
+      "B": "Cam kết hoàn thành hợp đồng lao động có thời hạn",
+      "C": "Nghi thức chào đón tân binh hàng năm",
+      "D": "Thủ tục tuyên thệ mang tính lễ nghi đơn thuần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 998,
+    "question": "Quân kỳ Quyết thắng của Quân đội nhân dân Việt Nam mang dòng chữ vàng nào ở góc trên bên trái cờ đỏ sao vàng?",
+    "options": {
+      "A": "Dòng chữ vàng \"QUYẾT THẮNG\"",
+      "B": "Dòng chữ vàng \"QUYẾT TỬ\"",
+      "C": "Dòng chữ vàng \"TIẾN LÊN\"",
+      "D": "Dòng chữ vàng \"TOÀN THẮNG\""
+    },
+    "answer": "A"
+  },
+  {
+    "id": 999,
+    "question": "Ý nghĩa thiêng liêng của lá cờ Quân kỳ Quyết thắng là biểu tượng của điều gì?",
+    "options": {
+      "A": "Biểu tượng của lòng dũng cảm, tinh thần quyết chiến quyết thắng, truyền thống anh hùng và niềm tự hào bất diệt của Quân đội nhân dân Việt Nam",
+      "B": "Chỉ là lá cờ hiệu dùng trong chỉ huy hành quân",
+      "C": "Vật trang trí trong phòng truyền thống đơn vị",
+      "D": "Dùng để dẫn đường cho các đoàn xe diễu binh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 1000,
+    "question": "Mục tiêu cao nhất của người chiến sĩ Quân đội nhân dân Việt Nam trong năm 2026 và suốt cuộc đời quân ngũ là gì?",
+    "options": {
+      "A": "Tuyệt đối trung thành với Đảng, với Tổ quốc, gắn bó máu thịt với Nhân dân, hoàn thành xuất sắc mọi nhiệm vụ được giao, xứng danh Bộ đội Cụ Hồ thời kỳ mới",
+      "B": "Sớm hoàn thành nghĩa vụ để về phát triển kinh tế tư nhân",
+      "C": "Chỉ mong muốn nhận được huân chương và khen thưởng cao",
+      "D": "Tránh né mọi gian nan nguy hiểm để bảo toàn tính mạng bản thân"
+    },
+    "answer": "A"
+  }
 ]

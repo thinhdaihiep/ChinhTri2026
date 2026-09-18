@@ -1,102 +1,1102 @@
 [
-  {"id":301,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ đạo, chỉ huy hoạt động trong tình trạng khẩn cấp về thảm họa là ai?","options":{"A":"Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.","B":"Ban Chỉ huy Bảo vệ an ninh quốc gia.","C":"Ban Chỉ đạo Phòng thủ dân sự quốc gia và hệ thống Ban Chỉ huy Phòng thủ dân sự các cấp.","D":"Chính quyền địa phương."},"answer":"C"},
-  {"id":302,"question":"Loại nào dưới đây không thuộc các loại tình trạng khẩn cấp được Luật Tình trạng khẩn cấp năm 2025 quy định?","options":{"A":"Tình trạng khẩn cấp về thảm họa.","B":"Tình trạng khẩn cấp về quốc phòng.","C":"Tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội.","D":"Tình trạng khẩn cấp về kinh tế."},"answer":"D"},
-  {"id":303,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, người ra quyết định ứng phó trong tình trạng khẩn cấp không phải chịu trách nhiệm khi nào?","options":{"A":"Khi quyết định gây thiệt hại nhỏ.","B":"Khi được cấp trên đồng ý bằng văn bản.","C":"Khi quyết định dựa trên thông tin có được tại thời điểm ra quyết định, đúng thẩm quyền và không có động cơ vụ lợi.","D":"Khi quyết định được đa số cơ quan liên quan thống nhất."},"answer":"C"},
-  {"id":304,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan có thẩm quyền quyết định ban bố tình trạng khẩn cấp là ai?","options":{"A":"Chính phủ.","B":"Quốc hội.","C":"Ủy ban Thường vụ Quốc hội.","D":"Chủ tịch nước."},"answer":"C"},
-  {"id":305,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, chủ thể có thẩm quyền công bố tình trạng khẩn cấp căn cứ vào nghị quyết của Ủy ban Thường vụ Quốc hội là ai?","options":{"A":"Thủ tướng Chính phủ.","B":"Chủ tịch Quốc hội.","C":"Bộ trưởng Bộ Quốc phòng.","D":"Chủ tịch nước."},"answer":"D"},
-  {"id":306,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, thông tin về tình trạng khẩn cấp phải được thực hiện như thế nào?","options":{"A":"Chỉ công bố trên Cổng thông tin Chính phủ.","B":"Chỉ thông báo cho các cơ quan liên quan.","C":"Thông báo ngay trên phương tiện thông tin đại chúng và niêm yết công khai tại địa bàn được đặt trong tình trạng khẩn cấp.","D":"Chỉ công bố khi có yêu cầu."},"answer":"C"},
-  {"id":307,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, chủ thể có thẩm quyền quyết định áp dụng các biện pháp trong tình trạng khẩn cấp là gì?","options":{"A":"Chủ tịch nước.","B":"Bộ trưởng Bộ Quốc phòng.","C":"Thủ tướng Chính phủ.","D":"Chủ tịch UBND cấp tỉnh."},"answer":"C"},
-  {"id":308,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, Thủ tướng Chính phủ được ủy quyền cho Chủ tịch UBND cấp tỉnh áp dụng biện pháp trong trường hợp nào?","options":{"A":"Tình trạng khẩn cấp về quốc phòng.","B":"Tình trạng khẩn cấp về an ninh quốc gia.","C":"Tình trạng khẩn cấp do thảm họa.","D":"Mọi loại tình trạng khẩn cấp."},"answer":"C"},
-  {"id":309,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, đối tượng nào được ưu tiên trong cứu trợ, hỗ trợ khẩn cấp?","options":{"A":"Người có thu nhập thấp","B":"Người làm việc trong khu vực công, các đối tượng nhạy cảm dễ bị tổn thương.","C":"Người có nguy cơ bị ảnh hưởng đến tính mạng, sức khỏe, đặc biệt là đối tượng dễ bị tổn thương","D":"Người đang kinh doanh"},"answer":"C"},
-  {"id":310,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ đạo, chỉ huy hoạt động trong tình trạng khẩn cấp về thảm họa là gì?","options":{"A":"Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.","B":"Ban Chỉ huy Bảo vệ an ninh quốc gia.","C":"Ban Chỉ đạo Phòng thủ dân sự quốc gia và hệ thống Ban Chỉ huy Phòng thủ dân sự các cấp.","D":"Chính quyền địa phương."},"answer":"C"},
-  {"id":311,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, quy định bao nhiêu loại tình trạng khẩn cấp?","options":{"A":"02 loại.","B":"03 loại.","C":"04 loại.","D":"05 loại."},"answer":"B"},
-  {"id":312,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội, cơ quan chỉ huy, điều hành là gì?","options":{"A":"Ban Chỉ huy Phòng thủ dân sự.","B":"Ban Chỉ huy Bảo vệ an ninh quốc gia.","C":"Bộ Quốc phòng.","D":"UBND cấp tỉnh."},"answer":"B"},
-  {"id":313,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, việc ra quyết định ứng phó trong tình trạng khẩn cấp gây thiệt hại nhưng dựa trên thông tin có được tại thời điểm ra quyết định, đúng thẩm quyền và không có động cơ vụ lợi thì như thế nào?","options":{"A":"Người ra quyết định vẫn phải chịu trách nhiệm vật chất.","B":"Người ra quyết định không phải chịu trách nhiệm.","C":"Phải bồi thường toàn bộ thiệt hại.","D":"Bị xem xét trách nhiệm hành chính."},"answer":"B"},
-  {"id":314,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trường hợp cần thiết, Thủ tướng Chính phủ được ủy quyền cho Chủ tịch UBND cấp tỉnh quyết định áp dụng biện pháp trong loại tình trạng khẩn cấp nào?","options":{"A":"Tình trạng khẩn cấp về quốc phòng.","B":"Tình trạng khẩn cấp về an ninh quốc gia.","C":"Tình trạng khẩn cấp do thảm họa.","D":"Tất cả các loại tình trạng khẩn cấp."},"answer":"C"},
-  {"id":315,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan nào là đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về tình trạng khẩn cấp?","options":{"A":"Bộ Công an.","B":"Bộ Nội vụ.","C":"Văn phòng Chính phủ.","D":"Bộ Quốc phòng."},"answer":"D"},
-  {"id":316,"question":"Theo Hiến pháp năm 2013, quyền con người, quyền công dân chỉ có thể bị hạn chế bằng?","options":{"A":"Nghị quyết của Chính phủ.","B":"Quy định của luật.","C":"Quyết định của địa phương.","D":"Chỉ thị của bộ, ngành."},"answer":"B"},
-  {"id":317,"question":"Quan điểm nào sau đây được xác định trong quá trình xây dựng Luật Tình trạng khẩn cấp?","options":{"A":"Thay thế toàn bộ quy định hiện hành.","B":"Kế thừa những quy định đã được thực tiễn kiểm nghiệm.","C":"Bãi bỏ các luật chuyên ngành liên quan.","D":"Chỉ áp dụng kinh nghiệm nước ngoài."},"answer":"B"},
-  {"id":318,"question":"Trường hợp nào sau đây không thuộc các loại tình trạng khẩn cấp theo Luật Tình trạng khẩn cấp năm 2025?","options":{"A":"Tình trạng khẩn cấp về quốc phòng.","B":"Tình trạng khẩn cấp về tài chính.","C":"Tình trạng khẩn cấp về thảm họa.","D":"Tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội."},"answer":"B"},
-  {"id":319,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, người ra quyết định ứng phó trong tình trạng khẩn cấp không phải chịu trách nhiệm khi nào?","options":{"A":"Quyết định đúng thẩm quyền và không vụ lợi.","B":"Có sự đồng ý của địa phương.","C":"Được tập thể thống nhất.","D":"Có văn bản báo cáo cấp trên."},"answer":"A"},
-  {"id":320,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong trường hợp cần thiết, Thủ tướng Chính phủ có thể ủy quyền cho Chủ tịch UBND cấp tỉnh quyết định áp dụng biện pháp như thế nào?","options":{"A":"Tình trạng khẩn cấp về quốc phòng.","B":"Tình trạng khẩn cấp về an ninh quốc gia.","C":"Tình trạng khẩn cấp do thảm họa.","D":"Mọi loại tình trạng khẩn cấp."},"answer":"C"},
-  {"id":321,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, đối tượng nào được ưu tiên trong hoạt động cứu trợ, hỗ trợ khẩn cấp?","options":{"A":"Người có thu nhập thấp.","B":"Người có công với cách mạng.","C":"Đối tượng dễ bị tổn thương.","D":"Người cư trú lâu năm."},"answer":"C"},
-  {"id":322,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, người được huy động làm nhiệm vụ trong tình trạng khẩn cấp được hưởng gì?","options":{"A":"Chính sách đặc thù và chế độ theo quy định pháp luật.","B":"Chế độ như người lao động thông thường.","C":"Chỉ được hỗ trợ ăn ở.","D":"Chỉ được thanh toán chi phí đi lại."},"answer":"A"},
-  {"id":323,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, Ban Chỉ đạo Phòng thủ dân sự quốc gia chỉ đạo, chỉ huy hoạt động trong tình trạng nào?","options":{"A":"Tình trạng khẩn cấp về quốc phòng","B":"Tình trạng khẩn cấp về thảm họa","C":"Tình trạng khẩn cấp về tài chính","D":"Tình trạng khẩn cấp về ngoại giao"},"answer":"B"},
-  {"id":324,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ huy, điều hành hoạt động trong tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội là gì?","options":{"A":"Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.","B":"Ban Chỉ huy Quân sự cấp tỉnh.","C":"Ban Chỉ huy Bảo vệ an ninh quốc gia.","D":"Ban Chỉ đạo Phòng thủ dân sự quốc gia."},"answer":"C"},
-  {"id":325,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong phạm vi ngành, lĩnh vực được giao, trách nhiệm quản lý nhà nước về tình trạng khẩn cấp thuộc về ai?","options":{"A":"Các bộ liên quan.","B":"Tòa án nhân dân.","C":"Viện kiểm sát nhân dân.","D":"Mặt trận Tổ quốc Việt Nam."},"answer":"A"},
-  {"id":326,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, một trong những trách nhiệm của cơ quan, tổ chức trong tình trạng khẩn cấp là gì?","options":{"A":"Tự quyết định ban bố tình trạng khẩn cấp.","B":"Chấp hành quyết định huy động của người có thẩm quyền.","C":"Tạm đình chỉ pháp luật hiện hành.","D":"Tự ban hành biện pháp hạn chế quyền công dân."},"answer":"B"},
-  {"id":327,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, cá nhân trong điều kiện có thể phải làm gì?","options":{"A":"Tham gia hỗ trợ cộng đồng.","B":"Thực hiện nhiệm vụ xét xử.","C":"Tổ chức cứu trợ quốc tế.","D":"Quyết định sơ tán dân cư."},"answer":"A"},
-  {"id":328,"question":"Một trong những nguyên nhân cần xây dựng Luật Tình trạng khẩn cấp là gì?","options":{"A":"Tình hình thế giới, khu vực diễn biến phức tạp.","B":"Giảm số lượng văn bản quy phạm pháp luật.","C":"Thay đổi mô hình chính quyền địa phương.","D":"Điều chỉnh tổ chức bộ máy nhà nước."},"answer":"A"},
-  {"id":329,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, Việt Nam thuộc nhóm các quốc gia như thế nào?","options":{"A":"03 quốc gia chịu ảnh hưởng lớn nhất của biến đổi khí hậu.","B":"05 quốc gia chịu ảnh hưởng nghiêm trọng nhất của biến đổi khí hậu.","C":"07 quốc gia chịu ảnh hưởng lớn nhất của biến đổi khí hậu.","D":"10 quốc gia chịu ảnh hưởng nghiêm trọng nhất của biến đổi khí hậu."},"answer":"B"},
-  {"id":330,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, một trong các loại tình trạng khẩn cấp là gì?","options":{"A":"Tình trạng khẩn cấp tài chính.","B":"Tình trạng khẩn cấp môi trường.","C":"Tình trạng khẩn cấp y tế.","D":"Tình trạng khẩn cấp về quốc phòng."},"answer":"D"},
-  {"id":331,"question":"Khi áp dụng Luật Tình trạng khẩn cấp, yêu cầu bảo đảm tính tương thích với quy định nào?","options":{"A":"Điều lệ Đảng.","B":"Hương ước địa phương.","C":"Điều ước quốc tế mà Việt Nam là thành viên.","D":"Quy chế nội bộ của cơ quan."},"answer":"C"},
-  {"id":332,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong tình trạng khẩn cấp, quyết định gây thiệt hại nhưng vẫn được xem xét miễn trách nhiệm khi người ra quyết định như thế nào?","options":{"A":"Được tập thể biểu quyết thông qua.","B":"Có động cơ phục vụ lợi ích cơ quan.","C":"Được cấp trên đồng ý bằng văn bản.","D":"Quyết định đúng thẩm quyền, không vụ lợi."},"answer":"D"},
-  {"id":333,"question":"Việc ban hành Luật Tình trạng khẩn cấp góp phần trực tiếp nhất vào yếu tố nào?","options":{"A":"Hoàn thiện hành lang pháp lý và bảo đảm tính thống nhất của hệ thống pháp luật.","B":"Giảm số lượng cơ quan nhà nước.","C":"Mở rộng quyền ban hành văn bản của địa phương.","D":"Thay đổi mô hình tổ chức Quốc hội."},"answer":"A"},
-  {"id":334,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong các nội dung dưới đây, nội dung nào phản ánh đúng trách nhiệm của cá nhân khi xảy ra tình trạng khẩn cấp?","options":{"A":"Chỉ thực hiện nhiệm vụ khi được huy động bằng văn bản.","B":"Chủ động bảo đảm an toàn cho bản thân và gia đình.","C":"Tự quyết định sơ tán khu dân cư.","D":"Tự áp dụng các biện pháp hạn chế quyền công dân."},"answer":"B"},
-  {"id":335,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, việc thông báo ban bố hoặc bãi bỏ tình trạng khẩn cấp không chỉ thực hiện trong nước mà còn phải.","options":{"A":"Thông báo cho tất cả các tổ chức quốc tế.","B":"Báo cáo Liên hợp quốc để phê chuẩn.","C":"Thông báo cho các quốc gia thành viên Công ước quốc tế về các quyền dân sự và chính trị.","D":"Xin ý kiến các nước láng giềng."},"answer":"C"},
-  {"id":336,"question":"Một trong những nguyên nhân làm cho việc nâng Pháp lệnh Tình trạng khẩn cấp lên thành Luật trở nên cần thiết là gì?","options":{"A":"Pháp lệnh có hiệu lực pháp lý thấp hơn nhiều luật chuyên ngành.","B":"Pháp lệnh chưa từng được áp dụng.","C":"Pháp lệnh không quy định về thiên tai.","D":"Pháp lệnh không quy định về quốc phòng."},"answer":"A"},
-  {"id":337,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, đâu không phải là nguyên tắc hoạt động trong tình trạng khẩn cấp?","options":{"A":"Bảo vệ lợi ích quốc gia dân tộc, tính mạng, sức khỏe của người dân, huy động sức mạnh khối đại đoàn kết dân tộc.","B":"Bảo đảm sự lãnh đạo, chỉ đạo thống nhất, xuyên suốt từ Trung ương đến địa phương, có sự phân công, phân cấp, phân quyền.","C":"Hoạt động phòng ngừa, ứng phó tình trạng khẩn cấp phải được chuẩn bị từ sớm, từ xa, chủ động xây dựng lực lượng, phương tiện, thực hiện phương châm bốn tại chỗ.","D":"Đặt dưới sự lãnh đạo và quản lý của Mặt trận tổ quốc Việt nam."},"answer":"D"},
-  {"id":338,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, nội dung nào sau đây không bắt buộc phải có trong Lệnh công bố tình trạng khẩn cấp?","options":{"A":"Lý do ban bố.","B":"Phạm vi khu vực áp dụng.","C":"Danh sách tên các nạn nhân cụ thể.","D":"Các biện pháp đặc biệt sẽ được áp dụng."},"answer":"C"},
-  {"id":339,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, trong khu vực thiết lập tình trạng khẩn cấp về an ninh quốc gia, chính quyền có thể áp dụng biện pháp nào sau đây?","options":{"A":"Cấm tụ tập đông người.","B":"Cấm mọi người dân ra khỏi nhà vô thời hạn.","C":"Tịch thu tài sản vô cớ.","D":"Bắt giữ người không cần bằng chứng."},"answer":"A"},
-  {"id":340,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, có thể ban bố tình trạng khẩn cấp cục bộ tại một xã/tỉnh thay vì cả nước được không?","options":{"A":"Không, đã là tình trạng khẩn cấp phải áp dụng toàn quốc.","B":"Có, tùy thuộc vào phạm vi ảnh hưởng của thảm họa, sự cố.","C":"Chỉ được ban bố quy mô cấp xã.","D":"Chỉ áp dụng cho khu vực biên giới, hải đảo."},"answer":"B"},
-  {"id":341,"question":"Theo Luật Tình trạng khẩn cấp năm 2025, nội dung nào sau đây không nằm trong quy định về đào tạo, huấn luyện tình trạng khẩn cấp?","options":{"A":"Bộ trưởng Bộ Quốc phòng, Bộ tưởng Bộ Công an ban hành nội dung, chương trình đào tạo, huấn luyện về tình trạng khẩn cấp cho lực lượng vũ trang.","B":"Bộ trưởng các Bộ có lực lượng chuyên trách về phòng thủ dân sự xây dựng nội dung, chương trình đào tạo, huấn luyện về tình trạng khẩn cấp cho lực lượng do Bộ mình quản lý.","C":"Ủy ban nhân dân cấp tỉnh chỉ đạo công tác huấn luyện về tình trạng khẩn cấp cho lực lượng tại địa phương.","D":"Ủy ban nhân dân cấp xã chỉ đạo công tác huấn luyện về tình trạng khẩn cấp cho lực lượng thuộc quyền."},"answer":"D"},
-  {"id":342,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nhiệm vụ nào được xác định là nhiệm vụ chính trị đặc biệt?","options":{"A":"Bảo tồn các di tích quốc gia đặc biệt.","B":"Quản lý hoạt động du lịch tại Hà Nội.","C":"Giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh và quản lý, bảo vệ Khu Di tích Lăng.","D":"Tổ chức các hoạt động văn hóa nghệ thuật."},"answer":"C"},
-  {"id":343,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công trình nào được xác định là trung tâm của Khu Di tích Lăng Chủ tịch Hồ Chí Minh?","options":{"A":"Khu K9.","B":"Quảng trường Ba Đình.","C":"Đài tưởng niệm các Anh hùng liệt sĩ.","D":"Lăng Chủ tịch Hồ Chí Minh."},"answer":"D"},
-  {"id":344,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Khu Di tích Lăng Chủ tịch Hồ Chí Minh có ý nghĩa đặc biệt trên những lĩnh vực nào?","options":{"A":"Kinh tế - thương mại.","B":"Chính trị - lịch sử - văn hóa.","C":"Du lịch - dịch vụ.","D":"Tài chính - ngân hàng."},"answer":"B"},
-  {"id":345,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, quản lý, bảo vệ Khu Di tích Lăng phải gắn với nội dung nào?","options":{"A":"Phát triển du lịch quốc tế.","B":"Phát huy ý nghĩa chính trị, văn hóa của Khu Di tích Lăng.","C":"Hoạt động thương mại.","D":"Tăng thu ngân sách."},"answer":"B"},
-  {"id":346,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh bao gồm?","options":{"A":"Hoạt động y tế - kỹ thuật.","B":"Hoạt động thương mại.","C":"Hoạt động đầu tư nước ngoài.","D":"Hoạt động sản xuất."},"answer":"A"},
-  {"id":347,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, cơ quan nào quyết định thành lập Hội đồng khoa học cấp Nhà nước về bảo quản thi hài Chủ tịch Hồ Chí Minh?","options":{"A":"Chủ tịch nước.","B":"Bộ trưởng Bộ Quốc phòng.","C":"Thủ tướng Chính phủ.","D":"Quốc hội."},"answer":"C"},
-  {"id":348,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Ban Quản lý Lăng có thẩm quyền gì?","options":{"A":"Ban hành luật.","B":"Ban hành các quy trình nội bộ về giữ gìn thi hài Chủ tịch Hồ Chí Minh.","C":"Ban hành pháp lệnh.","D":"Ban hành nghị quyết."},"answer":"B"},
-  {"id":349,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, mục tiêu bảo vệ trong Khu Di tích Lăng bao gồm?","options":{"A":"Chỉ công trình Lăng.","B":"Chỉ Quảng trường Ba Đình.","C":"Các công trình, khu vực và hoạt động chính trị, văn hóa.","D":"Chỉ Đài tưởng niệm."},"answer":"C"},
-  {"id":350,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, lực lượng trực tiếp quản lý, bảo vệ Khu Di tích Lăng thuộc ai?","options":{"A":"Bộ Tư lệnh Lăng Chủ tịch Hồ Chí Minh.","B":"UBND thành phố Hà Nội.","C":"Bộ Văn hóa, Thể thao và Du lịch.","D":"Văn phòng Chính phủ."},"answer":"A"},
-  {"id":351,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, chức năng, nhiệm vụ của lực lượng quản lý, bảo vệ Khu Di tích Lăng do ai quy định?","options":{"A":"Chính phủ.","B":"Chủ tịch nước.","C":"Bộ trưởng Bộ Quốc phòng.","D":"Quốc hội."},"answer":"C"},
-  {"id":352,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, ngân sách nhà nước bảo đảm cho nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng được bố trí như thế nào?","options":{"A":"Theo pháp luật về ngân sách nhà nước.","B":"Theo quy chế nội bộ.","C":"Theo Luật Đầu tư nước ngoài.","D":"Theo Điều lệ doanh nghiệp."},"answer":"A"},
-  {"id":353,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, quân nhân làm nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng được hưởng gì?","options":{"A":"Chế độ như quân nhân và các chế độ đặc thù phù hợp nhiệm vụ.","B":"Chỉ lương cơ bản.","C":"Chỉ phụ cấp trách nhiệm.","D":"Không có chế độ riêng."},"answer":"A"},
-  {"id":354,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công chức, viên chức thuộc Ban Quản lý Lăng được hưởng gì?","options":{"A":"Phụ cấp phục vụ quốc phòng, an ninh.","B":"Trợ cấp thất nghiệp thường xuyên.","C":"Phụ cấp độc hại ngành công nghiệp.","D":"Phụ cấp hàng hải."},"answer":"A"},
-  {"id":355,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một chính sách quan trọng đối với nguồn nhân lực là gì?","options":{"A":"Giảm tuyển dụng nhân lực chất lượng cao.","B":"Ưu tiên thu hút người có tài năng và nhà khoa học chuyên môn sâu.","C":"Hạn chế đào tạo.","D":"Chỉ tuyển dụng theo thời vụ."},"answer":"B"},
-  {"id":356,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những hoạt động chính trị tại Khu Di tích Lăng là gì?","options":{"A":"Lễ viếng Chủ tịch Hồ Chí Minh.","B":"Hội chợ thương mại.","C":"Đấu giá tài sản.","D":"Triển lãm kinh doanh."},"answer":"A"},
-  {"id":357,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nhà nước ưu tiên đẩy mạnh nội dung nào trong quản lý, bảo vệ Khu Di tích Lăng?","options":{"A":"Nghiên cứu, ứng dụng khoa học công nghệ hiện đại.","B":"Hoạt động xuất khẩu.","C":"Kinh doanh dịch vụ.","D":"Liên doanh thương mại."},"answer":"A"},
-  {"id":358,"question":"Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh quy định hợp tác quốc tế nhằm phục vụ gì?","options":{"A":"Quản lý, bảo vệ Khu Di tích Lăng.","B":"Hoạt động thương mại.","C":"Đầu tư tài chính.","D":"Xuất nhập khẩu."},"answer":"A"},
-  {"id":359,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc quản lý, bảo vệ Khu Di tích Lăng phải gắn với gì?","options":{"A":"Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh.","B":"Hoạt động kinh doanh.","C":"Phát triển du lịch đại trà.","D":"Thương mại hóa di tích."},"answer":"A"},
-  {"id":360,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những trách nhiệm của cấp ủy các cấp là gì?","options":{"A":"Đưa nội dung Pháp lệnh vào nghị quyết lãnh đạo.","B":"Ban hành pháp lệnh mới.","C":"Quy định chế độ tiền lương.","D":"Xây dựng luật."},"answer":"A"},
-  {"id":361,"question":"Cấp ủy các cấp phải tăng cường công tác nào đối với việc thực hiện Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh?","options":{"A":"Kiểm tra, giám sát.","B":"Thanh lý tài sản.","C":"Đấu thầu.","D":"Cổ phần hóa."},"answer":"A"},
-  {"id":362,"question":"Ý nghĩa quan trọng của việc triển khai Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh là gì?","options":{"A":"Tăng nguồn thu ngân sách","B":"Bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh và phát huy giá trị chính trị, lịch sử, văn hóa của Khu Di tích Lăng","C":"Mở rộng hoạt động thương mại","D":"Phát triển du lịch đại trà"},"answer":"B"},
-  {"id":363,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công trình nào được xác định là trung tâm của Khu Di tích Lăng Chủ tịch Hồ Chí Minh?","options":{"A":"Khu K9 Đá Chông.","B":"Quảng trường Ba Đình..","C":"Lăng Chủ tịch Hồ Chí Minh","D":"Đài tưởng niệm các Anh hùng liệt sĩ."},"answer":"C"},
-  {"id":364,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Khu Di tích Lăng Chủ tịch Hồ Chí Minh có ý nghĩa nổi bật nào dưới đây?","options":{"A":"Chỉ mang giá trị kiến trúc, du lịch.","B":"Chỉ phục vụ nghiên cứu khoa học.","C":"Có giá trị đặc biệt về chính trị, lịch sử, văn hóa và quốc phòng - an ninh.","D":"Chỉ phục vụ các hoạt động đối ngoại."},"answer":"C"},
-  {"id":365,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những nội dung quản lý, bảo vệ Khu Di tích Lăng là gì?","options":{"A":"Quản lý hoạt động kinh doanh dịch vụ du lịch.","B":"Quản lý, tổ chức các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.","C":"Quản lý hoạt động báo chí trên địa bàn Hà Nội.","D":"Quản lý các khu vui chơi công cộng."},"answer":"B"},
-  {"id":366,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, đặc điểm nổi bật của công tác bảo vệ Khu Di tích Lăng so với nhiều công trình quốc phòng khác là gì?","options":{"A":"Tập trung đón khách tham quan.","B":"Chỉ có lực lượng quân đội bảo vệ.","C":"Vừa bảo đảm an ninh tuyệt đối, vừa phục vụ đông đảo Nhân dân và khách quốc tế.","D":"Thực hiện nhiệm vụ sẵn sàng chiến đấu và phục vụ Nhân dân."},"answer":"C"},
-  {"id":367,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc quản lý, bảo vệ Khu Di tích Lăng phải gắn với nội dung nào?","options":{"A":"Phát triển thương mại, dịch vụ.","B":"Phát huy giá trị chính trị, lịch sử, văn hóa của Khu Di tích Lăng.","C":"Tăng nguồn thu ngân sách địa phương.","D":"Mở rộng hoạt động kinh doanh du lịch."},"answer":"B"},
-  {"id":368,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nghi lễ nào được xác định là hoạt động thường xuyên trong Khu Di tích Lăng?","options":{"A":"Diễu binh quốc gia hằng tuần.","B":"Chào cờ, hạ cờ hằng ngày tại Quảng trường Ba Đình.","C":"Lễ hội văn hóa quốc tế định kỳ.","D":"Hội chợ triển lãm chuyên ngành."},"answer":"B"},
-  {"id":369,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, mục tiêu bảo vệ trong Khu Di tích Lăng bao gồm?","options":{"A":"Chỉ các công trình kiến trúc.","B":"Chỉ khu vực Lăng Chủ tịch Hồ Chí Minh.","C":"Các công trình, khu vực và các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.","D":"Chỉ các khu vực phục vụ khách tham quan."},"answer":"C"},
-  {"id":370,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những yêu cầu đối với việc quản lý các công trình thuộc Khu Di tích Lăng là gì?","options":{"A":"Chỉ chú trọng khai thác du lịch.","B":"Duy trì không gian, cảnh quan, kiến trúc và bảo vệ môi trường.","C":"Chỉ thực hiện bảo trì khi có hư hỏng lớn.","D":"Chuyển đổi công năng khi cần thiết."},"answer":"B"},
-  {"id":371,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc tổ chức các hoạt động tại Khu Di tích Lăng phải bảo đảm yêu cầu nào?","options":{"A":"Ưu tiên hoạt động thương mại.","B":"Kết hợp chặt chẽ giữa nhiệm vụ chính trị với bảo đảm an ninh, an toàn.","C":"Chỉ phục vụ các đoàn khách quốc tế.","D":"Chỉ phục vụ các cơ quan Trung ương."},"answer":"B"},
-  {"id":372,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, ý nghĩa quan trọng của Khu Di tích Lăng Chủ tịch Hồ Chí Minh đối với các thế hệ người Việt Nam là gì?","options":{"A":"Nơi tổ chức các hoạt động vui chơi cộng đồng.","B":"Biểu tượng của di sản tư tưởng, đạo đức, phong cách Hồ Chí Minh; giáo dục truyền thống cách mạng.","C":"Trung tâm thương mại - dịch vụ của Thủ đô.","D":"Địa điểm nghiên cứu khoa học chuyên ngành."},"answer":"B"},
-  {"id":373,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, các công trình lưu giữ lâu dài thi hài Chủ tịch Hồ Chí Minh (trong đó có công trình Lăng) được xếp thuộc các công trình quốc phòng và khu quân sự Nhóm mấy?","options":{"A":"Nhóm II.","B":"Nhóm III.","C":"Nhóm I.","D":"Tất cả"},"answer":"C"},
-  {"id":374,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung quản lý, bảo vệ Khu Di tích Lăng?","options":{"A":"Giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh.","B":"Quản lý, bảo vệ các công trình, khu vực trong Khu Di tích Lăng.","C":"Quản lý, tổ chức các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.","D":"Tất cả"},"answer":"D"},
-  {"id":375,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những chính sách đặc biệt nhằm phát huy ý nghĩa chính trị, văn hóa của Khu Di tích Lăng?","options":{"A":"Ưu tiên bảo đảm phát triển nguồn nhân lực, kinh phí, cơ sở hạ tầng, hệ thống trang thiết bị hiện đại.","B":"Đẩy mạnh sáng tạo, ứng dụng khoa học, có che độ, chính sách phù hợp có tính đặc thù, ưu tiên cho các lực lượng làm nhiệm vụ quản lý, bảo vệ Khu Di tích.","C":"Ưu tiên cho các lực lượng và bộ phận làm nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng.","D":"Đầu tư phát triển khoa học, công nghệ, ưu tiên cho các lực lượng làm nhiệm vụ quản lý, bảo vệ Khu Di tích."},"answer":"A"},
-  {"id":376,"question":"Điều kiện bảo đảm cho việc thi hành Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh là gì?","options":{"A":"Bảo đảm về tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về Pháp lệnh.","B":"Bảo đảm về tổ chức nghiên cứu, xây dựng các văn bản hướng dẫn thi hành Pháp lệnh.","C":"Bảo đảm về theo dõi, đánh giá, tổng kết thi hành Pháp lệnh và các văn bản hướng dẫn thi hành.","D":"Tất cả các"},"answer":"D"},
-  {"id":377,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung nào sau đây không thuộc hoạt động giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài chủ tịch Hồ Chí Minh?","options":{"A":"Hoạt động y tế - kỹ thuật.","B":"Bảo đảm môi trường khí hậu.","C":"Hoạt động khoa học và công nghệ.","D":"Tổ chức tham quan, hướng dẫn khách tại Lăng."},"answer":"D"},
-  {"id":378,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, trong trường hợp pháp luật hiện hành đã có quy định cụ thể liên quan đến quản lý, bảo vệ Khu Di tích Lăng thì nguyên tắc áp dụng nào đúng?","options":{"A":"Áp dụng pháp lệnh trước.","B":"Áp dụng pháp luật đó.","C":"Áp dụng văn bản của Bộ Quốc phòng.","D":"Áp dụng quy định của Chính phủ."},"answer":"B"},
-  {"id":379,"question":"Phương án nào phản ánh đúng nhất về Khi Di tích Lăng theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh?","options":{"A":"Chỉ gồm các công trình đã được công nhận di tích.","B":"Chỉ gồm các công trình thuộc khu trung tâm Ba Đình.","C":"Gồm các công trình, khu vực có tính chất đặc biệt.","D":"Chỉ gồm Lăng và Quảng trường Ba Đình."},"answer":"C"},
-  {"id":380,"question":"Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, điểm nào sau đây không phải là một nội dung thuộc bảo vệ an ninh, an toàn Khu Di tích Lăng?","options":{"A":"Xác định phạm vi bảo vệ.","B":"Xác định hình thức bảo vệ.","C":"Xác định nguồn kinh phí.","D":"Bảo đảm an ninh cho hoạt động."},"answer":"C"},
-  {"id":381,"question":"Một nội dung quan trọng được Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh thể chế hóa nhưng trước đó chủ yếu được thực hiện trên cơ sở các văn bản hành chính là?","options":{"A":"Công tác nghiên cứu khoa học.","B":"Công tác tuyển chọn nhân lực.","C":"Một số nội dung nghi lễ.","D":"Công tác bảo đảm ngân sách."},"answer":"C"},
-  {"id":382,"question":"Luật Thanh tra (sửa đổi) năm 2025 đã kết thúc hoạt động của những cơ quan thanh tra nào ở các Bộ, cơ quan thuộc Chính phủ và địa phương?","options":{"A":"Kết thúc hoạt động của Thanh tra Bộ, Thanh tra Tổng cục, Cục thuộc Bộ, Thanh tra sở và Thanh tra huyện.","B":"Kết thúc hoạt động của Thanh tra Chính phủ, Thanh tra Bộ Công an, Thanh tra Bộ Quốc phòng, Thanh tra tỉnh.","C":"Kết thúc hoạt động của Thanh tra Ngân hàng Nhà nước, Thanh tra Cơ yếu và các cơ quan Thanh tra quân khu.","D":"Kết thúc hoạt động của Thanh tra Chính phủ và toàn bộ hệ thống cơ quan Thanh tra tỉnh trên cả nước."},"answer":"A"},
-  {"id":383,"question":"Sự thay đổi quan trọng nào về mặt khái niệm đã được thực hiện trong Luật Thanh tra năm 2025 (sửa đổi)?","options":{"A":"Sửa đổi khái niệm “thanh tra”, không quy định riêng các khái niệm thanh tra hành chính, thanh tra chuyên ngành.","B":"Giữ nguyên khái niệm “thanh tra” cũ và mở rộng thêm các loại hình thanh tra tư nhân, thanh tra độc lập.","C":"Bỏ hoàn toàn khái niệm “thanh tra” và thay thế bằng khái niệm “kiểm tra nhà nước” trong toàn bộ văn bản.","D":"Quy định rõ ràng phân loại 05 khái niệm thanh tra riêng biệt cho từng cấp quản lý hành chính nhà nước."},"answer":"A"},
-  {"id":384,"question":"Theo khoản 1 Điều 2 Luật Thanh tra năm 2025 (sửa đổi), khái niệm “Thanh tra” được định nghĩa chuẩn xác như thế nào?","options":{"A":"Là hoạt động xem xét, đánh giá, kết luận, kiến nghị xử lý đối với việc thực hiện chính sách, pháp luật, nhiệm vụ.","B":"Là hoạt động kiểm tra, xử phạt, thu hồi tài sản vi phạm đối với mọi cá nhân, tổ chức trên lãnh thổ Việt Nam.","C":"Là hoạt động điều tra, truy tố, xét xử các hành vi vi phạm pháp luật hành chính và hình sự của đối tượng.","D":"Là hoạt động giám sát, đôn đốc, hướng dẫn các cơ quan nhà nước thực hiện đúng chức năng, nhiệm vụ được giao."},"answer":"A"},
-  {"id":385,"question":"Theo Điều 7 Luật Thanh tra năm 2025 (sửa đổi), hệ thống các cơ quan thanh tra bao gồm những cơ quan nào?","options":{"A":"Thanh tra Chính phủ; Thanh tra tỉnh; Thanh tra Quân đội, Công an, Ngân hàng Nhà nước, Cơ yếu; Điều ước quốc tế.","B":"Thanh tra Chính phủ; Thanh tra các Bộ; Thanh tra các Tổng cục; Thanh tra các Sở và Thanh tra các Huyện.","C":"Thanh tra Chính phủ; Thanh tra các Bộ; Thanh tra tỉnh; Thanh tra Huyện và các Ban Thanh tra nhân dân.","D":"Thanh tra Chính phủ; Thanh tra Ủy ban Thường vụ Quốc hội; Thanh tra Tòa án nhân dân; Thanh tra Kiểm toán."},"answer":"A"},
-  {"id":386,"question":"Khi thực hiện sắp xếp tinh gọn bộ máy, Thanh tra Chính phủ sẽ tiếp nhận thêm chức năng, nhiệm vụ của những cơ quan nào?","options":{"A":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của 12 Thanh tra Bộ không tiếp tục duy trì cơ quan thanh tra.","B":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của toàn bộ hệ thống Thanh tra tỉnh, thành phố trực thuộc Trung ương.","C":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Bộ Công an, Thanh tra Bộ Quốc phòng và Ngân hàng.","D":"Tiếp nhận thêm chức năng, nhiệm vụ của Kiểm toán Nhà nước và cơ quan Điều tra hình sự thuộc Bộ Công an."},"answer":"A"},
-  {"id":387,"question":"Khi thực hiện sắp xếp tinh gọn bộ máy, Thanh tra tỉnh sẽ tiếp nhận thêm chức năng, nhiệm vụ của những cơ quan nào?","options":{"A":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra cấp huyện và Thanh tra các sở trên địa bàn tỉnh.","B":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Chính phủ giao lại cho địa phương thực hiện.","C":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của các cơ quan Tòa án nhân dân và Viện kiểm sát nhân dân cấp tỉnh.","D":"Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Bộ Quốc phòng và Thanh tra Bộ Công an trên địa bàn."},"answer":"A"},
-  {"id":388,"question":"Luật Thanh tra năm 2025 bổ sung nhiệm vụ, quyền hạn nào cho Tổng Thanh tra Chính phủ nhằm tăng cường mối quan hệ công tác khi tiến hành thanh tra?","options":{"A":"Đề nghị Bộ trưởng, Thủ trưởng cơ quan ngang Bộ cử công chức có chuyên môn phù hợp tham gia Đoàn thanh tra.","B":"Trực tiếp bổ nhiệm, miễn nhiệm Chánh Thanh tra các tỉnh, thành phố trực thuộc trung ương trên cả nước.","C":"Quyết định đình chỉ hoạt động của các Bộ, cơ quan ngang Bộ khi phát hiện có dấu hiệu vi phạm nghiêm trọng.","D":"Quyết định thay đổi kết luận kiểm toán của Kiểm toán Nhà nước nếu có sự trùng lặp về phạm vi thanh tra."},"answer":"A"},
-  {"id":389,"question":"Luật Thanh tra năm 2025 bổ sung nhiệm vụ, quyền hạn nào cho Chánh Thanh tra tỉnh nhằm bảo đảm năng lực cho Đoàn thanh tra?","options":{"A":"Đề nghị Giám đốc Sở, Chủ tịch UBND cấp cơ sở cử công chức có chuyên môn phù hợp tham gia Đoàn thanh tra.","B":"Trực tiếp điều động, bổ nhiệm, kỷ luật Chủ tịch Ủy ban nhân dân cấp xã và Giám đốc các Sở trên địa bàn.","C":"Quyết định bãi bỏ các Nghị quyết của Hội đồng nhân dân cấp tỉnh nếu có nội dung trái với quy định thanh tra.","D":"Phân công Thanh tra viên cấp tỉnh đảm nhiệm chức danh Trưởng công an cấp huyện khi tiến hành thanh tra."},"answer":"A"},
-  {"id":390,"question":"Quy định mới về chuyển thông tin cho cơ quan điều tra trong hoạt động thanh tra tại điểm d khoản 2 Điều 39 Luật Thanh tra 2025 được nêu như thế nào?","options":{"A":"Trường hợp phát hiện có dấu hiệu tội phạm nhưng chưa xác định hậu quả thì kết luận rõ và chuyển thông tin.","B":"Trường hợp phát hiện có dấu hiệu tội phạm phải tạm dừng toàn bộ cuộc thanh tra để chờ cơ quan điều tra trả lời.","C":"Chỉ được chuyển thông tin sau khi đã ban hành kết luận thanh tra chính thức và có ý kiến của Thủ trưởng hành chính.","D":"Bắt buộc phải xác định chính xác 100% mức độ thiệt hại kinh tế mới được phép chuyển hồ sơ sang cơ quan điều tra."},"answer":"A"},
-  {"id":391,"question":"Luật Thanh tra năm 2025 cắt giảm bao nhiêu phần trăm các thủ tục hành chính trong hoạt động thanh tra so với trước đây?","options":{"A":"Cắt giảm trên 40% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.","B":"Cắt giảm khoảng 10% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.","C":"Cắt giảm đúng 25% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.","D":"Cắt giảm khoảng 70% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so me Luật Thanh tra 2022."},"answer":"A"},
-  {"id":392,"question":"Luật Thanh tra 2025 quy định cơ chế phân cấp như thế nào đối với việc thanh tra quản lý, sử dụng vốn, tài sản nhà nước tại doanh nghiệp?","options":{"A":"Thanh tra Chính phủ và Thanh tra tỉnh chủ động thanh tra sau khi báo cáo Thủ trưởng cơ quan quản lý cùng cấp.","B":"Bắt buộc phải có sự đồng ý bằng văn bản của Thủ tướng Chính phủ mới được tiến hành thanh tra doanh nghiệp.","C":"Cấm các cơ quan thanh tra tiến hành thanh tra tại các doanh nghiệp nhà nước đã thực hiện cổ phần hóa.","D":"Giao toàn bộ thẩm quyền thanh tra vốn, tài sản nhà nước tại doanh nghiệp cho Bộ Tài chính độc lập thực hiện."},"answer":"A"},
-  {"id":393,"question":"Nội dung nào sau đây thuộc về thẩm quyền phân quyền cho Chính phủ quy định chi tiết theo Luật Thanh tra năm 2025?","options":{"A":"Quy định quản lý, sử dụng kinh phí trích cho cơ quan thanh tra và chế độ, trang phục đối với Thanh tra viên.","B":"Quy định tiêu chuẩn bổ nhiệm, miễn nhiệm các ngạch Thẩm phán Tòa án nhân dân và Kiểm sát viên các cấp.","C":"Quy định thẩm quyền xét xử các vụ án hình sự phát hiện qua hoạt động thanh tra của Thanh tra Chính phủ.","D":"Quy định cơ cấu tổ chức bộ máy và chức năng, nhiệm vụ của các cơ quan thuộc Hội đồng nhân dân cấp tỉnh."},"answer":"A"},
-  {"id":394,"question":"Nghị định số 216/2025/NĐ-CP được Chính phủ ban hành ngày 05/8/2025 quy định về nội dung cơ bản nào?","options":{"A":"Quy định chi tiết một số điều và hướng dẫn thi hành Luật Thanh tra nhằm triển khai đồng bộ Luật Thanh tra.","B":"Quy định về tổ chức và hoạt động của Thanh tra quốc phòng trong Quân đội nhân dân Việt Nam hiện nay.","C":"Quy định về tổ chức và hoạt động thanh tra Công an nhân dân trong lực lượng Công an nhân dân hiện nay.","D":"Quy định về xử phạt vi phạm hành chính trong lĩnh vực thanh tra, giải quyết khiếu nại, tố cáo toàn quốc."},"answer":"A"},
-  {"id":395,"question":"Nghị định số 217/2025/NĐ-CP được Chính phủ ban hành ngày 05/8/2025 quy định về vấn đề gì?","options":{"A":"Quy định chi tiết về hoạt động kiểm tra chuyên ngành áp dụng thống nhất trong cơ quan hành chính nhà nước.","B":"Quy định về việc trích lập, quản lý và sử dụng nguồn kinh phí từ các khoản thu hồi qua công tác thanh tra.","C":"Quy định chế độ, chính sách, trang phục, thẻ thanh tra đối với cán bộ, công chức làm công tác thanh tra.","D":"Quy định việc ứng dụng công nghệ thông tin, công nghệ số và sổ nhật ký điện tử trong Đoàn thanh tra."},"answer":"A"},
-  {"id":396,"question":"Nghị định số 284/2025/NĐ-CP do Chính phủ ban hành ngày 03/11/2025 quy định về tổ chức và hoạt động của cơ quan nào?","options":{"A":"Quy định về tổ chức và hoạt động của Thanh tra quốc phòng, thay thế cho Nghị định số 33/2014/NĐ-CP trước đây.","B":"Quy định về tổ chức và hoạt động của Thanh tra ngành Ngân hàng Nhà nước Việt Nam trong thời kỳ mới.","C":"Quy định về tổ chức và hoạt động của Thanh tra Cơ yếu thuộc Ban Cơ yếu Chính phủ theo Luật Thanh tra mới.","D":"Quy định về tổ chức và hoạt động của Thanh tra theo điều ước quốc tế mà Việt Nam là quốc gia thành viên."},"answer":"A"},
-  {"id":397,"question":"Nghị định số 273/2025/NĐ-CP do Chính phủ ban hành ngày 16/10/2025 quy định về nội dung nào?","options":{"A":"Quy định về tổ chức và hoạt động thanh tra Công an nhân dân triển khai thi hành Luật Thanh tra năm 2025.","B":"Quy định về việc phòng, chống lãng phí, tiêu cực trong các cơ quan điều tra thuộc lực lượng Công an nhân dân.","C":"Quy định quy trình giải quyết khiếu nại, tố cáo và tiếp công dân trong lực lượng Công an nhân dân hiện nay.","D":"Quy định tiêu chuẩn bổ nhiệm, miễn nhiệm cán bộ làm công tác kiểm tra, giám sát trong Công an nhân dân."},"answer":"A"},
-  {"id":398,"question":"Theo Nghị định số 284/2025/NĐ-CP, cơ quan Thanh tra quốc phòng bao gồm những cấp tổ chức nào?","options":{"A":"Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra quốc phòng Quân khu; Thanh tra Bộ Tư lệnh Thủ đô Hà Nội.","B":"Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra các Sư đoàn; Thanh tra các Trung đoàn và Thanh tra Ban CHQS cấp huyện.","C":"Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra các Quân đoàn; Thanh tra các Binh chủng và Thanh tra Học viện.","D":"Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra Bộ Tổng Tham mưu; Thanh tra Tổng cục Chính trị và các Tổng cục."},"answer":"A"},
-  {"id":399,"question":"Theo Điều 3 Nghị định số 284/2025/NĐ-CP, Thanh tra quốc phòng có chức năng cơ bản nào sau đây?","options":{"A":"Giúp Thủ trưởng cơ quan cùng cấp quản lý nhà nước về thanh tra, tiếp công dân, giải quyết KNTC, phòng chống TNC.","B":"Thực hiện nhiệm vụ điều tra các vụ án hình sự nguy hiểm phát sinh trong và ngoài lực lượng Quân đội nhân dân.","C":"Trực tiếp chỉ đạo công tác tác chiến, huấn luyện sẵn sàng chiến đấu đối với các đơn vị lực lượng vũ trang.","D":"Thẩm định, phê duyệt ngân sách quốc phòng và quyết toán thu chi tài chính hàng năm của các quân khu."},"answer":"A"},
-  {"id":400,"question":"Thanh tra Bộ Quốc phòng là cơ quan có vị trí pháp lý như thế nào theo Nghị định số 284/2025/NĐ-CP?","options":{"A":"Là cơ quan trực thuộc Bộ Quốc phòng, giúp Bộ trưởng Bộ Quốc phòng quản lý nhà nước về công tác thanh tra.","B":"Là đơn vị sự nghiệp công lập trực thuộc Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam quản lý trực tiếp.","C":"Là cơ quan chuyên môn độc lập hoàn toàn trực thuộc Tổng Thanh tra Chính phủ đặt tại Bộ Quốc phòng.","D":"Là cơ quan tham mưu thuộc Tổng cục Chính trị chịu sự chỉ đạo trực tiếp của Ủy ban Kiểm tra Quân ủy Trung ương."},"answer":"A"}
+  {
+    "id": 301,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ đạo, chỉ huy hoạt động trong tình trạng khẩn cấp về thảm họa là ai?",
+    "options": {
+      "A": "Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Ban Chỉ huy Bảo vệ an ninh quốc gia.",
+      "C": "Ban Chỉ đạo Phòng thủ dân sự quốc gia và hệ thống Ban Chỉ huy Phòng thủ dân sự các cấp.",
+      "D": "Chính quyền địa phương."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "question": "Loại nào dưới đây không thuộc các loại tình trạng khẩn cấp được Luật Tình trạng khẩn cấp năm 2025 quy định?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về thảm họa.",
+      "B": "Tình trạng khẩn cấp về quốc phòng.",
+      "C": "Tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội.",
+      "D": "Tình trạng khẩn cấp về kinh tế."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 303,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, người ra quyết định ứng phó trong tình trạng khẩn cấp không phải chịu trách nhiệm khi nào?",
+    "options": {
+      "A": "Khi quyết định gây thiệt hại nhỏ.",
+      "B": "Khi được cấp trên đồng ý bằng văn bản.",
+      "C": "Khi quyết định dựa trên thông tin có được tại thời điểm ra quyết định, đúng thẩm quyền và không có động cơ vụ lợi.",
+      "D": "Khi quyết định được đa số cơ quan liên quan thống nhất."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 304,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan có thẩm quyền quyết định ban bố tình trạng khẩn cấp là ai?",
+    "options": {
+      "A": "Chính phủ.",
+      "B": "Quốc hội.",
+      "C": "Ủy ban Thường vụ Quốc hội.",
+      "D": "Chủ tịch nước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 305,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, chủ thể có thẩm quyền công bố tình trạng khẩn cấp căn cứ vào nghị quyết của Ủy ban Thường vụ Quốc hội là ai?",
+    "options": {
+      "A": "Thủ tướng Chính phủ.",
+      "B": "Chủ tịch Quốc hội.",
+      "C": "Bộ trưởng Bộ Quốc phòng.",
+      "D": "Chủ tịch nước."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 306,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, thông tin về tình trạng khẩn cấp phải được thực hiện như thế nào?",
+    "options": {
+      "A": "Chỉ công bố trên Cổng thông tin Chính phủ.",
+      "B": "Chỉ thông báo cho các cơ quan liên quan.",
+      "C": "Thông báo ngay trên phương tiện thông tin đại chúng và niêm yết công khai tại địa bàn được đặt trong tình trạng khẩn cấp.",
+      "D": "Chỉ công bố khi có yêu cầu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 307,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, chủ thể có thẩm quyền quyết định áp dụng các biện pháp trong tình trạng khẩn cấp là gì?",
+    "options": {
+      "A": "Chủ tịch nước.",
+      "B": "Bộ trưởng Bộ Quốc phòng.",
+      "C": "Thủ tướng Chính phủ.",
+      "D": "Chủ tịch UBND cấp tỉnh."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 308,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, Thủ tướng Chính phủ được ủy quyền cho Chủ tịch UBND cấp tỉnh áp dụng biện pháp trong trường hợp nào?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Tình trạng khẩn cấp về an ninh quốc gia.",
+      "C": "Tình trạng khẩn cấp do thảm họa.",
+      "D": "Mọi loại tình trạng khẩn cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 309,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, đối tượng nào được ưu tiên trong cứu trợ, hỗ trợ khẩn cấp?",
+    "options": {
+      "A": "Người có thu nhập thấp",
+      "B": "Người làm việc trong khu vực công, các đối tượng nhạy cảm dễ bị tổn thương.",
+      "C": "Người có nguy cơ bị ảnh hưởng đến tính mạng, sức khỏe, đặc biệt là đối tượng dễ bị tổn thương",
+      "D": "Người đang kinh doanh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ đạo, chỉ huy hoạt động trong tình trạng khẩn cấp về thảm họa là gì?",
+    "options": {
+      "A": "Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Ban Chỉ huy Bảo vệ an ninh quốc gia.",
+      "C": "Ban Chỉ đạo Phòng thủ dân sự quốc gia và hệ thống Ban Chỉ huy Phòng thủ dân sự các cấp.",
+      "D": "Chính quyền địa phương."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 311,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, quy định bao nhiêu loại tình trạng khẩn cấp?",
+    "options": {
+      "A": "02 loại.",
+      "B": "03 loại.",
+      "C": "04 loại.",
+      "D": "05 loại."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 312,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội, cơ quan chỉ huy, điều hành là gì?",
+    "options": {
+      "A": "Ban Chỉ huy Phòng thủ dân sự.",
+      "B": "Ban Chỉ huy Bảo vệ an ninh quốc gia.",
+      "C": "Bộ Quốc phòng.",
+      "D": "UBND cấp tỉnh."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 313,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, việc ra quyết định ứng phó trong tình trạng khẩn cấp gây thiệt hại nhưng dựa trên thông tin có được tại thời điểm ra quyết định, đúng thẩm quyền và không có động cơ vụ lợi thì như thế nào?",
+    "options": {
+      "A": "Người ra quyết định vẫn phải chịu trách nhiệm vật chất.",
+      "B": "Người ra quyết định không phải chịu trách nhiệm.",
+      "C": "Phải bồi thường toàn bộ thiệt hại.",
+      "D": "Bị xem xét trách nhiệm hành chính."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 314,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trường hợp cần thiết, Thủ tướng Chính phủ được ủy quyền cho Chủ tịch UBND cấp tỉnh quyết định áp dụng biện pháp trong loại tình trạng khẩn cấp nào?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Tình trạng khẩn cấp về an ninh quốc gia.",
+      "C": "Tình trạng khẩn cấp do thảm họa.",
+      "D": "Tất cả các loại tình trạng khẩn cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 315,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan nào là đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về tình trạng khẩn cấp?",
+    "options": {
+      "A": "Bộ Công an.",
+      "B": "Bộ Nội vụ.",
+      "C": "Văn phòng Chính phủ.",
+      "D": "Bộ Quốc phòng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 316,
+    "question": "Theo Hiến pháp năm 2013, quyền con người, quyền công dân chỉ có thể bị hạn chế bằng?",
+    "options": {
+      "A": "Nghị quyết của Chính phủ.",
+      "B": "Quy định của luật.",
+      "C": "Quyết định của địa phương.",
+      "D": "Chỉ thị của bộ, ngành."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "question": "Quan điểm nào sau đây được xác định trong quá trình xây dựng Luật Tình trạng khẩn cấp?",
+    "options": {
+      "A": "Thay thế toàn bộ quy định hiện hành.",
+      "B": "Kế thừa những quy định đã được thực tiễn kiểm nghiệm.",
+      "C": "Bãi bỏ các luật chuyên ngành liên quan.",
+      "D": "Chỉ áp dụng kinh nghiệm nước ngoài."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 318,
+    "question": "Trường hợp nào sau đây không thuộc các loại tình trạng khẩn cấp theo Luật Tình trạng khẩn cấp năm 2025?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Tình trạng khẩn cấp về tài chính.",
+      "C": "Tình trạng khẩn cấp về thảm họa.",
+      "D": "Tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 319,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, người ra quyết định ứng phó trong tình trạng khẩn cấp không phải chịu trách nhiệm khi nào?",
+    "options": {
+      "A": "Quyết định đúng thẩm quyền và không vụ lợi.",
+      "B": "Có sự đồng ý của địa phương.",
+      "C": "Được tập thể thống nhất.",
+      "D": "Có văn bản báo cáo cấp trên."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 320,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong trường hợp cần thiết, Thủ tướng Chính phủ có thể ủy quyền cho Chủ tịch UBND cấp tỉnh quyết định áp dụng biện pháp như thế nào?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Tình trạng khẩn cấp về an ninh quốc gia.",
+      "C": "Tình trạng khẩn cấp do thảm họa.",
+      "D": "Mọi loại tình trạng khẩn cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 321,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, đối tượng nào được ưu tiên trong hoạt động cứu trợ, hỗ trợ khẩn cấp?",
+    "options": {
+      "A": "Người có thu nhập thấp.",
+      "B": "Người có công với cách mạng.",
+      "C": "Đối tượng dễ bị tổn thương.",
+      "D": "Người cư trú lâu năm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 322,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, người được huy động làm nhiệm vụ trong tình trạng khẩn cấp được hưởng gì?",
+    "options": {
+      "A": "Chính sách đặc thù và chế độ theo quy định pháp luật.",
+      "B": "Chế độ như người lao động thông thường.",
+      "C": "Chỉ được hỗ trợ ăn ở.",
+      "D": "Chỉ được thanh toán chi phí đi lại."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 323,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, Ban Chỉ đạo Phòng thủ dân sự quốc gia chỉ đạo, chỉ huy hoạt động trong tình trạng nào?",
+    "options": {
+      "A": "Tình trạng khẩn cấp về quốc phòng",
+      "B": "Tình trạng khẩn cấp về thảm họa",
+      "C": "Tình trạng khẩn cấp về tài chính",
+      "D": "Tình trạng khẩn cấp về ngoại giao"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cơ quan chỉ huy, điều hành hoạt động trong tình trạng khẩn cấp về an ninh quốc gia, trật tự, an toàn xã hội là gì?",
+    "options": {
+      "A": "Ban Chỉ huy Tình trạng khẩn cấp về quốc phòng.",
+      "B": "Ban Chỉ huy Quân sự cấp tỉnh.",
+      "C": "Ban Chỉ huy Bảo vệ an ninh quốc gia.",
+      "D": "Ban Chỉ đạo Phòng thủ dân sự quốc gia."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 325,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong phạm vi ngành, lĩnh vực được giao, trách nhiệm quản lý nhà nước về tình trạng khẩn cấp thuộc về ai?",
+    "options": {
+      "A": "Các bộ liên quan.",
+      "B": "Tòa án nhân dân.",
+      "C": "Viện kiểm sát nhân dân.",
+      "D": "Mặt trận Tổ quốc Việt Nam."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 326,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, một trong những trách nhiệm của cơ quan, tổ chức trong tình trạng khẩn cấp là gì?",
+    "options": {
+      "A": "Tự quyết định ban bố tình trạng khẩn cấp.",
+      "B": "Chấp hành quyết định huy động của người có thẩm quyền.",
+      "C": "Tạm đình chỉ pháp luật hiện hành.",
+      "D": "Tự ban hành biện pháp hạn chế quyền công dân."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 327,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, cá nhân trong điều kiện có thể phải làm gì?",
+    "options": {
+      "A": "Tham gia hỗ trợ cộng đồng.",
+      "B": "Thực hiện nhiệm vụ xét xử.",
+      "C": "Tổ chức cứu trợ quốc tế.",
+      "D": "Quyết định sơ tán dân cư."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 328,
+    "question": "Một trong những nguyên nhân cần xây dựng Luật Tình trạng khẩn cấp là gì?",
+    "options": {
+      "A": "Tình hình thế giới, khu vực diễn biến phức tạp.",
+      "B": "Giảm số lượng văn bản quy phạm pháp luật.",
+      "C": "Thay đổi mô hình chính quyền địa phương.",
+      "D": "Điều chỉnh tổ chức bộ máy nhà nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 329,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, Việt Nam thuộc nhóm các quốc gia như thế nào?",
+    "options": {
+      "A": "03 quốc gia chịu ảnh hưởng lớn nhất của biến đổi khí hậu.",
+      "B": "05 quốc gia chịu ảnh hưởng nghiêm trọng nhất của biến đổi khí hậu.",
+      "C": "07 quốc gia chịu ảnh hưởng lớn nhất của biến đổi khí hậu.",
+      "D": "10 quốc gia chịu ảnh hưởng nghiêm trọng nhất của biến đổi khí hậu."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 330,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, một trong các loại tình trạng khẩn cấp là gì?",
+    "options": {
+      "A": "Tình trạng khẩn cấp tài chính.",
+      "B": "Tình trạng khẩn cấp môi trường.",
+      "C": "Tình trạng khẩn cấp y tế.",
+      "D": "Tình trạng khẩn cấp về quốc phòng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 331,
+    "question": "Khi áp dụng Luật Tình trạng khẩn cấp, yêu cầu bảo đảm tính tương thích với quy định nào?",
+    "options": {
+      "A": "Điều lệ Đảng.",
+      "B": "Hương ước địa phương.",
+      "C": "Điều ước quốc tế mà Việt Nam là thành viên.",
+      "D": "Quy chế nội bộ của cơ quan."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong tình trạng khẩn cấp, quyết định gây thiệt hại nhưng vẫn được xem xét miễn trách nhiệm khi người ra quyết định như thế nào?",
+    "options": {
+      "A": "Được tập thể biểu quyết thông qua.",
+      "B": "Có động cơ phục vụ lợi ích cơ quan.",
+      "C": "Được cấp trên đồng ý bằng văn bản.",
+      "D": "Quyết định đúng thẩm quyền, không vụ lợi."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 333,
+    "question": "Việc ban hành Luật Tình trạng khẩn cấp góp phần trực tiếp nhất vào yếu tố nào?",
+    "options": {
+      "A": "Hoàn thiện hành lang pháp lý và bảo đảm tính thống nhất của hệ thống pháp luật.",
+      "B": "Giảm số lượng cơ quan nhà nước.",
+      "C": "Mở rộng quyền ban hành văn bản của địa phương.",
+      "D": "Thay đổi mô hình tổ chức Quốc hội."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 334,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong các nội dung dưới đây, nội dung nào phản ánh đúng trách nhiệm của cá nhân khi xảy ra tình trạng khẩn cấp?",
+    "options": {
+      "A": "Chỉ thực hiện nhiệm vụ khi được huy động bằng văn bản.",
+      "B": "Chủ động bảo đảm an toàn cho bản thân và gia đình.",
+      "C": "Tự quyết định sơ tán khu dân cư.",
+      "D": "Tự áp dụng các biện pháp hạn chế quyền công dân."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 335,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, việc thông báo ban bố hoặc bãi bỏ tình trạng khẩn cấp không chỉ thực hiện trong nước mà còn phải.",
+    "options": {
+      "A": "Thông báo cho tất cả các tổ chức quốc tế.",
+      "B": "Báo cáo Liên hợp quốc để phê chuẩn.",
+      "C": "Thông báo cho các quốc gia thành viên Công ước quốc tế về các quyền dân sự và chính trị.",
+      "D": "Xin ý kiến các nước láng giềng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 336,
+    "question": "Một trong những nguyên nhân làm cho việc nâng Pháp lệnh Tình trạng khẩn cấp lên thành Luật trở nên cần thiết là gì?",
+    "options": {
+      "A": "Pháp lệnh có hiệu lực pháp lý thấp hơn nhiều luật chuyên ngành.",
+      "B": "Pháp lệnh chưa từng được áp dụng.",
+      "C": "Pháp lệnh không quy định về thiên tai.",
+      "D": "Pháp lệnh không quy định về quốc phòng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 337,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, đâu không phải là nguyên tắc hoạt động trong tình trạng khẩn cấp?",
+    "options": {
+      "A": "Bảo vệ lợi ích quốc gia dân tộc, tính mạng, sức khỏe của người dân, huy động sức mạnh khối đại đoàn kết dân tộc.",
+      "B": "Bảo đảm sự lãnh đạo, chỉ đạo thống nhất, xuyên suốt từ Trung ương đến địa phương, có sự phân công, phân cấp, phân quyền.",
+      "C": "Hoạt động phòng ngừa, ứng phó tình trạng khẩn cấp phải được chuẩn bị từ sớm, từ xa, chủ động xây dựng lực lượng, phương tiện, thực hiện phương châm bốn tại chỗ.",
+      "D": "Đặt dưới sự lãnh đạo và quản lý của Mặt trận tổ quốc Việt nam."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 338,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, nội dung nào sau đây không bắt buộc phải có trong Lệnh công bố tình trạng khẩn cấp?",
+    "options": {
+      "A": "Lý do ban bố.",
+      "B": "Phạm vi khu vực áp dụng.",
+      "C": "Danh sách tên các nạn nhân cụ thể.",
+      "D": "Các biện pháp đặc biệt sẽ được áp dụng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 339,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, trong khu vực thiết lập tình trạng khẩn cấp về an ninh quốc gia, chính quyền có thể áp dụng biện pháp nào sau đây?",
+    "options": {
+      "A": "Cấm tụ tập đông người.",
+      "B": "Cấm mọi người dân ra khỏi nhà vô thời hạn.",
+      "C": "Tịch thu tài sản vô cớ.",
+      "D": "Bắt giữ người không cần bằng chứng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 340,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, có thể ban bố tình trạng khẩn cấp cục bộ tại một xã/tỉnh thay vì cả nước được không?",
+    "options": {
+      "A": "Không, đã là tình trạng khẩn cấp phải áp dụng toàn quốc.",
+      "B": "Có, tùy thuộc vào phạm vi ảnh hưởng của thảm họa, sự cố.",
+      "C": "Chỉ được ban bố quy mô cấp xã.",
+      "D": "Chỉ áp dụng cho khu vực biên giới, hải đảo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 341,
+    "question": "Theo Luật Tình trạng khẩn cấp năm 2025, nội dung nào sau đây không nằm trong quy định về đào tạo, huấn luyện tình trạng khẩn cấp?",
+    "options": {
+      "A": "Bộ trưởng Bộ Quốc phòng, Bộ tưởng Bộ Công an ban hành nội dung, chương trình đào tạo, huấn luyện về tình trạng khẩn cấp cho lực lượng vũ trang.",
+      "B": "Bộ trưởng các Bộ có lực lượng chuyên trách về phòng thủ dân sự xây dựng nội dung, chương trình đào tạo, huấn luyện về tình trạng khẩn cấp cho lực lượng do Bộ mình quản lý.",
+      "C": "Ủy ban nhân dân cấp tỉnh chỉ đạo công tác huấn luyện về tình trạng khẩn cấp cho lực lượng tại địa phương.",
+      "D": "Ủy ban nhân dân cấp xã chỉ đạo công tác huấn luyện về tình trạng khẩn cấp cho lực lượng thuộc quyền."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 342,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nhiệm vụ nào được xác định là nhiệm vụ chính trị đặc biệt?",
+    "options": {
+      "A": "Bảo tồn các di tích quốc gia đặc biệt.",
+      "B": "Quản lý hoạt động du lịch tại Hà Nội.",
+      "C": "Giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh và quản lý, bảo vệ Khu Di tích Lăng.",
+      "D": "Tổ chức các hoạt động văn hóa nghệ thuật."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 343,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công trình nào được xác định là trung tâm của Khu Di tích Lăng Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Khu K9.",
+      "B": "Quảng trường Ba Đình.",
+      "C": "Đài tưởng niệm các Anh hùng liệt sĩ.",
+      "D": "Lăng Chủ tịch Hồ Chí Minh."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 344,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Khu Di tích Lăng Chủ tịch Hồ Chí Minh có ý nghĩa đặc biệt trên những lĩnh vực nào?",
+    "options": {
+      "A": "Kinh tế - thương mại.",
+      "B": "Chính trị - lịch sử - văn hóa.",
+      "C": "Du lịch - dịch vụ.",
+      "D": "Tài chính - ngân hàng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 345,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, quản lý, bảo vệ Khu Di tích Lăng phải gắn với nội dung nào?",
+    "options": {
+      "A": "Phát triển du lịch quốc tế.",
+      "B": "Phát huy ý nghĩa chính trị, văn hóa của Khu Di tích Lăng.",
+      "C": "Hoạt động thương mại.",
+      "D": "Tăng thu ngân sách."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 346,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh bao gồm?",
+    "options": {
+      "A": "Hoạt động y tế - kỹ thuật.",
+      "B": "Hoạt động thương mại.",
+      "C": "Hoạt động đầu tư nước ngoài.",
+      "D": "Hoạt động sản xuất."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 347,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, cơ quan nào quyết định thành lập Hội đồng khoa học cấp Nhà nước về bảo quản thi hài Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Chủ tịch nước.",
+      "B": "Bộ trưởng Bộ Quốc phòng.",
+      "C": "Thủ tướng Chính phủ.",
+      "D": "Quốc hội."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 348,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Ban Quản lý Lăng có thẩm quyền gì?",
+    "options": {
+      "A": "Ban hành luật.",
+      "B": "Ban hành các quy trình nội bộ về giữ gìn thi hài Chủ tịch Hồ Chí Minh.",
+      "C": "Ban hành pháp lệnh.",
+      "D": "Ban hành nghị quyết."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 349,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, mục tiêu bảo vệ trong Khu Di tích Lăng bao gồm?",
+    "options": {
+      "A": "Chỉ công trình Lăng.",
+      "B": "Chỉ Quảng trường Ba Đình.",
+      "C": "Các công trình, khu vực và hoạt động chính trị, văn hóa.",
+      "D": "Chỉ Đài tưởng niệm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 350,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, lực lượng trực tiếp quản lý, bảo vệ Khu Di tích Lăng thuộc ai?",
+    "options": {
+      "A": "Bộ Tư lệnh Lăng Chủ tịch Hồ Chí Minh.",
+      "B": "UBND thành phố Hà Nội.",
+      "C": "Bộ Văn hóa, Thể thao và Du lịch.",
+      "D": "Văn phòng Chính phủ."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 351,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, chức năng, nhiệm vụ của lực lượng quản lý, bảo vệ Khu Di tích Lăng do ai quy định?",
+    "options": {
+      "A": "Chính phủ.",
+      "B": "Chủ tịch nước.",
+      "C": "Bộ trưởng Bộ Quốc phòng.",
+      "D": "Quốc hội."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 352,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, ngân sách nhà nước bảo đảm cho nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng được bố trí như thế nào?",
+    "options": {
+      "A": "Theo pháp luật về ngân sách nhà nước.",
+      "B": "Theo quy chế nội bộ.",
+      "C": "Theo Luật Đầu tư nước ngoài.",
+      "D": "Theo Điều lệ doanh nghiệp."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 353,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, quân nhân làm nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng được hưởng gì?",
+    "options": {
+      "A": "Chế độ như quân nhân và các chế độ đặc thù phù hợp nhiệm vụ.",
+      "B": "Chỉ lương cơ bản.",
+      "C": "Chỉ phụ cấp trách nhiệm.",
+      "D": "Không có chế độ riêng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 354,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công chức, viên chức thuộc Ban Quản lý Lăng được hưởng gì?",
+    "options": {
+      "A": "Phụ cấp phục vụ quốc phòng, an ninh.",
+      "B": "Trợ cấp thất nghiệp thường xuyên.",
+      "C": "Phụ cấp độc hại ngành công nghiệp.",
+      "D": "Phụ cấp hàng hải."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 355,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một chính sách quan trọng đối với nguồn nhân lực là gì?",
+    "options": {
+      "A": "Giảm tuyển dụng nhân lực chất lượng cao.",
+      "B": "Ưu tiên thu hút người có tài năng và nhà khoa học chuyên môn sâu.",
+      "C": "Hạn chế đào tạo.",
+      "D": "Chỉ tuyển dụng theo thời vụ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những hoạt động chính trị tại Khu Di tích Lăng là gì?",
+    "options": {
+      "A": "Lễ viếng Chủ tịch Hồ Chí Minh.",
+      "B": "Hội chợ thương mại.",
+      "C": "Đấu giá tài sản.",
+      "D": "Triển lãm kinh doanh."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 357,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nhà nước ưu tiên đẩy mạnh nội dung nào trong quản lý, bảo vệ Khu Di tích Lăng?",
+    "options": {
+      "A": "Nghiên cứu, ứng dụng khoa học công nghệ hiện đại.",
+      "B": "Hoạt động xuất khẩu.",
+      "C": "Kinh doanh dịch vụ.",
+      "D": "Liên doanh thương mại."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "question": "Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh quy định hợp tác quốc tế nhằm phục vụ gì?",
+    "options": {
+      "A": "Quản lý, bảo vệ Khu Di tích Lăng.",
+      "B": "Hoạt động thương mại.",
+      "C": "Đầu tư tài chính.",
+      "D": "Xuất nhập khẩu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 359,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc quản lý, bảo vệ Khu Di tích Lăng phải gắn với gì?",
+    "options": {
+      "A": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh.",
+      "B": "Hoạt động kinh doanh.",
+      "C": "Phát triển du lịch đại trà.",
+      "D": "Thương mại hóa di tích."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 360,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những trách nhiệm của cấp ủy các cấp là gì?",
+    "options": {
+      "A": "Đưa nội dung Pháp lệnh vào nghị quyết lãnh đạo.",
+      "B": "Ban hành pháp lệnh mới.",
+      "C": "Quy định chế độ tiền lương.",
+      "D": "Xây dựng luật."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 361,
+    "question": "Cấp ủy các cấp phải tăng cường công tác nào đối với việc thực hiện Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Kiểm tra, giám sát.",
+      "B": "Thanh lý tài sản.",
+      "C": "Đấu thầu.",
+      "D": "Cổ phần hóa."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 362,
+    "question": "Ý nghĩa quan trọng của việc triển khai Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh là gì?",
+    "options": {
+      "A": "Tăng nguồn thu ngân sách",
+      "B": "Bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh và phát huy giá trị chính trị, lịch sử, văn hóa của Khu Di tích Lăng",
+      "C": "Mở rộng hoạt động thương mại",
+      "D": "Phát triển du lịch đại trà"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 363,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, công trình nào được xác định là trung tâm của Khu Di tích Lăng Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Khu K9 Đá Chông.",
+      "B": "Quảng trường Ba Đình..",
+      "C": "Lăng Chủ tịch Hồ Chí Minh",
+      "D": "Đài tưởng niệm các Anh hùng liệt sĩ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 364,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, Khu Di tích Lăng Chủ tịch Hồ Chí Minh có ý nghĩa nổi bật nào dưới đây?",
+    "options": {
+      "A": "Chỉ mang giá trị kiến trúc, du lịch.",
+      "B": "Chỉ phục vụ nghiên cứu khoa học.",
+      "C": "Có giá trị đặc biệt về chính trị, lịch sử, văn hóa và quốc phòng - an ninh.",
+      "D": "Chỉ phục vụ các hoạt động đối ngoại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 365,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những nội dung quản lý, bảo vệ Khu Di tích Lăng là gì?",
+    "options": {
+      "A": "Quản lý hoạt động kinh doanh dịch vụ du lịch.",
+      "B": "Quản lý, tổ chức các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.",
+      "C": "Quản lý hoạt động báo chí trên địa bàn Hà Nội.",
+      "D": "Quản lý các khu vui chơi công cộng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 366,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, đặc điểm nổi bật của công tác bảo vệ Khu Di tích Lăng so với nhiều công trình quốc phòng khác là gì?",
+    "options": {
+      "A": "Tập trung đón khách tham quan.",
+      "B": "Chỉ có lực lượng quân đội bảo vệ.",
+      "C": "Vừa bảo đảm an ninh tuyệt đối, vừa phục vụ đông đảo Nhân dân và khách quốc tế.",
+      "D": "Thực hiện nhiệm vụ sẵn sàng chiến đấu và phục vụ Nhân dân."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 367,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc quản lý, bảo vệ Khu Di tích Lăng phải gắn với nội dung nào?",
+    "options": {
+      "A": "Phát triển thương mại, dịch vụ.",
+      "B": "Phát huy giá trị chính trị, lịch sử, văn hóa của Khu Di tích Lăng.",
+      "C": "Tăng nguồn thu ngân sách địa phương.",
+      "D": "Mở rộng hoạt động kinh doanh du lịch."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 368,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nghi lễ nào được xác định là hoạt động thường xuyên trong Khu Di tích Lăng?",
+    "options": {
+      "A": "Diễu binh quốc gia hằng tuần.",
+      "B": "Chào cờ, hạ cờ hằng ngày tại Quảng trường Ba Đình.",
+      "C": "Lễ hội văn hóa quốc tế định kỳ.",
+      "D": "Hội chợ triển lãm chuyên ngành."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 369,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, mục tiêu bảo vệ trong Khu Di tích Lăng bao gồm?",
+    "options": {
+      "A": "Chỉ các công trình kiến trúc.",
+      "B": "Chỉ khu vực Lăng Chủ tịch Hồ Chí Minh.",
+      "C": "Các công trình, khu vực và các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.",
+      "D": "Chỉ các khu vực phục vụ khách tham quan."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 370,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những yêu cầu đối với việc quản lý các công trình thuộc Khu Di tích Lăng là gì?",
+    "options": {
+      "A": "Chỉ chú trọng khai thác du lịch.",
+      "B": "Duy trì không gian, cảnh quan, kiến trúc và bảo vệ môi trường.",
+      "C": "Chỉ thực hiện bảo trì khi có hư hỏng lớn.",
+      "D": "Chuyển đổi công năng khi cần thiết."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 371,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, việc tổ chức các hoạt động tại Khu Di tích Lăng phải bảo đảm yêu cầu nào?",
+    "options": {
+      "A": "Ưu tiên hoạt động thương mại.",
+      "B": "Kết hợp chặt chẽ giữa nhiệm vụ chính trị với bảo đảm an ninh, an toàn.",
+      "C": "Chỉ phục vụ các đoàn khách quốc tế.",
+      "D": "Chỉ phục vụ các cơ quan Trung ương."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 372,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, ý nghĩa quan trọng của Khu Di tích Lăng Chủ tịch Hồ Chí Minh đối với các thế hệ người Việt Nam là gì?",
+    "options": {
+      "A": "Nơi tổ chức các hoạt động vui chơi cộng đồng.",
+      "B": "Biểu tượng của di sản tư tưởng, đạo đức, phong cách Hồ Chí Minh; giáo dục truyền thống cách mạng.",
+      "C": "Trung tâm thương mại - dịch vụ của Thủ đô.",
+      "D": "Địa điểm nghiên cứu khoa học chuyên ngành."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 373,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, các công trình lưu giữ lâu dài thi hài Chủ tịch Hồ Chí Minh (trong đó có công trình Lăng) được xếp thuộc các công trình quốc phòng và khu quân sự Nhóm mấy?",
+    "options": {
+      "A": "Nhóm II.",
+      "B": "Nhóm III.",
+      "C": "Nhóm I.",
+      "D": "Tất cả"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 374,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung quản lý, bảo vệ Khu Di tích Lăng?",
+    "options": {
+      "A": "Giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài Chủ tịch Hồ Chí Minh.",
+      "B": "Quản lý, bảo vệ các công trình, khu vực trong Khu Di tích Lăng.",
+      "C": "Quản lý, tổ chức các hoạt động chính trị, văn hóa trong Khu Di tích Lăng.",
+      "D": "Tất cả"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 375,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, một trong những chính sách đặc biệt nhằm phát huy ý nghĩa chính trị, văn hóa của Khu Di tích Lăng?",
+    "options": {
+      "A": "Ưu tiên bảo đảm phát triển nguồn nhân lực, kinh phí, cơ sở hạ tầng, hệ thống trang thiết bị hiện đại.",
+      "B": "Đẩy mạnh sáng tạo, ứng dụng khoa học, có che độ, chính sách phù hợp có tính đặc thù, ưu tiên cho các lực lượng làm nhiệm vụ quản lý, bảo vệ Khu Di tích.",
+      "C": "Ưu tiên cho các lực lượng và bộ phận làm nhiệm vụ quản lý, bảo vệ Khu Di tích Lăng.",
+      "D": "Đầu tư phát triển khoa học, công nghệ, ưu tiên cho các lực lượng làm nhiệm vụ quản lý, bảo vệ Khu Di tích."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 376,
+    "question": "Điều kiện bảo đảm cho việc thi hành Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh là gì?",
+    "options": {
+      "A": "Bảo đảm về tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về Pháp lệnh.",
+      "B": "Bảo đảm về tổ chức nghiên cứu, xây dựng các văn bản hướng dẫn thi hành Pháp lệnh.",
+      "C": "Bảo đảm về theo dõi, đánh giá, tổng kết thi hành Pháp lệnh và các văn bản hướng dẫn thi hành.",
+      "D": "Tất cả các"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 377,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, nội dung nào sau đây không thuộc hoạt động giữ gìn lâu dài, bảo vệ tuyệt đối an toàn thi hài chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Hoạt động y tế - kỹ thuật.",
+      "B": "Bảo đảm môi trường khí hậu.",
+      "C": "Hoạt động khoa học và công nghệ.",
+      "D": "Tổ chức tham quan, hướng dẫn khách tại Lăng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 378,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, trong trường hợp pháp luật hiện hành đã có quy định cụ thể liên quan đến quản lý, bảo vệ Khu Di tích Lăng thì nguyên tắc áp dụng nào đúng?",
+    "options": {
+      "A": "Áp dụng pháp lệnh trước.",
+      "B": "Áp dụng pháp luật đó.",
+      "C": "Áp dụng văn bản của Bộ Quốc phòng.",
+      "D": "Áp dụng quy định của Chính phủ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 379,
+    "question": "Phương án nào phản ánh đúng nhất về Khi Di tích Lăng theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh?",
+    "options": {
+      "A": "Chỉ gồm các công trình đã được công nhận di tích.",
+      "B": "Chỉ gồm các công trình thuộc khu trung tâm Ba Đình.",
+      "C": "Gồm các công trình, khu vực có tính chất đặc biệt.",
+      "D": "Chỉ gồm Lăng và Quảng trường Ba Đình."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 380,
+    "question": "Theo Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh, điểm nào sau đây không phải là một nội dung thuộc bảo vệ an ninh, an toàn Khu Di tích Lăng?",
+    "options": {
+      "A": "Xác định phạm vi bảo vệ.",
+      "B": "Xác định hình thức bảo vệ.",
+      "C": "Xác định nguồn kinh phí.",
+      "D": "Bảo đảm an ninh cho hoạt động."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 381,
+    "question": "Một nội dung quan trọng được Pháp lệnh quản lý, bảo vệ khu di tích Lăng Chủ tịch Hồ Chí Minh thể chế hóa nhưng trước đó chủ yếu được thực hiện trên cơ sở các văn bản hành chính là?",
+    "options": {
+      "A": "Công tác nghiên cứu khoa học.",
+      "B": "Công tác tuyển chọn nhân lực.",
+      "C": "Một số nội dung nghi lễ.",
+      "D": "Công tác bảo đảm ngân sách."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 382,
+    "question": "Luật Thanh tra (sửa đổi) năm 2025 đã kết thúc hoạt động của những cơ quan thanh tra nào ở các Bộ, cơ quan thuộc Chính phủ và địa phương?",
+    "options": {
+      "A": "Kết thúc hoạt động của Thanh tra Bộ, Thanh tra Tổng cục, Cục thuộc Bộ, Thanh tra sở và Thanh tra huyện.",
+      "B": "Kết thúc hoạt động của Thanh tra Chính phủ, Thanh tra Bộ Công an, Thanh tra Bộ Quốc phòng, Thanh tra tỉnh.",
+      "C": "Kết thúc hoạt động của Thanh tra Ngân hàng Nhà nước, Thanh tra Cơ yếu và các cơ quan Thanh tra quân khu.",
+      "D": "Kết thúc hoạt động của Thanh tra Chính phủ và toàn bộ hệ thống cơ quan Thanh tra tỉnh trên cả nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 383,
+    "question": "Sự thay đổi quan trọng nào về mặt khái niệm đã được thực hiện trong Luật Thanh tra năm 2025 (sửa đổi)?",
+    "options": {
+      "A": "Sửa đổi khái niệm “thanh tra”, không quy định riêng các khái niệm thanh tra hành chính, thanh tra chuyên ngành.",
+      "B": "Giữ nguyên khái niệm “thanh tra” cũ và mở rộng thêm các loại hình thanh tra tư nhân, thanh tra độc lập.",
+      "C": "Bỏ hoàn toàn khái niệm “thanh tra” và thay thế bằng khái niệm “kiểm tra nhà nước” trong toàn bộ văn bản.",
+      "D": "Quy định rõ ràng phân loại 05 khái niệm thanh tra riêng biệt cho từng cấp quản lý hành chính nhà nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 384,
+    "question": "Theo khoản 1 Điều 2 Luật Thanh tra năm 2025 (sửa đổi), khái niệm “Thanh tra” được định nghĩa chuẩn xác như thế nào?",
+    "options": {
+      "A": "Là hoạt động xem xét, đánh giá, kết luận, kiến nghị xử lý đối với việc thực hiện chính sách, pháp luật, nhiệm vụ.",
+      "B": "Là hoạt động kiểm tra, xử phạt, thu hồi tài sản vi phạm đối với mọi cá nhân, tổ chức trên lãnh thổ Việt Nam.",
+      "C": "Là hoạt động điều tra, truy tố, xét xử các hành vi vi phạm pháp luật hành chính và hình sự của đối tượng.",
+      "D": "Là hoạt động giám sát, đôn đốc, hướng dẫn các cơ quan nhà nước thực hiện đúng chức năng, nhiệm vụ được giao."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 385,
+    "question": "Theo Điều 7 Luật Thanh tra năm 2025 (sửa đổi), hệ thống các cơ quan thanh tra bao gồm những cơ quan nào?",
+    "options": {
+      "A": "Thanh tra Chính phủ; Thanh tra tỉnh; Thanh tra Quân đội, Công an, Ngân hàng Nhà nước, Cơ yếu; Điều ước quốc tế.",
+      "B": "Thanh tra Chính phủ; Thanh tra các Bộ; Thanh tra các Tổng cục; Thanh tra các Sở và Thanh tra các Huyện.",
+      "C": "Thanh tra Chính phủ; Thanh tra các Bộ; Thanh tra tỉnh; Thanh tra Huyện và các Ban Thanh tra nhân dân.",
+      "D": "Thanh tra Chính phủ; Thanh tra Ủy ban Thường vụ Quốc hội; Thanh tra Tòa án nhân dân; Thanh tra Kiểm toán."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 386,
+    "question": "Khi thực hiện sắp xếp tinh gọn bộ máy, Thanh tra Chính phủ sẽ tiếp nhận thêm chức năng, nhiệm vụ của những cơ quan nào?",
+    "options": {
+      "A": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của 12 Thanh tra Bộ không tiếp tục duy trì cơ quan thanh tra.",
+      "B": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của toàn bộ hệ thống Thanh tra tỉnh, thành phố trực thuộc Trung ương.",
+      "C": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Bộ Công an, Thanh tra Bộ Quốc phòng và Ngân hàng.",
+      "D": "Tiếp nhận thêm chức năng, nhiệm vụ của Kiểm toán Nhà nước và cơ quan Điều tra hình sự thuộc Bộ Công an."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 387,
+    "question": "Khi thực hiện sắp xếp tinh gọn bộ máy, Thanh tra tỉnh sẽ tiếp nhận thêm chức năng, nhiệm vụ của những cơ quan nào?",
+    "options": {
+      "A": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra cấp huyện và Thanh tra các sở trên địa bàn tỉnh.",
+      "B": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Chính phủ giao lại cho địa phương thực hiện.",
+      "C": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của các cơ quan Tòa án nhân dân và Viện kiểm sát nhân dân cấp tỉnh.",
+      "D": "Tiếp nhận thêm chức năng, nhiệm vụ thanh tra của Thanh tra Bộ Quốc phòng và Thanh tra Bộ Công an trên địa bàn."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 388,
+    "question": "Luật Thanh tra năm 2025 bổ sung nhiệm vụ, quyền hạn nào cho Tổng Thanh tra Chính phủ nhằm tăng cường mối quan hệ công tác khi tiến hành thanh tra?",
+    "options": {
+      "A": "Đề nghị Bộ trưởng, Thủ trưởng cơ quan ngang Bộ cử công chức có chuyên môn phù hợp tham gia Đoàn thanh tra.",
+      "B": "Trực tiếp bổ nhiệm, miễn nhiệm Chánh Thanh tra các tỉnh, thành phố trực thuộc trung ương trên cả nước.",
+      "C": "Quyết định đình chỉ hoạt động của các Bộ, cơ quan ngang Bộ khi phát hiện có dấu hiệu vi phạm nghiêm trọng.",
+      "D": "Quyết định thay đổi kết luận kiểm toán của Kiểm toán Nhà nước nếu có sự trùng lặp về phạm vi thanh tra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 389,
+    "question": "Luật Thanh tra năm 2025 bổ sung nhiệm vụ, quyền hạn nào cho Chánh Thanh tra tỉnh nhằm bảo đảm năng lực cho Đoàn thanh tra?",
+    "options": {
+      "A": "Đề nghị Giám đốc Sở, Chủ tịch UBND cấp cơ sở cử công chức có chuyên môn phù hợp tham gia Đoàn thanh tra.",
+      "B": "Trực tiếp điều động, bổ nhiệm, kỷ luật Chủ tịch Ủy ban nhân dân cấp xã và Giám đốc các Sở trên địa bàn.",
+      "C": "Quyết định bãi bỏ các Nghị quyết của Hội đồng nhân dân cấp tỉnh nếu có nội dung trái với quy định thanh tra.",
+      "D": "Phân công Thanh tra viên cấp tỉnh đảm nhiệm chức danh Trưởng công an cấp huyện khi tiến hành thanh tra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 390,
+    "question": "Quy định mới về chuyển thông tin cho cơ quan điều tra trong hoạt động thanh tra tại điểm d khoản 2 Điều 39 Luật Thanh tra 2025 được nêu như thế nào?",
+    "options": {
+      "A": "Trường hợp phát hiện có dấu hiệu tội phạm nhưng chưa xác định hậu quả thì kết luận rõ và chuyển thông tin.",
+      "B": "Trường hợp phát hiện có dấu hiệu tội phạm phải tạm dừng toàn bộ cuộc thanh tra để chờ cơ quan điều tra trả lời.",
+      "C": "Chỉ được chuyển thông tin sau khi đã ban hành kết luận thanh tra chính thức và có ý kiến của Thủ trưởng hành chính.",
+      "D": "Bắt buộc phải xác định chính xác 100% mức độ thiệt hại kinh tế mới được phép chuyển hồ sơ sang cơ quan điều tra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 391,
+    "question": "Luật Thanh tra năm 2025 cắt giảm bao nhiêu phần trăm các thủ tục hành chính trong hoạt động thanh tra so với trước đây?",
+    "options": {
+      "A": "Cắt giảm trên 40% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.",
+      "B": "Cắt giảm khoảng 10% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.",
+      "C": "Cắt giảm đúng 25% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so với Luật Thanh tra 2022.",
+      "D": "Cắt giảm khoảng 70% các thủ tục hành chính trong tổ chức và hoạt động thanh tra so me Luật Thanh tra 2022."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 392,
+    "question": "Luật Thanh tra 2025 quy định cơ chế phân cấp như thế nào đối với việc thanh tra quản lý, sử dụng vốn, tài sản nhà nước tại doanh nghiệp?",
+    "options": {
+      "A": "Thanh tra Chính phủ và Thanh tra tỉnh chủ động thanh tra sau khi báo cáo Thủ trưởng cơ quan quản lý cùng cấp.",
+      "B": "Bắt buộc phải có sự đồng ý bằng văn bản của Thủ tướng Chính phủ mới được tiến hành thanh tra doanh nghiệp.",
+      "C": "Cấm các cơ quan thanh tra tiến hành thanh tra tại các doanh nghiệp nhà nước đã thực hiện cổ phần hóa.",
+      "D": "Giao toàn bộ thẩm quyền thanh tra vốn, tài sản nhà nước tại doanh nghiệp cho Bộ Tài chính độc lập thực hiện."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 393,
+    "question": "Nội dung nào sau đây thuộc về thẩm quyền phân quyền cho Chính phủ quy định chi tiết theo Luật Thanh tra năm 2025?",
+    "options": {
+      "A": "Quy định quản lý, sử dụng kinh phí trích cho cơ quan thanh tra và chế độ, trang phục đối với Thanh tra viên.",
+      "B": "Quy định tiêu chuẩn bổ nhiệm, miễn nhiệm các ngạch Thẩm phán Tòa án nhân dân và Kiểm sát viên các cấp.",
+      "C": "Quy định thẩm quyền xét xử các vụ án hình sự phát hiện qua hoạt động thanh tra của Thanh tra Chính phủ.",
+      "D": "Quy định cơ cấu tổ chức bộ máy và chức năng, nhiệm vụ của các cơ quan thuộc Hội đồng nhân dân cấp tỉnh."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 394,
+    "question": "Nghị định số 216/2025/NĐ-CP được Chính phủ ban hành ngày 05/8/2025 quy định về nội dung cơ bản nào?",
+    "options": {
+      "A": "Quy định chi tiết một số điều và hướng dẫn thi hành Luật Thanh tra nhằm triển khai đồng bộ Luật Thanh tra.",
+      "B": "Quy định về tổ chức và hoạt động của Thanh tra quốc phòng trong Quân đội nhân dân Việt Nam hiện nay.",
+      "C": "Quy định về tổ chức và hoạt động thanh tra Công an nhân dân trong lực lượng Công an nhân dân hiện nay.",
+      "D": "Quy định về xử phạt vi phạm hành chính trong lĩnh vực thanh tra, giải quyết khiếu nại, tố cáo toàn quốc."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 395,
+    "question": "Nghị định số 217/2025/NĐ-CP được Chính phủ ban hành ngày 05/8/2025 quy định về vấn đề gì?",
+    "options": {
+      "A": "Quy định chi tiết về hoạt động kiểm tra chuyên ngành áp dụng thống nhất trong cơ quan hành chính nhà nước.",
+      "B": "Quy định về việc trích lập, quản lý và sử dụng nguồn kinh phí từ các khoản thu hồi qua công tác thanh tra.",
+      "C": "Quy định chế độ, chính sách, trang phục, thẻ thanh tra đối với cán bộ, công chức làm công tác thanh tra.",
+      "D": "Quy định việc ứng dụng công nghệ thông tin, công nghệ số và sổ nhật ký điện tử trong Đoàn thanh tra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 396,
+    "question": "Nghị định số 284/2025/NĐ-CP do Chính phủ ban hành ngày 03/11/2025 quy định về tổ chức và hoạt động của cơ quan nào?",
+    "options": {
+      "A": "Quy định về tổ chức và hoạt động của Thanh tra quốc phòng, thay thế cho Nghị định số 33/2014/NĐ-CP trước đây.",
+      "B": "Quy định về tổ chức và hoạt động của Thanh tra ngành Ngân hàng Nhà nước Việt Nam trong thời kỳ mới.",
+      "C": "Quy định về tổ chức và hoạt động của Thanh tra Cơ yếu thuộc Ban Cơ yếu Chính phủ theo Luật Thanh tra mới.",
+      "D": "Quy định về tổ chức và hoạt động của Thanh tra theo điều ước quốc tế mà Việt Nam là quốc gia thành viên."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 397,
+    "question": "Nghị định số 273/2025/NĐ-CP do Chính phủ ban hành ngày 16/10/2025 quy định về nội dung nào?",
+    "options": {
+      "A": "Quy định về tổ chức và hoạt động thanh tra Công an nhân dân triển khai thi hành Luật Thanh tra năm 2025.",
+      "B": "Quy định về việc phòng, chống lãng phí, tiêu cực trong các cơ quan điều tra thuộc lực lượng Công an nhân dân.",
+      "C": "Quy định quy trình giải quyết khiếu nại, tố cáo và tiếp công dân trong lực lượng Công an nhân dân hiện nay.",
+      "D": "Quy định tiêu chuẩn bổ nhiệm, miễn nhiệm cán bộ làm công tác kiểm tra, giám sát trong Công an nhân dân."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 398,
+    "question": "Theo Nghị định số 284/2025/NĐ-CP, cơ quan Thanh tra quốc phòng bao gồm những cấp tổ chức nào?",
+    "options": {
+      "A": "Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra quốc phòng Quân khu; Thanh tra Bộ Tư lệnh Thủ đô Hà Nội.",
+      "B": "Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra các Sư đoàn; Thanh tra các Trung đoàn và Thanh tra Ban CHQS cấp huyện.",
+      "C": "Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra các Quân đoàn; Thanh tra các Binh chủng và Thanh tra Học viện.",
+      "D": "Cơ quan Thanh tra Bộ Quốc phòng; Thanh tra Bộ Tổng Tham mưu; Thanh tra Tổng cục Chính trị và các Tổng cục."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 399,
+    "question": "Theo Điều 3 Nghị định số 284/2025/NĐ-CP, Thanh tra quốc phòng có chức năng cơ bản nào sau đây?",
+    "options": {
+      "A": "Giúp Thủ trưởng cơ quan cùng cấp quản lý nhà nước về thanh tra, tiếp công dân, giải quyết KNTC, phòng chống TNC.",
+      "B": "Thực hiện nhiệm vụ điều tra các vụ án hình sự nguy hiểm phát sinh trong và ngoài lực lượng Quân đội nhân dân.",
+      "C": "Trực tiếp chỉ đạo công tác tác chiến, huấn luyện sẵn sàng chiến đấu đối với các đơn vị lực lượng vũ trang.",
+      "D": "Thẩm định, phê duyệt ngân sách quốc phòng và quyết toán thu chi tài chính hàng năm của các quân khu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 400,
+    "question": "Thanh tra Bộ Quốc phòng là cơ quan có vị trí pháp lý như thế nào theo Nghị định số 284/2025/NĐ-CP?",
+    "options": {
+      "A": "Là cơ quan trực thuộc Bộ Quốc phòng, giúp Bộ trưởng Bộ Quốc phòng quản lý nhà nước về công tác thanh tra.",
+      "B": "Là đơn vị sự nghiệp công lập trực thuộc Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam quản lý trực tiếp.",
+      "C": "Là cơ quan chuyên môn độc lập hoàn toàn trực thuộc Tổng Thanh tra Chính phủ đặt tại Bộ Quốc phòng.",
+      "D": "Là cơ quan tham mưu thuộc Tổng cục Chính trị chịu sự chỉ đạo trực tiếp của Ủy ban Kiểm tra Quân ủy Trung ương."
+    },
+    "answer": "A"
+  }
 ]

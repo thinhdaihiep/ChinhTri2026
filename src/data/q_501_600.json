@@ -1,102 +1,1102 @@
 [
-  {"id":501,"question":"Nội dung Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới gồm mấy tiêu chí cốt lõi?","options":{"A":"5 tiêu chí cốt lõi","B":"4 tiêu chí","C":"6 tiêu chí","D":"7 tiêu chí"},"answer":"A"},
-  {"id":502,"question":"Tiêu chí thứ nhất của Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" là gì?","options":{"A":"Bản lĩnh chính trị vững vàng, kiên định mục tiêu, lý tưởng độc lập dân tộc và chủ nghĩa xã hội","B":"Có trình độ học vấn cử nhân trở lên","C":"Đạt giải cao trong các hội thao quốc tế","D":"Có sức khỏe tốt nhất đơn vị"},"answer":"A"},
-  {"id":503,"question":"Tiêu chí thứ hai của Cuộc vận động là gì?","options":{"A":"Phẩm chất đạo đức trong sáng; lối sống trung thực, khiêm tốn, giản dị, chân thành","B":"Có thu nhập kinh tế cao","C":"Có quan hệ rộng rãi ngoài xã hội","D":"Tự chủ tài chính cho bản thân"},"answer":"A"},
-  {"id":504,"question":"Tiêu chí thứ ba của Cuộc vận động là gì?","options":{"A":"Tích cực học tập, nghiên cứu nâng cao trình độ mọi mặt và chuyên môn nghiệp vụ","B":"Tập trung thi đấu thể thao chuyên nghiệp","C":"Tham gia nhiều hoạt động văn nghệ quần chúng","D":"Thực hiện tốt chế độ đi phép hàng năm"},"answer":"A"},
-  {"id":505,"question":"Tiêu chí thứ tư của Cuộc vận động là gì?","options":{"A":"Đoàn kết nội bộ, đoàn kết quân dân gắn bó máu thịt","B":"Đoàn kết với các tổ chức tư nhân","C":"Ưu tiên giúp đỡ người thân quen","D":"Giữ mối liên hệ với các đồng hương"},"answer":"A"},
-  {"id":506,"question":"Tiêu chí thứ năm của Cuộc vận động là gì?","options":{"A":"Nêu cao tinh thần trách nhiệm, tích cực đổi mới sáng tạo, khắc phục khó khăn, hoàn thành tốt nhiệm vụ","B":"Làm việc theo đúng giờ hành chính, hết giờ nghỉ ngơi","C":"Không nhận nhiệm vụ khi thấy quá khó","D":"Chờ có hướng dẫn chi tiết mới bắt đầu làm việc"},"answer":"A"},
-  {"id":507,"question":"Khẩu hiệu hành động \"Cán bộ, chiến sĩ toàn quân thi đua đổi mới sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung\" được phát động nhằm mục đích gì?","options":{"A":"Khơi dậy tinh thần cống hiến, ý chí tự lực tự cường và nâng cao hiệu quả công tác trong toàn quân","B":"Tạo phong trào bề nổi trong các ngày lễ","C":"Tăng thêm các buổi hội thảo chuyên đề","D":"Thay thế các chỉ tiêu huấn luyện quân sự"},"answer":"A"},
-  {"id":508,"question":"Theo quy định về văn hóa công vụ và văn hóa quân sự, tác phong của người quân nhân khi làm việc phải bảo đảm yêu cầu gì?","options":{"A":"Nghiêm túc, chuẩn mực, khẩn trương, khoa học, đúng quy trình và đúng thẩm quyền","B":"Thong thả, tùy nghi theo hoàn cảnh cá nhân","C":"Dễ dãi, bỏ qua các thủ tục cần thiết","D":"Tự ý thay đổi giờ giấc sinh hoạt chung"},"answer":"A"},
-  {"id":509,"question":"Quy định về việc bảo đảm an toàn khi tham gia giao thông đối với quân nhân yêu cầu điều gì?","options":{"A":"Chấp hành nghiêm Luật Giao thông đường bộ, tuyệt đối \"Đã uống rượu, bia - Không lái xe\", đội mũ bảo hiểm đạt chuẩn","B":"Có thể vượt đèn đỏ nếu đang đi công tác vội","C":"Được phép chở quá số người quy định khi về phép","D":"Không cần mang theo giấy tờ xe khi đi trong doanh trại"},"answer":"A"},
-  {"id":510,"question":"Trách nhiệm của cán bộ chỉ huy các cấp trong việc quản lý bộ đội và ngăn ngừa vi phạm kỷ luật là gì?","options":{"A":"Sâu sát, gương mẫu, nắm chắc tư tưởng, hoàn cảnh của bộ đội; kịp thời phát hiện và giải quyết vướng mắc ngay từ cơ sở","B":"Chỉ cần kiểm tra quân số lúc điểm danh tối","C":"Khoán trắng cho cấp phó và nhân viên phụ trách","D":"Xử phạt thật nặng khi xảy ra vụ việc mà không cần giáo dục trước"},"answer":"A"},
-  {"id":511,"question":"Luật Nghĩa vụ quân sự năm 2015 quy định độ tuổi gọi nhập ngũ trong thời bình là từ bao nhiêu tuổi đến bao nhiêu tuổi?","options":{"A":"Từ đủ 18 tuổi đến hết 25 tuổi (trường hợp học đại học, cao đẳng được tạm hoãn thì đến hết 27 tuổi)","B":"Từ đủ 18 tuổi đến hết 30 tuổi","C":"Từ đủ 19 tuổi đến hết 26 tuổi","D":"Từ đủ 20 tuổi đến hết 28 tuổi"},"answer":"A"},
-  {"id":512,"question":"Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là bao nhiêu tháng?","options":{"A":"24 tháng","B":"18 tháng","C":"30 tháng","D":"36 tháng"},"answer":"A"},
-  {"id":513,"question":"Theo Luật Nghĩa vụ quân sự 2015, trường hợp nào sau đây được tạm hoãn gọi nhập ngũ trong thời bình?","options":{"A":"Chưa đủ sức khỏe phục vụ tại ngũ theo kết luận của Hội đồng khám sức khỏe; là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động","B":"Đã có việc làm thu nhập cao trong doanh nghiệp nước ngoài","C":"Có đơn xin hoãn để đi du lịch nước ngoài","D":"Chuẩn bị kết hôn"},"answer":"A"},
-  {"id":514,"question":"Trường hợp nào được miễn gọi nhập ngũ trong thời bình theo Luật Nghĩa vụ quân sự 2015?","options":{"A":"Con của liệt sĩ; con của thương binh hạng một; một con của bệnh binh suy giảm khả năng lao động từ 81% trở lên","B":"Người có trình độ học vấn thạc sĩ, tiến sĩ","C":"Người đã từng làm việc trong cơ quan nhà nước","D":"Người là con một trong gia đình có điều kiện khá giả"},"answer":"A"},
-  {"id":515,"question":"Hành vi trốn tránh thực hiện nghĩa vụ quân sự bị xử lý như thế nào theo quy định pháp luật?","options":{"A":"Bị xử phạt vi phạm hành chính, nếu tái phạm có thể bị truy cứu trách nhiệm hình sự theo Điều 332 Bộ luật Hình sự","B":"Chỉ bị nhắc nhở tại tổ dân phố","C":"Chỉ cần nộp tiền phạt rồi được miễn vĩnh viễn","D":"Bị cấm xuất cảnh trong thời hạn 1 tháng"},"answer":"A"},
-  {"id":516,"question":"Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng năm 2015 quy định vị trí của Quân nhân chuyên nghiệp là gì?","options":{"A":"Là lực lượng nòng cốt của đội ngũ chuyên môn kỹ thuật, nghiệp vụ, bảo đảm cho công tác lãnh đạo, chỉ huy, quản lý và sẵn sàng chiến đấu","B":"Là lực lượng lao động phổ thông trong quân đội","C":"Là lực lượng dự bị không nằm trong biên chế thường trực","D":"Là lực lượng tình nguyện viên bán thời gian"},"answer":"A"},
-  {"id":517,"question":"Hạn tuổi phục vụ tại ngũ cao nhất của Quân nhân chuyên nghiệp cấp Trung tá là bao nhiêu tuổi?","options":{"A":"Nam 54 tuổi, Nữ 54 tuổi (hoặc theo quy định mới điều chỉnh tương ứng)","B":"Nam 50 tuổi, Nữ 48 tuổi","C":"Nam 60 tuổi, Nữ 55 tuổi","D":"Nam 52 tuổi, Nữ 50 tuổi"},"answer":"A"},
-  {"id":518,"question":"Theo Luật Sĩ quan Quân đội nhân dân Việt Nam, sĩ quan quân đội có mấy nhóm ngạch chức vụ cơ bản?","options":{"A":"Sĩ quan chỉ huy, quản lý và Sĩ quan chuyên môn kỹ thuật, nghiệp vụ","B":"Sĩ quan hành chính và Sĩ quan ngoại giao","C":"Sĩ quan thường trực và Sĩ quan dự bị không lương","D":"Sĩ quan tác chiến và Sĩ quan doanh nghiệp"},"answer":"A"},
-  {"id":519,"question":"Cấp bậc quân hàm cao nhất đối với chức vụ Tư lệnh Quân khu theo Luật Sĩ quan sửa đổi là gì?","options":{"A":"Trung tướng","B":"Đại tướng","C":"Thượng tướng","D":"Thiếu tướng"},"answer":"A"},
-  {"id":520,"question":"Hạn tuổi phục vụ tại ngũ cao nhất của sĩ quan cấp Đại tá theo quy định sửa đổi của Luật Sĩ quan là bao nhiêu tuổi?","options":{"A":"58 tuổi (đối với nam)","B":"55 tuổi","C":"60 tuổi","D":"54 tuổi"},"answer":"A"},
-  {"id":521,"question":"Nội dung nào sau đây là nghĩa vụ cơ bản của người sĩ quan Quân đội nhân dân Việt Nam?","options":{"A":"Tuyệt đối trung thành với Tổ quốc, Nhân dân, Đảng và Nhà nước; sẵn sàng chiến đấu, hy sinh bảo vệ Tổ quốc","B":"Ưu tiên phát triển kinh tế cá nhân trước nhiệm vụ đơn vị","C":"Tự ý chuyển đơn vị công tác khi có điều kiện tốt hơn","D":"Từ chối nhận nhiệm vụ ở vùng sâu vùng xa"},"answer":"A"},
-  {"id":522,"question":"Quyền lợi về nhà ở của sĩ quan quân đội được pháp luật quy định như thế nào?","options":{"A":"Được hưởng phụ cấp nhà ở, được hỗ trợ về chính sách nhà ở xã hội, nhà ở công vụ theo quy định của pháp luật","B":"Được cấp đất xây biệt thự miễn phí tại trung tâm thành phố","C":"Tự mua nhà tự do mà không nhận bất kỳ hỗ trợ nào","D":"Quân đội không có chính sách về nhà ở cho sĩ quan"},"answer":"A"},
-  {"id":523,"question":"Luật Dân quân tự vệ năm 2019 xác định Dân quân tự vệ là lực lượng gì?","options":{"A":"Là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác; là thành phần của lực lượng vũ trang nhân dân","B":"Là lực lượng chuyên trách canh gác cơ quan ban ngành","C":"Là lực lượng dự bị động viên của quân đội thường trực","D":"Là tổ chức dân sự không có trang bị vũ khí"},"answer":"A"},
-  {"id":524,"question":"Độ tuổi tham gia Dân quân tự vệ trong thời bình đối với công dân nam là từ bao nhiêu tuổi đến bao nhiêu tuổi?","options":{"A":"Từ đủ 18 tuổi đến hết 45 tuổi","B":"Từ đủ 18 tuổi đến hết 35 tuổi","C":"Từ đủ 20 tuổi đến hết 50 tuổi","D":"Từ đủ 18 tuổi đến hết 40 tuổi"},"answer":"A"},
-  {"id":525,"question":"Thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ là bao nhiêu năm?","options":{"A":"4 năm (đối với Dân quân thường trực là 2 năm)","B":"2 năm","C":"3 năm","D":"5 năm"},"answer":"A"},
-  {"id":526,"question":"Luật Lực lượng dự bị động viên năm 2019 quy định Lực lượng dự bị động viên gồm những thành phần nào?","options":{"A":"Quân nhân dự bị và phương tiện kỹ thuật dự bị được đăng ký, quản lý và sắp xếp vào đơn vị dự bị động viên","B":"Chỉ gồm hạ sĩ quan xuất ngũ","C":"Tất cả công dân trong độ tuổi lao động","D":"Các phương tiện giao thông vận tải tư nhân"},"answer":"A"},
-  {"id":527,"question":"Mục đích của việc đăng ký, quản lý và huấn luyện lực lượng dự bị động viên là gì?","options":{"A":"Sẵn sàng bổ sung cho lực lượng thường trực của Quân đội khi có lệnh động viên hoặc khi đất nước có chiến tranh","B":"Thực hiện các công trình xây dựng dân dụng tại địa phương","C":"Thay thế hoàn toàn lực lượng công an trong giữ gìn trật tự","D":"Giảm chi phí duy trì bộ đội chuyên nghiệp"},"answer":"A"},
-  {"id":528,"question":"Luật Quốc phòng năm 2018 quy định đường lối quốc phòng của Việt Nam là gì?","options":{"A":"Quốc phòng toàn dân, mang tính chất hòa bình và tự vệ; bảo vệ Tổ quốc từ sớm, từ xa","B":"Quốc phòng liên minh quân sự với nước lớn","C":"Quốc phòng răn đe chủ động tấn công phủ đầu","D":"Quốc phòng phi quân sự hóa"},"answer":"A"},
-  {"id":529,"question":"Chính sách quốc phòng \"Bốn không\" của Việt Nam bao gồm những nội dung nào?","options":{"A":"Không tham gia liên minh quân sự; Không liên kết với nước này để chống nước kia; Không cho nước ngoài đặt căn cứ quân sự hoặc sử dụng lãnh thổ để chống nước khác; Không sử dụng vũ lực hoặc đe dọa sử dụng vũ lực trong quan hệ quốc tế","B":"Không tăng ngân sách, không mua vũ khí mới, không diễn tập quốc tế, không tham gia gìn giữ hòa bình","C":"Không phát triển công nghiệp quốc phòng, không nhập khẩu vũ khí, không xuất khẩu quốc phòng, không hợp tác quốc tế","D":"Không duy trì quân đội thường trực, không gọi nhập ngũ, không xây dựng công sự, không tổ chức dân quân"},"answer":"A"},
-  {"id":530,"question":"Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam được tổ chức vào ngày nào hàng năm?","options":{"A":"Ngày 09 tháng 11 hàng năm","B":"Ngày 10 tháng 10 hàng năm","C":"Ngày 02 tháng 9 hàng năm","D":"Ngày 19 tháng 5 hàng năm"},"answer":"A"},
-  {"id":531,"question":"Mục đích của việc tổ chức Ngày Pháp luật Việt Nam là gì?","options":{"A":"Tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi tầng lớp nhân dân và cán bộ, chiến sĩ","B":"Tổ chức các cuộc thi biểu diễn văn nghệ pháp luật","C":"Cấp phát tài liệu văn bản luật miễn phí","D":"Tạm dừng các hoạt động xét xử trong một ngày"},"answer":"A"},
-  {"id":532,"question":"Nguyên tắc \"Thượng tôn pháp luật\" đòi hỏi mọi cơ quan, tổ chức, cá nhân và quân nhân phải làm gì?","options":{"A":"Sống và làm việc theo Hiến pháp và pháp luật; không ai được đứng trên hoặc đứng ngoài pháp luật","B":"Chỉ tuân thủ những văn bản pháp luật mà mình cảm thấy phù hợp","C":"Ưu tiên áp dụng phong tục tập quán địa phương hơn luật định","D":"Chấp hành mệnh lệnh cá nhân trước, chấp hành luật sau"},"answer":"A"},
-  {"id":533,"question":"Hình thức tuyên truyền, phổ biến, giáo dục pháp luật nào thường được áp dụng hiệu quả tại các đơn vị Quân đội?","options":{"A":"Tổ chức Ngày Pháp luật hàng tháng; sinh hoạt Tủ sách pháp luật; sân khấu hóa và thi tìm hiểu pháp luật","B":"Chỉ phát tài liệu cho bộ đội tự đọc khi rảnh","C":"Chiếu phim truyện giải trí không lồng ghép nội dung luật","D":"Tổ chức họp báo tuyên truyền ra bên ngoài"},"answer":"A"},
-  {"id":534,"question":"Theo quy định, \"Tủ sách pháp luật\" tại các cơ quan, đơn vị quân đội có vai trò gì?","options":{"A":"Cung cấp tài liệu, sách báo pháp luật để cán bộ, chiến sĩ tra cứu, học tập, nâng cao nhận thức và hiểu biết pháp luật","B":"Chỉ dùng để trưng bày phục vụ các đoàn kiểm tra","C":"Lưu trữ hồ sơ xử lý kỷ luật cá nhân của quân nhân","D":"Để sách giáo khoa phổ thông cho chiến sĩ học bù"},"answer":"A"},
-  {"id":535,"question":"Hành vi sử dụng trái phép chất ma túy trong Quân đội bị xử lý nghiêm khắc như thế nào?","options":{"A":"Tước danh hiệu quân nhân (hoặc buộc thôi việc) và xử lý nghiêm theo quy định của pháp luật","B":"Chỉ bị khiển trách và cho làm bản kiểm điểm","C":"Cho nghỉ phép về gia đình tự cai nghiện","D":"Bị hạ bậc lương tạm thời"},"answer":"A"},
-  {"id":536,"question":"Hành vi đánh bạc, tổ chức đánh bạc hoặc tham gia cá độ dưới mọi hình thức trong đơn vị Quân đội bị xử lý như thế nào?","options":{"A":"Bị xử lý kỷ luật rất nghiêm minh từ giáng chức, cách chức đến tước danh hiệu quân nhân hoặc chuyển cơ quan điều tra hình sự","B":"Chỉ bị phạt tiền tương ứng với số tiền đánh bạc","C":"Tịch thu tang vật rồi tha cho về vị trí công tác","D":"Cấm rời khỏi doanh trại vào các ngày nghỉ cuối tuần"},"answer":"A"},
-  {"id":537,"question":"Việc quân nhân vay nợ vượt quá khả năng chi trả hoặc tham gia vào các đường dây \"tín dụng đen\" dẫn đến hậu quả gì?","options":{"A":"Gây mất an toàn đơn vị, dễ bị đối tượng xấu khống chế, tống tiền, làm tổn hại danh dự Quân đội và vi phạm kỷ luật nghiêm trọng","B":"Không ảnh hưởng gì nếu tự trả được nợ sau này","C":"Chỉ là giao dịch dân sự thuần túy không liên quan đến kỷ luật quân đội","D":"Được đơn vị đứng ra trả nợ thay hoàn toàn"},"answer":"A"},
-  {"id":538,"question":"Khi quân nhân phát hiện đồng đội có dấu hiệu sa vào cờ bạc, vay nợ hoặc có biểu hiện tâm lý bất thường, cần phải làm gì?","options":{"A":"Kịp thời báo cáo chỉ huy đơn vị và tận tình khuyên bảo, giúp đỡ đồng đội ngăn chặn sai phạm phát triển","B":"Giữ bí mật tuyệt đối giúp đồng chí mình","C":"Cho đồng đội mượn tiền để trả nợ trước","D":"Rủ thêm các chiến sĩ khác cùng tham gia chia sẻ"},"answer":"A"},
-  {"id":539,"question":"Quy định về thời gian tự học tập, đọc báo, nghe tin buổi tối tại các đơn vị cơ sở nhằm mục đích gì?","options":{"A":"Cập nhật tình hình thời sự chính trị trong nước và quốc tế, định hướng tư tưởng đúng đắn cho bộ đội","B":"Tạo thời gian yên tĩnh chờ đến giờ ngủ","C":"Giúp chiến sĩ học thêm ngoại ngữ tự do","D":"Để cán bộ chuẩn bị giáo án cho ngày hôm sau"},"answer":"A"},
-  {"id":540,"question":"Mỗi quân nhân khi tham gia mạng xã hội (Facebook, Zalo, TikTok...) không được làm điều gì dưới đây?","options":{"A":"Đăng tải hình ảnh mặc quân phục chụp tại nơi đóng quân bí mật, bình luận tiêu cực, tham gia hội nhóm trái phép","B":"Đọc tin tức thời sự chính thống từ các báo Đảng","C":"Nhắn tin hỏi thăm sức khỏe người thân ngoài giờ công tác","D":"Chia sẻ những bài viết tuyên truyền gương người tốt việc tốt"},"answer":"A"},
-  {"id":541,"question":"Nghị quyết số 28-NQ/TW ngày 25/10/2013 của Ban Chấp hành Trung ương Đảng khóa XI là nghị quyết về nội dung gì?","options":{"A":"Chiến lược bảo vệ Tổ quốc trong tình hình mới","B":"Chiến lược cải cách tư pháp","C":"Phát triển bền vững kinh tế biển","D":"Tăng cường công tác phòng chống tham nhũng"},"answer":"A"},
-  {"id":542,"question":"Chiến lược bảo vệ Tổ quốc trong tình hình mới xác định mục tiêu tối thượng là gì?","options":{"A":"Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, Nhân dân và chế độ xã hội chủ nghĩa","B":"Mở rộng không gian ảnh hưởng địa chính trị","C":"Đạt tốc độ tăng trưởng kinh tế hai con số bằng mọi giá","D":"Gia nhập các liên minh an ninh khu vực"},"answer":"A"},
-  {"id":543,"question":"Phương châm cơ bản trong đấu tranh bảo vệ chủ quyền biển, đảo của Tổ quốc là gì?","options":{"A":"Kiên quyết, kiên trì đấu tranh bằng các biện pháp hòa bình trên cơ sở luật pháp quốc tế, giữ vững môi trường hòa bình, ổn định để phát triển","B":"Sẵn sàng phát động chiến tranh tổng lực ngay khi có va chạm","C":"Chỉ dựa vào sự phán quyết của tòa án quốc tế mà không cần phòng thủ thực địa","D":"Nhượng bộ lợi ích để giữ hòa khí"},"answer":"A"},
-  {"id":544,"question":"Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS 1982) quy định chiều rộng lãnh hải của quốc gia ven biển là bao nhiêu hải lý?","options":{"A":"12 hải lý (tính từ đường cơ sở)","B":"24 hải lý","C":"200 hải lý","D":"6 hải lý"},"answer":"A"},
-  {"id":545,"question":"Vùng đặc quyền kinh tế của quốc gia ven biển theo UNCLOS 1982 có chiều rộng tối đa là bao nhiêu hải lý?","options":{"A":"200 hải lý tính từ đường cơ sở","B":"150 hải lý","C":"350 hải lý","D":"100 hải lý"},"answer":"A"},
-  {"id":546,"question":"Việt Nam khẳng định chủ quyền không thể chối cãi đối với hai quần đảo nào trên Biển Đông?","options":{"A":"Quần đảo Hoàng Sa và Quần đảo Trường Sa","B":"Quần đảo Nam Du và Thổ Chu","C":"Quần đảo Cát Bà và Côn Đảo","D":"Quần đảo Phú Quốc và Hòn Khoai"},"answer":"A"},
-  {"id":547,"question":"Luật Cảnh sát biển Việt Nam năm 2018 xác định vị trí của Cảnh sát biển Việt Nam là lực lượng gì?","options":{"A":"Là lực lượng vũ trang nhân dân, lực lượng chuyên trách của Nhà nước, làm nòng cốt thực thi pháp luật và bảo vệ an ninh quốc gia trên biển","B":"Là lực lượng tuần tra giao thông đường thủy nội địa","C":"Là doanh nghiệp kinh doanh vận tải biển quân sự","D":"Là tổ chức bảo hộ ngư dân tự nguyện"},"answer":"A"},
-  {"id":548,"question":"Biên phòng Việt Nam có chức năng nòng cốt, chuyên trách trong công tác quản lý, bảo vệ khu vực nào?","options":{"A":"Bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trên đất liền, trên biển và tại các cửa khẩu","B":"Bảo vệ các khu đô thị nội địa","C":"Giữ gìn trật tự an toàn giao thông đường sắt","D":"Kiểm soát thị trường nội địa"},"answer":"A"},
-  {"id":549,"question":"Xây dựng \"thế trận lòng dân\" vững chắc trong sự nghiệp quốc phòng toàn dân có ý nghĩa gì?","options":{"A":"Là nền tảng gốc rễ tạo nên sức mạnh vô địch của toàn dân tộc bảo vệ vững chắc Tổ quốc trong mọi tình huống","B":"Là biện pháp vận động quyên góp tài chính cho quân đội","C":"Là hình thức tổ chức dân quân tự vệ rộng khắp","D":"Là công tác quản lý hộ khẩu tại các vùng biên cương"},"answer":"A"},
-  {"id":550,"question":"Để xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân vững chắc, yếu tố then chốt hàng đầu là gì?","options":{"A":"Xây dựng tiềm lực chính trị - tinh thần, củng cố niềm tin vững chắc của Nhân dân đối với Đảng, Nhà nước và Quân đội","B":"Mua sắm thật nhiều vũ khí hiện đại từ nước ngoài","C":"Xây dựng thật nhiều công trình bê tông cốt thép","D":"Tăng cường số lượng cán bộ hành chính tại cơ sở"},"answer":"A"},
-  {"id":551,"question":"Nghị quyết số 27-NQ/TW ngày 09/11/2022 của Hội nghị Trung ương 6 khóa XIII là nghị quyết về nội dung gì?","options":{"A":"Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới","B":"Đổi mới căn bản hệ thống an sinh xã hội","C":"Tăng cường quản lý đất đai và tài nguyên môi trường","D":"Cải cách tiền lương đối với cán bộ, công chức"},"answer":"A"},
-  {"id":552,"question":"Đặc trưng cơ bản của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?","options":{"A":"Nhà nước của Nhân dân, do Nhân dân, vì Nhân dân; do Đảng Cộng sản Việt Nam lãnh đạo; thượng tôn Hiến pháp và pháp luật","B":"Nhà nước phân chia quyền lực tam quyền phân lập tuyệt đối","C":"Nhà nước chỉ bảo vệ lợi ích của tầng lớp thượng lưu","D":"Nhà nước phi chính trị không chịu sự lãnh đạo của đảng nào"},"answer":"A"},
-  {"id":553,"question":"Quyền làm chủ của Nhân dân trong Nhà nước pháp quyền XHCN Việt Nam được thực hiện thông qua những hình thức nào?","options":{"A":"Dân chủ đại diện và Dân chủ trực tiếp","B":"Chỉ thông qua các cuộc bầu cử Quốc hội","C":"Chỉ thông qua mạng xã hội","D":"Thông qua việc kiến nghị của các doanh nghiệp lớn"},"answer":"A"},
-  {"id":554,"question":"Phương châm thực hiện dân chủ ở cơ sở được Đảng ta xác định là gì?","options":{"A":"\"Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng\"","B":"\"Dân nghe, dân làm, dân báo cáo, dân chịu trách nhiệm\"","C":"\"Cán bộ quyết định, dân thi hành nghiêm chỉnh\"","D":"\"Cấp ủy thông báo, nhân dân biểu quyết đồng ý\""},"answer":"A"},
-  {"id":555,"question":"Luật Thực hiện dân chủ ở cơ sở năm 2022 có ý nghĩa quan trọng như thế nào đối với các cơ quan, đơn vị Quân đội?","options":{"A":"Bảo đảm quyền dân chủ thực sự của cán bộ, chiến sĩ, phát huy trí tuệ tập thể, củng cố đoàn kết nội bộ và xây dựng đơn vị vững mạnh","B":"Làm giảm uy quyền của người chỉ huy đơn vị","C":"Cho phép quân nhân tự ý thảo luận mệnh lệnh chiến đấu","D":"Tổ chức bỏ phiếu kín để bầu các chức danh chỉ huy hàng tuần"},"answer":"A"},
-  {"id":556,"question":"Hội đồng quân nhân ở cơ sở trong Quân đội nhân dân Việt Nam hoạt động dưới sự lãnh đạo, chỉ đạo của ai?","options":{"A":"Đặt dưới sự lãnh đạo trực tiếp của cấp ủy, chi bộ và sự quản lý của người chỉ huy cùng cấp","B":"Hoạt động độc lập hoàn toàn với cấp ủy đơn vị","C":"Chỉ chịu sự chỉ đạo của cơ quan thanh tra quân đội","D":"Do đoàn thanh niên trực tiếp điều hành mọi mặt"},"answer":"A"},
-  {"id":557,"question":"Ba mặt dân chủ lớn mà Hội đồng quân nhân thực hiện ở cơ sở bao gồm những mặt nào?","options":{"A":"Dân chủ về Quân sự - Chuyên môn; Dân chủ về Chính trị; Dân chủ về Kinh tế và Đời sống","B":"Dân chủ về thi đua; Dân chủ về kỷ luật; Dân chủ về phong trào","C":"Dân chủ về khen thưởng; Dân chủ về huấn luyện; Dân chủ về đi phép","D":"Dân chủ về công tác cán bộ; Dân chủ về trang phục; Dân chủ về tiền lương"},"answer":"A"},
-  {"id":558,"question":"Thực hiện tốt dân chủ trên mặt Quân sự - Chuyên môn nhằm mục đích gì?","options":{"A":"Phát huy sáng kiến, kinh nghiệm của cán bộ, chiến sĩ để nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu và thực hiện nhiệm vụ","B":"Tự ý biểu quyết hủy bỏ kế hoạch huấn luyện của cấp trên","C":"Để chiến sĩ tự chọn bài huấn luyện mình thích","D":"Bình bầu người chỉ huy thay thế khi thấy không thích"},"answer":"A"},
-  {"id":559,"question":"Thực hiện dân chủ về Kinh tế và Đời sống trong đơn vị cơ sở được thể hiện rõ nhất ở việc gì?","options":{"A":"Công khai tài chính, tiêu chuẩn ăn uống hàng ngày, chế độ quân trang, phúc lợi và tăng gia sản xuất cho toàn thể bộ đội cùng biết","B":"Chia tiền mặt trực tiếp cho từng người tự nấu ăn","C":"Cho phép bộ đội tự ý mang tiền riêng vào bếp ăn","D":"Bán các tài sản công để bổ sung quỹ sinh hoạt riêng"},"answer":"A"},
-  {"id":560,"question":"Ngày sinh hoạt chính trị văn hóa tinh thần hàng tháng tại đơn vị cơ sở có mục đích cốt lõi là gì?","options":{"A":"Đối thoại dân chủ trực tiếp giữa chỉ huy và bộ đội, lắng nghe tâm tư nguyện vọng và giải quyết kịp thời các vướng mắc của chiến sĩ","B":"Tổ chức xem phim giải trí và ca múa nhạc","C":"Kiểm tra nhận thức chính trị bằng văn bản","D":"Tổ chức sinh nhật tập thể cho quân nhân trong tháng"},"answer":"A"},
-  {"id":561,"question":"Nghị quyết Trung ương 4 khóa XII của Đảng đã chỉ ra bao nhiêu biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, \"tự diễn biến\", \"tự chuyển hóa\"?","options":{"A":"27 biểu hiện (9 biểu hiện về tư tưởng chính trị, 9 biểu hiện về đạo đức lối sống, 9 biểu hiện về \"tự diễn biến\", \"tự chuyển hóa\")","B":"20 biểu hiện","C":"25 biểu hiện","D":"30 biểu hiện"},"answer":"A"},
-  {"id":562,"question":"Biểu hiện nào sau đây thuộc nhóm suy thoái về tư tưởng chính trị được Nghị quyết Trung ương 4 khóa XII chỉ ra?","options":{"A":"Phai nhạt lý tưởng cách mạng; dao động, giảm sút niềm tin vào mục tiêu độc lập dân tộc và chủ nghĩa xã hội","B":"Ăn mặc không đúng tác phong quy định","C":"Đi làm muộn về sớm trong giờ hành chính","D":"Không nhiệt tình tham gia hoạt động văn nghệ"},"answer":"A"},
-  {"id":563,"question":"Một trong những biểu hiện suy thoái về đạo đức, lối sống là gì?","options":{"A":"Chủ nghĩa cá nhân, sống ích kỷ, thực dụng, cơ hội, vụ lợi; ham danh vọng, vun vén lợi ích cho bản thân và gia đình","B":"Tự giác nhận việc khó về phần mình","C":"Giúp đỡ đồng chí đồng đội khi hoạn nạn","D":"Thực hành tiết kiệm, chống lãng phí trong sinh hoạt"},"answer":"A"},
-  {"id":564,"question":"Biểu hiện \"tự diễn biến\", \"tự chuyển hóa\" nguy hiểm nhất trong nội bộ là gì?","options":{"A":"Phủ nhận chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và đường lối đổi mới của Đảng; đòi \"phi chính trị hóa\" lực lượng vũ trang","B":"Phê bình cấp trên trong các cuộc họp sinh hoạt đảng","C":"Đề xuất đổi mới phương pháp giảng dạy chính trị","D":"Thích nghe các bài hát cách mạng tiền chiến"},"answer":"A"},
-  {"id":565,"question":"Âm mưu \"phi chính trị hóa\" Quân đội của các thế lực thù địch nhằm mục đích gì?","options":{"A":"Tách Quân đội ra khỏi sự lãnh đạo tuyệt đối của Đảng, làm cho Quân đội mất phương hướng chính trị và mục tiêu chiến đấu","B":"Muốn Quân đội ta hiện đại hóa nhanh hơn","C":"Tăng cường giao lưu quân sự quốc tế cho Quân đội","D":"Giúp Quân đội tập trung hoàn toàn vào huấn luyện tác chiến"},"answer":"A"},
-  {"id":566,"question":"Chiến lược \"Diễn biến hòa bình\" của các thế lực thù địch chống phá cách mạng Việt Nam sử dụng biện pháp chủ yếu nào?","options":{"A":"Dùng các thủ đoạn phi vũ trang kết hợp răn đe quân sự, thâm nhập, chuyển hóa nội bộ từ bên trong về tư tưởng, văn hóa, kinh tế, chính trị","B":"Tấn công hạt nhân quy mô lớn","C":"Bao vây phong tỏa đường biển toàn diện","D":"Phát động chiến tranh xâm lược chớp nhoáng"},"answer":"A"},
-  {"id":567,"question":"Để đánh bại âm mưu \"Diễn biến hòa bình\" của các thế lực thù địch, biện pháp quan trọng hàng đầu của Quân đội là gì?","options":{"A":"Xây dựng Quân đội vững mạnh về chính trị, nâng cao bản lĩnh chính trị, giữ vững trận địa tư tưởng của Đảng trong toàn quân","B":"Tăng cường mua sắm trang thiết bị điện tử mới","C":"Không cho bộ đội tiếp cận với thông tin bên ngoài","D":"Chờ đợi đối phương tự từ bỏ âm mưu"},"answer":"A"},
-  {"id":568,"question":"Tác hại của việc để lan truyền các video clip, bài viết sai trái, xấu độc trên mạng xã hội là gì?","options":{"A":"Làm nhiễu loạn thông tin, hoang mang dư luận, suy giảm niềm tin của Nhân dân vào Đảng, Nhà nước và Quân đội","B":"Không gây ra tác hại gì lớn vì mạng là ảo","C":"Chỉ mang tính chất giải trí đơn thuần","D":"Tăng lượng tương tác cho các trang mạng cá nhân"},"answer":"A"},
-  {"id":569,"question":"Khi phát hiện các trang tin, tài khoản mạng xã hội đăng tải nội dung vu khống lãnh đạo Đảng, Nhà nước hoặc nói xấu Quân đội, quân nhân phải làm gì?","options":{"A":"Không like, không chia sẻ, thực hiện tính năng báo cáo xấu (report) và báo cáo cơ quan chức năng để có biện pháp xử lý","B":"Tải về máy điện thoại để gửi cho bạn bè cùng xem","C":"Vào bình luận chửi bới vô văn hóa","D":"Chia sẻ lên trang cá nhân để cảnh báo rộng rãi"},"answer":"A"},
-  {"id":570,"question":"Lực lượng 47 trong Quân đội nhân dân Việt Nam có nhiệm vụ trọng tâm là gì?","options":{"A":"Tham gia đấu tranh bảo vệ nền tảng tư tưởng của Đảng, phản bác các quan điểm sai trái, thù địch trên không gian mạng","B":"Chuyên trách công tác cứu hộ, cứu nạn thiên tai","C":"Huấn luyện chiến sĩ mới nhập ngũ hàng năm","D":"Quản lý tài chính và trang thiết bị vật tư"},"answer":"A"},
-  {"id":571,"question":"Lời thề thứ ba trong 10 Lời thề danh dự của quân nhân yêu cầu thái độ đối với tài sản của Nhà nước và vũ khí trang bị như thế nào?","options":{"A":"Tuyệt đối trung thành, hết lòng bảo vệ tài sản của quân đội và nhân dân, giữ gìn vũ khí trang bị tốt, bền, an toàn, tiết kiệm","B":"Được phép sử dụng vũ khí vào mục đích cá nhân khi cần","C":"Thanh lý vũ khí cũ để mua trang bị mới tự do","D":"Coi tài sản của đơn vị là tài sản chung muốn dùng sao cũng được"},"answer":"A"},
-  {"id":572,"question":"Lời thề thứ sáu trong 10 Lời thề danh dự của quân nhân quy định về tinh thần chiến đấu như thế nào?","options":{"A":"Khi tiếp xúc với quân địch thì kiên quyết chiến đấu đến giọt máu cuối cùng, không đầu hàng, không để bị bắt sống, không làm mất danh dự quân đội","B":"Tìm mọi cách thương lượng với kẻ thù để bảo toàn tính mạng","C":"Rút lui ngay khi thấy đối phương hỏa lực mạnh hơn","D":"Chỉ đánh khi có lệnh của cấp trên trực tiếp"},"answer":"A"},
-  {"id":573,"question":"Lời thề thứ tám trong 10 Lời thề danh dự của quân nhân thể hiện tinh thần quốc tế như thế nào?","options":{"A":"Xây dựng tinh thần quốc tế vô sản cao cả, đoàn kết, giúp đỡ nhân dân và quân đội các nước anh em vì hòa bình, tiến bộ xã hội","B":"Chỉ tập trung bảo vệ lợi ích cục bộ của quốc gia mình","C":"Tham gia các liên minh quân sự khi có lợi ích kinh tế","D":"Từ chối các hoạt động gìn giữ hòa bình quốc tế"},"answer":"A"},
-  {"id":574,"question":"Điểm thứ nhất trong 12 Điều kỷ luật khi quan hệ với nhân dân yêu cầu quân nhân phải làm gì khi vào nhà dân?","options":{"A":"Không tự ý vào nhà dân khi chưa được phép; không làm phiền lòng dân; tôn trọng phong tục tập quán của địa phương","B":"Có thể nghỉ ngơi tự do ở bất cứ đâu trong làng","C":"Yêu cầu gia đình nấu cơm chiêu đãi bộ đội","D":"Tự do sử dụng đồ dùng của gia đình khi thấy cần thiết"},"answer":"A"},
-  {"id":575,"question":"Điểm thứ hai trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu gì về tài sản?","options":{"A":"Mua bán công bằng sòng phẳng, mượn đồ phải trả, làm hỏng phải đền, tuyệt đối không lấy của dân dù chỉ một cây kim sợi chỉ","B":"Có thể mượn đồ của dân dùng lâu dài mà không cần hỏi","C":"Ép dân bán hàng với giá rẻ cho đơn vị","D":"Tự ý chặt cây cối của dân để ngụy trang mà không xin phép"},"answer":"A"},
-  {"id":576,"question":"Điểm thứ tư trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu quân nhân có thái độ giao tiếp thế nào?","options":{"A":"Nói năng lễ phép, nhã nhặn, khiêm tốn; kính già, yêu trẻ, tôn trọng phụ nữ, đoàn kết thanh niên","B":"Nói to, gắt gỏng để thể hiện oai phong của quân đội","C":"Xưng hô trịch thượng như người bề trên","D":"Làm ngơ không chào hỏi khi gặp người lớn tuổi"},"answer":"A"},
-  {"id":577,"question":"Điểm thứ mười một trong 12 Điều kỷ luật khi quan hệ với nhân dân nhấn mạnh việc bảo vệ bí mật quân sự như thế nào?","options":{"A":"Tuyệt đối giữ bí mật quân sự, bí mật nhà nước, không nói lộ tên đơn vị, vị trí đóng quân, trang bị vũ khí cho người không có trách nhiệm","B":"Được phép kể chuyện đơn vị cho bạn bè nghe để tự hào","C":"Chia sẻ số lượng xe tăng máy bay của đơn vị trên mạng","D":"Cho người thân vào xem khu vực chỉ huy tác chiến"},"answer":"A"},
-  {"id":578,"question":"Phong trào thi đua \"Dân vận khéo\", xây dựng \"Đơn vị dân vận tốt\" trong Quân đội hướng tới mục đích gì?","options":{"A":"Tăng cường mối quan hệ đoàn kết gắn bó máu thịt giữa quân đội với nhân dân, củng cố vững chắc \"thế trận lòng dân\"","B":"Để quay phim chụp ảnh tuyên truyền cho đơn vị","C":"Để được địa phương hỗ trợ kinh phí hoạt động","D":"Thực hiện thay thế chức năng của các cơ quan dân sự"},"answer":"A"},
-  {"id":579,"question":"Chương trình \"Cảnh sát biển đồng hành với ngư dân\" hoặc \"Hải quân làm điểm tựa cho ngư dân vươn khơi bám biển\" nhằm mục đích gì?","options":{"A":"Hỗ trợ ngư dân cứu nạn, bảo vệ ngư dân trên các ngư trường truyền thống, góp phần khẳng định và bảo vệ chủ quyền biển đảo","B":"Thu phí bảo hiểm của các tàu đánh cá","C":"Quản lý việc bán hải sản của ngư dân","D":"Bắt buộc ngư dân phải báo cáo vị trí hàng giờ"},"answer":"A"},
-  {"id":580,"question":"Mô hình \"Con nuôi đồn Biên phòng\" và chương trình \"Nâng bước em tới trường\" thể hiện phẩm chất cao đẹp nào của Bộ đội Cụ Hồ?","options":{"A":"Lòng nhân ái, sự sẻ chia, trách nhiệm và tình cảm gắn bó sâu nặng của người lính biên cương với đồng bào các dân tộc thiểu số","B":"Nhiệm vụ huấn luyện bắt buộc của Bộ Chỉ huy Biên phòng","C":"Phong trào từ thiện mang tính thời vụ","D":"Hình thức tìm kiếm nhân lực bổ sung cho quân đội"},"answer":"A"},
-  {"id":581,"question":"Năm 2026 là năm tiến hành sự kiện chính trị trọng đại nào của Đảng và đất nước ta?","options":{"A":"Đại hội đại biểu toàn quốc lần thứ XIV của Đảng và Bầu cử đại biểu Quốc hội khóa XVI, đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031","B":"Kỷ niệm 100 năm ngày thành lập Đảng","C":"Đại hội Thi đua yêu nước toàn quốc lần thứ XII","D":"Hội nghị thượng đỉnh APEC lần thứ tư tại Việt Nam"},"answer":"A"},
-  {"id":582,"question":"Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp được tiến hành theo những nguyên tắc nào?","options":{"A":"Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín","B":"Dân chủ, công khai, gián tiếp và hiệp thương","C":"Tập trung dân chủ, chỉ định và biểu quyết công khai","D":"Đại diện, ưu tiên, tự do và bỏ phiếu hở"},"answer":"A"},
-  {"id":583,"question":"Theo Hiến pháp năm 2013, công dân Việt Nam đủ bao nhiêu tuổi thì có quyền bầu cử Quốc hội và Hội đồng nhân dân?","options":{"A":"Đủ 18 tuổi trở lên","B":"Đủ 20 tuổi trở lên","C":"Đủ 21 tuổi trở lên","D":"Đủ 16 tuổi trở lên"},"answer":"A"},
-  {"id":584,"question":"Công dân Việt Nam đủ bao nhiêu tuổi thì có quyền ứng cử vào Quốc hội và Hội đồng nhân dân các cấp?","options":{"A":"Đủ 21 tuổi trở lên","B":"Đủ 18 tuổi trở lên","C":"Đủ 25 tuổi trở lên","D":"Đủ 30 tuổi trở lên"},"answer":"A"},
-  {"id":585,"question":"Trách nhiệm của mỗi cán bộ, chiến sĩ Quân đội khi tham gia bầu cử đại biểu Quốc hội và HĐND các cấp là gì?","options":{"A":"Nghiên cứu kỹ danh sách ứng cử viên, sáng suốt lựa chọn người đủ đức, đủ tài, tự mình bỏ phiếu theo đúng quy định pháp luật","B":"Nhờ đồng đội bỏ phiếu hộ cho nhanh","C":"Bỏ phiếu theo sự hướng dẫn miệng của người khác mà không cần đọc tiểu sử","D":"Bỏ phiếu trắng để phản đối"},"answer":"A"},
-  {"id":586,"question":"Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí, chức năng gì?","options":{"A":"Là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất, thực hiện quyền lập hiến, lập pháp, giám sát tối cao và quyết định các vấn đề quan trọng của đất nước","B":"Là cơ quan hành chính nhà nước cao nhất","C":"Là cơ quan xét xử cao nhất trong hệ thống tư pháp","D":"Là cơ quan thanh tra kiểm tra tối cao của Chính phủ"},"answer":"A"},
-  {"id":587,"question":"Hội đồng nhân dân là cơ quan có vị trí như thế nào ở địa phương?","options":{"A":"Là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương","B":"Là cơ quan chấp hành của Ủy ban nhân dân","C":"Là cơ quan tư pháp độc lập tại địa phương","D":"Là tổ chức xã hội nghề nghiệp tự quản"},"answer":"A"},
-  {"id":588,"question":"Ủy ban nhân dân ở các cấp do cơ quan nào bầu ra?","options":{"A":"Do Hội đồng nhân dân cùng cấp bầu ra, là cơ quan chấp hành của HĐND, cơ quan hành chính nhà nước ở địa phương","B":"Do Nhân dân trực tiếp bỏ phiếu bầu","C":"Do cơ quan công an địa phương bổ nhiệm","D":"Do Tòa án nhân dân cấp tỉnh chỉ định"},"answer":"A"},
-  {"id":589,"question":"Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam có quyền hạn gì trong lĩnh vực quốc phòng, an ninh?","options":{"A":"Thống lĩnh Lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng Quốc phòng và An ninh","B":"Trực tiếp chỉ huy các chiến dịch tác chiến quân sự","C":"Bổ nhiệm tất cả các chức danh chỉ huy cấp sư đoàn trở xuống","D":"Quyết định chi tiêu ngân sách quốc phòng hàng năm"},"answer":"A"},
-  {"id":590,"question":"Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí gì?","options":{"A":"Là cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội","B":"Là cơ quan quyền lực nhà nước cao nhất","C":"Là cơ quan giám sát tối cao việc tuân theo pháp luật","D":"Là cơ quan điều tra tội phạm quốc gia"},"answer":"A"},
-  {"id":591,"question":"Tòa án nhân dân là cơ quan thực hiện quyền gì trong bộ máy nhà nước ta?","options":{"A":"Thực hiện quyền tư pháp, bảo vệ công lý, bảo vệ quyền con người, quyền công dân, chế độ XHCN","B":"Thực hiện quyền lập pháp","C":"Thực hiện quyền hành pháp","D":"Thực hiện quyền kiểm toán nhà nước"},"answer":"A"},
-  {"id":592,"question":"Viện kiểm sát nhân dân có chức năng cơ bản nào sau đây?","options":{"A":"Thực hành quyền công tố và kiểm sát hoạt động tư pháp","B":"Xét xử các vụ án hình sự và dân sự","C":"Thi hành các bản án đã có hiệu lực pháp luật","D":"Giữ gìn trật tự an toàn giao thông đô thị"},"answer":"A"},
-  {"id":593,"question":"Mặt trận Tổ quốc Việt Nam là gì trong hệ thống chính trị nước ta?","options":{"A":"Là cơ sở chính trị của chính quyền nhân dân, đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợp khối đại đoàn kết toàn dân tộc","B":"Là cơ quan trực thuộc quyền quản lý của Chính phủ","C":"Là tổ chức kinh tế phi chính phủ","D":"Là cơ quan ban hành các văn bản quy phạm pháp luật"},"answer":"A"},
-  {"id":594,"question":"Đoàn Thanh niên Cộng sản Hồ Chí Minh trong Quân đội có vị trí, vai trò như thế nào?","options":{"A":"Là trường học xã hội chủ nghĩa của thanh niên quân đội, lực lượng xung kích, đi đầu trong thực hiện mọi nhiệm vụ huấn luyện, SSCĐ, học tập và rèn luyện","B":"Là tổ chức vui chơi giải trí đơn thuần cho chiến sĩ trẻ","C":"Là tổ chức quản lý hành chính đối với hạ sĩ quan, binh sĩ","D":"Là đơn vị phụ trách hậu cần đời sống cho bộ đội"},"answer":"A"},
-  {"id":595,"question":"Phong trào thi đua \"Thanh niên Quân đội rèn đức, luyện tài, xung kích, sáng tạo, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới có ý nghĩa gì?","options":{"A":"Cổ vũ tuổi trẻ quân đội cống hiến tài năng, trí tuệ, làm chủ vũ khí trang bị kỹ thuật hiện đại, hoàn thành xuất sắc nhiệm vụ","B":"Tổ chức các chuyến dã ngoại cho đoàn viên thanh niên","C":"Phát động thi đua tăng gia sản xuất thu tiền mặt","D":"Tìm kiếm các tài năng âm nhạc trong quân đội"},"answer":"A"},
-  {"id":596,"question":"Công đoàn Quốc phòng là tổ chức đại diện cho đối tượng nào trong Quân đội?","options":{"A":"Công nhân, viên chức quốc phòng và người lao động làm việc trong các doanh nghiệp, cơ quan, đơn vị quân đội","B":"Tất cả hạ sĩ quan, binh sĩ nhập ngũ hàng năm","C":"Sĩ quan chỉ huy các cấp trong toàn quân","D":"Lực lượng dự bị động viên tại địa phương"},"answer":"A"},
-  {"id":597,"question":"Hội Phụ nữ trong Quân đội nhân dân Việt Nam có phong trào thi đua tiêu biểu nào?","options":{"A":"\"Phụ nữ Quân đội trí tuệ - bản lĩnh, hoàn thành tốt nhiệm vụ, xây dựng gia đình hạnh phúc, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới","B":"Phụ nữ làm kinh tế giỏi","C":"Phụ nữ đảm đang việc nhà giỏi việc nước","D":"Nuôi con khỏe, dạy con ngoan trong doanh trại"},"answer":"A"},
-  {"id":598,"question":"Vai trò của công tác thi đua, khen thưởng trong Quân đội nhân dân Việt Nam là gì?","options":{"A":"Tạo động lực tinh thần to lớn, biểu dương, nhân rộng các điển hình tiên tiến, thúc đẩy các tập thể, cá nhân vươn lên hoàn thành xuất sắc nhiệm vụ","B":"Để xét nâng lương nhanh cho cán bộ chỉ huy","C":"Tổ chức các buổi liên hoan gặp mặt cuối năm","D":"Để chia tiền thưởng cho các cơ quan, đơn vị"},"answer":"A"},
-  {"id":599,"question":"Danh hiệu cao quý \"Đơn vị Quyết thắng\" được trao tặng cho những tập thể nào trong phong trào Thi đua Quyết thắng?","options":{"A":"Tập thể cơ sở hoặc đơn vị trực thuộc đạt thành tích xuất sắc toàn diện, tiêu biểu dẫn đầu trong phong trào thi đua năm đó","B":"Tất cả các đơn vị không có ai bị kỷ luật","C":"Đơn vị có doanh thu làm kinh tế cao nhất","D":"Đơn vị có số lượng học viên đông nhất"},"answer":"A"},
-  {"id":600,"question":"Danh hiệu \"Chiến sĩ thi đua toàn quân\" được xét tặng cho đối tượng nào?","options":{"A":"Cá nhân có thành tích tiêu biểu xuất sắc, có sáng kiến, giải pháp công tác hiệu quả và đạt danh hiệu Chiến sĩ thi đua cơ sở 3 lần liên tục","B":"Chiến sĩ mới hoàn thành tốt khóa huấn luyện","C":"Quân nhân có thời gian công tác từ 10 năm trở lên","D":"Tất cả cán bộ đạt chuẩn sức khỏe loại 1"},"answer":"A"}
+  {
+    "id": 501,
+    "question": "Nội dung Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới gồm mấy tiêu chí cốt lõi?",
+    "options": {
+      "A": "5 tiêu chí cốt lõi",
+      "B": "4 tiêu chí",
+      "C": "6 tiêu chí",
+      "D": "7 tiêu chí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 502,
+    "question": "Tiêu chí thứ nhất của Cuộc vận động \"Phát huy truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ\" là gì?",
+    "options": {
+      "A": "Bản lĩnh chính trị vững vàng, kiên định mục tiêu, lý tưởng độc lập dân tộc và chủ nghĩa xã hội",
+      "B": "Có trình độ học vấn cử nhân trở lên",
+      "C": "Đạt giải cao trong các hội thao quốc tế",
+      "D": "Có sức khỏe tốt nhất đơn vị"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 503,
+    "question": "Tiêu chí thứ hai của Cuộc vận động là gì?",
+    "options": {
+      "A": "Phẩm chất đạo đức trong sáng; lối sống trung thực, khiêm tốn, giản dị, chân thành",
+      "B": "Có thu nhập kinh tế cao",
+      "C": "Có quan hệ rộng rãi ngoài xã hội",
+      "D": "Tự chủ tài chính cho bản thân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 504,
+    "question": "Tiêu chí thứ ba của Cuộc vận động là gì?",
+    "options": {
+      "A": "Tích cực học tập, nghiên cứu nâng cao trình độ mọi mặt và chuyên môn nghiệp vụ",
+      "B": "Tập trung thi đấu thể thao chuyên nghiệp",
+      "C": "Tham gia nhiều hoạt động văn nghệ quần chúng",
+      "D": "Thực hiện tốt chế độ đi phép hàng năm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 505,
+    "question": "Tiêu chí thứ tư của Cuộc vận động là gì?",
+    "options": {
+      "A": "Đoàn kết nội bộ, đoàn kết quân dân gắn bó máu thịt",
+      "B": "Đoàn kết với các tổ chức tư nhân",
+      "C": "Ưu tiên giúp đỡ người thân quen",
+      "D": "Giữ mối liên hệ với các đồng hương"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 506,
+    "question": "Theo Quy định số 207-QĐ/TW ngày 26/7/2026 về những điều đảng viên không được làm, điểm mới nào sau đây được bổ sung liên quan đến việc phát tán thông tin sai sự thật?",
+    "options": {
+      "A": "Sử dụng hạ tầng Internet, mạng xã hội, nền tảng số, trí tuệ nhân tạo",
+      "B": "Kiểm chứng thông tin trước khi đăng",
+      "C": "Rút kinh nghiệm khi có sai sót",
+      "D": "Chỉnh sửa thông tin cho chính xác"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 507,
+    "question": "Khẩu hiệu hành động \"Cán bộ, chiến sĩ toàn quân thi đua đổi mới sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung\" được phát động nhằm mục đích gì?",
+    "options": {
+      "A": "Khơi dậy tinh thần cống hiến, ý chí tự lực tự cường và nâng cao hiệu quả công tác trong toàn quân",
+      "B": "Tạo phong trào bề nổi trong các ngày lễ",
+      "C": "Tăng thêm các buổi hội thảo chuyên đề",
+      "D": "Thay thế các chỉ tiêu huấn luyện quân sự"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 508,
+    "question": "Theo quy định về văn hóa công vụ và văn hóa quân sự, tác phong của người quân nhân khi làm việc phải bảo đảm yêu cầu gì?",
+    "options": {
+      "A": "Nghiêm túc, chuẩn mực, khẩn trương, khoa học, đúng quy trình và đúng thẩm quyền",
+      "B": "Thong thả, tùy nghi theo hoàn cảnh cá nhân",
+      "C": "Dễ dãi, bỏ qua các thủ tục cần thiết",
+      "D": "Tự ý thay đổi giờ giấc sinh hoạt chung"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 509,
+    "question": "Quy định về việc bảo đảm an toàn khi tham gia giao thông đối với quân nhân yêu cầu điều gì?",
+    "options": {
+      "A": "Chấp hành nghiêm Luật Giao thông đường bộ, tuyệt đối \"Đã uống rượu, bia - Không lái xe\", đội mũ bảo hiểm đạt chuẩn",
+      "B": "Có thể vượt đèn đỏ nếu đang đi công tác vội",
+      "C": "Được phép chở quá số người quy định khi về phép",
+      "D": "Không cần mang theo giấy tờ xe khi đi trong doanh trại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 510,
+    "question": "Trách nhiệm của cán bộ chỉ huy các cấp trong việc quản lý bộ đội và ngăn ngừa vi phạm kỷ luật là gì?",
+    "options": {
+      "A": "Sâu sát, gương mẫu, nắm chắc tư tưởng, hoàn cảnh của bộ đội; kịp thời phát hiện và giải quyết vướng mắc ngay từ cơ sở",
+      "B": "Chỉ cần kiểm tra quân số lúc điểm danh tối",
+      "C": "Khoán trắng cho cấp phó và nhân viên phụ trách",
+      "D": "Xử phạt thật nặng khi xảy ra vụ việc mà không cần giáo dục trước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 511,
+    "question": "Luật Nghĩa vụ quân sự năm 2015 quy định độ tuổi gọi nhập ngũ trong thời bình là từ bao nhiêu tuổi đến bao nhiêu tuổi?",
+    "options": {
+      "A": "Từ đủ 18 tuổi đến hết 25 tuổi (trường hợp học đại học, cao đẳng được tạm hoãn thì đến hết 27 tuổi)",
+      "B": "Từ đủ 18 tuổi đến hết 30 tuổi",
+      "C": "Từ đủ 19 tuổi đến hết 26 tuổi",
+      "D": "Từ đủ 20 tuổi đến hết 28 tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 512,
+    "question": "Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là bao nhiêu tháng?",
+    "options": {
+      "A": "24 tháng",
+      "B": "18 tháng",
+      "C": "30 tháng",
+      "D": "36 tháng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 513,
+    "question": "Theo Luật Nghĩa vụ quân sự 2015, trường hợp nào sau đây được tạm hoãn gọi nhập ngũ trong thời bình?",
+    "options": {
+      "A": "Chưa đủ sức khỏe phục vụ tại ngũ theo kết luận của Hội đồng khám sức khỏe; là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động",
+      "B": "Đã có việc làm thu nhập cao trong doanh nghiệp nước ngoài",
+      "C": "Có đơn xin hoãn để đi du lịch nước ngoài",
+      "D": "Chuẩn bị kết hôn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 514,
+    "question": "Trường hợp nào được miễn gọi nhập ngũ trong thời bình theo Luật Nghĩa vụ quân sự 2015?",
+    "options": {
+      "A": "Con của liệt sĩ; con của thương binh hạng một; một con của bệnh binh suy giảm khả năng lao động từ 81% trở lên",
+      "B": "Người có trình độ học vấn thạc sĩ, tiến sĩ",
+      "C": "Người đã từng làm việc trong cơ quan nhà nước",
+      "D": "Người là con một trong gia đình có điều kiện khá giả"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 515,
+    "question": "Hành vi trốn tránh thực hiện nghĩa vụ quân sự bị xử lý như thế nào theo quy định pháp luật?",
+    "options": {
+      "A": "Bị xử phạt vi phạm hành chính, nếu tái phạm có thể bị truy cứu trách nhiệm hình sự theo Điều 332 Bộ luật Hình sự",
+      "B": "Chỉ bị nhắc nhở tại tổ dân phố",
+      "C": "Chỉ cần nộp tiền phạt rồi được miễn vĩnh viễn",
+      "D": "Bị cấm xuất cảnh trong thời hạn 1 tháng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 516,
+    "question": "Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng năm 2015 quy định vị trí của Quân nhân chuyên nghiệp là gì?",
+    "options": {
+      "A": "Là lực lượng nòng cốt của đội ngũ chuyên môn kỹ thuật, nghiệp vụ, bảo đảm cho công tác lãnh đạo, chỉ huy, quản lý và sẵn sàng chiến đấu",
+      "B": "Là lực lượng lao động phổ thông trong quân đội",
+      "C": "Là lực lượng dự bị không nằm trong biên chế thường trực",
+      "D": "Là lực lượng tình nguyện viên bán thời gian"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 517,
+    "question": "Hạn tuổi phục vụ tại ngũ cao nhất của Quân nhân chuyên nghiệp cấp Trung tá là bao nhiêu tuổi?",
+    "options": {
+      "A": "Nam 54 tuổi, Nữ 54 tuổi (hoặc theo quy định mới điều chỉnh tương ứng)",
+      "B": "Nam 50 tuổi, Nữ 48 tuổi",
+      "C": "Nam 60 tuổi, Nữ 55 tuổi",
+      "D": "Nam 52 tuổi, Nữ 50 tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 518,
+    "question": "Theo Luật Sĩ quan Quân đội nhân dân Việt Nam, sĩ quan quân đội có mấy nhóm ngạch chức vụ cơ bản?",
+    "options": {
+      "A": "Sĩ quan chỉ huy, quản lý và Sĩ quan chuyên môn kỹ thuật, nghiệp vụ",
+      "B": "Sĩ quan hành chính và Sĩ quan ngoại giao",
+      "C": "Sĩ quan thường trực và Sĩ quan dự bị không lương",
+      "D": "Sĩ quan tác chiến và Sĩ quan doanh nghiệp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 519,
+    "question": "Cấp bậc quân hàm cao nhất đối với chức vụ Tư lệnh Quân khu theo Luật Sĩ quan sửa đổi là gì?",
+    "options": {
+      "A": "Trung tướng",
+      "B": "Đại tướng",
+      "C": "Thượng tướng",
+      "D": "Thiếu tướng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 520,
+    "question": "Hạn tuổi phục vụ tại ngũ cao nhất của sĩ quan cấp Đại tá theo quy định sửa đổi của Luật Sĩ quan là bao nhiêu tuổi?",
+    "options": {
+      "A": "58 tuổi (đối với nam)",
+      "B": "55 tuổi",
+      "C": "60 tuổi",
+      "D": "54 tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 521,
+    "question": "Nội dung nào sau đây là nghĩa vụ cơ bản của người sĩ quan Quân đội nhân dân Việt Nam?",
+    "options": {
+      "A": "Tuyệt đối trung thành với Tổ quốc, Nhân dân, Đảng và Nhà nước; sẵn sàng chiến đấu, hy sinh bảo vệ Tổ quốc",
+      "B": "Ưu tiên phát triển kinh tế cá nhân trước nhiệm vụ đơn vị",
+      "C": "Tự ý chuyển đơn vị công tác khi có điều kiện tốt hơn",
+      "D": "Từ chối nhận nhiệm vụ ở vùng sâu vùng xa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 522,
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, hệ thống tổ chức của Đảng hiện nay được thống nhất theo mô hình mấy cấp?",
+    "options": {
+      "A": "6 cấp",
+      "B": "5 cấp",
+      "C": "3 cấp",
+      "D": "4 cấp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 523,
+    "question": "Luật Dân quân tự vệ năm 2019 xác định Dân quân tự vệ là lực lượng gì?",
+    "options": {
+      "A": "Là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác; là thành phần của lực lượng vũ trang nhân dân",
+      "B": "Là lực lượng chuyên trách canh gác cơ quan ban ngành",
+      "C": "Là lực lượng dự bị động viên của quân đội thường trực",
+      "D": "Là tổ chức dân sự không có trang bị vũ khí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 524,
+    "question": "Độ tuổi tham gia Dân quân tự vệ trong thời bình đối với công dân nam là từ bao nhiêu tuổi đến bao nhiêu tuổi?",
+    "options": {
+      "A": "Từ đủ 18 tuổi đến hết 45 tuổi",
+      "B": "Từ đủ 18 tuổi đến hết 35 tuổi",
+      "C": "Từ đủ 20 tuổi đến hết 50 tuổi",
+      "D": "Từ đủ 18 tuổi đến hết 40 tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 525,
+    "question": "Thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ là bao nhiêu năm?",
+    "options": {
+      "A": "4 năm (đối với Dân quân thường trực là 2 năm)",
+      "B": "2 năm",
+      "C": "3 năm",
+      "D": "5 năm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 526,
+    "question": "Luật Lực lượng dự bị động viên năm 2019 quy định Lực lượng dự bị động viên gồm những thành phần nào?",
+    "options": {
+      "A": "Quân nhân dự bị và phương tiện kỹ thuật dự bị được đăng ký, quản lý và sắp xếp vào đơn vị dự bị động viên",
+      "B": "Chỉ gồm hạ sĩ quan xuất ngũ",
+      "C": "Tất cả công dân trong độ tuổi lao động",
+      "D": "Các phương tiện giao thông vận tải tư nhân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 527,
+    "question": "Mục đích của việc đăng ký, quản lý và huấn luyện lực lượng dự bị động viên là gì?",
+    "options": {
+      "A": "Sẵn sàng bổ sung cho lực lượng thường trực của Quân đội khi có lệnh động viên hoặc khi đất nước có chiến tranh",
+      "B": "Thực hiện các công trình xây dựng dân dụng tại địa phương",
+      "C": "Thay thế hoàn toàn lực lượng công an trong giữ gìn trật tự",
+      "D": "Giảm chi phí duy trì bộ đội chuyên nghiệp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 528,
+    "question": "Theo Quy định số 208-QĐ/TW ngày 26/7/2026 về thi hành Điều lệ Đảng, độ tuổi quy định của người vào Đảng tại thời điểm chi bộ xét kết nạp là bao nhiêu?",
+    "options": {
+      "A": "Từ đủ 18 tuổi đến đủ 60 tuổi",
+      "B": "Từ đủ 18 tuổi đến đủ 65 tuổi",
+      "C": "Từ đủ 20 tuổi đến đủ 60 tuổi",
+      "D": "Từ đủ 18 tuổi đến hết 55 tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 529,
+    "question": "Chính sách quốc phòng \"Bốn không\" của Việt Nam bao gồm những nội dung nào?",
+    "options": {
+      "A": "Không tham gia liên minh quân sự; Không liên kết với nước này để chống nước kia; Không cho nước ngoài đặt căn cứ quân sự hoặc sử dụng lãnh thổ để chống nước khác; Không sử dụng vũ lực hoặc đe dọa sử dụng vũ lực trong quan hệ quốc tế",
+      "B": "Không tăng ngân sách, không mua vũ khí mới, không diễn tập quốc tế, không tham gia gìn giữ hòa bình",
+      "C": "Không phát triển công nghiệp quốc phòng, không nhập khẩu vũ khí, không xuất khẩu quốc phòng, không hợp tác quốc tế",
+      "D": "Không duy trì quân đội thường trực, không gọi nhập ngũ, không xây dựng công sự, không tổ chức dân quân"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 530,
+    "question": "Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam được tổ chức vào ngày nào hàng năm?",
+    "options": {
+      "A": "Ngày 09 tháng 11 hàng năm",
+      "B": "Ngày 10 tháng 10 hàng năm",
+      "C": "Ngày 02 tháng 9 hàng năm",
+      "D": "Ngày 19 tháng 5 hàng năm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 531,
+    "question": "Mục đích của việc tổ chức Ngày Pháp luật Việt Nam là gì?",
+    "options": {
+      "A": "Tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi tầng lớp nhân dân và cán bộ, chiến sĩ",
+      "B": "Tổ chức các cuộc thi biểu diễn văn nghệ pháp luật",
+      "C": "Cấp phát tài liệu văn bản luật miễn phí",
+      "D": "Tạm dừng các hoạt động xét xử trong một ngày"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 532,
+    "question": "Nguyên tắc \"Thượng tôn pháp luật\" đòi hỏi mọi cơ quan, tổ chức, cá nhân và quân nhân phải làm gì?",
+    "options": {
+      "A": "Sống và làm việc theo Hiến pháp và pháp luật; không ai được đứng trên hoặc đứng ngoài pháp luật",
+      "B": "Chỉ tuân thủ những văn bản pháp luật mà mình cảm thấy phù hợp",
+      "C": "Ưu tiên áp dụng phong tục tập quán địa phương hơn luật định",
+      "D": "Chấp hành mệnh lệnh cá nhân trước, chấp hành luật sau"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 533,
+    "question": "Hình thức tuyên truyền, phổ biến, giáo dục pháp luật nào thường được áp dụng hiệu quả tại các đơn vị Quân đội?",
+    "options": {
+      "A": "Tổ chức Ngày Pháp luật hàng tháng; sinh hoạt Tủ sách pháp luật; sân khấu hóa và thi tìm hiểu pháp luật",
+      "B": "Chỉ phát tài liệu cho bộ đội tự đọc khi rảnh",
+      "C": "Chiếu phim truyện giải trí không lồng ghép nội dung luật",
+      "D": "Tổ chức họp báo tuyên truyền ra bên ngoài"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 534,
+    "question": "Theo quy định, \"Tủ sách pháp luật\" tại các cơ quan, đơn vị quân đội có vai trò gì?",
+    "options": {
+      "A": "Cung cấp tài liệu, sách báo pháp luật để cán bộ, chiến sĩ tra cứu, học tập, nâng cao nhận thức và hiểu biết pháp luật",
+      "B": "Chỉ dùng để trưng bày phục vụ các đoàn kiểm tra",
+      "C": "Lưu trữ hồ sơ xử lý kỷ luật cá nhân của quân nhân",
+      "D": "Để sách giáo khoa phổ thông cho chiến sĩ học bù"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 535,
+    "question": "Hành vi sử dụng trái phép chất ma túy trong Quân đội bị xử lý nghiêm khắc như thế nào?",
+    "options": {
+      "A": "Tước danh hiệu quân nhân (hoặc buộc thôi việc) và xử lý nghiêm theo quy định của pháp luật",
+      "B": "Chỉ bị khiển trách và cho làm bản kiểm điểm",
+      "C": "Cho nghỉ phép về gia đình tự cai nghiện",
+      "D": "Bị hạ bậc lương tạm thời"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 536,
+    "question": "Hành vi đánh bạc, tổ chức đánh bạc hoặc tham gia cá độ dưới mọi hình thức trong đơn vị Quân đội bị xử lý như thế nào?",
+    "options": {
+      "A": "Bị xử lý kỷ luật rất nghiêm minh từ giáng chức, cách chức đến tước danh hiệu quân nhân hoặc chuyển cơ quan điều tra hình sự",
+      "B": "Chỉ bị phạt tiền tương ứng với số tiền đánh bạc",
+      "C": "Tịch thu tang vật rồi tha cho về vị trí công tác",
+      "D": "Cấm rời khỏi doanh trại vào các ngày nghỉ cuối tuần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 537,
+    "question": "Việc quân nhân vay nợ vượt quá khả năng chi trả hoặc tham gia vào các đường dây \"tín dụng đen\" dẫn đến hậu quả gì?",
+    "options": {
+      "A": "Gây mất an toàn đơn vị, dễ bị đối tượng xấu khống chế, tống tiền, làm tổn hại danh dự Quân đội và vi phạm kỷ luật nghiêm trọng",
+      "B": "Không ảnh hưởng gì nếu tự trả được nợ sau này",
+      "C": "Chỉ là giao dịch dân sự thuần túy không liên quan đến kỷ luật quân đội",
+      "D": "Được đơn vị đứng ra trả nợ thay hoàn toàn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 538,
+    "question": "Khi quân nhân phát hiện đồng đội có dấu hiệu sa vào cờ bạc, vay nợ hoặc có biểu hiện tâm lý bất thường, cần phải làm gì?",
+    "options": {
+      "A": "Kịp thời báo cáo chỉ huy đơn vị và tận tình khuyên bảo, giúp đỡ đồng đội ngăn chặn sai phạm phát triển",
+      "B": "Giữ bí mật tuyệt đối giúp đồng chí mình",
+      "C": "Cho đồng đội mượn tiền để trả nợ trước",
+      "D": "Rủ thêm các chiến sĩ khác cùng tham gia chia sẻ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 539,
+    "question": "Quy định về thời gian tự học tập, đọc báo, nghe tin buổi tối tại các đơn vị cơ sở nhằm mục đích gì?",
+    "options": {
+      "A": "Cập nhật tình hình thời sự chính trị trong nước và quốc tế, định hướng tư tưởng đúng đắn cho bộ đội",
+      "B": "Tạo thời gian yên tĩnh chờ đến giờ ngủ",
+      "C": "Giúp chiến sĩ học thêm ngoại ngữ tự do",
+      "D": "Để cán bộ chuẩn bị giáo án cho ngày hôm sau"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 540,
+    "question": "Mỗi quân nhân khi tham gia mạng xã hội (Facebook, Zalo, TikTok...) không được làm điều gì dưới đây?",
+    "options": {
+      "A": "Đăng tải hình ảnh mặc quân phục chụp tại nơi đóng quân bí mật, bình luận tiêu cực, tham gia hội nhóm trái phép",
+      "B": "Đọc tin tức thời sự chính thống từ các báo Đảng",
+      "C": "Nhắn tin hỏi thăm sức khỏe người thân ngoài giờ công tác",
+      "D": "Chia sẻ những bài viết tuyên truyền gương người tốt việc tốt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 541,
+    "question": "Nghị quyết số 28-NQ/TW ngày 25/10/2013 của Ban Chấp hành Trung ương Đảng khóa XI là nghị quyết về nội dung gì?",
+    "options": {
+      "A": "Chiến lược bảo vệ Tổ quốc trong tình hình mới",
+      "B": "Chiến lược cải cách tư pháp",
+      "C": "Phát triển bền vững kinh tế biển",
+      "D": "Tăng cường công tác phòng chống tham nhũng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 542,
+    "question": "Chiến lược bảo vệ Tổ quốc trong tình hình mới xác định mục tiêu tối thượng là gì?",
+    "options": {
+      "A": "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, Nhân dân và chế độ xã hội chủ nghĩa",
+      "B": "Mở rộng không gian ảnh hưởng địa chính trị",
+      "C": "Đạt tốc độ tăng trưởng kinh tế hai con số bằng mọi giá",
+      "D": "Gia nhập các liên minh an ninh khu vực"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 543,
+    "question": "Phương châm cơ bản trong đấu tranh bảo vệ chủ quyền biển, đảo của Tổ quốc là gì?",
+    "options": {
+      "A": "Kiên quyết, kiên trì đấu tranh bằng các biện pháp hòa bình trên cơ sở luật pháp quốc tế, giữ vững môi trường hòa bình, ổn định để phát triển",
+      "B": "Sẵn sàng phát động chiến tranh tổng lực ngay khi có va chạm",
+      "C": "Chỉ dựa vào sự phán quyết của tòa án quốc tế mà không cần phòng thủ thực địa",
+      "D": "Nhượng bộ lợi ích để giữ hòa khí"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 544,
+    "question": "Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS 1982) quy định chiều rộng lãnh hải của quốc gia ven biển là bao nhiêu hải lý?",
+    "options": {
+      "A": "12 hải lý (tính từ đường cơ sở)",
+      "B": "24 hải lý",
+      "C": "200 hải lý",
+      "D": "6 hải lý"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 545,
+    "question": "Vùng đặc quyền kinh tế của quốc gia ven biển theo UNCLOS 1982 có chiều rộng tối đa là bao nhiêu hải lý?",
+    "options": {
+      "A": "200 hải lý tính từ đường cơ sở",
+      "B": "150 hải lý",
+      "C": "350 hải lý",
+      "D": "100 hải lý"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 546,
+    "question": "Việt Nam khẳng định chủ quyền không thể chối cãi đối với hai quần đảo nào trên Biển Đông?",
+    "options": {
+      "A": "Quần đảo Hoàng Sa và Quần đảo Trường Sa",
+      "B": "Quần đảo Nam Du và Thổ Chu",
+      "C": "Quần đảo Cát Bà và Côn Đảo",
+      "D": "Quần đảo Phú Quốc và Hòn Khoai"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 547,
+    "question": "Luật Cảnh sát biển Việt Nam năm 2018 xác định vị trí của Cảnh sát biển Việt Nam là lực lượng gì?",
+    "options": {
+      "A": "Là lực lượng vũ trang nhân dân, lực lượng chuyên trách của Nhà nước, làm nòng cốt thực thi pháp luật và bảo vệ an ninh quốc gia trên biển",
+      "B": "Là lực lượng tuần tra giao thông đường thủy nội địa",
+      "C": "Là doanh nghiệp kinh doanh vận tải biển quân sự",
+      "D": "Là tổ chức bảo hộ ngư dân tự nguyện"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 548,
+    "question": "Biên phòng Việt Nam có chức năng nòng cốt, chuyên trách trong công tác quản lý, bảo vệ khu vực nào?",
+    "options": {
+      "A": "Bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trên đất liền, trên biển và tại các cửa khẩu",
+      "B": "Bảo vệ các khu đô thị nội địa",
+      "C": "Giữ gìn trật tự an toàn giao thông đường sắt",
+      "D": "Kiểm soát thị trường nội địa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 549,
+    "question": "Xây dựng \"thế trận lòng dân\" vững chắc trong sự nghiệp quốc phòng toàn dân có ý nghĩa gì?",
+    "options": {
+      "A": "Là nền tảng gốc rễ tạo nên sức mạnh vô địch của toàn dân tộc bảo vệ vững chắc Tổ quốc trong mọi tình huống",
+      "B": "Là biện pháp vận động quyên góp tài chính cho quân đội",
+      "C": "Là hình thức tổ chức dân quân tự vệ rộng khắp",
+      "D": "Là công tác quản lý hộ khẩu tại các vùng biên cương"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 550,
+    "question": "Để xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân vững chắc, yếu tố then chốt hàng đầu là gì?",
+    "options": {
+      "A": "Xây dựng tiềm lực chính trị - tinh thần, củng cố niềm tin vững chắc của Nhân dân đối với Đảng, Nhà nước và Quân đội",
+      "B": "Mua sắm thật nhiều vũ khí hiện đại từ nước ngoài",
+      "C": "Xây dựng thật nhiều công trình bê tông cốt thép",
+      "D": "Tăng cường số lượng cán bộ hành chính tại cơ sở"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 551,
+    "question": "Nghị quyết số 27-NQ/TW ngày 09/11/2022 của Hội nghị Trung ương 6 khóa XIII là nghị quyết về nội dung gì?",
+    "options": {
+      "A": "Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới",
+      "B": "Đổi mới căn bản hệ thống an sinh xã hội",
+      "C": "Tăng cường quản lý đất đai và tài nguyên môi trường",
+      "D": "Cải cách tiền lương đối với cán bộ, công chức"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 552,
+    "question": "Đặc trưng cơ bản của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?",
+    "options": {
+      "A": "Nhà nước của Nhân dân, do Nhân dân, vì Nhân dân; do Đảng Cộng sản Việt Nam lãnh đạo; thượng tôn Hiến pháp và pháp luật",
+      "B": "Nhà nước phân chia quyền lực tam quyền phân lập tuyệt đối",
+      "C": "Nhà nước chỉ bảo vệ lợi ích của tầng lớp thượng lưu",
+      "D": "Nhà nước phi chính trị không chịu sự lãnh đạo của đảng nào"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 553,
+    "question": "Quyền làm chủ của Nhân dân trong Nhà nước pháp quyền XHCN Việt Nam được thực hiện thông qua những hình thức nào?",
+    "options": {
+      "A": "Dân chủ đại diện và Dân chủ trực tiếp",
+      "B": "Chỉ thông qua các cuộc bầu cử Quốc hội",
+      "C": "Chỉ thông qua mạng xã hội",
+      "D": "Thông qua việc kiến nghị của các doanh nghiệp lớn"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 554,
+    "question": "Phương châm thực hiện dân chủ ở cơ sở được Đảng ta xác định là gì?",
+    "options": {
+      "A": "\"Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng\"",
+      "B": "\"Dân nghe, dân làm, dân báo cáo, dân chịu trách nhiệm\"",
+      "C": "\"Cán bộ quyết định, dân thi hành nghiêm chỉnh\"",
+      "D": "\"Cấp ủy thông báo, nhân dân biểu quyết đồng ý\""
+    },
+    "answer": "A"
+  },
+  {
+    "id": 555,
+    "question": "Luật Thực hiện dân chủ ở cơ sở năm 2022 có ý nghĩa quan trọng như thế nào đối với các cơ quan, đơn vị Quân đội?",
+    "options": {
+      "A": "Bảo đảm quyền dân chủ thực sự của cán bộ, chiến sĩ, phát huy trí tuệ tập thể, củng cố đoàn kết nội bộ và xây dựng đơn vị vững mạnh",
+      "B": "Làm giảm uy quyền của người chỉ huy đơn vị",
+      "C": "Cho phép quân nhân tự ý thảo luận mệnh lệnh chiến đấu",
+      "D": "Tổ chức bỏ phiếu kín để bầu các chức danh chỉ huy hàng tuần"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 556,
+    "question": "Hội đồng quân nhân ở cơ sở trong Quân đội nhân dân Việt Nam hoạt động dưới sự lãnh đạo, chỉ đạo của ai?",
+    "options": {
+      "A": "Đặt dưới sự lãnh đạo trực tiếp của cấp ủy, chi bộ và sự quản lý của người chỉ huy cùng cấp",
+      "B": "Hoạt động độc lập hoàn toàn với cấp ủy đơn vị",
+      "C": "Chỉ chịu sự chỉ đạo của cơ quan thanh tra quân đội",
+      "D": "Do đoàn thanh niên trực tiếp điều hành mọi mặt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 557,
+    "question": "Ba mặt dân chủ lớn mà Hội đồng quân nhân thực hiện ở cơ sở bao gồm những mặt nào?",
+    "options": {
+      "A": "Dân chủ về Quân sự - Chuyên môn; Dân chủ về Chính trị; Dân chủ về Kinh tế và Đời sống",
+      "B": "Dân chủ về thi đua; Dân chủ về kỷ luật; Dân chủ về phong trào",
+      "C": "Dân chủ về khen thưởng; Dân chủ về huấn luyện; Dân chủ về đi phép",
+      "D": "Dân chủ về công tác cán bộ; Dân chủ về trang phục; Dân chủ về tiền lương"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 558,
+    "question": "Thực hiện tốt dân chủ trên mặt Quân sự - Chuyên môn nhằm mục đích gì?",
+    "options": {
+      "A": "Phát huy sáng kiến, kinh nghiệm của cán bộ, chiến sĩ để nâng cao chất lượng huấn luyện, sẵn sàng chiến đấu và thực hiện nhiệm vụ",
+      "B": "Tự ý biểu quyết hủy bỏ kế hoạch huấn luyện của cấp trên",
+      "C": "Để chiến sĩ tự chọn bài huấn luyện mình thích",
+      "D": "Bình bầu người chỉ huy thay thế khi thấy không thích"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 559,
+    "question": "Thực hiện dân chủ về Kinh tế và Đời sống trong đơn vị cơ sở được thể hiện rõ nhất ở việc gì?",
+    "options": {
+      "A": "Công khai tài chính, tiêu chuẩn ăn uống hàng ngày, chế độ quân trang, phúc lợi và tăng gia sản xuất cho toàn thể bộ đội cùng biết",
+      "B": "Chia tiền mặt trực tiếp cho từng người tự nấu ăn",
+      "C": "Cho phép bộ đội tự ý mang tiền riêng vào bếp ăn",
+      "D": "Bán các tài sản công để bổ sung quỹ sinh hoạt riêng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 560,
+    "question": "Ngày sinh hoạt chính trị văn hóa tinh thần hàng tháng tại đơn vị cơ sở có mục đích cốt lõi là gì?",
+    "options": {
+      "A": "Đối thoại dân chủ trực tiếp giữa chỉ huy và bộ đội, lắng nghe tâm tư nguyện vọng và giải quyết kịp thời các vướng mắc của chiến sĩ",
+      "B": "Tổ chức xem phim giải trí và ca múa nhạc",
+      "C": "Kiểm tra nhận thức chính trị bằng văn bản",
+      "D": "Tổ chức sinh nhật tập thể cho quân nhân trong tháng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 561,
+    "question": "Nghị quyết Trung ương 4 khóa XII của Đảng đã chỉ ra bao nhiêu biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, \"tự diễn biến\", \"tự chuyển hóa\"?",
+    "options": {
+      "A": "27 biểu hiện (9 biểu hiện về tư tưởng chính trị, 9 biểu hiện về đạo đức lối sống, 9 biểu hiện về \"tự diễn biến\", \"tự chuyển hóa\")",
+      "B": "20 biểu hiện",
+      "C": "25 biểu hiện",
+      "D": "30 biểu hiện"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 562,
+    "question": "Biểu hiện nào sau đây thuộc nhóm suy thoái về tư tưởng chính trị được Nghị quyết Trung ương 4 khóa XII chỉ ra?",
+    "options": {
+      "A": "Phai nhạt lý tưởng cách mạng; dao động, giảm sút niềm tin vào mục tiêu độc lập dân tộc và chủ nghĩa xã hội",
+      "B": "Ăn mặc không đúng tác phong quy định",
+      "C": "Đi làm muộn về sớm trong giờ hành chính",
+      "D": "Không nhiệt tình tham gia hoạt động văn nghệ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 563,
+    "question": "Một trong những biểu hiện suy thoái về đạo đức, lối sống là gì?",
+    "options": {
+      "A": "Chủ nghĩa cá nhân, sống ích kỷ, thực dụng, cơ hội, vụ lợi; ham danh vọng, vun vén lợi ích cho bản thân và gia đình",
+      "B": "Tự giác nhận việc khó về phần mình",
+      "C": "Giúp đỡ đồng chí đồng đội khi hoạn nạn",
+      "D": "Thực hành tiết kiệm, chống lãng phí trong sinh hoạt"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 564,
+    "question": "Biểu hiện \"tự diễn biến\", \"tự chuyển hóa\" nguy hiểm nhất trong nội bộ là gì?",
+    "options": {
+      "A": "Phủ nhận chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và đường lối đổi mới của Đảng; đòi \"phi chính trị hóa\" lực lượng vũ trang",
+      "B": "Phê bình cấp trên trong các cuộc họp sinh hoạt đảng",
+      "C": "Đề xuất đổi mới phương pháp giảng dạy chính trị",
+      "D": "Thích nghe các bài hát cách mạng tiền chiến"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 565,
+    "question": "Âm mưu \"phi chính trị hóa\" Quân đội của các thế lực thù địch nhằm mục đích gì?",
+    "options": {
+      "A": "Tách Quân đội ra khỏi sự lãnh đạo tuyệt đối của Đảng, làm cho Quân đội mất phương hướng chính trị và mục tiêu chiến đấu",
+      "B": "Muốn Quân đội ta hiện đại hóa nhanh hơn",
+      "C": "Tăng cường giao lưu quân sự quốc tế cho Quân đội",
+      "D": "Giúp Quân đội tập trung hoàn toàn vào huấn luyện tác chiến"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 566,
+    "question": "Chiến lược \"Diễn biến hòa bình\" của các thế lực thù địch chống phá cách mạng Việt Nam sử dụng biện pháp chủ yếu nào?",
+    "options": {
+      "A": "Dùng các thủ đoạn phi vũ trang kết hợp răn đe quân sự, thâm nhập, chuyển hóa nội bộ từ bên trong về tư tưởng, văn hóa, kinh tế, chính trị",
+      "B": "Tấn công hạt nhân quy mô lớn",
+      "C": "Bao vây phong tỏa đường biển toàn diện",
+      "D": "Phát động chiến tranh xâm lược chớp nhoáng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 567,
+    "question": "Để đánh bại âm mưu \"Diễn biến hòa bình\" của các thế lực thù địch, biện pháp quan trọng hàng đầu của Quân đội là gì?",
+    "options": {
+      "A": "Xây dựng Quân đội vững mạnh về chính trị, nâng cao bản lĩnh chính trị, giữ vững trận địa tư tưởng của Đảng trong toàn quân",
+      "B": "Tăng cường mua sắm trang thiết bị điện tử mới",
+      "C": "Không cho bộ đội tiếp cận với thông tin bên ngoài",
+      "D": "Chờ đợi đối phương tự từ bỏ âm mưu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 568,
+    "question": "Theo Nghị quyết số 19-NQ/TW ngày 28/7/2026 về đổi mới mô hình phát triển Việt Nam, mục tiêu phát thải ròng bằng \"0\" được thực hiện vào năm nào?",
+    "options": {
+      "A": "2030",
+      "B": "2040",
+      "C": "2050",
+      "D": "2060"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 569,
+    "question": "Khi phát hiện các trang tin, tài khoản mạng xã hội đăng tải nội dung vu khống lãnh đạo Đảng, Nhà nước hoặc nói xấu Quân đội, quân nhân phải làm gì?",
+    "options": {
+      "A": "Không like, không chia sẻ, thực hiện tính năng báo cáo xấu (report) và báo cáo cơ quan chức năng để có biện pháp xử lý",
+      "B": "Tải về máy điện thoại để gửi cho bạn bè cùng xem",
+      "C": "Vào bình luận chửi bới vô văn hóa",
+      "D": "Chia sẻ lên trang cá nhân để cảnh báo rộng rãi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 570,
+    "question": "Lực lượng 47 trong Quân đội nhân dân Việt Nam có nhiệm vụ trọng tâm là gì?",
+    "options": {
+      "A": "Tham gia đấu tranh bảo vệ nền tảng tư tưởng của Đảng, phản bác các quan điểm sai trái, thù địch trên không gian mạng",
+      "B": "Chuyên trách công tác cứu hộ, cứu nạn thiên tai",
+      "C": "Huấn luyện chiến sĩ mới nhập ngũ hàng năm",
+      "D": "Quản lý tài chính và trang thiết bị vật tư"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 571,
+    "question": "Lời thề thứ ba trong 10 Lời thề danh dự của quân nhân yêu cầu thái độ đối với tài sản của Nhà nước và vũ khí trang bị như thế nào?",
+    "options": {
+      "A": "Tuyệt đối trung thành, hết lòng bảo vệ tài sản của quân đội và nhân dân, giữ gìn vũ khí trang bị tốt, bền, an toàn, tiết kiệm",
+      "B": "Được phép sử dụng vũ khí vào mục đích cá nhân khi cần",
+      "C": "Thanh lý vũ khí cũ để mua trang bị mới tự do",
+      "D": "Coi tài sản của đơn vị là tài sản chung muốn dùng sao cũng được"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 572,
+    "question": "Lời thề thứ sáu trong 10 Lời thề danh dự của quân nhân quy định về tinh thần chiến đấu như thế nào?",
+    "options": {
+      "A": "Khi tiếp xúc với quân địch thì kiên quyết chiến đấu đến giọt máu cuối cùng, không đầu hàng, không để bị bắt sống, không làm mất danh dự quân đội",
+      "B": "Tìm mọi cách thương lượng với kẻ thù để bảo toàn tính mạng",
+      "C": "Rút lui ngay khi thấy đối phương hỏa lực mạnh hơn",
+      "D": "Chỉ đánh khi có lệnh của cấp trên trực tiếp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 573,
+    "question": "Lời thề thứ tám trong 10 Lời thề danh dự của quân nhân thể hiện tinh thần quốc tế như thế nào?",
+    "options": {
+      "A": "Xây dựng tinh thần quốc tế vô sản cao cả, đoàn kết, giúp đỡ nhân dân và quân đội các nước anh em vì hòa bình, tiến bộ xã hội",
+      "B": "Chỉ tập trung bảo vệ lợi ích cục bộ của quốc gia mình",
+      "C": "Tham gia các liên minh quân sự khi có lợi ích kinh tế",
+      "D": "Từ chối các hoạt động gìn giữ hòa bình quốc tế"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "question": "Điểm thứ nhất trong 12 Điều kỷ luật khi quan hệ với nhân dân yêu cầu quân nhân phải làm gì khi vào nhà dân?",
+    "options": {
+      "A": "Không tự ý vào nhà dân khi chưa được phép; không làm phiền lòng dân; tôn trọng phong tục tập quán của địa phương",
+      "B": "Có thể nghỉ ngơi tự do ở bất cứ đâu trong làng",
+      "C": "Yêu cầu gia đình nấu cơm chiêu đãi bộ đội",
+      "D": "Tự do sử dụng đồ dùng của gia đình khi thấy cần thiết"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 575,
+    "question": "Điểm thứ hai trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu gì về tài sản?",
+    "options": {
+      "A": "Mua bán công bằng sòng phẳng, mượn đồ phải trả, làm hỏng phải đền, tuyệt đối không lấy của dân dù chỉ một cây kim sợi chỉ",
+      "B": "Có thể mượn đồ của dân dùng lâu dài mà không cần hỏi",
+      "C": "Ép dân bán hàng với giá rẻ cho đơn vị",
+      "D": "Tự ý chặt cây cối của dân để ngụy trang mà không xin phép"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 576,
+    "question": "Điểm thứ tư trong 12 Điều kỷ luật khi tiếp xúc với nhân dân yêu cầu quân nhân có thái độ giao tiếp thế nào?",
+    "options": {
+      "A": "Nói năng lễ phép, nhã nhặn, khiêm tốn; kính già, yêu trẻ, tôn trọng phụ nữ, đoàn kết thanh niên",
+      "B": "Nói to, gắt gỏng để thể hiện oai phong của quân đội",
+      "C": "Xưng hô trịch thượng như người bề trên",
+      "D": "Làm ngơ không chào hỏi khi gặp người lớn tuổi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 577,
+    "question": "Điểm thứ mười một trong 12 Điều kỷ luật khi quan hệ với nhân dân nhấn mạnh việc bảo vệ bí mật quân sự như thế nào?",
+    "options": {
+      "A": "Tuyệt đối giữ bí mật quân sự, bí mật nhà nước, không nói lộ tên đơn vị, vị trí đóng quân, trang bị vũ khí cho người không có trách nhiệm",
+      "B": "Được phép kể chuyện đơn vị cho bạn bè nghe để tự hào",
+      "C": "Chia sẻ số lượng xe tăng máy bay của đơn vị trên mạng",
+      "D": "Cho người thân vào xem khu vực chỉ huy tác chiến"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 578,
+    "question": "Phong trào thi đua \"Dân vận khéo\", xây dựng \"Đơn vị dân vận tốt\" trong Quân đội hướng tới mục đích gì?",
+    "options": {
+      "A": "Tăng cường mối quan hệ đoàn kết gắn bó máu thịt giữa quân đội với nhân dân, củng cố vững chắc \"thế trận lòng dân\"",
+      "B": "Để quay phim chụp ảnh tuyên truyền cho đơn vị",
+      "C": "Để được địa phương hỗ trợ kinh phí hoạt động",
+      "D": "Thực hiện thay thế chức năng của các cơ quan dân sự"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 579,
+    "question": "Chương trình \"Cảnh sát biển đồng hành với ngư dân\" hoặc \"Hải quân làm điểm tựa cho ngư dân vươn khơi bám biển\" nhằm mục đích gì?",
+    "options": {
+      "A": "Hỗ trợ ngư dân cứu nạn, bảo vệ ngư dân trên các ngư trường truyền thống, góp phần khẳng định và bảo vệ chủ quyền biển đảo",
+      "B": "Thu phí bảo hiểm của các tàu đánh cá",
+      "C": "Quản lý việc bán hải sản của ngư dân",
+      "D": "Bắt buộc ngư dân phải báo cáo vị trí hàng giờ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 580,
+    "question": "Mô hình \"Con nuôi đồn Biên phòng\" và chương trình \"Nâng bước em tới trường\" thể hiện phẩm chất cao đẹp nào của Bộ đội Cụ Hồ?",
+    "options": {
+      "A": "Lòng nhân ái, sự sẻ chia, trách nhiệm và tình cảm gắn bó sâu nặng của người lính biên cương với đồng bào các dân tộc thiểu số",
+      "B": "Nhiệm vụ huấn luyện bắt buộc của Bộ Chỉ huy Biên phòng",
+      "C": "Phong trào từ thiện mang tính thời vụ",
+      "D": "Hình thức tìm kiếm nhân lực bổ sung cho quân đội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 581,
+    "question": "Năm 2026 là năm tiến hành sự kiện chính trị trọng đại nào của Đảng và đất nước ta?",
+    "options": {
+      "A": "Đại hội đại biểu toàn quốc lần thứ XIV của Đảng và Bầu cử đại biểu Quốc hội khóa XVI, đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031",
+      "B": "Kỷ niệm 100 năm ngày thành lập Đảng",
+      "C": "Đại hội Thi đua yêu nước toàn quốc lần thứ XII",
+      "D": "Hội nghị thượng đỉnh APEC lần thứ tư tại Việt Nam"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 582,
+    "question": "Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp được tiến hành theo những nguyên tắc nào?",
+    "options": {
+      "A": "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
+      "B": "Dân chủ, công khai, gián tiếp và hiệp thương",
+      "C": "Tập trung dân chủ, chỉ định và biểu quyết công khai",
+      "D": "Đại diện, ưu tiên, tự do và bỏ phiếu hở"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 583,
+    "question": "Theo Hiến pháp năm 2013, công dân Việt Nam đủ bao nhiêu tuổi thì có quyền bầu cử Quốc hội và Hội đồng nhân dân?",
+    "options": {
+      "A": "Đủ 18 tuổi trở lên",
+      "B": "Đủ 20 tuổi trở lên",
+      "C": "Đủ 21 tuổi trở lên",
+      "D": "Đủ 16 tuổi trở lên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 584,
+    "question": "Công dân Việt Nam đủ bao nhiêu tuổi thì có quyền ứng cử vào Quốc hội và Hội đồng nhân dân các cấp?",
+    "options": {
+      "A": "Đủ 21 tuổi trở lên",
+      "B": "Đủ 18 tuổi trở lên",
+      "C": "Đủ 25 tuổi trở lên",
+      "D": "Đủ 30 tuổi trở lên"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 585,
+    "question": "Trách nhiệm của mỗi cán bộ, chiến sĩ Quân đội khi tham gia bầu cử đại biểu Quốc hội và HĐND các cấp là gì?",
+    "options": {
+      "A": "Nghiên cứu kỹ danh sách ứng cử viên, sáng suốt lựa chọn người đủ đức, đủ tài, tự mình bỏ phiếu theo đúng quy định pháp luật",
+      "B": "Nhờ đồng đội bỏ phiếu hộ cho nhanh",
+      "C": "Bỏ phiếu theo sự hướng dẫn miệng của người khác mà không cần đọc tiểu sử",
+      "D": "Bỏ phiếu trắng để phản đối"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 586,
+    "question": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí, chức năng gì?",
+    "options": {
+      "A": "Là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất, thực hiện quyền lập hiến, lập pháp, giám sát tối cao và quyết định các vấn đề quan trọng của đất nước",
+      "B": "Là cơ quan hành chính nhà nước cao nhất",
+      "C": "Là cơ quan xét xử cao nhất trong hệ thống tư pháp",
+      "D": "Là cơ quan thanh tra kiểm tra tối cao của Chính phủ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 587,
+    "question": "Hội đồng nhân dân là cơ quan có vị trí như thế nào ở địa phương?",
+    "options": {
+      "A": "Là cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân địa phương",
+      "B": "Là cơ quan chấp hành của Ủy ban nhân dân",
+      "C": "Là cơ quan tư pháp độc lập tại địa phương",
+      "D": "Là tổ chức xã hội nghề nghiệp tự quản"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 588,
+    "question": "Ủy ban nhân dân ở các cấp do cơ quan nào bầu ra?",
+    "options": {
+      "A": "Do Hội đồng nhân dân cùng cấp bầu ra, là cơ quan chấp hành của HĐND, cơ quan hành chính nhà nước ở địa phương",
+      "B": "Do Nhân dân trực tiếp bỏ phiếu bầu",
+      "C": "Do cơ quan công an địa phương bổ nhiệm",
+      "D": "Do Tòa án nhân dân cấp tỉnh chỉ định"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 589,
+    "question": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam có quyền hạn gì trong lĩnh vực quốc phòng, an ninh?",
+    "options": {
+      "A": "Thống lĩnh Lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng Quốc phòng và An ninh",
+      "B": "Trực tiếp chỉ huy các chiến dịch tác chiến quân sự",
+      "C": "Bổ nhiệm tất cả các chức danh chỉ huy cấp sư đoàn trở xuống",
+      "D": "Quyết định chi tiêu ngân sách quốc phòng hàng năm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 590,
+    "question": "Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam là cơ quan có vị trí gì?",
+    "options": {
+      "A": "Là cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội",
+      "B": "Là cơ quan quyền lực nhà nước cao nhất",
+      "C": "Là cơ quan giám sát tối cao việc tuân theo pháp luật",
+      "D": "Là cơ quan điều tra tội phạm quốc gia"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 591,
+    "question": "Tòa án nhân dân là cơ quan thực hiện quyền gì trong bộ máy nhà nước ta?",
+    "options": {
+      "A": "Thực hiện quyền tư pháp, bảo vệ công lý, bảo vệ quyền con người, quyền công dân, chế độ XHCN",
+      "B": "Thực hiện quyền lập pháp",
+      "C": "Thực hiện quyền hành pháp",
+      "D": "Thực hiện quyền kiểm toán nhà nước"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 592,
+    "question": "Viện kiểm sát nhân dân có chức năng cơ bản nào sau đây?",
+    "options": {
+      "A": "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+      "B": "Xét xử các vụ án hình sự và dân sự",
+      "C": "Thi hành các bản án đã có hiệu lực pháp luật",
+      "D": "Giữ gìn trật tự an toàn giao thông đô thị"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 593,
+    "question": "Mặt trận Tổ quốc Việt Nam là gì trong hệ thống chính trị nước ta?",
+    "options": {
+      "A": "Là cơ sở chính trị của chính quyền nhân dân, đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợp khối đại đoàn kết toàn dân tộc",
+      "B": "Là cơ quan trực thuộc quyền quản lý của Chính phủ",
+      "C": "Là tổ chức kinh tế phi chính phủ",
+      "D": "Là cơ quan ban hành các văn bản quy phạm pháp luật"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 594,
+    "question": "Đoàn Thanh niên Cộng sản Hồ Chí Minh trong Quân đội có vị trí, vai trò như thế nào?",
+    "options": {
+      "A": "Là trường học xã hội chủ nghĩa của thanh niên quân đội, lực lượng xung kích, đi đầu trong thực hiện mọi nhiệm vụ huấn luyện, SSCĐ, học tập và rèn luyện",
+      "B": "Là tổ chức vui chơi giải trí đơn thuần cho chiến sĩ trẻ",
+      "C": "Là tổ chức quản lý hành chính đối với hạ sĩ quan, binh sĩ",
+      "D": "Là đơn vị phụ trách hậu cần đời sống cho bộ đội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 595,
+    "question": "Phong trào thi đua \"Thanh niên Quân đội rèn đức, luyện tài, xung kích, sáng tạo, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới có ý nghĩa gì?",
+    "options": {
+      "A": "Cổ vũ tuổi trẻ quân đội cống hiến tài năng, trí tuệ, làm chủ vũ khí trang bị kỹ thuật hiện đại, hoàn thành xuất sắc nhiệm vụ",
+      "B": "Tổ chức các chuyến dã ngoại cho đoàn viên thanh niên",
+      "C": "Phát động thi đua tăng gia sản xuất thu tiền mặt",
+      "D": "Tìm kiếm các tài năng âm nhạc trong quân đội"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 596,
+    "question": "Công đoàn Quốc phòng là tổ chức đại diện cho đối tượng nào trong Quân đội?",
+    "options": {
+      "A": "Công nhân, viên chức quốc phòng và người lao động làm việc trong các doanh nghiệp, cơ quan, đơn vị quân đội",
+      "B": "Tất cả hạ sĩ quan, binh sĩ nhập ngũ hàng năm",
+      "C": "Sĩ quan chỉ huy các cấp trong toàn quân",
+      "D": "Lực lượng dự bị động viên tại địa phương"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 597,
+    "question": "Hội Phụ nữ trong Quân đội nhân dân Việt Nam có phong trào thi đua tiêu biểu nào?",
+    "options": {
+      "A": "\"Phụ nữ Quân đội trí tuệ - bản lĩnh, hoàn thành tốt nhiệm vụ, xây dựng gia đình hạnh phúc, xứng danh Bộ đội Cụ Hồ\" thời kỳ mới",
+      "B": "Phụ nữ làm kinh tế giỏi",
+      "C": "Phụ nữ đảm đang việc nhà giỏi việc nước",
+      "D": "Nuôi con khỏe, dạy con ngoan trong doanh trại"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 598,
+    "question": "Vai trò của công tác thi đua, khen thưởng trong Quân đội nhân dân Việt Nam là gì?",
+    "options": {
+      "A": "Tạo động lực tinh thần to lớn, biểu dương, nhân rộng các điển hình tiên tiến, thúc đẩy các tập thể, cá nhân vươn lên hoàn thành xuất sắc nhiệm vụ",
+      "B": "Để xét nâng lương nhanh cho cán bộ chỉ huy",
+      "C": "Tổ chức các buổi liên hoan gặp mặt cuối năm",
+      "D": "Để chia tiền thưởng cho các cơ quan, đơn vị"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 599,
+    "question": "Danh hiệu cao quý \"Đơn vị Quyết thắng\" được trao tặng cho những tập thể nào trong phong trào Thi đua Quyết thắng?",
+    "options": {
+      "A": "Tập thể cơ sở hoặc đơn vị trực thuộc đạt thành tích xuất sắc toàn diện, tiêu biểu dẫn đầu trong phong trào thi đua năm đó",
+      "B": "Tất cả các đơn vị không có ai bị kỷ luật",
+      "C": "Đơn vị có doanh thu làm kinh tế cao nhất",
+      "D": "Đơn vị có số lượng học viên đông nhất"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 600,
+    "question": "Danh hiệu \"Chiến sĩ thi đua toàn quân\" được xét tặng cho đối tượng nào?",
+    "options": {
+      "A": "Cá nhân có thành tích tiêu biểu xuất sắc, có sáng kiến, giải pháp công tác hiệu quả và đạt danh hiệu Chiến sĩ thi đua cơ sở 3 lần liên tục",
+      "B": "Chiến sĩ mới hoàn thành tốt khóa huấn luyện",
+      "C": "Quân nhân có thời gian công tác từ 10 năm trở lên",
+      "D": "Tất cả cán bộ đạt chuẩn sức khỏe loại 1"
+    },
+    "answer": "A"
+  }
 ]

@@ -1,102 +1,1102 @@
 [
-  {"id":201,"question":"Trong công tác tuyển quân, Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu công dân nhập ngũ đã tốt nghiệp cao đẳng, đại học đạt tỷ lệ nào?","options":{"A":"Phấn đấu đạt tỷ lệ từ 7,0% trở lên.","B":"Phấn đấu đạt tỷ lệ từ 8,0% trở lên.","C":"Phấn đấu đạt tỷ lệ từ 9,0% trở lên.","D":"Phấn đấu đạt tỷ lệ từ 10,0% trở lên."},"answer":"C"},
-  {"id":202,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tỷ lệ đảng viên trong lực lượng Dự bị động viên đạt bao nhiêu?","options":{"A":"Đạt tỷ lệ 10% trở lên.","B":"Đạt tỷ lệ 12% trở lên.","C":"Đạt tỷ lệ 15% trở lên.","D":"Đạt tỷ lệ 20% trở lên."},"answer":"A"},
-  {"id":203,"question":"Về xây dựng đơn vị an toàn, Đại hội Đảng bộ Quân khu lần thứ XI đề ra mục tiêu cụ thể như thế nào?","options":{"A":"Có 98% cơ quan, đơn vị bảo đảm an toàn về chính trị.","B":"Đảm bảo an toàn chính trị tuyệt đối trong các ngày kỷ niệm lớn.","C":"100% cơ quan, đơn vị an toàn tuyệt đối về chính trị.","D":"Không để xảy ra tình trạng mất an toàn về chính trị nghiêm trọng."},"answer":"C"},
-  {"id":204,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu hàng năm số đơn vị đạt danh hiệu huấn luyện giỏi như thế nào?","options":{"A":"Đạt mức trên 60% số đơn vị.","B":"Đạt mức từ 65% trở lên.","C":"Hằng năm có trên 70% đơn vị đạt huấn luyện giỏi.","D":"Phấn đấu đạt mức trên 80% số đơn vị trong toàn Quân khu."},"answer":"C"},
-  {"id":205,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu cán bộ, nhân viên sử dụng được một ngoại ngữ hoặc tiếng dân tộc thiểu số đến cuối nhiệm kỳ như thế nào?","options":{"A":"Đạt tỷ lệ trên 20%.","B":"Đạt tỷ lệ từ 25% trở lên.","C":"Phấn đấu đạt trên 30% cán bộ, nhân viên.","D":"Phấn đấu đạt tỷ lệ 50% cán bộ các cấp."},"answer":"C"},
-  {"id":206,"question":"Để tăng cường kỷ luật quân đội, Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tỷ lệ vi phạm kỷ luật quân đội như thế nào?","options":{"A":"Duy trì ở mức dưới 0,1%.","B":"Tỷ lệ vi phạm kỷ luật dưới 0,2%.","C":"Duy trì ở mức dưới 0,3%.","D":"Duy trì ở mức dưới 0,5%."},"answer":"B"},
-  {"id":207,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định giá trị thu từ tăng gia sản xuất, chế biến và dịch vụ hậu cần bình quân đạt bao nhiêu?","options":{"A":"Bình quân đạt trên 1,6 triệu đồng/người/năm.","B":"Bình quân đạt trên 1,5 triệu đồng/người/năm.","C":"Bình quân đạt trên 1,8 triệu đồng/người/năm.","D":"Bình quân đạt trên 2,0 triệu đồng/người/năm."},"answer":"A"},
-  {"id":208,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định mục tiêu quân số khỏe trong Lực lượng vũ trang Quân khu phải đạt tỷ lệ như thế nào?","options":{"A":"Đạt từ 98% trở lên.","B":"Đạt từ 99% trở lên.","C":"Đạt từ 99,2% trở lên.","D":"Đạt từ 99,5% trở lên."},"answer":"C"},
-  {"id":209,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định lộ trình đến năm 2030, tỷ lệ cơ quan, đơn vị được sử dụng nước sạch là bao nhiêu?","options":{"A":"Phấn đấu đạt 90% tổng số đơn vị.","B":"Đạt 100% các đơn vị từ cấp tiểu đoàn và tương đương trở lên.","C":"100% cơ quan, đơn vị được sử dụng nước sạch theo tiêu chuẩn.","D":"Cơ bản hoàn thành hệ thống mạng lưới cấp nước sạch."},"answer":"C"},
-  {"id":210,"question":"Về công tác kỹ thuật, Đại hội Đảng bộ Quân khu lần thứ XI xác định hệ số kỹ thuật (Kt) đối với nhóm Sẵn sàng chiến đấu, cứu hộ cứu nạn bằng bao nhiêu?","options":{"A":"Hệ số kỹ thuật đạt 0,95.","B":"Hệ số kỹ thuật đạt từ 0,9 đến 1,0.","C":"Hệ số kỹ thuật bằng 1,0.","D":"Duy trì hệ số kỹ thuật ở mức cao nhất theo quy định."},"answer":"C"},
-  {"id":211,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định hệ số kỹ thuật (Kt) đối với nhóm huấn luyện chiến đấu phải đạt mức như thế nào?","options":{"A":"Đạt từ 0,95 đến 1,0.","B":"Đạt từ 0,9 đến 0,95.","C":"Đạt mức 0,85 trở lên.","D":"Luôn duy trì ở mức 1,0."},"answer":"A"},
-  {"id":212,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu bảo đảm nhà che cho vũ khí, trang bị hiện có đạt tỷ lệ như thế nào?","options":{"A":"90% tổng số vũ khí, trang bị kỹ thuật.","B":"95% đối với các loại vũ khí, trang bị kỹ thuật hiện đại.","C":"Bảo đảm 100% vũ khí, trang bị có nhà che.","D":"Ưu tiên bảo đảm nhà che cho các khí tài làm nhiệm vụ SSCĐ."},"answer":"C"},
-  {"id":213,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định tỷ lệ tổ chức đảng, cán bộ, đảng viên hoàn thành tốt và hoàn thành xuất sắc nhiệm vụ hàng năm là bao nhiêu?","options":{"A":"Đạt 85% trở lên.","B":"Đạt 90% trở lên.","C":"Đạt 95% trở lên.","D":"100% không có tổ chức đảng yếu kém, không hoàn thành nhiệm vụ."},"answer":"B"},
-  {"id":214,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu kiểm tra, giám sát đối với tổ chức đảng và đảng viên trong nhiệm kỳ là bao nhiêu?","options":{"A":"Kiểm tra, giám sát đạt 90% tổ chức đảng, đảng viên.","B":"Kiểm tra, giám sát đạt 95% tổ chức đảng, đảng viên.","C":"Kiểm tra, giám sát 100% tổ chức đảng, đảng viên.","D":"Kiểm tra, giám sát theo kế hoạch phân bổ hàng năm."},"answer":"C"},
-  {"id":215,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định nội dung đột phá thứ nhất tập trung vào vấn đề gì?","options":{"A":"Đổi mới, nâng cao chất lượng huấn luyện đáp ứng yêu cầu nhiệm vụ trong tình hình mới; tập trung xây dựng chính quy, chấp hành nghiêm pháp luật, kỷ luật và bảo đảm an toàn.","B":"Đẩy mạnh cải cách hành chính và ứng dụng chuyển đổi số quân sự.","C":"Nâng cao năng lực sẵn sàng chiến đấu tại các vùng địa bàn trọng điểm.","D":"Chấn chỉnh tổ chức biên chế theo hướng tinh, gọn, mạnh."},"answer":"A"},
-  {"id":216,"question":"Nội dung đột phá thứ hai được Đại hội Đảng bộ Quân khu lần thứ XI xác định tập trung vào yếu tố nào để thực hiện nhiệm vụ?","options":{"A":"Xây dựng khu vực phòng thủ và thế trận quốc phòng toàn dân.","B":"Đổi mới công tác tăng gia sản xuất và bảo đảm hậu cần tại đơn vị.","C":"Đẩy mạnh ứng dụng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong thực hiện các nhiệm vụ của LLVT Quân khu.","D":"Nâng cao chất lượng công tác giáo dục chính trị và quản lý tư tưởng."},"answer":"C"},
-  {"id":217,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định mục tiêu đột phá thứ ba về xây dựng đội ngũ cán bộ như thế nào?","options":{"A":"Chú trọng công tác đào tạo ngoại ngữ cho đội ngũ cán bộ trẻ.","B":"Tăng cường điều động cán bộ cho các đơn vị biên giới, hải đảo.","C":"Xây dựng đội ngũ cán bộ các cấp, nhất là cán bộ chủ trì có đủ phẩm chất, năng lực, uy tín đáp ứng yêu cầu, nhiệm vụ trong tình hình mới.","D":"Thực hiện luân chuyển cán bộ để rèn luyện qua thực tiễn cơ sở."},"answer":"C"},
-  {"id":218,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định tỷ lệ huy động, tiếp nhận, huấn luyện lực lượng Dự bị động viên đạt chỉ tiêu bao nhiêu?","options":{"A":"Đạt 90% chỉ tiêu đề ra.","B":"Đạt 95% chỉ tiêu đề ra.","C":"Đạt 100% chỉ tiêu đề ra.","D":"Phấn đấu vượt chỉ tiêu theo khả năng huy động của từng địa phương."},"answer":"B"},
-  {"id":219,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tổ chức diễn tập cho các cấp trong nhiệm kỳ như thế nào?","options":{"A":"Đạt 90% các cơ quan, đơn vị theo kế hoạch.","B":"Đạt 95% các đối tượng được quy định diễn tập.","C":"Tổ chức diễn tập đạt 100% chỉ tiêu ở các cấp.","D":"Phấn đấu tổ chức diễn tập vượt 5% chỉ tiêu so với nhiệm kỳ trước."},"answer":"C"},
-  {"id":220,"question":"Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu thực hiện các nhiệm vụ nghiên cứu khoa học và cải cách hành chính như thế nào?","options":{"A":"Đạt 90% tại các cơ quan, đơn vị trực thuộc Quân khu.","B":"Ưu tiên hoàn thành cho các cơ quan tham mưu tác chiến và kỹ thuật.","C":"Hoàn thành 100% nhiệm vụ nghiên cứu khoa học; ứng dụng khoa học, chuyển đổi số, thực hiện Đề án 06 và cải cách hành chính theo kế hoạch.","D":"Phấn đấu dẫn đầu toàn quân về chuyển đổi số."},"answer":"C"},
-  {"id":221,"question":"Theo Luật Phòng thủ dân sự, nội dung nào không thuộc biện pháp khắc phục hậu quả thảm họa, sự cố?","options":{"A":"Tổ chức tìm kiếm người mất tích, cứu chữa người bị thương.","B":"Tiêu hủy mầm bệnh, vệ sinh môi trường.","C":"Tổ chức diễn tập phòng thủ dân sự.","D":"Sửa chữa, khôi phục công trình hạ tầng thiết yếu."},"answer":"C"},
-  {"id":222,"question":"Theo Luật Phòng thủ dân sự, mục tiêu cao nhất của hoạt động phòng thủ dân sự là gì?","options":{"A":"Phát triển kinh tế địa phương.","B":"Bảo vệ tài nguyên thiên nhiên.","C":"Bảo vệ tính mạng, sức khỏe, tài sản của Nhân dân.","D":"Mở rộng hợp tác quốc tế."},"answer":"C"},
-  {"id":223,"question":"Theo Luật Phòng thủ dân sự, lực lượng phòng thủ dân sự gồm?","options":{"A":"Lực lượng chuyên trách và lực lượng dự bị động viên.","B":"Lực lượng nòng cốt và lực lượng rộng rãi.","C":"Lực lượng quân đội và công an.","D":"Lực lượng chuyên trách và dân quân tự vệ."},"answer":"B"},
-  {"id":224,"question":"Luật Phòng thủ dân sự áp dụng đối với đối tượng nào?","options":{"A":"Công dân Việt Nam.","B":"Cơ quan nhà nước, các đoàn thể.","C":"Tổ chức, cá nhân Việt Nam.","D":"Tổ chức, cá nhân Việt Nam, tổ chức quốc tế và cá nhân nước ngoài hoạt động trên lãnh thổ Việt Nam."},"answer":"D"},
-  {"id":225,"question":"Theo Luật Phòng thủ dân sự, nguyên tắc quan trọng trong hoạt động phòng thủ dân sự là gì?","options":{"A":"Ứng phó là chính.","B":"Chuẩn bị từ sớm, từ xa, phòng là chính.","C":"Khắc phục hậu quả là chính.","D":"Huy động toàn bộ nguồn lực ngay từ đầu."},"answer":"B"},
-  {"id":226,"question":"Theo Luật Phòng thủ dân sự, phương châm được thực hiện trong phòng thủ dân sự là gì?","options":{"A":"Ba sẵn sàng.","B":"Năm chủ động.","C":"Bốn tại chỗ.","D":"Ba bám, bốn cùng."},"answer":"C"},
-  {"id":227,"question":"Theo Luật Phòng thủ dân sự, cấp độ phòng thủ dân sự gồm?","options":{"A":"02 cấp độ.","B":"03 cấp độ.","C":"04 cấp độ.","D":"05 cấp độ."},"answer":"B"},
-  {"id":228,"question":"Theo Luật Phòng thủ dân sự, phòng thủ dân sự cấp độ 1 được áp dụng chủ yếu trong phạm vi nào?","options":{"A":"Cả nước.","B":"Một số tỉnh.","C":"Cấp tỉnh.","D":"Cấp xã."},"answer":"D"},
-  {"id":229,"question":"Theo Luật Phòng thủ dân sự, phòng thủ dân sự cấp độ 3 được áp dụng khi nào?","options":{"A":"Sự cố trong phạm vi xã.","B":"Sự cố trong phạm vi huyện.","C":"Sự cố vượt khả năng ứng phó của cấp tỉnh.","D":"Sự cố nhỏ, ít thiệt hại."},"answer":"C"},
-  {"id":230,"question":"Theo Luật Phòng thủ dân sự, hành vi nào sau đây bị nghiêm cấm trong hoạt động phòng thủ dân sự?","options":{"A":"Tham gia cứu nạn cứu hộ.","B":"Hỗ trợ người bị thiệt hại.","C":"Đưa tin sai sự thật về sự cố, thảm họa.","D":"Cung cấp thông tin cho cơ quan có thẩm quyền."},"answer":"C"},
-  {"id":231,"question":"Theo Luật Phòng thủ dân sự, Cơ quan thường trực của Ban Chỉ đạo Phòng thủ dân sự quốc gia là cơ quan nào?","options":{"A":"Bộ Công an.","B":"Bộ Quốc phòng.","C":"Bộ Nội vụ.","D":"Bộ Tài chính."},"answer":"B"},
-  {"id":232,"question":"Theo Luật Phòng thủ dân sự, Ban Chỉ đạo Phòng thủ dân sự quốc gia có chức năng gì?","options":{"A":"Quản lý doanh nghiệp nhà nước.","B":"Tham mưu cho Chính phủ, Thủ tướng Chính phủ về phòng thủ dân sự.","C":"Tham mưu ban hành luật.","D":"Xét xử vi phạm hành chính."},"answer":"B"},
-  {"id":233,"question":"Theo Luật Phòng thủ dân sự, Cơ quan thường trực của Ban Chỉ huy phòng thủ dân sự địa phương là ai?","options":{"A":"Công an cùng cấp.","B":"Văn phòng UBND.","C":"Cơ quan quân sự cùng cấp.","D":"Sở Nội vụ."},"answer":"C"},
-  {"id":234,"question":"Theo Luật Phòng thủ dân sự, lực lượng nòng cốt của phòng thủ dân sự gồm?","options":{"A":"Công chức và viên chức.","B":"Dân quân tự vệ và dân phòng.","C":"Thanh niên xung phong.","D":"Người lao động trong doanh nghiệp."},"answer":"B"},
-  {"id":235,"question":"Theo Luật Phòng thủ dân sự, một trong các quyền của cá nhân trong hoạt động phòng thủ dân sự là gì?","options":{"A":"Từ chối chấp hành huy động.","B":"Được tiếp cận thông tin về phòng thủ dân sự theo quy định của pháp luật.","C":"Tự quyết định cấp độ phòng thủ dân sự.","D":"Ban bố tình trạng khẩn cấp."},"answer":"B"},
-  {"id":236,"question":"Theo Luật Phòng thủ dân sự, một trong các nghĩa vụ của cá nhân là gì?","options":{"A":"Không cần tham gia diễn tập","B":"Chỉ tham gia khi tự nguyện","C":"Tham gia đào tạo, huấn luyện, diễn tập khi có yêu cầu của cơ quan có thẩm quyền","D":"Chỉ tham gia khi có thù lao"},"answer":"C"},
-  {"id":237,"question":"Theo Luật Phòng thủ dân sự, tổ chức, cá nhân nước ngoài tham gia cứu trợ tại Việt Nam phải làm gì?","options":{"A":"Đăng ký hoạt động với cơ quan có thẩm quyền của Việt Nam.","B":"Xin phép chính quyền cấp xã.","C":"Xin phép Bộ Ngoại giao nước họ.","D":"Được bảo lãnh bởi doanh nghiệp Việt Nam."},"answer":"A"},
-  {"id":238,"question":"Theo Luật Phòng thủ dân sự, chính quyền cấp tỉnh được áp dụng biện pháp nào sau đây khi xảy ra sự cố, thảm họa?","options":{"A":"Giãn cách xã hội phù hợp với mức độ sự cố.","B":"Ban hành luật mới.","C":"Thành lập bộ mới.","D":"Đình chỉ hoạt động của Quốc hội."},"answer":"A"},
-  {"id":239,"question":"Theo Luật Phòng thủ dân sự, một trong những chính sách của Nhà nước về phòng thủ dân sự là gì?","options":{"A":"Hạn chế nghiên cứu khoa học.","B":"Khuyến khích, tạo điều kiện ủng hộ vật chất, tài chính, tinh thần cho hoạt động phòng thủ dân sự trên nguyên tắc tự nguyện.","C":"Cấm huy động nguồn lực xã hội.","D":"Giảm đầu tư trang thiết bị phòng thủ dân sự."},"answer":"B"},
-  {"id":240,"question":"Theo Luật Phòng thủ dân sự, hoạt động phòng ngừa sự cố, thảm họa bao gồm nội dung nào sau đây?","options":{"A":"Chỉ xây dựng công trình phòng thủ dân sự.","B":"Chỉ tổ chức diễn tập phòng thủ dân sự.","C":"Chỉ xây dựng kế hoạch phòng thủ dân sự.","D":"Xây dựng chiến lược, kế hoạch, công trình, trang thiết bị và tổ chức huấn luyện, diễn tập."},"answer":"D"},
-  {"id":241,"question":"Theo Luật Phòng thủ dân sự, một trong những căn cứ xác định cấp độ phòng thủ dân sự là gì?","options":{"A":"Quy mô ngân sách địa phương.","B":"Số lượng doanh nghiệp trên địa bàn.","C":"Khả năng ứng phó, khắc phục hậu quả của chính quyền địa phương và lực lượng phòng thủ dân sự.","D":"Mật độ dân số khu vực trung tâm đô thị."},"answer":"C"},
-  {"id":242,"question":"Theo Luật Phòng thủ dân sự, hành vi nào bị nghiêm cấm trong hoạt động phòng thủ dân sự?","options":{"A":"Chủ động báo tin về sự cố, thảm họa.","B":"Hỗ trợ tìm kiếm cứu nạn.","C":"Tham gia diễn tập phòng thủ dân sự.","D":"Sử dụng trang thiết bị phòng thủ dân sự chuyên dụng không đúng mục đích."},"answer":"D"},
-  {"id":243,"question":"Theo Luật Phòng thủ dân sự, khi tham gia hoạt động phòng thủ dân sự theo quyết định huy động của người có thẩm quyền, cá nhân được hưởng quyền nào?","options":{"A":"Được miễn mọi nghĩa vụ công dân.","B":"Được hưởng tiền công lao động theo quy định.","C":"Được tự quyết định nhiệm vụ thực hiện.","D":"Được miễn chấp hành chỉ huy điều hành."},"answer":"B"},
-  {"id":244,"question":"Theo Luật Phòng thủ dân sự, cơ quan, tổ chức có quyền nào sau đây?","options":{"A":"Được tiếp cận thông tin về phòng thủ dân sự theo quy định của pháp luật.","B":"Tự ban bố cấp độ phòng thủ dân sự.","C":"Tự huy động lực lượng xã hội.","D":"Tự áp dụng tình trạng khẩn cấp."},"answer":"A"},
-  {"id":245,"question":"Theo Luật Phòng thủ dân sự, một trong những nghĩa vụ của cơ quan, tổ chức là gì?","options":{"A":"Tự quyết định việc huy động tài sản của người dân.","B":"Xây dựng và tổ chức thực hiện phương án phòng ngừa, ứng phó, khắc phục hậu quả sự cố, thảm họa.","C":"Ban hành văn bản quy phạm pháp luật về phòng thủ dân sự.","D":"Quyết định thành lập lực lượng chuyên trách địa phương."},"answer":"B"},
-  {"id":246,"question":"Theo Luật Phòng thủ dân sự, lực lượng rộng rãi trong phòng thủ dân sự được hình thành từ đâu?","options":{"A":"Toàn dân tham gia.","B":"Chỉ lực lượng dân quân tự vệ.","C":"Chỉ lực lượng công an xã.","D":"Chỉ lực lượng dự bị động viên."},"answer":"A"},
-  {"id":247,"question":"Theo Luật Phòng thủ dân sự, Nhà nước khuyến khích hoạt động nào sau đây?","options":{"A":"Huy động bắt buộc mọi nguồn lực xã hội.","B":"Thu phí đối với hoạt động cứu trợ.","C":"Ủng hộ vật chất, tài chính, tinh thần cho hoạt động phòng thủ dân sự trên nguyên tắc tự nguyện.","D":"Xã hội hóa toàn bộ hoạt động phòng thủ dân sự."},"answer":"C"},
-  {"id":248,"question":"Theo Luật Phòng thủ dân sự, nguồn lực thi hành Luật được bảo đảm từ đâu?","options":{"A":"Ngân sách trung ương.","B":"Ngân sách địa phương.","C":"Các nguồn kinh phí hợp pháp khác.","D":"Tất cả các nguồn đã nêu."},"answer":"D"},
-  {"id":249,"question":"Theo Luật Phòng thủ dân sự, Bộ trưởng Bộ Quốc phòng có trách nhiệm nào sau đây?","options":{"A":"Giúp Thủ tướng Chính phủ theo dõi, hướng dẫn, kiểm tra việc triển khai thực hiện Luật.","B":"Ban hành luật và nghị quyết về phòng thủ dân sự.","C":"Quyết định ngân sách địa phương cho phòng thủ dân sự.","D":"Thành lập các bộ, ngành liên quan."},"answer":"A"},
-  {"id":250,"question":"Theo Luật Phòng thủ dân sự, phương châm xuyên suốt trong hoạt động phòng thủ dân sự là gì?","options":{"A":"Ứng phó nhanh, khắc phục gọn.","B":"Chủ động phòng ngừa, xử lý từ cơ sở.","C":"Chuẩn bị từ sớm, từ xa, phòng là chính.","D":"Huy động tập trung, xử lý thống nhất."},"answer":"C"},
-  {"id":251,"question":"Theo Luật Phòng thủ dân sự, đâu là các nguyên tắc trong hoạt động phòng thủ dân sự?","options":{"A":"Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.","B":"Được tổ chức thống nhất từ Trung ương đến địa phương có sự phân công, phân cấp phối hợp chặt chẽ giữ các cơ quan, tổ chức.","C":"Kết hợp phòng thủ dân sự với bảo đảm quốc phòng, an ninh, phát triển kinh tế-xã hội, bảo vệ tính mạng, sức khỏe, tài sản của nhân dân.","D":"Tất cả các phương án đã nêu."},"answer":"D"},
-  {"id":252,"question":"Theo Luật Phòng thủ dân sự, lực lượng phòng thủ dân sự bao gồm những thành phần nào?","options":{"A":"Lực lượng thường trực và dự bị.","B":"Lực lượng chuyên trách và bán chuyên trách.","C":"Lực lượng nòng cốt và lực lượng rộng rãi.","D":"Lực lượng vũ trang và thanh niên xung phong."},"answer":"C"},
-  {"id":253,"question":"Theo Luật Phòng thủ dân sự, cơ quan chỉ đạo cao nhất về phòng thủ dân sự ở cấp quốc gia là cơ quan nào?","options":{"A":"Ủy ban Quốc gia Ứng phó sự cố, thiên tai và Tìm kiếm cứu nạn.","B":"Ban Chỉ đạo Phòng thủ dân sự quốc gia.","C":"Bộ Quốc phòng.","D":"Bộ Nông nghiệp và Phát triển nông thôn."},"answer":"B"},
-  {"id":254,"question":"Theo Luật Phòng thủ dân sự, nguyên tắc hợp tác quốc tế trong phòng thủ dân sự là gì?","options":{"A":"Bảo đảm tôn trọng độc lập, chủ quyền, bình đẳng, cùng có lợi, tuân thủ pháp luật Việt Nam.","B":"Tạo điều kiện cho tổ chức, cá nhân trong và ngoài nước, người Việt Nam ở nước ngoài, tổ chức quốc tế hợp tác trong phòng thủ dân sự.","C":"Mở rộng phát triển đào tạo, ứng dụng khoa học chuyển giao công nghệ, phối hợp tìm kiếm cứu nạn, đầu tư xây dựng công trình phòng thủ dân sự.","D":"Tất cả các nội dung đã nêu."},"answer":"D"},
-  {"id":255,"question":"Theo Luật Phòng thủ dân sự, quỹ phòng thủ dân sự là quỹ tài chính có đặc điểm gì?","options":{"A":"Quỹ tài chính nhà nước ngoài ngân sách.","B":"Quỹ nằm trong ngân sách trung ương.","C":"Quỹ do Bộ Quốc phòng quản lý để trả lương.","D":"Quỹ tư nhân do các doanh nghiệp tự thành lập."},"answer":"A"},
-  {"id":256,"question":"Theo Luật Phòng thủ dân sự, nguồn tài chính nào không dùng để hình thành Quỹ phòng thủ dân sự?","options":{"A":"Đóng góp tự nguyện của tổ chức, cá nhân.","B":"Nguồn điều tiết từ các quỹ tài chính nhà nước ngoài ngân sách có liên quan.","C":"Thuế thu nhập cá nhân của người lao động.","D":"Viện trợ quốc tế."},"answer":"C"},
-  {"id":257,"question":"Theo Luật Phòng thủ dân sự, một trong những biện pháp được áp dụng trong phòng thủ dân sự Cấp độ 1 là gì?","options":{"A":"Sơ tán người, tài sản ra khỏi khu vực nguy hiểm.","B":"Thiết lập tình trạng thiết quân luật.","C":"Tổng động viên toàn quốc.","D":"Đình chỉ hoạt động của tất cả các cơ quan nhà nước."},"answer":"A"},
-  {"id":258,"question":"Theo Luật Phòng thủ dân sự, người làm nhiệm vụ phòng thủ dân sự trực đêm (từ 22h đến 6h sáng hôm sau) được hưởng chế độ đặc thù gì?","options":{"A":"Được tặng Bằng khen ngay lập tức.","B":"Được thăng cấp bậc hàm trước thời hạn.","C":"Được hưởng tiền ăn thêm.","D":"Được nghỉ bù 1 tháng."},"answer":"C"},
-  {"id":259,"question":"Theo Luật Phòng thủ dân sự, công dân có nghĩa vụ gì trong phòng thủ dân sự?","options":{"A":"Tuân thủ sự hướng dẫn, chỉ đạo của cơ quan có thẩm quyền.","B":"Tham gia các hoạt động phòng thủ dân sự khi được huy động.","C":"Bảo vệ công trình phòng thủ dân sự.","D":"Tất cả các ý trên."},"answer":"D"},
-  {"id":260,"question":"Theo Luật Phòng thủ dân sự, đâu không phải là biện pháp phòng thủ dân sự được áp dụng trong tình trạng chiến tranh?","options":{"A":"Triển khai hệ thống đài quan sát, thông báo, báo động và cảnh báo.","B":"Tổ chức sơ tán người, tài sản.","C":"Huấn luyện cho lực lượng chuyên trách.","D":"Dự trữ lương thực, thực phẩm, thuốc chữa bệnh, nước uống."},"answer":"C"},
-  {"id":261,"question":"Việt Nam chính thức cử lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc từ thời điểm nào?","options":{"A":"Tháng 5/2013.","B":"Tháng 6/2013.","C":"Tháng 6/2014.","D":"Tháng 9/2015."},"answer":"C"},
-  {"id":262,"question":"Đến nay, Việt Nam đã cử gần bao nhiêu lượt sĩ quan, quân nhân chuyên nghiệp tham gia thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc?","options":{"A":"Gần 500 lượt.","B":"Gần 700 lượt.","C":"Gần 900 lượt.","D":"Gần 1.100 lượt."},"answer":"D"},
-  {"id":263,"question":"Một điểm mới quan trọng của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc năm 2025 so với Nghị quyết số 130/2020/QH14 của Quốc hội là gì?","options":{"A":"Bỏ quy định về hợp tác quốc tế.","B":"Bổ sung đối tượng dân sự tham gia lực lượng gìn giữ hòa bình Liên hợp quốc.","C":"Thu hẹp đối tượng tham gia.","D":"Chỉ cho phép lực lượng quân đội tham gia."},"answer":"B"},
-  {"id":264,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, hình thức tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm những hình thức nào?","options":{"A":"Quân sự và dân sự.","B":"Cá nhân và đơn vị.","C":"Trong nước và ngoài nước.","D":"Thường xuyên và đột xuất."},"answer":"B"},
-  {"id":265,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những chức năng của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc là gì?","options":{"A":"Quản lý lãnh thổ nước sở tại.","B":"Duy trì, bảo vệ hòa bình khu vực và thế giới.","C":"Thực hiện nhiệm vụ tác chiến tiến công.","D":"Bảo vệ lợi ích kinh tế quốc gia."},"answer":"B"},
-  {"id":266,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm?","options":{"A":"Lực lượng quân sự và lực lượng công an.","B":"Lực lượng vũ trang và lực lượng dân sự.","C":"Lực lượng chuyên trách và lực lượng dự bị.","D":"Lực lượng thường trực và lực lượng huy động."},"answer":"B"},
-  {"id":267,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc đã mở rộng đối tượng tham gia lực lượng gìn giữ hòa bình Liên hợp quốc bằng việc bổ sung nhóm đối tượng nào?","options":{"A":"Cán bộ, công chức, viên chức.","B":"Học sinh, sinh viên.","C":"Người lao động trong doanh nghiệp.","D":"Người lao động tự do."},"answer":"A"},
-  {"id":268,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, cơ quan chủ trì, phối hợp với các bộ, ngành, địa phương chịu trách nhiệm trước Chính phủ về quản lý nhà nước đối với hoạt động này là.","options":{"A":"Bộ Ngoại giao.","B":"Bộ Nội vụ.","C":"Bộ Quốc phòng.","D":"Bộ Công an."},"answer":"C"},
-  {"id":269,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, cơ quan nào quyết định việc cử, điều chỉnh, gia hạn nhiệm kỳ công tác và rút lực lượng vũ trang tham gia gìn giữ hòa bình Liên hợp quốc?","options":{"A":"Chính phủ.","B":"Thủ tướng Chính phủ.","C":"Bộ Quốc phòng.","D":"Hội đồng Quốc phòng và An ninh."},"answer":"D"},
-  {"id":270,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, Thủ tướng Chính phủ quyết định việc cử, điều chỉnh, gia hạn nhiệm kỳ công tác và rút đối tượng nào?","options":{"A":"Toàn bộ lực lượng tham gia.","B":"Chỉ lực lượng quân đội.","C":"Chỉ lực lượng công an.","D":"Lực lượng dân sự."},"answer":"D"},
-  {"id":271,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, trong trường hợp khẩn cấp, Bộ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Công an có thẩm quyền nào?","options":{"A":"Quyết định giải thể phái bộ.","B":"Quyết định rút lực lượng thuộc quyền về nước.","C":"Quyết định thành lập phái bộ mới.","D":"Quyết định thay đổi nhiệm vụ của Liên hợp quốc."},"answer":"B"},
-  {"id":272,"question":"Theo Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, khi có nguy cơ mất an toàn, lực lượng Việt Nam có trách nhiệm báo cáo cấp có thẩm quyền để quyết định việc gì?","options":{"A":"Gia hạn nhiệm kỳ.","B":"Từ chối nhiệm vụ.","C":"Thay đổi phái bộ.","D":"Tằn quân số."},"answer":"B"},
-  {"id":273,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những nội dung huấn luyện, đào tạo đối với lực lượng tham gia gìn giữ hòa bình Liên hợp quốc là gì?","options":{"A":"Huấn luyện tác chiến chiến lược.","B":"Ngoại ngữ, bình đẳng giới và các kỹ năng khác.","C":"Quản lý hành chính nhà nước.","D":"Điều tra hình sự."},"answer":"B"},
-  {"id":274,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chính sách của Nhà nước đối với nữ giới tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được quy định như thế nào?","options":{"A":"Khuyến khích và ưu tiên nữ giới tham gia.","B":"Chỉ tuyển nữ giới vào lực lượng dân sự.","C":"Hạn chế nữ giới tham gia lực lượng.","D":"Không quy định chính sách đối với nữ giới."},"answer":"A"},
-  {"id":275,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những yêu cầu quan trọng khi Việt Nam tham gia lực lượng gìn giữ hòa bình Liên hợp quốc là gì?","options":{"A":"Bảo đảm lợi ích kinh tế của doanh nghiệp Việt Nam ở nước ngoài.","B":"Phù hợp với Hiến chương Liên hợp quốc, pháp luật quốc tế, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.","C":"Ưu tiên triển khai lực lượng quân sự trước lực lượng dân sự.","D":"Chỉ tham gia các phái bộ tại khu vực châu Á."},"answer":"B"},
-  {"id":276,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc tham gia lực lượng gìn giữ hòa bình Liên hợp quốc góp phần trực tiếp thực hiện đường lối đối ngoại nào của Đảng và Nhà nước ta?","options":{"A":"Đối ngoại kinh tế là trọng tâm.","B":"Hội nhập kinh tế quốc tế toàn diện.","C":"Độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.","D":"Phát triển công nghiệp quốc phòng."},"answer":"C"},
-  {"id":277,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc cử lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc phải bảo đảm yêu cầu nào?","options":{"A":"Không làm ảnh hưởng đến khả năng sẵn sàng chiến đấu và thực hiện nhiệm vụ của cơ quan, đơn vị.","B":"Chỉ lựa chọn cán bộ giữ chức vụ chỉ huy.","C":"Chỉ cử lực lượng quân đội tham gia.","D":"Ưu tiên số lượng hơn chất lượng."},"answer":"A"},
-  {"id":278,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, đối với đơn vị tham gia hoạt động gìn giữ hòa bình Liên hợp quốc, việc tổ chức lực lượng phải đáp ứng yêu cầu gì?","options":{"A":"Theo nhu cầu của nước sở tại.","B":"Theo đề xuất của Liên hợp quốc và khả năng bảo đảm của Việt Nam.","C":"Do Bộ Ngoại giao quyết định.","D":"Theo yêu cầu của các tổ chức quốc tế liên quan."},"answer":"B"},
-  {"id":279,"question":"Một trong những mục tiêu quan trọng của việc ban hành Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc là gì?","options":{"A":"Mở rộng hoạt động kinh tế đối ngoại.","B":"Tăng cường đầu tư quốc phòng ở nước ngoài.","C":"Hoàn thiện cơ sở pháp lý cho việc tham gia lực lượng gìn giữ hòa bình Liên hợp quốc.","D":"Xây dựng lực lượng dự bị động viên."},"answer":"C"},
-  {"id":280,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, trong quản lý nhà nước về tham gia hoạt động gìn giữ hòa bình Liên hợp quốc, Bộ Quốc phòng giữ vai trò gì?","options":{"A":"Cơ quan phối hợp, triển khai thực hiện các nhiệm vụ được giao.","B":"Cơ quan tư vấn độc lập.","C":"Cơ quan chủ trì giúp Chính phủ thực hiện quản lý nhà nước.","D":"Cơ quan thanh tra chuyên ngành."},"answer":"C"},
-  {"id":281,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những nhiệm vụ của lực lượng Việt Nam tại phái bộ gìn giữ hòa bình Liên hợp quốc là gì?","options":{"A":"Tham gia thay đổi thể chế chính trị nước sở tại.","B":"Hỗ trợ thực hiện nhiệm vụ theo sự phân công của Liên hợp quốc.","C":"Tham gia hoạt động quân sự tiến công độc lập.","D":"Thực hiện chức năng quản lý hành chính nhà nước."},"answer":"B"},
-  {"id":282,"question":"Theo Luật tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc sử dụng vũ khí của lực lượng Việt Nam tại phái bộ phải tuân thủ như thế nào?","options":{"A":"Quy định của nước sở tại, trường hợp đặc biệt xin ý kiến Liên hiệp quốc","B":"Theo quy định của Liên hợp quốc.","C":"Quy định của Liên hợp quốc và thỏa thuận giữa Việt Nam với Liên hợp quốc.","D":"Quy định của cơ quan chỉ huy phái bộ và nước sở tại."},"answer":"C"},
-  {"id":283,"question":"Một trong những điểm mới của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc năm 2025 là gì?","options":{"A":"Bổ sung quy định về lực lượng dân sự tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.","B":"Bỏ hình thức tham gia theo đơn vị.","C":"Chỉ cho phép sĩ quan quân đội tham gia.","D":"Hủy bỏ cơ chế hợp tác quốc tế."},"answer":"A"},
-  {"id":284,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, nội dung đào tạo, huấn luyện lực lượng tham gia gìn giữ hòa bình Liên hợp quốc phải bảo đảm như thế nào?","options":{"A":"Chỉ tập trung vào chuyên môn quân sự.","B":"Chỉ tập trung vào ngoại ngữ.","C":"Toàn diện về chuyên môn, ngoại ngữ, pháp luật quốc tế, kỹ năng thực hiện nhiệm vụ.","D":"Chỉ tập trung vào kỹ năng sinh tồn."},"answer":"C"},
-  {"id":285,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chức năng của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình được xác định chủ yếu là gì?","options":{"A":"Bảo vệ lợi ích kinh tế.","B":"Duy trì, bảo vệ hòa bình.","C":"Thực hiện nhiệm vụ đối ngoại.","D":"Hỗ trợ hoạt động nhân đạo."},"answer":"B"},
-  {"id":286,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, trong trường hợp cần thiết phải rút lực lượng về nước trước thời hạn, cơ sở xem xét chủ yếu là gì?","options":{"A":"Điều kiện khí hậu tại địa bàn phái bộ.","B":"Yêu cầu cá nhân của thành viên tham gia.","C":"Tình hình nhiệm vụ, an ninh, an toàn hoặc yêu cầu cấp bách liên quan đến lợi ích quốc gia.","D":"Đề nghị của nước sở tại."},"answer":"C"},
-  {"id":287,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, hoạt động hợp tác quốc tế trong lĩnh vực gìn giữ hòa bình Liên hợp quốc nhằm mục đích gì?","options":{"A":"Tăng cường năng lực tham gia hoạt động gìn giữ hòa bình Liên hợp quốc của Việt Nam.","B":"Mở rộng hoạt động xuất khẩu quốc phòng.","C":"Hình thành liên minh quân sự.","D":"Tăng cường cạnh tranh quốc tế."},"answer":"A"},
-  {"id":288,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những hình thức hợp tác quốc tế về gìn giữ hòa bình là gì?","options":{"A":"Đào tạo, tập huấn và trao đổi kinh nghiệm.","B":"Chuyển giao quyền chỉ huy lực lượng.","C":"Liên kết quân sự thường trực.","D":"Thành lập lực lượng vũ trang chung."},"answer":"A"},
-  {"id":289,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chế độ chính sách đối với lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được bảo đảm trên cơ sở nào”","options":{"A":"Theo quy định của Liên hợp quốc và một số quy định khác của Việt Nam.","B":"Theo quy định của pháp luật Việt Nam.","C":"Pháp luật Việt Nam, quy định của Liên hợp quốc và các thỏa thuận có liên quan.","D":"Quy định của nước sở tại và Việt Nam"},"answer":"C"},
-  {"id":290,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những ý nghĩa quan trọng của việc Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc là gì?","options":{"A":"Khẳng định vai trò, vị thế và trách nhiệm của Việt Nam đối với cộng đồng quốc tế.","B":"Mở rộng lãnh thổ quốc gia, góp phần bảo vệ chủ quyền Tổ quốc.","C":"Hình thành liên minh quân sự khu vực, bảo vệ quốc gia.","D":"Thực hiện nhiệm vụ kinh tế đối ngoại."},"answer":"A"},
-  {"id":291,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc tuyển chọn lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc phải căn cứ vào đâu?","options":{"A":"Nhu cầu cá nhân của người đăng ký.","B":"Tiêu chuẩn, điều kiện, yêu cầu vị trí việc làm và nhiệm vụ được giao.","C":"Chức vụ hiện giữ trong đơn vị.","D":"Thâm niên công tác."},"answer":"B"},
-  {"id":292,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, một trong những điểm mới quan trọng của Luật so với Nghị quyết số 130/2020/QH14 là gì?","options":{"A":"Bãi bỏ lực lượng dân sự.","B":"Bổ sung hành vi bị nghiêm cấm.","C":"Bỏ quy định về hợp tác quốc tế.","D":"Thu hẹp lĩnh vực tham gia."},"answer":"B"},
-  {"id":293,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng dân sự tham gia hoạt động gìn giữ hòa bình Liên hợp quốc có thể được tuyển chọn từ đâu?","options":{"A":"Các bộ, ngành, địa phương theo yêu cầu nhiệm vụ.","B":"Từ cơ quan ngoại giao và các cơ quan liên quan khác.","C":"Từ cơ quan tư pháp.","D":"Chỉ từ đơn vị sự nghiệp công lập."},"answer":"A"},
-  {"id":294,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, một trong những yêu cầu đối với công tác quản lý lực lượng Việt Nam tại phái bộ là gì?","options":{"A":"Bảo đảm chấp hành nghiêm pháp luật Việt Nam và quy định của Liên hợp quốc.","B":"Chấp hành quy định của Liên hợp quốc và nước sở tại.","C":"Chấp hành pháp luật nước sở tại và Liên hiệp quốc.","D":"Chấp hành quy định của cơ quan chủ quản."},"answer":"A"},
-  {"id":295,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, nội dung nào sau đây không thuộc lĩnh vực tham gia được nêu trong Luật?","options":{"A":"Quan sát và giám sát bầu cử.","B":"Hoạch định chính sách.","C":"Phát triển kinh tế đối ngoại.","D":"Thông tin, liên lạc, truyền thông."},"answer":"C"},
-  {"id":296,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, khi thực hiện nhiệm vụ tại phái bộ, thành viên lực lượng Việt Nam phải đề cao yếu tố nào?","options":{"A":"Lợi ích cá nhân.","B":"Danh dự, uy tín quốc gia và hình ảnh đất nước, con người Việt Nam.","C":"Thành tích cá nhân.","D":"Quyền lợi vật chất."},"answer":"B"},
-  {"id":297,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình được chia như thế nào?","options":{"A":"Lực lượng quân sự và cảnh sát.","B":"Lực lượng trong nước và quốc tế.","C":"Lực lượng vũ trang và dân sự.","D":"Lực lượng thường trực và dự bị."},"answer":"C"},
-  {"id":298,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm những lực lượng nào?","options":{"A":"Chỉ gồm lực lượng vũ trang.","B":"Chỉ gồm lực lượng dân sự.","C":"Lực lượng quân sự và lực lượng quốc tế.","D":"Lực lượng vũ trang và lực lượng dân sự."},"answer":"D"},
-  {"id":299,"question":"Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, điểm nào sau đây thể hiện rõ nhất sự mở rộng đối tượng tham gia của Luật so với quy định trước đây?","options":{"A":"Bổ sung lực lượng dân sự.","B":"Tăng số lượng sĩ quan Quân đội.","C":"Mở rộng quyền của phái bộ.","D":"Tăng lĩnh vực hoạt động quân sự."},"answer":"A"},
-  {"id":300,"question":"Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, nội dung nào sau đây thuộc quyền hạn của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa binh?","options":{"A":"Tự quyết định địa bàn.","B":"Tự quyết định nhiệm kỳ.","C":"Sử dụng vũ khí theo quy định.","D":"Tự quyết định quy mô lực lượng."},"answer":"C"}
+  {
+    "id": 201,
+    "question": "Trong công tác tuyển quân, Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu công dân nhập ngũ đã tốt nghiệp cao đẳng, đại học đạt tỷ lệ nào?",
+    "options": {
+      "A": "Phấn đấu đạt tỷ lệ từ 7,0% trở lên.",
+      "B": "Phấn đấu đạt tỷ lệ từ 8,0% trở lên.",
+      "C": "Phấn đấu đạt tỷ lệ từ 9,0% trở lên.",
+      "D": "Phấn đấu đạt tỷ lệ từ 10,0% trở lên."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 202,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tỷ lệ đảng viên trong lực lượng Dự bị động viên đạt bao nhiêu?",
+    "options": {
+      "A": "Đạt tỷ lệ 10% trở lên.",
+      "B": "Đạt tỷ lệ 12% trở lên.",
+      "C": "Đạt tỷ lệ 15% trở lên.",
+      "D": "Đạt tỷ lệ 20% trở lên."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 203,
+    "question": "Về xây dựng đơn vị an toàn, Đại hội Đảng bộ Quân khu lần thứ XI đề ra mục tiêu cụ thể như thế nào?",
+    "options": {
+      "A": "Có 98% cơ quan, đơn vị bảo đảm an toàn về chính trị.",
+      "B": "Đảm bảo an toàn chính trị tuyệt đối trong các ngày kỷ niệm lớn.",
+      "C": "100% cơ quan, đơn vị an toàn tuyệt đối về chính trị.",
+      "D": "Không để xảy ra tình trạng mất an toàn về chính trị nghiêm trọng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 204,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu hàng năm số đơn vị đạt danh hiệu huấn luyện giỏi như thế nào?",
+    "options": {
+      "A": "Đạt mức trên 60% số đơn vị.",
+      "B": "Đạt mức từ 65% trở lên.",
+      "C": "Hằng năm có trên 70% đơn vị đạt huấn luyện giỏi.",
+      "D": "Phấn đấu đạt mức trên 80% số đơn vị trong toàn Quân khu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu cán bộ, nhân viên sử dụng được một ngoại ngữ hoặc tiếng dân tộc thiểu số đến cuối nhiệm kỳ như thế nào?",
+    "options": {
+      "A": "Đạt tỷ lệ trên 20%.",
+      "B": "Đạt tỷ lệ từ 25% trở lên.",
+      "C": "Phấn đấu đạt trên 30% cán bộ, nhân viên.",
+      "D": "Phấn đấu đạt tỷ lệ 50% cán bộ các cấp."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Để tăng cường kỷ luật quân đội, Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tỷ lệ vi phạm kỷ luật quân đội như thế nào?",
+    "options": {
+      "A": "Duy trì ở mức dưới 0,1%.",
+      "B": "Tỷ lệ vi phạm kỷ luật dưới 0,2%.",
+      "C": "Duy trì ở mức dưới 0,3%.",
+      "D": "Duy trì ở mức dưới 0,5%."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định giá trị thu từ tăng gia sản xuất, chế biến và dịch vụ hậu cần bình quân đạt bao nhiêu?",
+    "options": {
+      "A": "Bình quân đạt trên 1,6 triệu đồng/người/năm.",
+      "B": "Bình quân đạt trên 1,5 triệu đồng/người/năm.",
+      "C": "Bình quân đạt trên 1,8 triệu đồng/người/năm.",
+      "D": "Bình quân đạt trên 2,0 triệu đồng/người/năm."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 208,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định mục tiêu quân số khỏe trong Lực lượng vũ trang Quân khu phải đạt tỷ lệ như thế nào?",
+    "options": {
+      "A": "Đạt từ 98% trở lên.",
+      "B": "Đạt từ 99% trở lên.",
+      "C": "Đạt từ 99,2% trở lên.",
+      "D": "Đạt từ 99,5% trở lên."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 209,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định lộ trình đến năm 2030, tỷ lệ cơ quan, đơn vị được sử dụng nước sạch là bao nhiêu?",
+    "options": {
+      "A": "Phấn đấu đạt 90% tổng số đơn vị.",
+      "B": "Đạt 100% các đơn vị từ cấp tiểu đoàn và tương đương trở lên.",
+      "C": "100% cơ quan, đơn vị được sử dụng nước sạch theo tiêu chuẩn.",
+      "D": "Cơ bản hoàn thành hệ thống mạng lưới cấp nước sạch."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 210,
+    "question": "Về công tác kỹ thuật, Đại hội Đảng bộ Quân khu lần thứ XI xác định hệ số kỹ thuật (Kt) đối với nhóm Sẵn sàng chiến đấu, cứu hộ cứu nạn bằng bao nhiêu?",
+    "options": {
+      "A": "Hệ số kỹ thuật đạt 0,95.",
+      "B": "Hệ số kỹ thuật đạt từ 0,9 đến 1,0.",
+      "C": "Hệ số kỹ thuật bằng 1,0.",
+      "D": "Duy trì hệ số kỹ thuật ở mức cao nhất theo quy định."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 211,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định hệ số kỹ thuật (Kt) đối với nhóm huấn luyện chiến đấu phải đạt mức như thế nào?",
+    "options": {
+      "A": "Đạt từ 0,95 đến 1,0.",
+      "B": "Đạt từ 0,9 đến 0,95.",
+      "C": "Đạt mức 0,85 trở lên.",
+      "D": "Luôn duy trì ở mức 1,0."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu bảo đảm nhà che cho vũ khí, trang bị hiện có đạt tỷ lệ như thế nào?",
+    "options": {
+      "A": "90% tổng số vũ khí, trang bị kỹ thuật.",
+      "B": "95% đối với các loại vũ khí, trang bị kỹ thuật hiện đại.",
+      "C": "Bảo đảm 100% vũ khí, trang bị có nhà che.",
+      "D": "Ưu tiên bảo đảm nhà che cho các khí tài làm nhiệm vụ SSCĐ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 213,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định tỷ lệ tổ chức đảng, cán bộ, đảng viên hoàn thành tốt và hoàn thành xuất sắc nhiệm vụ hàng năm là bao nhiêu?",
+    "options": {
+      "A": "Đạt 85% trở lên.",
+      "B": "Đạt 90% trở lên.",
+      "C": "Đạt 95% trở lên.",
+      "D": "100% không có tổ chức đảng yếu kém, không hoàn thành nhiệm vụ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu kiểm tra, giám sát đối với tổ chức đảng và đảng viên trong nhiệm kỳ là bao nhiêu?",
+    "options": {
+      "A": "Kiểm tra, giám sát đạt 90% tổ chức đảng, đảng viên.",
+      "B": "Kiểm tra, giám sát đạt 95% tổ chức đảng, đảng viên.",
+      "C": "Kiểm tra, giám sát 100% tổ chức đảng, đảng viên.",
+      "D": "Kiểm tra, giám sát theo kế hoạch phân bổ hàng năm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 215,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định nội dung đột phá thứ nhất tập trung vào vấn đề gì?",
+    "options": {
+      "A": "Đổi mới, nâng cao chất lượng huấn luyện đáp ứng yêu cầu nhiệm vụ trong tình hình mới; tập trung xây dựng chính quy, chấp hành nghiêm pháp luật, kỷ luật và bảo đảm an toàn.",
+      "B": "Đẩy mạnh cải cách hành chính và ứng dụng chuyển đổi số quân sự.",
+      "C": "Nâng cao năng lực sẵn sàng chiến đấu tại các vùng địa bàn trọng điểm.",
+      "D": "Chấn chỉnh tổ chức biên chế theo hướng tinh, gọn, mạnh."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "question": "Nội dung đột phá thứ hai được Đại hội Đảng bộ Quân khu lần thứ XI xác định tập trung vào yếu tố nào để thực hiện nhiệm vụ?",
+    "options": {
+      "A": "Xây dựng khu vực phòng thủ và thế trận quốc phòng toàn dân.",
+      "B": "Đổi mới công tác tăng gia sản xuất và bảo đảm hậu cần tại đơn vị.",
+      "C": "Đẩy mạnh ứng dụng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong thực hiện các nhiệm vụ của LLVT Quân khu.",
+      "D": "Nâng cao chất lượng công tác giáo dục chính trị và quản lý tư tưởng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định mục tiêu đột phá thứ ba về xây dựng đội ngũ cán bộ như thế nào?",
+    "options": {
+      "A": "Chú trọng công tác đào tạo ngoại ngữ cho đội ngũ cán bộ trẻ.",
+      "B": "Tăng cường điều động cán bộ cho các đơn vị biên giới, hải đảo.",
+      "C": "Xây dựng đội ngũ cán bộ các cấp, nhất là cán bộ chủ trì có đủ phẩm chất, năng lực, uy tín đáp ứng yêu cầu, nhiệm vụ trong tình hình mới.",
+      "D": "Thực hiện luân chuyển cán bộ để rèn luyện qua thực tiễn cơ sở."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 218,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định tỷ lệ huy động, tiếp nhận, huấn luyện lực lượng Dự bị động viên đạt chỉ tiêu bao nhiêu?",
+    "options": {
+      "A": "Đạt 90% chỉ tiêu đề ra.",
+      "B": "Đạt 95% chỉ tiêu đề ra.",
+      "C": "Đạt 100% chỉ tiêu đề ra.",
+      "D": "Phấn đấu vượt chỉ tiêu theo khả năng huy động của từng địa phương."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 219,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu tổ chức diễn tập cho các cấp trong nhiệm kỳ như thế nào?",
+    "options": {
+      "A": "Đạt 90% các cơ quan, đơn vị theo kế hoạch.",
+      "B": "Đạt 95% các đối tượng được quy định diễn tập.",
+      "C": "Tổ chức diễn tập đạt 100% chỉ tiêu ở các cấp.",
+      "D": "Phấn đấu tổ chức diễn tập vượt 5% chỉ tiêu so với nhiệm kỳ trước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "question": "Đại hội Đảng bộ Quân khu lần thứ XI xác định chỉ tiêu thực hiện các nhiệm vụ nghiên cứu khoa học và cải cách hành chính như thế nào?",
+    "options": {
+      "A": "Đạt 90% tại các cơ quan, đơn vị trực thuộc Quân khu.",
+      "B": "Ưu tiên hoàn thành cho các cơ quan tham mưu tác chiến và kỹ thuật.",
+      "C": "Hoàn thành 100% nhiệm vụ nghiên cứu khoa học; ứng dụng khoa học, chuyển đổi số, thực hiện Đề án 06 và cải cách hành chính theo kế hoạch.",
+      "D": "Phấn đấu dẫn đầu toàn quân về chuyển đổi số."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 221,
+    "question": "Theo Luật Phòng thủ dân sự, nội dung nào không thuộc biện pháp khắc phục hậu quả thảm họa, sự cố?",
+    "options": {
+      "A": "Tổ chức tìm kiếm người mất tích, cứu chữa người bị thương.",
+      "B": "Tiêu hủy mầm bệnh, vệ sinh môi trường.",
+      "C": "Tổ chức diễn tập phòng thủ dân sự.",
+      "D": "Sửa chữa, khôi phục công trình hạ tầng thiết yếu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 222,
+    "question": "Theo Luật Phòng thủ dân sự, mục tiêu cao nhất của hoạt động phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Phát triển kinh tế địa phương.",
+      "B": "Bảo vệ tài nguyên thiên nhiên.",
+      "C": "Bảo vệ tính mạng, sức khỏe, tài sản của Nhân dân.",
+      "D": "Mở rộng hợp tác quốc tế."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "question": "Theo Luật Phòng thủ dân sự, lực lượng phòng thủ dân sự gồm?",
+    "options": {
+      "A": "Lực lượng chuyên trách và lực lượng dự bị động viên.",
+      "B": "Lực lượng nòng cốt và lực lượng rộng rãi.",
+      "C": "Lực lượng quân đội và công an.",
+      "D": "Lực lượng chuyên trách và dân quân tự vệ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 224,
+    "question": "Luật Phòng thủ dân sự áp dụng đối với đối tượng nào?",
+    "options": {
+      "A": "Công dân Việt Nam.",
+      "B": "Cơ quan nhà nước, các đoàn thể.",
+      "C": "Tổ chức, cá nhân Việt Nam.",
+      "D": "Tổ chức, cá nhân Việt Nam, tổ chức quốc tế và cá nhân nước ngoài hoạt động trên lãnh thổ Việt Nam."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 225,
+    "question": "Theo Luật Phòng thủ dân sự, nguyên tắc quan trọng trong hoạt động phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Ứng phó là chính.",
+      "B": "Chuẩn bị từ sớm, từ xa, phòng là chính.",
+      "C": "Khắc phục hậu quả là chính.",
+      "D": "Huy động toàn bộ nguồn lực ngay từ đầu."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 226,
+    "question": "Theo Luật Phòng thủ dân sự, phương châm được thực hiện trong phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Ba sẵn sàng.",
+      "B": "Năm chủ động.",
+      "C": "Bốn tại chỗ.",
+      "D": "Ba bám, bốn cùng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Theo Luật Phòng thủ dân sự, cấp độ phòng thủ dân sự gồm?",
+    "options": {
+      "A": "02 cấp độ.",
+      "B": "03 cấp độ.",
+      "C": "04 cấp độ.",
+      "D": "05 cấp độ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "question": "Theo Luật Phòng thủ dân sự, phòng thủ dân sự cấp độ 1 được áp dụng chủ yếu trong phạm vi nào?",
+    "options": {
+      "A": "Cả nước.",
+      "B": "Một số tỉnh.",
+      "C": "Cấp tỉnh.",
+      "D": "Cấp xã."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 229,
+    "question": "Theo Luật Phòng thủ dân sự, phòng thủ dân sự cấp độ 3 được áp dụng khi nào?",
+    "options": {
+      "A": "Sự cố trong phạm vi xã.",
+      "B": "Sự cố trong phạm vi huyện.",
+      "C": "Sự cố vượt khả năng ứng phó của cấp tỉnh.",
+      "D": "Sự cố nhỏ, ít thiệt hại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "question": "Theo Luật Phòng thủ dân sự, hành vi nào sau đây bị nghiêm cấm trong hoạt động phòng thủ dân sự?",
+    "options": {
+      "A": "Tham gia cứu nạn cứu hộ.",
+      "B": "Hỗ trợ người bị thiệt hại.",
+      "C": "Đưa tin sai sự thật về sự cố, thảm họa.",
+      "D": "Cung cấp thông tin cho cơ quan có thẩm quyền."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 231,
+    "question": "Theo Luật Phòng thủ dân sự, Cơ quan thường trực của Ban Chỉ đạo Phòng thủ dân sự quốc gia là cơ quan nào?",
+    "options": {
+      "A": "Bộ Công an.",
+      "B": "Bộ Quốc phòng.",
+      "C": "Bộ Nội vụ.",
+      "D": "Bộ Tài chính."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 232,
+    "question": "Theo Luật Phòng thủ dân sự, Ban Chỉ đạo Phòng thủ dân sự quốc gia có chức năng gì?",
+    "options": {
+      "A": "Quản lý doanh nghiệp nhà nước.",
+      "B": "Tham mưu cho Chính phủ, Thủ tướng Chính phủ về phòng thủ dân sự.",
+      "C": "Tham mưu ban hành luật.",
+      "D": "Xét xử vi phạm hành chính."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 233,
+    "question": "Theo Luật Phòng thủ dân sự, Cơ quan thường trực của Ban Chỉ huy phòng thủ dân sự địa phương là ai?",
+    "options": {
+      "A": "Công an cùng cấp.",
+      "B": "Văn phòng UBND.",
+      "C": "Cơ quan quân sự cùng cấp.",
+      "D": "Sở Nội vụ."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 234,
+    "question": "Theo Luật Phòng thủ dân sự, lực lượng nòng cốt của phòng thủ dân sự gồm?",
+    "options": {
+      "A": "Công chức và viên chức.",
+      "B": "Dân quân tự vệ và dân phòng.",
+      "C": "Thanh niên xung phong.",
+      "D": "Người lao động trong doanh nghiệp."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "question": "Theo Luật Phòng thủ dân sự, một trong các quyền của cá nhân trong hoạt động phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Từ chối chấp hành huy động.",
+      "B": "Được tiếp cận thông tin về phòng thủ dân sự theo quy định của pháp luật.",
+      "C": "Tự quyết định cấp độ phòng thủ dân sự.",
+      "D": "Ban bố tình trạng khẩn cấp."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Theo Luật Phòng thủ dân sự, một trong các nghĩa vụ của cá nhân là gì?",
+    "options": {
+      "A": "Không cần tham gia diễn tập",
+      "B": "Chỉ tham gia khi tự nguyện",
+      "C": "Tham gia đào tạo, huấn luyện, diễn tập khi có yêu cầu của cơ quan có thẩm quyền",
+      "D": "Chỉ tham gia khi có thù lao"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 237,
+    "question": "Theo Luật Phòng thủ dân sự, tổ chức, cá nhân nước ngoài tham gia cứu trợ tại Việt Nam phải làm gì?",
+    "options": {
+      "A": "Đăng ký hoạt động với cơ quan có thẩm quyền của Việt Nam.",
+      "B": "Xin phép chính quyền cấp xã.",
+      "C": "Xin phép Bộ Ngoại giao nước họ.",
+      "D": "Được bảo lãnh bởi doanh nghiệp Việt Nam."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "question": "Theo Luật Phòng thủ dân sự, chính quyền cấp tỉnh được áp dụng biện pháp nào sau đây khi xảy ra sự cố, thảm họa?",
+    "options": {
+      "A": "Giãn cách xã hội phù hợp với mức độ sự cố.",
+      "B": "Ban hành luật mới.",
+      "C": "Thành lập bộ mới.",
+      "D": "Đình chỉ hoạt động của Quốc hội."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "question": "Theo Luật Phòng thủ dân sự, một trong những chính sách của Nhà nước về phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Hạn chế nghiên cứu khoa học.",
+      "B": "Khuyến khích, tạo điều kiện ủng hộ vật chất, tài chính, tinh thần cho hoạt động phòng thủ dân sự trên nguyên tắc tự nguyện.",
+      "C": "Cấm huy động nguồn lực xã hội.",
+      "D": "Giảm đầu tư trang thiết bị phòng thủ dân sự."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 240,
+    "question": "Theo Luật Phòng thủ dân sự, hoạt động phòng ngừa sự cố, thảm họa bao gồm nội dung nào sau đây?",
+    "options": {
+      "A": "Chỉ xây dựng công trình phòng thủ dân sự.",
+      "B": "Chỉ tổ chức diễn tập phòng thủ dân sự.",
+      "C": "Chỉ xây dựng kế hoạch phòng thủ dân sự.",
+      "D": "Xây dựng chiến lược, kế hoạch, công trình, trang thiết bị và tổ chức huấn luyện, diễn tập."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 241,
+    "question": "Theo Luật Phòng thủ dân sự, một trong những căn cứ xác định cấp độ phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Quy mô ngân sách địa phương.",
+      "B": "Số lượng doanh nghiệp trên địa bàn.",
+      "C": "Khả năng ứng phó, khắc phục hậu quả của chính quyền địa phương và lực lượng phòng thủ dân sự.",
+      "D": "Mật độ dân số khu vực trung tâm đô thị."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "question": "Theo Luật Phòng thủ dân sự, hành vi nào bị nghiêm cấm trong hoạt động phòng thủ dân sự?",
+    "options": {
+      "A": "Chủ động báo tin về sự cố, thảm họa.",
+      "B": "Hỗ trợ tìm kiếm cứu nạn.",
+      "C": "Tham gia diễn tập phòng thủ dân sự.",
+      "D": "Sử dụng trang thiết bị phòng thủ dân sự chuyên dụng không đúng mục đích."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 243,
+    "question": "Theo Luật Phòng thủ dân sự, khi tham gia hoạt động phòng thủ dân sự theo quyết định huy động của người có thẩm quyền, cá nhân được hưởng quyền nào?",
+    "options": {
+      "A": "Được miễn mọi nghĩa vụ công dân.",
+      "B": "Được hưởng tiền công lao động theo quy định.",
+      "C": "Được tự quyết định nhiệm vụ thực hiện.",
+      "D": "Được miễn chấp hành chỉ huy điều hành."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "question": "Theo Luật Phòng thủ dân sự, cơ quan, tổ chức có quyền nào sau đây?",
+    "options": {
+      "A": "Được tiếp cận thông tin về phòng thủ dân sự theo quy định của pháp luật.",
+      "B": "Tự ban bố cấp độ phòng thủ dân sự.",
+      "C": "Tự huy động lực lượng xã hội.",
+      "D": "Tự áp dụng tình trạng khẩn cấp."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "question": "Theo Luật Phòng thủ dân sự, một trong những nghĩa vụ của cơ quan, tổ chức là gì?",
+    "options": {
+      "A": "Tự quyết định việc huy động tài sản của người dân.",
+      "B": "Xây dựng và tổ chức thực hiện phương án phòng ngừa, ứng phó, khắc phục hậu quả sự cố, thảm họa.",
+      "C": "Ban hành văn bản quy phạm pháp luật về phòng thủ dân sự.",
+      "D": "Quyết định thành lập lực lượng chuyên trách địa phương."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "question": "Theo Luật Phòng thủ dân sự, lực lượng rộng rãi trong phòng thủ dân sự được hình thành từ đâu?",
+    "options": {
+      "A": "Toàn dân tham gia.",
+      "B": "Chỉ lực lượng dân quân tự vệ.",
+      "C": "Chỉ lực lượng công an xã.",
+      "D": "Chỉ lực lượng dự bị động viên."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "question": "Theo Luật Phòng thủ dân sự, Nhà nước khuyến khích hoạt động nào sau đây?",
+    "options": {
+      "A": "Huy động bắt buộc mọi nguồn lực xã hội.",
+      "B": "Thu phí đối với hoạt động cứu trợ.",
+      "C": "Ủng hộ vật chất, tài chính, tinh thần cho hoạt động phòng thủ dân sự trên nguyên tắc tự nguyện.",
+      "D": "Xã hội hóa toàn bộ hoạt động phòng thủ dân sự."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 248,
+    "question": "Theo Luật Phòng thủ dân sự, nguồn lực thi hành Luật được bảo đảm từ đâu?",
+    "options": {
+      "A": "Ngân sách trung ương.",
+      "B": "Ngân sách địa phương.",
+      "C": "Các nguồn kinh phí hợp pháp khác.",
+      "D": "Tất cả các nguồn đã nêu."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 249,
+    "question": "Theo Luật Phòng thủ dân sự, Bộ trưởng Bộ Quốc phòng có trách nhiệm nào sau đây?",
+    "options": {
+      "A": "Giúp Thủ tướng Chính phủ theo dõi, hướng dẫn, kiểm tra việc triển khai thực hiện Luật.",
+      "B": "Ban hành luật và nghị quyết về phòng thủ dân sự.",
+      "C": "Quyết định ngân sách địa phương cho phòng thủ dân sự.",
+      "D": "Thành lập các bộ, ngành liên quan."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 250,
+    "question": "Theo Luật Phòng thủ dân sự, phương châm xuyên suốt trong hoạt động phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Ứng phó nhanh, khắc phục gọn.",
+      "B": "Chủ động phòng ngừa, xử lý từ cơ sở.",
+      "C": "Chuẩn bị từ sớm, từ xa, phòng là chính.",
+      "D": "Huy động tập trung, xử lý thống nhất."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 251,
+    "question": "Theo Luật Phòng thủ dân sự, đâu là các nguyên tắc trong hoạt động phòng thủ dân sự?",
+    "options": {
+      "A": "Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.",
+      "B": "Được tổ chức thống nhất từ Trung ương đến địa phương có sự phân công, phân cấp phối hợp chặt chẽ giữ các cơ quan, tổ chức.",
+      "C": "Kết hợp phòng thủ dân sự với bảo đảm quốc phòng, an ninh, phát triển kinh tế-xã hội, bảo vệ tính mạng, sức khỏe, tài sản của nhân dân.",
+      "D": "Tất cả các phương án đã nêu."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 252,
+    "question": "Theo Luật Phòng thủ dân sự, lực lượng phòng thủ dân sự bao gồm những thành phần nào?",
+    "options": {
+      "A": "Lực lượng thường trực và dự bị.",
+      "B": "Lực lượng chuyên trách và bán chuyên trách.",
+      "C": "Lực lượng nòng cốt và lực lượng rộng rãi.",
+      "D": "Lực lượng vũ trang và thanh niên xung phong."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 253,
+    "question": "Theo Luật Phòng thủ dân sự, cơ quan chỉ đạo cao nhất về phòng thủ dân sự ở cấp quốc gia là cơ quan nào?",
+    "options": {
+      "A": "Ủy ban Quốc gia Ứng phó sự cố, thiên tai và Tìm kiếm cứu nạn.",
+      "B": "Ban Chỉ đạo Phòng thủ dân sự quốc gia.",
+      "C": "Bộ Quốc phòng.",
+      "D": "Bộ Nông nghiệp và Phát triển nông thôn."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "question": "Theo Luật Phòng thủ dân sự, nguyên tắc hợp tác quốc tế trong phòng thủ dân sự là gì?",
+    "options": {
+      "A": "Bảo đảm tôn trọng độc lập, chủ quyền, bình đẳng, cùng có lợi, tuân thủ pháp luật Việt Nam.",
+      "B": "Tạo điều kiện cho tổ chức, cá nhân trong và ngoài nước, người Việt Nam ở nước ngoài, tổ chức quốc tế hợp tác trong phòng thủ dân sự.",
+      "C": "Mở rộng phát triển đào tạo, ứng dụng khoa học chuyển giao công nghệ, phối hợp tìm kiếm cứu nạn, đầu tư xây dựng công trình phòng thủ dân sự.",
+      "D": "Tất cả các nội dung đã nêu."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 255,
+    "question": "Theo Luật Phòng thủ dân sự, quỹ phòng thủ dân sự là quỹ tài chính có đặc điểm gì?",
+    "options": {
+      "A": "Quỹ tài chính nhà nước ngoài ngân sách.",
+      "B": "Quỹ nằm trong ngân sách trung ương.",
+      "C": "Quỹ do Bộ Quốc phòng quản lý để trả lương.",
+      "D": "Quỹ tư nhân do các doanh nghiệp tự thành lập."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "question": "Theo Luật Phòng thủ dân sự, nguồn tài chính nào không dùng để hình thành Quỹ phòng thủ dân sự?",
+    "options": {
+      "A": "Đóng góp tự nguyện của tổ chức, cá nhân.",
+      "B": "Nguồn điều tiết từ các quỹ tài chính nhà nước ngoài ngân sách có liên quan.",
+      "C": "Thuế thu nhập cá nhân của người lao động.",
+      "D": "Viện trợ quốc tế."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 257,
+    "question": "Theo Luật Phòng thủ dân sự, một trong những biện pháp được áp dụng trong phòng thủ dân sự Cấp độ 1 là gì?",
+    "options": {
+      "A": "Sơ tán người, tài sản ra khỏi khu vực nguy hiểm.",
+      "B": "Thiết lập tình trạng thiết quân luật.",
+      "C": "Tổng động viên toàn quốc.",
+      "D": "Đình chỉ hoạt động của tất cả các cơ quan nhà nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 258,
+    "question": "Theo Luật Phòng thủ dân sự, người làm nhiệm vụ phòng thủ dân sự trực đêm (từ 22h đến 6h sáng hôm sau) được hưởng chế độ đặc thù gì?",
+    "options": {
+      "A": "Được tặng Bằng khen ngay lập tức.",
+      "B": "Được thăng cấp bậc hàm trước thời hạn.",
+      "C": "Được hưởng tiền ăn thêm.",
+      "D": "Được nghỉ bù 1 tháng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 259,
+    "question": "Theo Luật Phòng thủ dân sự, công dân có nghĩa vụ gì trong phòng thủ dân sự?",
+    "options": {
+      "A": "Tuân thủ sự hướng dẫn, chỉ đạo của cơ quan có thẩm quyền.",
+      "B": "Tham gia các hoạt động phòng thủ dân sự khi được huy động.",
+      "C": "Bảo vệ công trình phòng thủ dân sự.",
+      "D": "Tất cả các ý trên."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 260,
+    "question": "Theo Luật Phòng thủ dân sự, đâu không phải là biện pháp phòng thủ dân sự được áp dụng trong tình trạng chiến tranh?",
+    "options": {
+      "A": "Triển khai hệ thống đài quan sát, thông báo, báo động và cảnh báo.",
+      "B": "Tổ chức sơ tán người, tài sản.",
+      "C": "Huấn luyện cho lực lượng chuyên trách.",
+      "D": "Dự trữ lương thực, thực phẩm, thuốc chữa bệnh, nước uống."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 261,
+    "question": "Việt Nam chính thức cử lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc từ thời điểm nào?",
+    "options": {
+      "A": "Tháng 5/2013.",
+      "B": "Tháng 6/2013.",
+      "C": "Tháng 6/2014.",
+      "D": "Tháng 9/2015."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 262,
+    "question": "Đến nay, Việt Nam đã cử gần bao nhiêu lượt sĩ quan, quân nhân chuyên nghiệp tham gia thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc?",
+    "options": {
+      "A": "Gần 500 lượt.",
+      "B": "Gần 700 lượt.",
+      "C": "Gần 900 lượt.",
+      "D": "Gần 1.100 lượt."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 263,
+    "question": "Một điểm mới quan trọng của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc năm 2025 so với Nghị quyết số 130/2020/QH14 của Quốc hội là gì?",
+    "options": {
+      "A": "Bỏ quy định về hợp tác quốc tế.",
+      "B": "Bổ sung đối tượng dân sự tham gia lực lượng gìn giữ hòa bình Liên hợp quốc.",
+      "C": "Thu hẹp đối tượng tham gia.",
+      "D": "Chỉ cho phép lực lượng quân đội tham gia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, hình thức tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm những hình thức nào?",
+    "options": {
+      "A": "Quân sự và dân sự.",
+      "B": "Cá nhân và đơn vị.",
+      "C": "Trong nước và ngoài nước.",
+      "D": "Thường xuyên và đột xuất."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những chức năng của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc là gì?",
+    "options": {
+      "A": "Quản lý lãnh thổ nước sở tại.",
+      "B": "Duy trì, bảo vệ hòa bình khu vực và thế giới.",
+      "C": "Thực hiện nhiệm vụ tác chiến tiến công.",
+      "D": "Bảo vệ lợi ích kinh tế quốc gia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm?",
+    "options": {
+      "A": "Lực lượng quân sự và lực lượng công an.",
+      "B": "Lực lượng vũ trang và lực lượng dân sự.",
+      "C": "Lực lượng chuyên trách và lực lượng dự bị.",
+      "D": "Lực lượng thường trực và lực lượng huy động."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 267,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc đã mở rộng đối tượng tham gia lực lượng gìn giữ hòa bình Liên hợp quốc bằng việc bổ sung nhóm đối tượng nào?",
+    "options": {
+      "A": "Cán bộ, công chức, viên chức.",
+      "B": "Học sinh, sinh viên.",
+      "C": "Người lao động trong doanh nghiệp.",
+      "D": "Người lao động tự do."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, cơ quan chủ trì, phối hợp với các bộ, ngành, địa phương chịu trách nhiệm trước Chính phủ về quản lý nhà nước đối với hoạt động này là.",
+    "options": {
+      "A": "Bộ Ngoại giao.",
+      "B": "Bộ Nội vụ.",
+      "C": "Bộ Quốc phòng.",
+      "D": "Bộ Công an."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 269,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, cơ quan nào quyết định việc cử, điều chỉnh, gia hạn nhiệm kỳ công tác và rút lực lượng vũ trang tham gia gìn giữ hòa bình Liên hợp quốc?",
+    "options": {
+      "A": "Chính phủ.",
+      "B": "Thủ tướng Chính phủ.",
+      "C": "Bộ Quốc phòng.",
+      "D": "Hội đồng Quốc phòng và An ninh."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 270,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, Thủ tướng Chính phủ quyết định việc cử, điều chỉnh, gia hạn nhiệm kỳ công tác và rút đối tượng nào?",
+    "options": {
+      "A": "Toàn bộ lực lượng tham gia.",
+      "B": "Chỉ lực lượng quân đội.",
+      "C": "Chỉ lực lượng công an.",
+      "D": "Lực lượng dân sự."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 271,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, trong trường hợp khẩn cấp, Bộ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Công an có thẩm quyền nào?",
+    "options": {
+      "A": "Quyết định giải thể phái bộ.",
+      "B": "Quyết định rút lực lượng thuộc quyền về nước.",
+      "C": "Quyết định thành lập phái bộ mới.",
+      "D": "Quyết định thay đổi nhiệm vụ của Liên hợp quốc."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 272,
+    "question": "Theo Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, khi có nguy cơ mất an toàn, lực lượng Việt Nam có trách nhiệm báo cáo cấp có thẩm quyền để quyết định việc gì?",
+    "options": {
+      "A": "Gia hạn nhiệm kỳ.",
+      "B": "Từ chối nhiệm vụ.",
+      "C": "Thay đổi phái bộ.",
+      "D": "Tằn quân số."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 273,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những nội dung huấn luyện, đào tạo đối với lực lượng tham gia gìn giữ hòa bình Liên hợp quốc là gì?",
+    "options": {
+      "A": "Huấn luyện tác chiến chiến lược.",
+      "B": "Ngoại ngữ, bình đẳng giới và các kỹ năng khác.",
+      "C": "Quản lý hành chính nhà nước.",
+      "D": "Điều tra hình sự."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 274,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chính sách của Nhà nước đối với nữ giới tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được quy định như thế nào?",
+    "options": {
+      "A": "Khuyến khích và ưu tiên nữ giới tham gia.",
+      "B": "Chỉ tuyển nữ giới vào lực lượng dân sự.",
+      "C": "Hạn chế nữ giới tham gia lực lượng.",
+      "D": "Không quy định chính sách đối với nữ giới."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những yêu cầu quan trọng khi Việt Nam tham gia lực lượng gìn giữ hòa bình Liên hợp quốc là gì?",
+    "options": {
+      "A": "Bảo đảm lợi ích kinh tế của doanh nghiệp Việt Nam ở nước ngoài.",
+      "B": "Phù hợp với Hiến chương Liên hợp quốc, pháp luật quốc tế, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.",
+      "C": "Ưu tiên triển khai lực lượng quân sự trước lực lượng dân sự.",
+      "D": "Chỉ tham gia các phái bộ tại khu vực châu Á."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 276,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc tham gia lực lượng gìn giữ hòa bình Liên hợp quốc góp phần trực tiếp thực hiện đường lối đối ngoại nào của Đảng và Nhà nước ta?",
+    "options": {
+      "A": "Đối ngoại kinh tế là trọng tâm.",
+      "B": "Hội nhập kinh tế quốc tế toàn diện.",
+      "C": "Độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.",
+      "D": "Phát triển công nghiệp quốc phòng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 277,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc cử lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc phải bảo đảm yêu cầu nào?",
+    "options": {
+      "A": "Không làm ảnh hưởng đến khả năng sẵn sàng chiến đấu và thực hiện nhiệm vụ của cơ quan, đơn vị.",
+      "B": "Chỉ lựa chọn cán bộ giữ chức vụ chỉ huy.",
+      "C": "Chỉ cử lực lượng quân đội tham gia.",
+      "D": "Ưu tiên số lượng hơn chất lượng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, đối với đơn vị tham gia hoạt động gìn giữ hòa bình Liên hợp quốc, việc tổ chức lực lượng phải đáp ứng yêu cầu gì?",
+    "options": {
+      "A": "Theo nhu cầu của nước sở tại.",
+      "B": "Theo đề xuất của Liên hợp quốc và khả năng bảo đảm của Việt Nam.",
+      "C": "Do Bộ Ngoại giao quyết định.",
+      "D": "Theo yêu cầu của các tổ chức quốc tế liên quan."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "question": "Một trong những mục tiêu quan trọng của việc ban hành Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc là gì?",
+    "options": {
+      "A": "Mở rộng hoạt động kinh tế đối ngoại.",
+      "B": "Tăng cường đầu tư quốc phòng ở nước ngoài.",
+      "C": "Hoàn thiện cơ sở pháp lý cho việc tham gia lực lượng gìn giữ hòa bình Liên hợp quốc.",
+      "D": "Xây dựng lực lượng dự bị động viên."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 280,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, trong quản lý nhà nước về tham gia hoạt động gìn giữ hòa bình Liên hợp quốc, Bộ Quốc phòng giữ vai trò gì?",
+    "options": {
+      "A": "Cơ quan phối hợp, triển khai thực hiện các nhiệm vụ được giao.",
+      "B": "Cơ quan tư vấn độc lập.",
+      "C": "Cơ quan chủ trì giúp Chính phủ thực hiện quản lý nhà nước.",
+      "D": "Cơ quan thanh tra chuyên ngành."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 281,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những nhiệm vụ của lực lượng Việt Nam tại phái bộ gìn giữ hòa bình Liên hợp quốc là gì?",
+    "options": {
+      "A": "Tham gia thay đổi thể chế chính trị nước sở tại.",
+      "B": "Hỗ trợ thực hiện nhiệm vụ theo sự phân công của Liên hợp quốc.",
+      "C": "Tham gia hoạt động quân sự tiến công độc lập.",
+      "D": "Thực hiện chức năng quản lý hành chính nhà nước."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "question": "Theo Luật tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc sử dụng vũ khí của lực lượng Việt Nam tại phái bộ phải tuân thủ như thế nào?",
+    "options": {
+      "A": "Quy định của nước sở tại, trường hợp đặc biệt xin ý kiến Liên hiệp quốc",
+      "B": "Theo quy định của Liên hợp quốc.",
+      "C": "Quy định của Liên hợp quốc và thỏa thuận giữa Việt Nam với Liên hợp quốc.",
+      "D": "Quy định của cơ quan chỉ huy phái bộ và nước sở tại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 283,
+    "question": "Một trong những điểm mới của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc năm 2025 là gì?",
+    "options": {
+      "A": "Bổ sung quy định về lực lượng dân sự tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.",
+      "B": "Bỏ hình thức tham gia theo đơn vị.",
+      "C": "Chỉ cho phép sĩ quan quân đội tham gia.",
+      "D": "Hủy bỏ cơ chế hợp tác quốc tế."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, nội dung đào tạo, huấn luyện lực lượng tham gia gìn giữ hòa bình Liên hợp quốc phải bảo đảm như thế nào?",
+    "options": {
+      "A": "Chỉ tập trung vào chuyên môn quân sự.",
+      "B": "Chỉ tập trung vào ngoại ngữ.",
+      "C": "Toàn diện về chuyên môn, ngoại ngữ, pháp luật quốc tế, kỹ năng thực hiện nhiệm vụ.",
+      "D": "Chỉ tập trung vào kỹ năng sinh tồn."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 285,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chức năng của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình được xác định chủ yếu là gì?",
+    "options": {
+      "A": "Bảo vệ lợi ích kinh tế.",
+      "B": "Duy trì, bảo vệ hòa bình.",
+      "C": "Thực hiện nhiệm vụ đối ngoại.",
+      "D": "Hỗ trợ hoạt động nhân đạo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, trong trường hợp cần thiết phải rút lực lượng về nước trước thời hạn, cơ sở xem xét chủ yếu là gì?",
+    "options": {
+      "A": "Điều kiện khí hậu tại địa bàn phái bộ.",
+      "B": "Yêu cầu cá nhân của thành viên tham gia.",
+      "C": "Tình hình nhiệm vụ, an ninh, an toàn hoặc yêu cầu cấp bách liên quan đến lợi ích quốc gia.",
+      "D": "Đề nghị của nước sở tại."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 287,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, hoạt động hợp tác quốc tế trong lĩnh vực gìn giữ hòa bình Liên hợp quốc nhằm mục đích gì?",
+    "options": {
+      "A": "Tăng cường năng lực tham gia hoạt động gìn giữ hòa bình Liên hợp quốc của Việt Nam.",
+      "B": "Mở rộng hoạt động xuất khẩu quốc phòng.",
+      "C": "Hình thành liên minh quân sự.",
+      "D": "Tăng cường cạnh tranh quốc tế."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những hình thức hợp tác quốc tế về gìn giữ hòa bình là gì?",
+    "options": {
+      "A": "Đào tạo, tập huấn và trao đổi kinh nghiệm.",
+      "B": "Chuyển giao quyền chỉ huy lực lượng.",
+      "C": "Liên kết quân sự thường trực.",
+      "D": "Thành lập lực lượng vũ trang chung."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, chế độ chính sách đối với lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được bảo đảm trên cơ sở nào”",
+    "options": {
+      "A": "Theo quy định của Liên hợp quốc và một số quy định khác của Việt Nam.",
+      "B": "Theo quy định của pháp luật Việt Nam.",
+      "C": "Pháp luật Việt Nam, quy định của Liên hợp quốc và các thỏa thuận có liên quan.",
+      "D": "Quy định của nước sở tại và Việt Nam"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 290,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, một trong những ý nghĩa quan trọng của việc Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc là gì?",
+    "options": {
+      "A": "Khẳng định vai trò, vị thế và trách nhiệm của Việt Nam đối với cộng đồng quốc tế.",
+      "B": "Mở rộng lãnh thổ quốc gia, góp phần bảo vệ chủ quyền Tổ quốc.",
+      "C": "Hình thành liên minh quân sự khu vực, bảo vệ quốc gia.",
+      "D": "Thực hiện nhiệm vụ kinh tế đối ngoại."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 291,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, việc tuyển chọn lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc phải căn cứ vào đâu?",
+    "options": {
+      "A": "Nhu cầu cá nhân của người đăng ký.",
+      "B": "Tiêu chuẩn, điều kiện, yêu cầu vị trí việc làm và nhiệm vụ được giao.",
+      "C": "Chức vụ hiện giữ trong đơn vị.",
+      "D": "Thâm niên công tác."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 292,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, một trong những điểm mới quan trọng của Luật so với Nghị quyết số 130/2020/QH14 là gì?",
+    "options": {
+      "A": "Bãi bỏ lực lượng dân sự.",
+      "B": "Bổ sung hành vi bị nghiêm cấm.",
+      "C": "Bỏ quy định về hợp tác quốc tế.",
+      "D": "Thu hẹp lĩnh vực tham gia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 293,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng dân sự tham gia hoạt động gìn giữ hòa bình Liên hợp quốc có thể được tuyển chọn từ đâu?",
+    "options": {
+      "A": "Các bộ, ngành, địa phương theo yêu cầu nhiệm vụ.",
+      "B": "Từ cơ quan ngoại giao và các cơ quan liên quan khác.",
+      "C": "Từ cơ quan tư pháp.",
+      "D": "Chỉ từ đơn vị sự nghiệp công lập."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 294,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, một trong những yêu cầu đối với công tác quản lý lực lượng Việt Nam tại phái bộ là gì?",
+    "options": {
+      "A": "Bảo đảm chấp hành nghiêm pháp luật Việt Nam và quy định của Liên hợp quốc.",
+      "B": "Chấp hành quy định của Liên hợp quốc và nước sở tại.",
+      "C": "Chấp hành pháp luật nước sở tại và Liên hiệp quốc.",
+      "D": "Chấp hành quy định của cơ quan chủ quản."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 295,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, nội dung nào sau đây không thuộc lĩnh vực tham gia được nêu trong Luật?",
+    "options": {
+      "A": "Quan sát và giám sát bầu cử.",
+      "B": "Hoạch định chính sách.",
+      "C": "Phát triển kinh tế đối ngoại.",
+      "D": "Thông tin, liên lạc, truyền thông."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, khi thực hiện nhiệm vụ tại phái bộ, thành viên lực lượng Việt Nam phải đề cao yếu tố nào?",
+    "options": {
+      "A": "Lợi ích cá nhân.",
+      "B": "Danh dự, uy tín quốc gia và hình ảnh đất nước, con người Việt Nam.",
+      "C": "Thành tích cá nhân.",
+      "D": "Quyền lợi vật chất."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình được chia như thế nào?",
+    "options": {
+      "A": "Lực lượng quân sự và cảnh sát.",
+      "B": "Lực lượng trong nước và quốc tế.",
+      "C": "Lực lượng vũ trang và dân sự.",
+      "D": "Lực lượng thường trực và dự bị."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 298,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc gồm những lực lượng nào?",
+    "options": {
+      "A": "Chỉ gồm lực lượng vũ trang.",
+      "B": "Chỉ gồm lực lượng dân sự.",
+      "C": "Lực lượng quân sự và lực lượng quốc tế.",
+      "D": "Lực lượng vũ trang và lực lượng dân sự."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 299,
+    "question": "Theo Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc, điểm nào sau đây thể hiện rõ nhất sự mở rộng đối tượng tham gia của Luật so với quy định trước đây?",
+    "options": {
+      "A": "Bổ sung lực lượng dân sự.",
+      "B": "Tăng số lượng sĩ quan Quân đội.",
+      "C": "Mở rộng quyền của phái bộ.",
+      "D": "Tăng lĩnh vực hoạt động quân sự."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "question": "Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, nội dung nào sau đây thuộc quyền hạn của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa binh?",
+    "options": {
+      "A": "Tự quyết định địa bàn.",
+      "B": "Tự quyết định nhiệm kỳ.",
+      "C": "Sử dụng vũ khí theo quy định.",
+      "D": "Tự quyết định quy mô lực lượng."
+    },
+    "answer": "C"
+  }
 ]
